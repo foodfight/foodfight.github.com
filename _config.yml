@@ -49,7 +49,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
-# NOTE: Am adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my deafult custom/asides/home.html template
+# NOTE: Am adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template
 # blog_index_asides: [custom/asides/home.html, asides/recent_posts.html, asides/twitter.html]
 # post_asides:
 # page_asides:
