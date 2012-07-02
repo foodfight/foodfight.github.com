@@ -4,3 +4,19 @@ div#content, div#main {background:#fff;}
 .floatright {float:right; margin:0 0 1em 1em;}
 .floatleft {float:left; margin:0 1em 1em 0;}
 .clearboth {clear:both;}
+
+aside.sidebar img {
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+-ms-border-radius: 0;
+-o-border-radius: 0;
+border-radius: 0;
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;
+// -webkit-box-sizing: border-box;
+// -moz-box-sizing: border-box;
+// box-sizing: border-box;
+border: none;
+}
+aside.sidebar li {border:0;}

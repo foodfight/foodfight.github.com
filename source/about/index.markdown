@@ -2,7 +2,7 @@
 layout: page
 title: "About the Show"
 comments: false
-sharing: true
+sharing: false
 footer: true
 sidebar: false
 ---
@@ -17,7 +17,7 @@ Food Fight is hosted by Bryan Berry, Matt Ray and Nathen Harvey.
 
 **[Bryan Berry](https://plus.google.com/106664679333642993534/posts?hl=en)** is an IT consultant living and working in Rome, Italy. In a former life he worked on the One Laptop Per Child project in Nepal. He loves *nix, ruby, python, file systems, and more.
 
-[Twitter](https://twitter.com/#!/bryanwb), IRC, [Github](https://github.com/bryanwb): **bryanwb**  
+[Twitter](https://twitter.com/#!/bryanwb), <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/bryanwb): **bryanwb**  
 Blog: [Devops Anywhere](http://devopsanywhere.blogspot.com/) 
 
 <p class="clearboth">
@@ -26,7 +26,7 @@ Blog: [Devops Anywhere](http://devopsanywhere.blogspot.com/)
 
 **[Matt Ray](https://plus.google.com/u/0/116714115351408264605/posts)** is a Technical Evangelist at [Opscode][opscode], the creators of Chef.
 
-[Twitter](https://twitter.com/#!/mattray), IRC, [Github](https://github.com/mattray): **mattray**  
+[Twitter](https://twitter.com/#!/mattray), <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/mattray): **mattray**  
 Blog: [The Shining Path of Least Resistance](http://www.leastresistance.net/)
 
 <p class="clearboth">
@@ -35,7 +35,7 @@ Blog: [The Shining Path of Least Resistance](http://www.leastresistance.net/)
 
 **Nathen Harvey** is active in the technical community contributing to open source and co-organizing a number of meetups.
 
-[Twitter](https://twitter.com/#!/nathenharvey), IRC, [Github](https://github.com/nathenharvey): **nathenharvey**  
+[Twitter](https://twitter.com/#!/nathenharvey), <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/nathenharvey): **nathenharvey**  
 Blog: [Nathen Harvey](http://nathenharvey.com/)
 
 [opscodewiki]: http://wiki.opscode.com/  
