@@ -1,11 +1,11 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
-div#content, div#main {background:#fff;}
+div#content {background:#fff;}
 .floatright {float:right; margin:0 0 1em 1em;}
 .floatleft {float:left; margin:0 1em 1em 0;}
 .clearboth {clear:both;}
 
-aside.sidebar img {
+aside.sidebar img, aside.sidebar li {
 -webkit-border-radius: 0;
 -moz-border-radius: 0;
 -ms-border-radius: 0;
@@ -17,6 +17,5 @@ box-shadow: none;
 // -webkit-box-sizing: border-box;
 // -moz-box-sizing: border-box;
 // box-sizing: border-box;
-border: none;
+border: 0;
 }
-aside.sidebar li {border:0;}
