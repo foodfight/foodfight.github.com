@@ -29,6 +29,17 @@ Blog: [Devops Anywhere](http://devopsanywhere.blogspot.com/)
 [Twitter](https://twitter.com/#!/mattray), <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/mattray): **mattray**  
 Blog: [The Shining Path of Least Resistance](http://www.leastresistance.net/)
 
+
+
+<p class="clearboth">
+    <img class="floatleft" src="/images/lusis.jpg" alt="A photograph of John E. Vincent." />
+</p>
+
+**John E. Vincent(Lusis)**  John E. Vincent is a 17-year veteran of the IT industry and a frequent contributor to the DevOps discussion. He's done everything from working the help desk to building out data centers. He got officially involved with DevOps in early 2010 and fancies himself a developer in his spare time. John live with his wife and two sons in Roswell, Georgia. His code lives on Github. </p>
+[Twitter](https://twitter.com/#!/lusis) <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/lusis): **lusis**
+Blog: [http://blog.lusis.org](http://blog.lusis.org)
+
+
 <p class="clearboth">
     <img class="floatleft" src="/images/nathen.jpg" alt="A photograph of Nathen Harvey." />
 </p>
