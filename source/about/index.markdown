@@ -44,7 +44,7 @@ Blog: [http://blog.lusis.org](http://blog.lusis.org)
     <img class="floatleft" src="/images/nathen.jpg" alt="A photograph of Nathen Harvey." />
 </p>
 
-**Nathen Harvey** is active in the technical community contributing to open source and co-organizing a number of meetups.
+**Nathen Harvey** is active in the technical community contributing to open source and co-organizing [DevOpsDC](http://www.meetup.com/DevOpsDC/) and the [Washington DC MongoDB Users' Group](http://www.meetup.com/Washington-DC-MongoDB-Users-Group/). When not working or hosting meetups, Nathen enjoys going to concerts, drinking craft beer, and over sharing on sites like [twitter](http://twitter.com/nathenharvey), [untappd](http://untappd.com/user/nathenharvey), and [foursquare](https://foursquare.com/nathenharvey).
 
 [Twitter](https://twitter.com/#!/nathenharvey), <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/nathenharvey): **nathenharvey**  
 Blog: [Nathen Harvey](http://nathenharvey.com/)
