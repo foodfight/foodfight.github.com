@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Roll Your Own PAAS: Mark Imbriaco and Alex Howells"
+title: "Roll Your Own PAAS! Mark Imbriaco and Alex Howells"
 date: 2012-07-03 15:39
 comments: true
-categories: 
+categories: devops
 ---
 
 
