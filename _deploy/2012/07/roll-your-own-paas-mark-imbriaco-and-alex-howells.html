@@ -1,0 +1,446 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Roll Your Own PAAS! Mark Imbriaco and Alex Howells - Food Fight</title>
+  <meta name="author" content="Bryan Berry - Matt Ray - Nathen Harvey">
+
+  
+  <meta name="description" content="Show Date: Tuesday, 3 July 2012 Panel
+What&#8217;s Cookin&#8217; In the News
+Cookbook News Picks
+Download Panel Mark Imbriaco github, twitter
+Alex &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://foodfight.github.com/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Food Fight" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32494051-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+    <a href="/"><img src="/images/foodfight_header.png" width="467" height="150" alt="Food Fight"></a>
+  
+    <h2>The Podcast where DevOps chefs do battle</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:foodfight.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Roll Your Own PAAS! Mark Imbriaco and Alex Howells</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-03T15:39:00-04:00" pubdate data-updated="true">Jul 3<span>rd</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Show Date:  Tuesday, 3 July 2012</p>
+
+<ul>
+<li><a href="#panel">Panel</a></li>
+<li>What&#8217;s Cookin&#8217;
+
+<ul>
+<li><a href="#news">In the News</a></li>
+<li><a href="#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/ffs19_3.mp3">Download</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Mark Imbriaco <a href="https://github.com/imbriaco">github</a>, <a href="https://twitter.com/#!/markimbriaco/">twitter</a></li>
+<li>Alex Howells <a href="https://github.com/nixgeek">github</a>, <a href="https://twitter.com/#!/nixgeek">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><p>Oh, no!  I have a node that hasn&#8217;t checked in with Chef server for days!  Why didn&#8217;t I know about that?  I&#8217;ll have to start using <a href="http://rubygems.org/gems/knife-ohno">knife ohno</a>, a knife plugin and now a ruby gem from <a href="http://twitter.com/lnxchk">Mandi Walls</a>.  <code>gem install knife-ohno</code> then find any node whose last check-in is more than six hours old using <code>knife ohno 6</code></p></li>
+<li><p><a href="http://techblog.netflix.com/2012/06/asgard-web-based-cloud-management-and.html">Asgard: Web-based Cloud Management and Deployments</a>, open-sourced by Netflix, their custom Grails tool for deploying Netflix applications and infrastructure to Amazon. Bryan&#8217;s opinion: Netflix doesn&#8217;t use Puppet or Chef because they have essentially written their own CM framework in Groovy.</p></li>
+<li><p>Another interesting post from the Netflix Tech Blog was <a href="http://techblog.netflix.com/2012/06/netflix-operations-part-i-going.html">Netflix Operations: Part I, Going Distributed</a>.  This article talks about how they&#8217;ve moved from centralized deployment and operations team to an organization where there responsibilities are distributed throughout the development organization.</p></li>
+<li><p><a href="http://berkshelf.com/">Berkshelf</a> tool for managing cookbook or an application&#8217;s cookbook dependencies, from Jamie Winsor and company at RiotGames. Looks quite similar to librarian-chef.</p></li>
+<li><p><a href="http://devopsanywhere.blogspot.it/2012/07/stash-those-logs-set-up-logstash.html">Setting up logstash+elasticsearch using Chef and Berkshelf</a></p></li>
+<li><p><a href="https://github.com/etsy/dashboard">Etsy dashboard</a> source code for Etsy&#8217;s dashboards framework</p></li>
+<li><p>Velocity, DevOps Days, and Google I/O.  Last week was a great conference week for anyone in our community!  <a href="http://googledevelopers.blogspot.it/2012/06/google-compute-engine-computing-without.html">Chef + Google Compute Engine</a> <a href="http://www.opscode.com/press-releases/opscode-announces-integration-with-google-compute-engine/">Opscode named as a partner</a>for Google&#8217;s new cloud computing platform, check out <a href="https://github.com/opscode/knife-google">knife-google</a></p></li>
+<li><p><a href="http://projects.puppetlabs.com/issues/7788">Puppet Feature #778</a> extending Puppet via rubygems</p></li>
+<li><p><a href="http://techportal.inviqa.com/2012/06/26/tips-for-vagrant-and-chef/">Tips for Vagrant and Chef</a> from Nick Peirson at Inviqa.  Keep Your Base Boxes Up To Date, Vagrantfile - not just static configuration!, knife_ec2 - Not the Sharpest Tool in the Box, Does Your Source Control Match Your Deployed Recipes?</p></li>
+<li><p>An interesting tool that Nick mentioned in the blog post is <a href="http://bmarini.github.com/health_inspector/">Health inspector</a>.  This is a gem you can install and run to see if your chef repo is in sync with your chef server.</p></li>
+<li><p><a href="https://plus.google.com/111626127367496192147/posts">Project Glass</a> that is the most exciting thing I have seen in a long-time. What does Project Glass have to do w/ DevOps? Well, behind every mobile technology like this one are a ton of backend services. Who keeps these services running? We do. Operations teams. As people continue to integrate technology into their lives, we are going to have a lot more opportunities and a lot more responsibility.</p></li>
+<li><p>There were some pretty significant issues with the Internet this past week, too.  First was a massive thunderstorm system that hit the mid-Atlantic region of the US.  This caused service interruptions for some Amazon customers.  Amazon has posted a  <a href="http://aws.amazon.com/message/67457/">Summary of the AWS Service Event in the US East Region</a>, check the show notes for details.  Then, on Saturday, the international time keepers gave everyone an extra second. I live in Annapolis, Maryland and lost power after Friday&#8217;s storm.  My home was without power for about 71 hours and one second.</p></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/pkgutil">pkgutil</a> v0.0.2 - <a href="http://community.opscode.com/users/marthag">marthag</a><br/>
+Lightweight resource and provider to manage pkgutil packages for Solaris.  It will install, remove, or upgrade packages using <code>pkgutil</code></li>
+<li><a href="http://community.opscode.com/cookbooks/zone">zone</a> v0.0.3 - <a href="http://community.opscode.com/users/marthag">marthag</a><br/>
+Installs/Configures Solaris zones</li>
+<li><a href="http://community.opscode.com/cookbooks/cloudfuse">cloudfuse</a> v0.0.1 - <a href="http://community.opscode.com/users/djoos">djoos</a><br/>
+Installs/Configures CloudFuse which can be used to mount Rackspace Cloud Files</li>
+<li><a href="http://community.opscode.com/cookbooks/freight">freight</a> v0.1.0 - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a><br/>
+This cookbook installs Freight, a modern take on the Debian archive.</li>
+<li><a href="http://community.opscode.com/cookbooks/freightyard">freightyard</a> v0.1.0 - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a><br/>
+Configures a builder account for building and hosting deb packages with Freight and Freightyard.</li>
+<li><a href="http://community.opscode.com/cookbooks/interfaces">interfaces</a> v0.0.1 - <a href="http://community.opscode.com/users/captspify">captspify</a><br/>
+Installs/Configures the interfaces file using nslookup.  This is similar to Kyel&#8217;s <a href="http://community.opscode.com/cookbooks/netcfg">netcfg cookbook</a> but this one applies the IP to the default Debian Interfaces file rather than using netcfg.</li>
+<li><a href="http://community.opscode.com/cookbooks/avahi-daemon">avahi-daemon</a> v0.0.10 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a><br/>
+Installs/Configures avahi-daemon</li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/httplivestreamsegmenter">httplivestreamsegmenter</a> v0.0.4 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/netcfg">netcfg</a> v0.0.3 - <a href="http://community.opscode.com/users/captspify">captspify</a></li>
+<li><a href="http://community.opscode.com/cookbooks/drupal">drupal</a> v1.1.0 - <a href="http://community.opscode.com/users/mdxp">mdxp</a></li>
+<li><a href="http://community.opscode.com/cookbooks/nginx-fastcgi">nginx-fastcgi</a> v0.0.6 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
+<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/beanstalkd">beanstalkd</a> v0.0.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/graphite_handler">graphite_handler</a> v0.0.4 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.10.0 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/dbench">dbench</a> v1.0.1 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/bind">bind</a> v0.0.5 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/rbenv">rbenv</a> v1.3.2 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/linode">linode</a> v1.0.6 - <a href="http://community.opscode.com/users/cap10morgan">cap10morgan</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zabbix">zabbix</a> v0.0.33 - <a href="http://community.opscode.com/users/laradji">laradji</a></li>
+</ul>
+
+
+<p>Remember, if you have cookbook news, please send it to us at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> or get in touch with us on <a href="http://twitter.com/foodfightshow">twitter</a> <a href="http://twitter.com/foodfightshow">@foodfightshow</a>.</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=OU8ihx3nT6I">Changing Culture &amp; Being a Force for Awesome</a> - Jesse Robbins&#8217; Velocity talk</li>
+<li><a href="http://www.foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html">Blameless Postmortems</a></li>
+<li><a href="http://octopress.org/">Octopress</a></li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://pagerduty.com">pagerduty</a></li>
+<li><a href="http://logstash.net">logstash</a></li>
+<li><a href="http://googleblog.blogspot.it/2011/09/time-technology-and-leaping-seconds.html">google&#8217;s leapsmear</a></li>
+</ul>
+
+
+<h4>Mark</h4>
+
+<ul>
+<li>the devops commmunity</li>
+<li>everyone should hang out on ##infra-talk on irc</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://logstash.net">logstash</a> and <a href="https://github.com/jedi4ever/logstash-cli">logstash-cli</a></li>
+<li><a href="http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1340605354&amp;sr=1-1&amp;keywords=drowned+cities">Drowned Cities</a> by Paolo Bacigalupi</li>
+<li><a href="http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/">eshell</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<p>Roll Your Own PAAS! Mark Imbriaco and Alex Howells:  <a href="http://traffic.libsyn.com/foodfight/ffs19_3.mp3">Download here</a></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Bryan Berry - Matt Ray - Nathen Harvey</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-03T15:39:00-04:00" pubdate data-updated="true">Jul 3<span>rd</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/devops/'>devops</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://foodfight.github.com/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html" data-via="foodfightshow" data-counturl="http://foodfight.github.com/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2012/06/episode-18-monitoringsucks-with-lusis.html" title="Previous Post: Episode 18: #monitoringsucks with Lusis and Patrick Debois">&laquo; Episode 18: #monitoringsucks with Lusis and Patrick Debois</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+    
+    <!-- NOTE: Adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template set in _config.yml -->
+    <a href="http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#"><img src="/images/itunes.png" alt="Subscribe with iTunes" /></a>
+    <a href="http://feeds.feedburner.com/TheFoodFightShow"><img src="/images/feed_rss.png" alt="Subscribe with RSS" /></a>    
+    <a href="https://twitter.com/#!/foodfightshow"><img src="/images/feed_twitter.png" alt="Subscribe with iTunes" /></a>
+    
+    <h1>DevOps Links</h1>
+
+    <ul>
+    <li><a href="http://github.com/foodfight">FoodFightShow on Github</a></li>
+    <li><a href="http://devopsweekly.com/">DevOps Weekly Newsletter</a></li>
+    <li><a href="http://devopscafe.org/">DevOps Cafe</a></li>
+    <li><a href="http://jedi.be/">Patrick DeBois, the Godfather of DevOps</a></li>
+    <li><a href="http://dev2ops.com/">http://dev2ops.com</a></li>
+    </ul>
+    
+    <a href="http://wiki.opscode.com/" title="Chef Wiki at Opscode."><img src="/images/OC_Chef_Logo.png" /></a>
+    
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html">Roll Your Own PAAS! Mark Imbriaco and Alex Howells</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-18-monitoringsucks-with-lusis.html">Episode 18: #monitoringsucks with Lusis and Patrick Debois</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-17-testing-with-eric-g-wolfe.html">Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-16-chef-server-with-kevin-smith.html">Episode 16: Chef Server with Kevin Smith & Seth Falcon</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/05/episode-15-how-to-succeed-in-devops.html">Episode 15: How to Succeed in DevOps with Dave Zwieback</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/foodfight">@foodfight</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'foodfight',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("foodfightshow", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/foodfightshow" class="twitter-follow-button" data-show-count="false">Follow @foodfightshow</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Bryan Berry - Matt Ray - Nathen Harvey -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'foodfightshow';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://foodfight.github.com/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html';
+        var disqus_url = 'http://foodfight.github.com/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
