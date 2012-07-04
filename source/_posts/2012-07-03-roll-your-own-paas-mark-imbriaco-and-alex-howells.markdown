@@ -7,7 +7,7 @@ categories:
 ---
 
 
-Show Date:  Tuesday, 3 July 2012 
+Show Date:  Tuesday, 3 July 2012, [Download here](http://traffic.libsyn.com/foodfight/ffs19_3.mp3)
 
 Panel
 =====
