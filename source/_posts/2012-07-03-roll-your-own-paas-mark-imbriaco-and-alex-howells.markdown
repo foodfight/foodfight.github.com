@@ -9,10 +9,15 @@ categories: devops
 
 Show Date:  Tuesday, 3 July 2012
 
-Roll Your Own PAAS! Mark Imbriaco and Alex Howells:  [Download here](http://traffic.libsyn.com/foodfight/ffs19_3.mp3)
+* [Panel](#panel)
+* What's Cookin'
+  * [In the News](#news)
+  * [Cookbook News](#cookbooks)
+* [Picks](#picks)
+* [Download](http://traffic.libsyn.com/foodfight/ffs19_3.mp3)
 
-Panel
-=====
+Panel<a name="panel"></a>
+-----
 
 * Mark Imbriaco [github](https://github.com/imbriaco), [twitter](https://twitter.com/#!/markimbriaco/)
 * Alex Howells [github](https://github.com/nixgeek), [twitter](https://twitter.com/#!/nixgeek)
@@ -20,7 +25,7 @@ Panel
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis    )
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
-In the News
+In the News<a name="news"></a>
 -----------
 
  * Oh, no!  I have a node that hasn't checked in with Chef server for days!  Why didn't I know about that?  I'll have to start using [knife ohno](http://rubygems.org/gems/knife-ohno), a knife plugin and now a ruby gem from [Mandi Walls](http://twitter.com/lnxchk).  `gem install knife-ohno` then find any node whose last check-in is more than six hours old using `knife ohno 6`
@@ -48,7 +53,7 @@ In the News
  * There were some pretty significant issues with the Internet this past week, too.  First was a massive thunderstorm system that hit the mid-Atlantic region of the US.  This caused service interruptions for some Amazon customers.  Amazon has posted a  [Summary of the AWS Service Event in the US East Region](http://aws.amazon.com/message/67457/), check the show notes for details.  Then, on Saturday, the international time keepers gave everyone an extra second. I live in Annapolis, Maryland and lost power after Friday's storm.  My home was without power for about 71 hours and one second.
 
 
-Cookbook News
+Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
@@ -85,33 +90,33 @@ Installs/Configures avahi-daemon
 
 Remember, if you have cookbook news, please send it to us at [info@foodfightshow.org](mailto:info@foodfightshow.org) or get in touch with us on [twitter](http://twitter.com/foodfightshow) [@foodfightshow](http://twitter.com/foodfightshow).
 
-Picks
-=====
+Picks<a name="picks"></a>
+-----
 
-### Nathen  
+#### Nathen  
 
 * [Changing Culture & Being a Force for Awesome](http://www.youtube.com/watch?v=OU8ihx3nT6I) - Jesse Robbins' Velocity talk
 * [Blameless Postmortems](http://www.foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
 * [Octopress](http://octopress.org/)
 
-### lusis  
+#### lusis  
 
 * [pagerduty](http://pagerduty.com)
 * [logstash](http://logstash.net)
 * [google's leapsmear](http://googleblog.blogspot.it/2011/09/time-technology-and-leaping-seconds.html)
 
-### Mark  
+#### Mark  
 
 * the devops commmunity
 * everyone should hang out on ##infra-talk on irc
 
-### Bryan  
+#### Bryan  
 
 * [logstash](http://logstash.net) and [logstash-cli](https://github.com/jedi4ever/logstash-cli)
 * [Drowned Cities](http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&ie=UTF8&qid=1340605354&sr=1-1&keywords=drowned+cities) by Paolo Bacigalupi
 * [eshell](http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/)
 
 Download
-========
+--------
 
 Roll Your Own PAAS! Mark Imbriaco and Alex Howells:  [Download here](http://traffic.libsyn.com/foodfight/ffs19_3.mp3)
