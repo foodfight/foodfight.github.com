@@ -32,7 +32,7 @@ Blog: [The Shining Path of Least Resistance](http://www.leastresistance.net/)
 
 
 <p class="clearboth">
-    <img class="floatleft" src="/images/lusis.jpg" alt="A photograph of John E. Vincent." />
+    <img class="floatleft" src="/images/lusis.jpg" alt="A photograph of John E. Vincent." width="300px" height="250px" />
 </p>
 
 **John E. Vincent(Lusis)**  John E. Vincent is a 17-year veteran of the IT industry and a frequent contributor to the DevOps discussion. He's done everything from working the help desk to building out data centers. He got officially involved with DevOps in early 2010 and fancies himself a developer in his spare time. John lives with his wife and two sons in Roswell, Georgia. His code lives on Github. </p>
@@ -44,10 +44,12 @@ Blog: [http://blog.lusis.org](http://blog.lusis.org)
     <img class="floatleft" src="/images/nathen.jpg" alt="A photograph of Nathen Harvey." />
 </p>
 
-**Nathen Harvey** is active in the technical community contributing to open source and co-organizing a number of meetups.
+**Nathen Harvey** is active in the technical community contributing to open source and co-organizing [DevOpsDC](http://www.meetup.com/DevOpsDC/) and the [Washington DC MongoDB Users' Group](http://www.meetup.com/Washington-DC-MongoDB-Users-Group/). When not working or hosting meetups, Nathen enjoys going to concerts, drinking craft beer, and over sharing on sites like [twitter](http://twitter.com/nathenharvey), [untappd](http://untappd.com/user/nathenharvey), and [foursquare](https://foursquare.com/nathenharvey).
 
 [Twitter](https://twitter.com/#!/nathenharvey), <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/nathenharvey): **nathenharvey**  
 Blog: [Nathen Harvey](http://nathenharvey.com/)
 
 [opscodewiki]: http://wiki.opscode.com/  
 [opscode]: http://www.opscode.com/
+
+test
