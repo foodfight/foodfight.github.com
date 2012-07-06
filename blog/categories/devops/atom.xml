@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: devops | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/devops/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-07-04T11:28:26-04:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Roll Your Own PAAS! Mark Imbriaco and Alex Howells]]></title>
+    <link href="http://foodfight.github.com/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html"/>
+    <updated>2012-07-03T15:39:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 3 July 2012</p>
+
+<ul>
+<li><a href="#panel">Panel</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="#news">In the News</a></li>
+<li><a href="#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/ffs19_3.mp3">Download</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Mark Imbriaco <a href="https://github.com/imbriaco">github</a>, <a href="https://twitter.com/#!/markimbriaco/">twitter</a></li>
+<li>Alex Howells <a href="https://github.com/nixgeek">github</a>, <a href="https://twitter.com/#!/nixgeek">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><p>Oh, no!  I have a node that hasn't checked in with Chef server for days!  Why didn't I know about that?  I'll have to start using <a href="http://rubygems.org/gems/knife-ohno">knife ohno</a>, a knife plugin and now a ruby gem from <a href="http://twitter.com/lnxchk">Mandi Walls</a>.  <code>gem install knife-ohno</code> then find any node whose last check-in is more than six hours old using <code>knife ohno 6</code></p></li>
+<li><p><a href="http://techblog.netflix.com/2012/06/asgard-web-based-cloud-management-and.html">Asgard: Web-based Cloud Management and Deployments</a>, open-sourced by Netflix, their custom Grails tool for deploying Netflix applications and infrastructure to Amazon. Bryan's opinion: Netflix doesn't use Puppet or Chef because they have essentially written their own CM framework in Groovy.</p></li>
+<li><p>Another interesting post from the Netflix Tech Blog was <a href="http://techblog.netflix.com/2012/06/netflix-operations-part-i-going.html">Netflix Operations: Part I, Going Distributed</a>.  This article talks about how they've moved from centralized deployment and operations team to an organization where there responsibilities are distributed throughout the development organization.</p></li>
+<li><p><a href="http://berkshelf.com/">Berkshelf</a> tool for managing cookbook or an application's cookbook dependencies, from Jamie Winsor and company at RiotGames. Looks quite similar to librarian-chef.</p></li>
+<li><p><a href="http://devopsanywhere.blogspot.it/2012/07/stash-those-logs-set-up-logstash.html">Setting up logstash+elasticsearch using Chef and Berkshelf</a></p></li>
+<li><p><a href="https://github.com/etsy/dashboard">Etsy dashboard</a> source code for Etsy's dashboards framework</p></li>
+<li><p>Velocity, DevOps Days, and Google I/O.  Last week was a great conference week for anyone in our community!  <a href="http://googledevelopers.blogspot.it/2012/06/google-compute-engine-computing-without.html">Chef + Google Compute Engine</a> <a href="http://www.opscode.com/press-releases/opscode-announces-integration-with-google-compute-engine/">Opscode named as a partner</a>for Google's new cloud computing platform, check out <a href="https://github.com/opscode/knife-google">knife-google</a></p></li>
+<li><p><a href="http://projects.puppetlabs.com/issues/7788">Puppet Feature #778</a> extending Puppet via rubygems</p></li>
+<li><p><a href="http://techportal.inviqa.com/2012/06/26/tips-for-vagrant-and-chef/">Tips for Vagrant and Chef</a> from Nick Peirson at Inviqa.  Keep Your Base Boxes Up To Date, Vagrantfile - not just static configuration!, knife_ec2 - Not the Sharpest Tool in the Box, Does Your Source Control Match Your Deployed Recipes?</p></li>
+<li><p>An interesting tool that Nick mentioned in the blog post is <a href="http://bmarini.github.com/health_inspector/">Health inspector</a>.  This is a gem you can install and run to see if your chef repo is in sync with your chef server.</p></li>
+<li><p><a href="https://plus.google.com/111626127367496192147/posts">Project Glass</a> that is the most exciting thing I have seen in a long-time. What does Project Glass have to do w/ DevOps? Well, behind every mobile technology like this one are a ton of backend services. Who keeps these services running? We do. Operations teams. As people continue to integrate technology into their lives, we are going to have a lot more opportunities and a lot more responsibility.</p></li>
+<li><p>There were some pretty significant issues with the Internet this past week, too.  First was a massive thunderstorm system that hit the mid-Atlantic region of the US.  This caused service interruptions for some Amazon customers.  Amazon has posted a  <a href="http://aws.amazon.com/message/67457/">Summary of the AWS Service Event in the US East Region</a>, check the show notes for details.  Then, on Saturday, the international time keepers gave everyone an extra second. I live in Annapolis, Maryland and lost power after Friday's storm.  My home was without power for about 71 hours and one second.</p></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/pkgutil">pkgutil</a> v0.0.2 - <a href="http://community.opscode.com/users/marthag">marthag</a><br/>
+Lightweight resource and provider to manage pkgutil packages for Solaris.  It will install, remove, or upgrade packages using <code>pkgutil</code></li>
+<li><a href="http://community.opscode.com/cookbooks/zone">zone</a> v0.0.3 - <a href="http://community.opscode.com/users/marthag">marthag</a><br/>
+Installs/Configures Solaris zones</li>
+<li><a href="http://community.opscode.com/cookbooks/cloudfuse">cloudfuse</a> v0.0.1 - <a href="http://community.opscode.com/users/djoos">djoos</a><br/>
+Installs/Configures CloudFuse which can be used to mount Rackspace Cloud Files</li>
+<li><a href="http://community.opscode.com/cookbooks/freight">freight</a> v0.1.0 - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a><br/>
+This cookbook installs Freight, a modern take on the Debian archive.</li>
+<li><a href="http://community.opscode.com/cookbooks/freightyard">freightyard</a> v0.1.0 - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a><br/>
+Configures a builder account for building and hosting deb packages with Freight and Freightyard.</li>
+<li><a href="http://community.opscode.com/cookbooks/interfaces">interfaces</a> v0.0.1 - <a href="http://community.opscode.com/users/captspify">captspify</a><br/>
+Installs/Configures the interfaces file using nslookup.  This is similar to Kyel's <a href="http://community.opscode.com/cookbooks/netcfg">netcfg cookbook</a> but this one applies the IP to the default Debian Interfaces file rather than using netcfg.</li>
+<li><a href="http://community.opscode.com/cookbooks/avahi-daemon">avahi-daemon</a> v0.0.10 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a><br/>
+Installs/Configures avahi-daemon</li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/httplivestreamsegmenter">httplivestreamsegmenter</a> v0.0.4 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/netcfg">netcfg</a> v0.0.3 - <a href="http://community.opscode.com/users/captspify">captspify</a></li>
+<li><a href="http://community.opscode.com/cookbooks/drupal">drupal</a> v1.1.0 - <a href="http://community.opscode.com/users/mdxp">mdxp</a></li>
+<li><a href="http://community.opscode.com/cookbooks/nginx-fastcgi">nginx-fastcgi</a> v0.0.6 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
+<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/beanstalkd">beanstalkd</a> v0.0.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/graphite_handler">graphite_handler</a> v0.0.4 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.10.0 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/dbench">dbench</a> v1.0.1 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/bind">bind</a> v0.0.5 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/rbenv">rbenv</a> v1.3.2 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/linode">linode</a> v1.0.6 - <a href="http://community.opscode.com/users/cap10morgan">cap10morgan</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zabbix">zabbix</a> v0.0.33 - <a href="http://community.opscode.com/users/laradji">laradji</a></li>
+</ul>
+
+
+<p>Remember, if you have cookbook news, please send it to us at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> or get in touch with us on <a href="http://twitter.com/foodfightshow">twitter</a> <a href="http://twitter.com/foodfightshow">@foodfightshow</a>.</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=OU8ihx3nT6I">Changing Culture &amp; Being a Force for Awesome</a> - Jesse Robbins' Velocity talk</li>
+<li><a href="http://www.foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html">Blameless Postmortems</a></li>
+<li><a href="http://octopress.org/">Octopress</a></li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://pagerduty.com">pagerduty</a></li>
+<li><a href="http://logstash.net">logstash</a></li>
+<li><a href="http://googleblog.blogspot.it/2011/09/time-technology-and-leaping-seconds.html">google's leapsmear</a></li>
+</ul>
+
+
+<h4>Mark</h4>
+
+<ul>
+<li>the devops commmunity</li>
+<li>everyone should hang out on ##infra-talk on irc</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://logstash.net">logstash</a> and <a href="https://github.com/jedi4ever/logstash-cli">logstash-cli</a></li>
+<li><a href="http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1340605354&amp;sr=1-1&amp;keywords=drowned+cities">Drowned Cities</a> by Paolo Bacigalupi</li>
+<li><a href="http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/">eshell</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<p>Roll Your Own PAAS! Mark Imbriaco and Alex Howells:  <a href="http://traffic.libsyn.com/foodfight/ffs19_3.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+</feed>

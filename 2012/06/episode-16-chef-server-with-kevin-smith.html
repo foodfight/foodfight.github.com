@@ -1,0 +1,322 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Episode 16: Chef Server with Kevin Smith & Seth Falcon - Food Fight</title>
+  <meta name="author" content="Bryan Berry - Matt Ray - Nathen Harvey">
+
+  
+  <meta name="description" content="Friday, 1 June 2012Download the episode! Are you, or someone you know interested in sponsoring the Food Fight Show? We&#8217;re looking for people &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://foodfight.github.com/2012/06/episode-16-chef-server-with-kevin-smith.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Food Fight" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32494051-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+    <a href="/"><img src="/images/foodfight_header.png" width="467" height="150" alt="Food Fight"></a>
+  
+    <h2>The Podcast where DevOps chefs do battle</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:foodfight.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Episode 16: Chef Server With Kevin Smith & Seth Falcon</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-06-04T00:00:00-04:00" pubdate data-updated="true">Jun 4<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><div class='post'>
+<div dir="ltr" style="text-align: left;" trbidi="on">Friday, 1 June 2012<br /><br /><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-16-ChefServer.mp3">Download the episode</a>!<!-- more --> <br /><br />Are you, or someone you know interested in sponsoring the Food Fight  Show?  We&#8217;re looking for people to help us with equipment  costs.  Please let us know if you&#8217;re willing and able to help out.   Contact us at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a><br /><br /><h1>  Panel</h1><ul><li>Kevin Smith, Director of Engineering <a href="http://twitter.com/kevsmith">twitter</a>, <a href="https://github.com/kevsmith">github</a></li><li>Seth Falcon, Development Lead <a href="http://twitter.com/sfalcon">twitter</a>, <a href="https://github.com/seth">github</a></li><li>Matt Ray <a href="https://twitter.com/#%21/mattray">twitter</a>, <a href="https://github.com/mattray">github</a></li><li>John Vincent, aka Lusis <a href="https://twitter.com/#%21/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li><li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com/">devopsanywhere</a></li></ul><h1>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/scripts/chef-server.md#show-outline" name="show-outline"></a>Show Outline</h1><ul><li>Chef server rewrite</li><li>Open source, private, and hosted Chef server</li><li>Erlang</li></ul><h1>  Picks</h1><ul><li>Kevin  <ul><li><a href="http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf">Paxos Made Moderately Complex</a></li><li><a href="http://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469">Foundations of Multidimensional and Metric Data Structures</a></li></ul></li><li>Seth  <ul><li>git rerere mod</li><li>git config &#8211;global rerere.enabled 1</li><li><a href="http://www.kernel.org/pub/software/scm/git/docs/v1.5.6/git-rerere.html">http://www.kernel.org/pub/software/scm/git/docs/v1.5.6/git-rerere.html</a></li></ul></li><li>Bryan  <ul><li><a href="http://igvita.com/">Ilya Grigorik&#8217;s blog</a></li></ul></li><li>lusis<br />  <ul><li>Clojure </li></ul></li></ul><br /><h2>  In the News</h2><ul><li><a href="http://codeascraft.etsy.com/2012/05/22/blameless-postmortems/">Blameless PostMortems and a Just Culture</a></li><li><a href="http://www.businessinsider.com/etsy-chad-dickerson-blameless-post-mortem-2012-5">Etsy&#8217;s Winning Secret: Don&#8217;t Play The Blame Game!</a></li><li><a href="http://www.meetup.com/Chef-BOSTON/">Chef-BOSTON User Group</a></li><li><a href="http://phillydevops.org/">Philly DevOps</a></li><li><a href="http://java.dzone.com/articles/7-application-deployment-best">7 Application Deployment Best Practices</a></li><li><a href="http://www.tracelytics.com/blog/10-twitter-accounts-about-devops-scaling/?utm_source=twitter&amp;utm_medium=social&amp;utm_content=83836ee8-b7fa-4cee-9c77-bcf7b42f7820">10 Twitter Accounts To Follow About DevOps, Scaling &amp; Web Performance</a>&#8230;or at least 8 or 9</li><li><a href="http://www.slideshare.net/jedi4ever/using-monitoring-and-metrics-to-learn-in-development">Using monitoring and metrics to learn in development</a></li><li><a href="http://nomadic-developer.com/2012/05/30/on-not-being-post-technical/">On (not) Being Post-Technical</a></li><li><a href="http://www.slideshare.net/kshep/devops-13030503">DevOps Hiring</a></li><li><a href="http://blog.lusis.org/blog/2012/05/24/configuration-drift-and-next-gen-cm/">Configuration Drift and Next-gen CM</a></li><li><a href="http://technology.customink.com/blog/2012/05/28/provision-your-laptop-with-chef-part-1/">Provision Your Laptop With Chef: Part 1</a></li></ul><h2>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#new-cookbooks" name="new-cookbooks"></a>New Cookbooks</h2>Congratulations!  There are now over 500 cookbooks available on the  community site.  Sure, it&#8217;s an arbitrary number but it is an exciting  milestone.  We announced passing the 400 cookbook milestone back in  April so that&#8217;s 100 new cookbooks in less than two months. <br /><br />18 Cookbooks have been added since the last Food Fight Show.<br /><br />We&#8217;ll start with the 6 new cookbooks form Escape Studios Development.<br /><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#mplayer-v001---devesc" name="mplayer-v001---devesc"></a><a href="http://community.opscode.com/cookbooks/mplayer">mplayer</a> v0.0.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></h3><ul><li>Installs/Configures mplayer</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#httplivestreamsegmenter-v001---devesc" name="httplivestreamsegmenter-v001---devesc"></a><a href="http://community.opscode.com/cookbooks/httplivestreamsegmenter">httplivestreamsegmenter</a> v0.0.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></h3><ul><li>Installs/Configures httplivestreamsegmenter</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#hollandbackup-v001---devesc" name="hollandbackup-v001---devesc"></a><a href="http://community.opscode.com/cookbooks/hollandbackup">hollandbackup</a> v0.0.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></h3><ul><li>Installs/Configures hollandbackup</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#gpac-v001---devesc" name="gpac-v001---devesc"></a><a href="http://community.opscode.com/cookbooks/gpac">gpac</a> v0.0.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></h3><ul><li>Installs/Configures gpac</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#cloudpassage-v001---devesc" name="cloudpassage-v001---devesc"></a><a href="http://community.opscode.com/cookbooks/cloudpassage">cloudpassage</a> v0.0.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></h3><ul><li>Installs/Configures cloudpassage</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#beanstalkd-v001---devesc" name="beanstalkd-v001---devesc"></a><a href="http://community.opscode.com/cookbooks/beanstalkd">beanstalkd</a> v0.0.1 - <a href="http://community.opscode.com/users/devesc">devesc</a></h3><ul><li>Installs/Configures beanstalkd</li></ul><br />Eric G. Wolfe continues to add and update cookbooks on the community site.  He&#8217;s got 3 new cookbooks and has updated 5 others.<br /><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#ncurses-v002---atomic-penguin" name="ncurses-v002---atomic-penguin"></a><a href="http://community.opscode.com/cookbooks/ncurses">ncurses</a> v0.0.2 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></h3><ul><li>Installs/Configures ncurses</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#netcobol-v006---atomic-penguin" name="netcobol-v006---atomic-penguin"></a><a href="http://community.opscode.com/cookbooks/netcobol">netcobol</a> v0.0.6 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></h3><ul><li>Installs/Configures Fujitsu NetCOBOL.  Batteries not included.</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#gqlplus-v002---atomic-penguin" name="gqlplus-v002---atomic-penguin"></a><a href="http://community.opscode.com/cookbooks/gqlplus">gqlplus</a> v0.0.2 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></h3><ul><li>Installs/Configures gqlplus</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#uwsgi-v001---idyedov" name="uwsgi-v001---idyedov"></a><a href="http://community.opscode.com/cookbooks/uwsgi">uwsgi</a> v0.0.1 - <a href="http://community.opscode.com/users/idyedov">idyedov</a></h3><ul><li>Ivan Dyedov</li><li>Installs/Configures uWSGI</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#recognizer-v004---portertech" name="recognizer-v004---portertech"></a><a href="http://community.opscode.com/cookbooks/recognizer">recognizer</a> v0.0.4 - <a href="http://community.opscode.com/users/portertech">portertech</a></h3><ul><li>Sean Porter</li><li>Installs &amp; configures Recognizer, a Graphite Carbon impostor that sends metrics to Librato Metrics.</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#gow-v003---jwitrick" name="gow-v003---jwitrick"></a><a href="http://community.opscode.com/cookbooks/gow">gow</a> v0.0.3 - <a href="http://community.opscode.com/users/jwitrick">jwitrick</a></h3><ul><li>Justin Witrick</li><li>Installs/Configures gow on windows</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#helios-v005---cixelsyd" name="helios-v005---cixelsyd"></a><a href="http://community.opscode.com/cookbooks/helios">helios</a> v0.0.5 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></h3><ul><li>steven c</li><li>Installs/Configures helios, a basic windows x509 certificate import utility</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#stoplight-v012---sethvargo" name="stoplight-v012---sethvargo"></a><a href="http://community.opscode.com/cookbooks/stoplight">stoplight</a> v0.1.2 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a></h3><ul><li>Seth Vargo</li><li>Installs/Configures Stoplight</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#fpm-v001---brettgailey" name="fpm-v001---brettgailey"></a><a href="http://community.opscode.com/cookbooks/fpm">fpm</a> v0.0.1 - <a href="http://community.opscode.com/users/brettgailey">brettgailey</a></h3><ul><li>Brett Gailey</li><li>Installs Effin&#8217; Package Manager by Jordan Sissel.</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#graphite_handler-v002---peter_donald" name="graphite_handler-v002---peter_donald"></a><a href="http://community.opscode.com/cookbooks/graphite_handler">graphite_handler</a> v0.0.2 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></h3><ul><li>Peter Donald</li><li>Installs/Configures the Chef graphite handler originally developed by Ian Meyer</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#logster-v002---shr3kst3r" name="logster-v002---shr3kst3r"></a><a href="http://community.opscode.com/cookbooks/logster">logster</a> v0.0.2 - <a href="http://community.opscode.com/users/shr3kst3r">shr3kst3r</a></h3><ul><li>Dennis Rowe</li><li>Chef cookbook for logster</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#mail_alias-v010---kisoku" name="mail_alias-v010---kisoku"></a><a href="http://community.opscode.com/cookbooks/mail_alias">mail_alias</a> v0.1.0 - <a href="http://community.opscode.com/users/kisoku">kisoku</a></h3><ul><li>Mathieu Sauve-Frankel</li><li>mail_alias provider</li></ul><h2>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#updated-cookbooks" name="updated-cookbooks"></a>Updated Cookbooks</h2>13 Cookbooks have been updated recently.<br /><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#artifact-v097---reset" name="artifact-v097---reset"></a><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.9.7 - <a href="http://community.opscode.com/users/reset">reset</a></h3><ul><li>Provides your cookbooks with the Artifact Deploy LWRP</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#cpan-v0013---melezhik" name="cpan-v0013---melezhik"></a><a href="http://community.opscode.com/cookbooks/cpan">cpan</a> v0.0.13 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></h3><ul><li>CPAN modules provider (cpan_client provider LWRP)</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#datadog-v009---miketheman" name="datadog-v009---miketheman"></a><a href="http://community.opscode.com/cookbooks/datadog">datadog</a> v0.0.9 - <a href="http://community.opscode.com/users/miketheman">miketheman</a></h3><ul><li>Installs/Configures datadog components</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#disco-v012---dcrosta" name="disco-v012---dcrosta"></a><a href="http://community.opscode.com/cookbooks/disco">disco</a> v0.1.2 - <a href="http://community.opscode.com/users/dcrosta">dcrosta</a></h3><ul><li>Installs/Configures Disco</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#ffmpeg-v021---reset" name="ffmpeg-v021---reset"></a><a href="http://community.opscode.com/cookbooks/ffmpeg">ffmpeg</a> v0.2.1 - <a href="http://community.opscode.com/users/reset">reset</a></h3><ul><li>Installs and configures FFMPEG from source or package</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#htpasswd-v101---guilhemfr" name="htpasswd-v101---guilhemfr"></a><a href="http://community.opscode.com/cookbooks/htpasswd">htpasswd</a> v1.0.1 - <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a></h3><ul><li>Provider for htpasswd</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#iscsi-v006---atomic-penguin" name="iscsi-v006---atomic-penguin"></a><a href="http://community.opscode.com/cookbooks/iscsi">iscsi</a> v0.0.6 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></h3><ul><li>Installs configures open-iscsi for storage arrays</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#multipath-v008---atomic-penguin" name="multipath-v008---atomic-penguin"></a><a href="http://community.opscode.com/cookbooks/multipath">multipath</a> v0.0.8 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></h3><ul><li>Installs and configures device-mapper-multipath</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#networking_basic-v005---fred" name="networking_basic-v005---fred"></a><a href="http://community.opscode.com/cookbooks/networking_basic">networking_basic</a> v0.0.5 - <a href="http://community.opscode.com/users/fred">fred</a></h3><ul><li>Install Basic Networking Tools and Utilities on Debian, Centos RedHat and Ubuntu</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#nfs-v023---atomic-penguin" name="nfs-v023---atomic-penguin"></a><a href="http://community.opscode.com/cookbooks/nfs">nfs</a> v0.2.3 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></h3><ul><li>Installs and configures nfs, and NFS exports</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#openvas-v0046---jackl0phty" name="openvas-v0046---jackl0phty"></a><a href="http://community.opscode.com/cookbooks/openvas">openvas</a> v0.0.46 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a></h3><ul><li>Installs/Configures openvas</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#supervisord-v010---mpasternacki" name="supervisord-v010---mpasternacki"></a><a href="http://community.opscode.com/cookbooks/supervisord">supervisord</a> v0.1.0 - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a></h3><ul><li>Installs/Configures supervisord</li></ul><h3>   <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_16.md#zabbix-v0029---laradji" name="zabbix-v0029---laradji"></a><a href="http://community.opscode.com/cookbooks/zabbix">zabbix</a> v0.0.29 - <a href="http://community.opscode.com/users/laradji">laradji</a></h3><ul><li>Installs/Configures zabbix Agent/Server </li></ul><br />Do you have cookbook news that you&#8217;d like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a><br /><br />Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a>!<br /><br /><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-16-ChefServer.mp3">Download the episode</a>! <br /><br /></div></div>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Bryan Berry - Matt Ray - Nathen Harvey</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-06-04T00:00:00-04:00" pubdate data-updated="true">Jun 4<span>th</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://foodfight.github.com/2012/06/episode-16-chef-server-with-kevin-smith.html" data-via="foodfightshow" data-counturl="http://foodfight.github.com/2012/06/episode-16-chef-server-with-kevin-smith.html" >Tweet</a>
+  
+  
+  
+  
+      <!-- http://blog.simonszu.de/2012/02/flattr-fur-octopress/ -->
+<a class="FlattrButton" style="display:none;"
+    title="Episode 16: Chef Server with Kevin Smith & Seth Falcon"
+    data-flattr-uid="foodfightshow"
+    data-flattr-tags=""
+    data-flattr-button="compact"
+    data-flattr-category="text"
+    href="http://foodfight.github.com/2012/06/episode-16-chef-server-with-kevin-smith.html">
+    
+</a>
+
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2012/05/episode-15-how-to-succeed-in-devops.html" title="Previous Post: Episode 15: How to Succeed in DevOps with Dave Zwieback">&laquo; Episode 15: How to Succeed in DevOps with Dave Zwieback</a>
+      
+      
+        <a class="basic-alignment right" href="/2012/06/episode-17-testing-with-eric-g-wolfe.html" title="Next Post: Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol">Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+    
+    <!-- NOTE: Adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template set in _config.yml -->
+    <a href="http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#"><img src="/images/itunes.png" alt="Subscribe with iTunes" /></a>
+    <a href="http://feeds.feedburner.com/TheFoodFightShow"><img src="/images/feed_rss.png" alt="Subscribe with RSS" /></a>    
+    <a href="https://twitter.com/#!/foodfightshow"><img src="/images/feed_twitter.png" alt="Subscribe with iTunes" /></a>
+    
+    <h1>DevOps Links</h1>
+
+    <ul>
+    <li><a href="http://github.com/foodfight">FoodFightShow on Github</a></li>
+    <li><a href="http://devopsweekly.com/">DevOps Weekly Newsletter</a></li>
+    <li><a href="http://devopscafe.org/">DevOps Cafe</a></li>
+    <li><a href="http://jedi.be/">Patrick DeBois, the Godfather of DevOps</a></li>
+    <li><a href="http://dev2ops.com/">http://dev2ops.com</a></li>
+    </ul>
+    
+    <a href="http://wiki.opscode.com/" title="Chef Wiki at Opscode."><img src="/images/OC_Chef_Logo.png" /></a>
+    
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html">Roll Your Own PAAS! Mark Imbriaco and Alex Howells</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-18-monitoringsucks-with-lusis.html">Episode 18: #monitoringsucks with Lusis and Patrick Debois</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-17-testing-with-eric-g-wolfe.html">Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-16-chef-server-with-kevin-smith.html">Episode 16: Chef Server with Kevin Smith & Seth Falcon</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/05/episode-15-how-to-succeed-in-devops.html">Episode 15: How to Succeed in DevOps with Dave Zwieback</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <iframe src="http://tools.flattr.net/widgets/thing.html?thing=733271" width="272" height="250"></iframe>
+</section>
+
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/foodfight">@foodfight</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'foodfight',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("foodfightshow", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/foodfightshow" class="twitter-follow-button" data-show-count="false">Follow @foodfightshow</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Bryan Berry - Matt Ray - Nathen Harvey -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

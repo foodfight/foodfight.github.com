@@ -1,0 +1,322 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol - Food Fight</title>
+  <meta name="author" content="Bryan Berry - Matt Ray - Nathen Harvey">
+
+  
+  <meta name="description" content="Show Date: Wednesday, 6 June 2012Release Date:&nbsp; Tuesday, 12 June 2012 Download the episode. PanelEric G. Wolfe twitter, githubFletcher Nichol &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://foodfight.github.com/2012/06/episode-17-testing-with-eric-g-wolfe.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Food Fight" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32494051-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+    <a href="/"><img src="/images/foodfight_header.png" width="467" height="150" alt="Food Fight"></a>
+  
+    <h2>The Podcast where DevOps chefs do battle</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:foodfight.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Episode 17: Testing With Eric G. Wolfe & Fletcher Nichol</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-06-12T00:00:00-04:00" pubdate data-updated="true">Jun 12<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><div class='post'>
+Show Date:  Wednesday, 6 June 2012<br />Release Date:&nbsp; Tuesday, 12 June 2012 <br /><br /><a href="http://traffic.libsyn.com/foodfight/FoodFightShowEpisode17.mp3">Download the episode</a>. <!-- more --><br /><h1>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/scripts/episode17.md#panel" name="panel"></a>Panel</h1><ul><li>Eric G. Wolfe <a href="https://twitter.com/#%21/atomic_penguin">twitter</a>, <a href="http://github.com/atomic-penguin">github</a></li><li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li><li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com/">blog</a></li></ul><h1>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/scripts/episode17.md#outline" name="outline"></a>Outline</h1><ul><li>Introduction</li><li>What&#8217;s Cookin&#8217;</li><li>Testing Tools and Process</li></ul><br /><h2> In the News</h2><ul><li><a href="http://www.opscode.com/press-releases/opscode-announces-interoperability-with-windows-azure/">Chef interoperability with Windows Azure</a>, see <a href="https://github.com/opscode/knife-azure">knife-azure</a></li><li><a href="http://blog.lusis.org/blog/2012/06/05/monitoring-sucking-just-a-little-bit-less/">Monitoring Sucking Just a Little Bit Less</a> - <a href="http://twitter.com/lusis">@lusis</a></li><li><a href="http://nathenharvey.com/blog/2012/05/29/mvt-foodcritic-and-travis-ci/">MVT:  Foodcritic and TravisCI</a> - <a href="http://twitter.com/nathenharvey">Nathen Harvey</a></li><li><a href="http://dlutzy.wordpress.com/2012/05/31/running-it-like-a-rock-band/">Running IT like a Rock band</a> - <a href="http://twitter.com/dlutzy">David Lutzy</a></li><li><a href="http://commandlion.com/2012/06/03/every-sysadmin-three-languages/">Three languages every sysadmin should know</a> - <a href="http://twitter.com/josephkern">Joseph Kern</a></li><li><a href="http://radar.oreilly.com/2012/06/what-is-devops.html">What is DevOps</a> - O&#8217;Reilly Radar article by <a href="http://twitter.com/mikeloukides">Mike Loukides</a></li><li><a href="https://github.com/jclouds/jclouds-chef">jclouds-chef</a> java and clojure interface the chef-server API</li></ul><h2>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#new-cookbooks" name="new-cookbooks"></a>New Cookbooks</h2><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#bind-v005---atomic-penguin" name="bind-v005---atomic-penguin"></a><a href="http://community.opscode.com/cookbooks/bind">bind</a> v0.0.5 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></h3><ul><li>Allows you to create zones from databags or pull them from LDAP</li></ul><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#cerberus-v013---cixelsyd" name="cerberus-v013---cixelsyd"></a><a href="http://community.opscode.com/cookbooks/cerberus">cerberus</a> v0.1.3 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></h3><ul><li>Installs/Configures cerberus firewall manager for Windows 2003. The  key thought behind Cerberus&#8217; modus operandi is simple: define the  permitted ports and protocols in one databag and the permitted IP  addresses / ranges in another. Any IP inside the ip_permit databag would  have access to any of the declared ports.</li></ul><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#netcfg-v002---captspify" name="netcfg-v002---captspify"></a><a href="http://community.opscode.com/cookbooks/netcfg">netcfg</a> v0.0.2 - <a href="http://community.opscode.com/users/captspify">captspify</a></h3><ul><li>Installs/Configures netcfg using nslookup</li><li>This is Kyel Woodard&#8217;s first cookbook.  Why not take a moment to provide some feedback?</li></ul><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#omnibus_updater-v002---chrisroberts" name="omnibus_updater-v002---chrisroberts"></a><a href="http://community.opscode.com/cookbooks/omnibus_updater">omnibus_updater</a> v0.0.2 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></h3><ul><li>Update your omnibus! This cookbook can install the omnibus Chef  package into your system if you are currently running via gem install,  and it can keep your omnibus install up to date.</li></ul><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#ruby_installer-v001---chrisroberts" name="ruby_installer-v001---chrisroberts"></a><a href="http://community.opscode.com/cookbooks/ruby_installer">ruby_installer</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></h3><ul><li>This cookbook provides Ruby installation from a variety of places.  It also handles ohai reloading to ensure proper ruby/gem usage.</li></ul><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#chef-zabbix-custom-checks---v010---steffen-gebert" name="chef-zabbix-custom-checks---v010---steffen-gebert"></a><a href="https://github.com/StephenKing/chef-zabbix-custom-checks">chef-zabbix-custom-checks</a> - v0.1.0 - <a href="https://github.com/StephenKing">Steffen Gebert</a></h3><ul><li>Collection of custom checks for the Zabbix monitoring software used in the Server Admin team of the TYPO3 project.</li></ul><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#tasseo-v001---scriptfu" name="tasseo-v001---scriptfu"></a><a href="http://community.opscode.com/cookbooks/tasseo">tasseo</a> v0.0.1 - <a href="http://community.opscode.com/users/scriptfu">scriptfu</a></h3><ul><li>Tasseo is a lightweight, easily configurable, real-time dashboard for Graphite events.</li></ul><h3>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#rbenv_system_pkgs-v010---fletcher-nichol" name="rbenv_system_pkgs-v010---fletcher-nichol"></a><a href="http://fnichol.github.com/chef-rbenv_system_pkgs/">rbenv_system_pkgs</a> v0.1.0 - <a href="http://twitter.com/fnichol">Fletcher Nichol</a></h3><ul><li>Installs pre-built rbenv Ruby version tarballs in a system install.  It does this by subscribing to an rbenv post-init hook resource in the  rbenv cookbook and extracting the tarball packages into the versions/  directory before rbenv tries to build any Ruby versions. With the  directory pre-existing a source compile will not be initiated. This  cookbook only supports rbenv installed system-wide because the install  path is known and likely to not break (since the build target path and  extraction path match).</li><li>The cookbook&#8217;s README has instructions that you can follow to build  your own system tarball packages. The cookbook currently includes  tarballs for Ubuntu 10.04 through 12.04 on 32 and 64-bit covering some  common Ruby versions.</li></ul><h2>  <a class="anchor" href="https://github.com/foodfight/showz/blob/master/whats-cookin/episode_17.md#cookbook-updates" name="cookbook-updates"></a>Cookbook Updates</h2><ul><li><a href="http://community.opscode.com/cookbooks/minitest-handler">minitest-handler</a>  v0.0.7<br />  <ul><li>Add better examples to the readme</li><li>pass foodcritic</li><li>MINITEST-HANDLER-COOKBOOK-12 ensure minitest gem used and not the standard library in 1.9</li><li>MINITEST-HANDLER-COOKBOOK-11 Add support for Chef-Solo</li></ul></li><li><a href="http://fnichol.github.com/chef-rvm_passenger/">rvm_passenger</a> v0.8.2<br />  <ul><li>Fix nginx/passenger module compilation.</li><li>By default, cookbook now finds most current version of passenger gem.</li><li>By default, rvm_ruby is now &#8220;#{node[&#8216;rvm&#8217;][&#8216;default_ruby&#8217;]}/@passenger&#8221;.</li><li>Add support for CentOS 5/6.</li><li>Add Travis CI support for Foodcritic</li><li>Refactoring of all recipe code including some code extraction to a Ruby class (thank Foodcritic!)</li></ul></li><li><a href="http://fnichol.github.com/chef-rvm/">rvm</a> This cookbook  provides Ruby installation from a variety of places. It also handles  ohai reloading to ensure proper ruby/gem usage.) v0.9.0 (a.ka. ChefConf  edition, released right before I talked to @foodfightshow about  RVM/rbenv, oops!)<br />  <ul><li>Support for several newer RVM features including installing from stable</li><li>Add a new <code>patch</code> attribute to rvm_ruby which lets you use patches like the falcon performance patch</li><li>LWRPs can now notify other resources</li><li>Add Travis CI support for Foodcritic</li><li>Add wickedly pretty README site thanks to the DocumentUp project</li><li>Add support Mac OS X Server and Scientific Linux</li><li>Lots of patches and fixes</li><li>9 new committers contributing 11 pull requests of features and fixes.</li></ul></li><li><a href="http://community.opscode.com/cookbooks/logstash">logstash</a> v0.1.0 - <a href="http://community.opscode.com/users/lusis">lusis</a></li><li><a href="http://community.opscode.com/cookbooks/gem_installer">gem_installer</a> v0.1.2 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li><li><a href="https://github.com/lusis/logstash_handler">logstash_handler</a> - v0.0.1 - <a href="http://twitter.com/lusis">@lusis</a></li><li><a href="http://community.opscode.com/cookbooks/chef_gem">chef_gem</a> v0.0.3 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li><li><a href="http://community.opscode.com/cookbooks/datadog">datadog</a> v0.0.11 - <a href="http://community.opscode.com/users/miketheman">miketheman</a></li><li><a href="http://community.opscode.com/cookbooks/logster">logster</a> v0.0.3 - <a href="http://community.opscode.com/users/shr3kst3r">shr3kst3r</a></li><li><a href="http://community.opscode.com/cookbooks/cloudpassage">cloudpassage</a> v0.0.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li><li><a href="http://community.opscode.com/cookbooks/stoplight">stoplight</a> v0.1.4 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a><br />  <ul><li>Here&#8217;s an <a href="http://technology.customink.com/blog/2012/06/12/introducing-stoplight-greenscreen-2-dot-0/">introductory blog post</a></li></ul></li><li><a href="http://community.opscode.com/cookbooks/rsdns">rsdns</a> v0.0.4 - <a href="http://community.opscode.com/users/evan4498">evan4498</a></li><li><a href="http://community.opscode.com/cookbooks/raxmon-cli">raxmon-cli</a> v0.0.4 - <a href="http://community.opscode.com/users/evan4498">evan4498</a></li><li><a href="http://community.opscode.com/cookbooks/httplivestreamsegmenter">httplivestreamsegmenter</a> v0.0.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li><li><a href="http://community.opscode.com/cookbooks/hollandbackup">hollandbackup</a> v0.0.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li><li><a href="http://community.opscode.com/cookbooks/zncrypt">zncrypt</a> v0.1.1 - <a href="http://community.opscode.com/users/egarcia">egarcia</a></li><li><a href="http://community.opscode.com/cookbooks/ldapknife">ldapknife</a> v0.0.8 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a></li></ul><h4> Picks</h4><ul><li>Eric<br />  <ul><li><a href="http://virtualweberbullet.com/fireup2.html">Minion Method</a> for grilling</li><li><a href="http://www.humblebundle.com/">Psychonauts (Humble Indie Bundle)</a></li></ul></li><li>Fletcher<br />  <ul><li><a href="https://github.com/guard/guard">guard</a></li><li><a href="https://github.com/zimbatm/direnv">direnv</a> - <a href="https://github.com/fnichol/chef-bootstrap-repo">examples</a></li></ul></li><li>Nathen<br />  <ul><li><a href="http://technology.customink.com/blog/2012/06/12/introducing-stoplight-greenscreen-2-dot-0/">Stoplight</a></li><li><a href="http://www.youtube.com/watch?v=o2e0aZUAVGw">Test-driven Development for Chef Practitioners</a></li><li><a href="http://www.foodfightshow.org/2012/04/episode-10-testallthethings-testing.html">Episode 10: TESTALLTHETHINGS, Testing Infrastructure</a></li></ul><br /><br /><br />Do you have cookbook news that you&#8217;d like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a><br />  Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a>!<br /><br /> </li></ul><a href="http://traffic.libsyn.com/foodfight/FoodFightShowEpisode17.mp3">Download the episode</a>.</div>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Bryan Berry - Matt Ray - Nathen Harvey</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-06-12T00:00:00-04:00" pubdate data-updated="true">Jun 12<span>th</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://foodfight.github.com/2012/06/episode-17-testing-with-eric-g-wolfe.html" data-via="foodfightshow" data-counturl="http://foodfight.github.com/2012/06/episode-17-testing-with-eric-g-wolfe.html" >Tweet</a>
+  
+  
+  
+  
+      <!-- http://blog.simonszu.de/2012/02/flattr-fur-octopress/ -->
+<a class="FlattrButton" style="display:none;"
+    title="Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol"
+    data-flattr-uid="foodfightshow"
+    data-flattr-tags=""
+    data-flattr-button="compact"
+    data-flattr-category="text"
+    href="http://foodfight.github.com/2012/06/episode-17-testing-with-eric-g-wolfe.html">
+    
+</a>
+
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2012/06/episode-16-chef-server-with-kevin-smith.html" title="Previous Post: Episode 16: Chef Server with Kevin Smith & Seth Falcon">&laquo; Episode 16: Chef Server with Kevin Smith & Seth Falcon</a>
+      
+      
+        <a class="basic-alignment right" href="/2012/06/episode-18-monitoringsucks-with-lusis.html" title="Next Post: Episode 18: #monitoringsucks with Lusis and Patrick Debois">Episode 18: #monitoringsucks with Lusis and Patrick Debois &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+    
+    <!-- NOTE: Adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template set in _config.yml -->
+    <a href="http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#"><img src="/images/itunes.png" alt="Subscribe with iTunes" /></a>
+    <a href="http://feeds.feedburner.com/TheFoodFightShow"><img src="/images/feed_rss.png" alt="Subscribe with RSS" /></a>    
+    <a href="https://twitter.com/#!/foodfightshow"><img src="/images/feed_twitter.png" alt="Subscribe with iTunes" /></a>
+    
+    <h1>DevOps Links</h1>
+
+    <ul>
+    <li><a href="http://github.com/foodfight">FoodFightShow on Github</a></li>
+    <li><a href="http://devopsweekly.com/">DevOps Weekly Newsletter</a></li>
+    <li><a href="http://devopscafe.org/">DevOps Cafe</a></li>
+    <li><a href="http://jedi.be/">Patrick DeBois, the Godfather of DevOps</a></li>
+    <li><a href="http://dev2ops.com/">http://dev2ops.com</a></li>
+    </ul>
+    
+    <a href="http://wiki.opscode.com/" title="Chef Wiki at Opscode."><img src="/images/OC_Chef_Logo.png" /></a>
+    
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html">Roll Your Own PAAS! Mark Imbriaco and Alex Howells</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-18-monitoringsucks-with-lusis.html">Episode 18: #monitoringsucks with Lusis and Patrick Debois</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-17-testing-with-eric-g-wolfe.html">Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/06/episode-16-chef-server-with-kevin-smith.html">Episode 16: Chef Server with Kevin Smith & Seth Falcon</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2012/05/episode-15-how-to-succeed-in-devops.html">Episode 15: How to Succeed in DevOps with Dave Zwieback</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <iframe src="http://tools.flattr.net/widgets/thing.html?thing=733271" width="272" height="250"></iframe>
+</section>
+
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/foodfight">@foodfight</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'foodfight',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("foodfightshow", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/foodfightshow" class="twitter-follow-button" data-show-count="false">Follow @foodfightshow</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Bryan Berry - Matt Ray - Nathen Harvey -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
