@@ -9,13 +9,13 @@ categories: devops
 
 Show Date:  Tuesday, 3 July 2012
 
-* [Panel](#panel)
+* [Panel](http://foodfightshow.org/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html#panel)
 * What's Cookin'
-  * [In the News](#news)
-  * [Cookbook News](#cookbooks)
-* [Picks](#picks)
+  * [In the News](http://foodfightshow.org/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html#cookbooks)
+* [Picks](http://foodfightshow.org/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/ffs19_3.mp3)
-
+<!-- more -->
 Panel<a name="panel"></a>
 -----
 
