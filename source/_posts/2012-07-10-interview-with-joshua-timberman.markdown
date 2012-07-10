@@ -4,6 +4,12 @@ title: "Interview with Joshua Timberman, King of Sysadmins"
 date: 2012-07-10 12:36
 comments: true
 categories: 
+  - jtimberman
+  - chef
+  - cookbooks
+  - shef
+  - community
+  - testing
 ---
 Show Date:  Tuesday, 10 July 2012
 
