@@ -19,7 +19,7 @@ Show Date:  Tuesday, 10 July 2012
   * [Cookbook News](#cookbooks)
 * [Picks](#picks)
 * [Outline](#outline)
-* [Download](http://traffic.libsyn.com/foodfight/ffs20_3.mp3)
+* [Download](http://traffic.libsyn.com/foodfight/ffs20_4.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -126,7 +126,7 @@ Picks<a name="picks"></a>
 #### Bryan
 * haproxy - I do all of my http routing w/ it
 * Bon Iver - beautiful music but really depressing
-* anti-pick - Launchpad, it sucks
+* anti-pick - [Launchpad](http://launchpad.net), I don't like it
 
 #### Nathen
 * ldirectord - I do all of my http AND https routing with it!
@@ -134,14 +134,19 @@ Picks<a name="picks"></a>
 * beer pick - [Fordham Copperhead Ale](http://fordhambrewing.com/our-brews/)
 
 #### Matt
+* [Tobolowsky files](http://stephentobolowsky.wordpress.com/the-tobolowsky-files/)
+* The Mythical Man Month
 
 #### Joshua
-
+* anti-pick - lawn maintenance
+* listening to 80's synth pop and industrial music on [rdio](http://rdio.com)
+* Instapaper
+* Pathfinder - offshoot of dungeons and dragons
 
 Download
 --------
 
-Interview with Joshua Timberman, King of Sysadmins:  [Download here](http://traffic.libsyn.com/foodfight/ffs20_3.mp3)
+Interview with Joshua Timberman, King of Sysadmins:  [Download here](http://traffic.libsyn.com/foodfight/ffs20_4.mp3)
 
 Website Credit
 --------------
