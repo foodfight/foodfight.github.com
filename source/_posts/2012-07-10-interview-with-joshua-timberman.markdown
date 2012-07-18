@@ -13,13 +13,15 @@ categories:
 ---
 Show Date:  Tuesday, 10 July 2012
 
-* [Panel](#panel)
+* [Panel](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#panel)
 * What's Cookin'
-  * [In the News](#news)
-  * [Cookbook News](#cookbooks)
-* [Picks](#picks)
-* [Outline](#outline)
+  * [In the News](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#cookbooks)
+* [Picks](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#picks)
+* [Outline](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#outline)
 * [Download](http://traffic.libsyn.com/foodfight/ffs20_4.mp3)
+
+<!-- more -->
 
 Panel<a name="panel"></a>
 -----
