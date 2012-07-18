@@ -17,12 +17,12 @@ categories:
 ---
 Show Date:  Tuesday, 17 July 2012
 
-* [Panel](#panel)
+* [Panel](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#panel)
 * What's Cookin'
-  * [In the News](#news)
-  * [Cookbook News](#cookbooks)
-* [Picks](#picks)
-* [Outline](#outline)
+  * [In the News](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#cookbooks)
+* [Picks](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#picks)
+* [Outline](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#outline)
 * [Download](http://traffic.libsyn.com/foodfight/ffs21_3.mp3)
 
 Panel<a name="panel"></a>
