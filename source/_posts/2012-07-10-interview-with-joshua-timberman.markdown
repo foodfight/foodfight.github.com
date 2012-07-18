@@ -135,7 +135,7 @@ Picks<a name="picks"></a>
 
 #### Matt
 * [Tobolowsky files](http://stephentobolowsky.wordpress.com/the-tobolowsky-files/)
-* The Mythical Man Month
+* [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 #### Joshua
 * anti-pick - lawn maintenance
