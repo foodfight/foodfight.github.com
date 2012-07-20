@@ -25,6 +25,8 @@ Show Date:  Tuesday, 17 July 2012
 * [Picks](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/ffs21_3.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
@@ -32,8 +34,6 @@ Panel<a name="panel"></a>
 * Tim Dysinger [github](https://github.com/dysinger/), [twitter](http://twitter.com/dysinger)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-
-<!-- more -->
 
 In the News<a name="news"></a>
 -----------
