@@ -21,7 +21,6 @@ Show Date:  Thursday, 19 July 2012
   * [Cookbook News](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#cookbooks)
 * [Outline](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#outline)
 * [Picks](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#picks)
-* [Download](http://traffic.libsyn.com/foodfight/FoodFightShow22-BeingAForceForAwesome.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -103,7 +102,6 @@ Picks<a name="picks"></a>
 Download
 --------
 
-Changing Culture &amp; Being a Force for Awesome with Jesse Robbins:  [Download here](http://traffic.libsyn.com/foodfight/FoodFightShow22-BeingAForceForAwesome.mp3)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to [info@foodfightshow.org](mailto:info@foodfightshow.org).
 
