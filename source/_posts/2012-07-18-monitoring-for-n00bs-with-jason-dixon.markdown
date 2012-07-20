@@ -33,6 +33,8 @@ Panel<a name="panel"></a>
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 
+<!-- more -->
+
 In the News<a name="news"></a>
 -----------
 * [On Resilience in Automated Systems](http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html) by Matthias Meyer - would be a great topic for the show
