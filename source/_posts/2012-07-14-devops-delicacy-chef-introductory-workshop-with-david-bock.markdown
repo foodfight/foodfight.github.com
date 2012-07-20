@@ -15,6 +15,9 @@ Show Date:  Friday, 13 Jul 2012
 * [Outline](http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html#outline)
 * [Download](http://traffic.libsyn.com/foodfight/FoodFightShow-Delicacy-IntroToChefCourse.mp3 )
 
+**Show note** Apologies for the background noise in the second and third interview sessions.
+
+<!-- more -->
 
 Panel<a name="panel"></a>
 -----
@@ -25,8 +28,6 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 For this DevOps Delicacy, Nathen met with [David Bock](https://github.com/bokmann) to talk about the Chef Introductory Workshop.  We met before, during, and after the course and discussed David's expectations of the class, prior experience with Chef, thoughts on the class and more.
-
-**Show note** Apologies for the background noise in the second and third interview sessions.
 
 Download
 --------
