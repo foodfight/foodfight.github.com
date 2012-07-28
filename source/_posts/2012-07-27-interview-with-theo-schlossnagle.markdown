@@ -18,7 +18,7 @@ Show Date:  Thursday, 26 July 2012
   * [Cookbook News](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#cookbooks)
 * [Outline](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#outline)
 * [Picks](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#picks)
-* [Download]()
+* [Download](http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -146,4 +146,4 @@ Until next time, Keep It Hot!
 
 Download
 --------
-
+Episode 23 - Interview with Theo Schlossnagle:  [Download here](http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3)
