@@ -23,6 +23,8 @@ Show Date:  Thursday, 19 July 2012
 * [Picks](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/FoodFightShow22-BeingAForceForAwesome1.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 * Jesse Robbins [github](https://github.com/jesserobbins), [twitter](https://twitter.com/jesserobbins)
