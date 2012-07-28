@@ -14,6 +14,7 @@ categories:
   - logstash
   - statsd
   - logster
+  - circonus
 ---
 Show Date:  Tuesday, 17 July 2012
 
