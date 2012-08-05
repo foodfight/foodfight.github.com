@@ -3,22 +3,36 @@ layout: post
 title: "Jamie Winsor and Michael Ivey Skool us on Berkshelf"
 date: 2012-08-03 16:33
 comments: true
-categories: chef,devops,vagrant,berkshelf
+categories: 
+  - chef
+  - devops
+  - vagrant
+  - berkshelf
+  - resetexistence
+  - ivey
+  - foodcritic
+  - testing
 ---
 
 Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA
 
+* [Panel](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#panel)
+* What's Cookin'
+  * [In the News](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#cookbooks)
+* [Outline](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#outline)
+* [Picks](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#picks)
+* [Download](http://traffic.libsyn.com/foodfight/ffs24_3.mp3)
+
+
 Panel<a name="panel"></a>
 -----
 
-* [Jamie Winsor](http://vialstudios.com/)
-* [Michael Ivey](http://gweezlebur.com/)
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* [Jamie Winsor](http://vialstudios.com/), [github](https://github.com/reset), [twitter](https://twitter.com/resetexistence)
+* Michael Ivey, [github](https://github.com/ivey), [twitter](https://twitter.com/ivey), [blog](http://gweezlebur.com/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-* [Download](http://traffic.libsyn.com/foodfight/ffs24_3.mp3)
-<!-- more -->
 
 In the News<a name="news"></a>
 -----------
@@ -122,10 +136,10 @@ We talked about jmxtrans in the last episode, it's now available on the communit
 * [cgroups](http://community.opscode.com/cookbooks/cgroups) v0.0.1 - [lucky-sideburn](http://community.opscode.com/users/lucky-sideburn)
 * [artifact](http://community.opscode.com/cookbooks/artifact) v0.10.2 - [reset](http://community.opscode.com/users/reset)
 
-Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
+Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to [info@foodfightshow.org](mailto:info@foodfightshow.org)
 
 
-Bryan's show notes
+Bryan's show notes<a name="outline"></a>
 -----------------
 
 * Michael and jamie work on Deployment Automation team at RiotGames
@@ -154,7 +168,7 @@ Picks<a name="picks"></a>
 #### Nathen  
 
 * [rspec testing your DNS](http://technology.customink.com/blog/2012/07/31/easily-test-your-dns/)
-* [Seth Vargo](http://twitter.com/sethvargo)
+* [Seth Vargo](http://github.com/sethvargo)
 * music pick: [Mayer Hawthorne](http://mayerhawthorne.com/#!all)
 
 #### Michael
@@ -171,7 +185,7 @@ CLOSE
 -----
 
 Please take the time to rate us on itunes and to send your cookbook
-news to info@foodfightshow.org
+news to [info@foodfightshow.org](mailto:info@foodfightshow.org).
 
 Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
 
