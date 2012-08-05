@@ -20,6 +20,8 @@ Show Date:  Thursday, 26 July 2012
 * [Picks](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
