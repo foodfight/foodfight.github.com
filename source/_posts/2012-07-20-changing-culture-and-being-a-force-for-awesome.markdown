@@ -10,7 +10,7 @@ categories:
   - emergency services
   - firefighting
   - culture
-  - community 
+  - community
 ---
 Show Date:  Thursday, 19 July 2012
 
