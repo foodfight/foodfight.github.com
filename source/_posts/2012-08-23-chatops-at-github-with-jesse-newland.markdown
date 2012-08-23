@@ -121,17 +121,6 @@ In the News<a name="news"></a>
   come out. The attendance fee is trivial and Bryan's wife has agreed that
   you can all stay in his spare bedroom. all of you ;).
   
-## Special Offers
-
-* Do you know someone who needs help getting started with Chef?
-  Be sure to use the promo code "FOODFIGHT" (in all caps) to save 10%
-  on your registration for Opscode Workshops.
-
-* In [episode 23](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html)
-  we talked about Surge Conf, coming up in September.  If you haven't
-  picked up your tickets yet, be sure to use the discount code
-  "MeetUp" (capital "M" and capital "U") to save 10%. Tickets are going 
-  fast so get yours today!
   
 
 Cookbook News<a name="cookbooks"></a>
