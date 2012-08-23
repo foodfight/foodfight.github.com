@@ -16,6 +16,16 @@ categories:
 
 Show Date:  22 August 2012, 13:00 PST
 
+* [Panel](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html#panel)
+* What's Cookin'
+  * [In the News](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html#cookbooks)
+* [Outline](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html#outline)
+* [Picks](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html#picks)
+* [Download](http://traffic.libsyn.com/foodfight/ffs25_3.mp3)
+
+
+
 Panel<a name="panel"></a>
 -----
 
@@ -110,7 +120,6 @@ In the News<a name="news"></a>
   
 ## Upcoming Meetup Groups
 
-**N**
 * [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) will be meeting on 
   Tuesday, August 28 to talk about [Team Development Workflows with Chef](www.meetup.com/Chef-BOSTON/events/76035282/)
 * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group)
@@ -161,7 +170,6 @@ Sets up Kafka
 * [ipmitool](http://community.opscode.com/cookbooks/ipmitool) v1.0.0 - [retr0h](http://community.opscode.com/users/retr0h)
 * [lldpd](http://community.opscode.com/cookbooks/lldpd) v1.0.0 - [retr0h](http://community.opscode.com/users/retr0h)
 
-**N**
 [Chris Roberts](http://community.opscode.com/users/chrisroberts) is back this week with three new cookbooks:
 * [red_unicorn](http://community.opscode.com/cookbooks/red_unicorn) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 This cookbook installs the red_unicorn gem and provides an easy to use LWRP for configuring a unicorn application with bluepill monitoring.
@@ -177,7 +185,6 @@ Installs/Configures jboss
 * [atg](http://community.opscode.com/cookbooks/atg) v1.0.0 - [jpipe](http://community.opscode.com/users/jpipe)
 Configures atg on jboss
 
-**N**
 And, last but not least, the [ssl](http://community.opscode.com/cookbooks/ssl) cookbook from Wes Morgan
 * [ssl](http://community.opscode.com/cookbooks/ssl) v1.0.7 - [cap10morgan](http://community.opscode.com/users/cap10morgan)
 A recipe for setting up system-wide SSL certs on Ubuntu / Debian systems. Sets up SSL certs and keys from an encrypted data bag.
@@ -193,7 +200,6 @@ about these cookbooks:
 * [mysql](http://community.opscode.com/cookbooks/mysql) v1.3.0
 * [postgres](http://community.opscode.com/cookbooks/postgresql) v1.0.0
 
-**N**
 * [ack](http://community.opscode.com/cookbooks/ack) v1.0.0 - [cap10morgan](http://community.opscode.com/users/cap10morgan)
 * [awstats](http://community.opscode.com/cookbooks/awstats) v0.2.2 - [madolphs](http://community.opscode.com/users/madolphs)
 * [bind](http://community.opscode.com/cookbooks/bind) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
@@ -277,8 +283,6 @@ Picks<a name="picks"></a>
 #### Bryan  
 
 * [Daniel Suarez interview](http://twit.tv/show/triangulation/64) on Triangulation
-* Anti-pick, [episode 49](http://www.thecloudcast.net/2012/08/the-cloudcast-eps49-application.html)
- of the [cloudcast](http://thecloudcast.net)
 * [Norman Centuries podcast](http://normancenturies.com/)
 * [Dominus Tripel](http://beer.uvinum.com/dominus-tripel) amazing belgian tripel
 
@@ -311,3 +315,8 @@ Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
 Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
 
 Outro Music by [David Lutz](https://twitter.com/dlutzy), the NoOps song!
+
+Download
+--------
+
+"ChatOps at Github with Jesse Newland: [Download here](http://traffic.libsyn.com/foodfight/ffs25_3.mp3)

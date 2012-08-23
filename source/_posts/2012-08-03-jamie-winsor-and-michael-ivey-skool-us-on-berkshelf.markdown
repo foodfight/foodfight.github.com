@@ -23,7 +23,7 @@ Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA
 * [Outline](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#outline)
 * [Picks](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/ffs24_3.mp3)
-
+ 
 
 Panel<a name="panel"></a>
 -----
