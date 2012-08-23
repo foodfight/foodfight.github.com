@@ -29,7 +29,7 @@ Show Date:  22 August 2012, 13:00 PST
 Panel<a name="panel"></a>
 -----
 
-* [Jesse Newland](http://twitter.com/jnewland), who does ops at github
+* Jesse Newland, who does ops at github. [github](https://github.com/jnewland), [twitter](http://twitter.com/jnewland)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
@@ -42,17 +42,19 @@ In the News<a name="news"></a>
   command which can be used in place of `knife cookbook create`. It
   will generate a Vagrantfile, .gitignore, Gemfile, and even a
   Thorfile with a foodcritic task.  
- * [Jamie  Winsor](http://vialstudios.com) has released version 0.0.2
+ 
+* [Jamie  Winsor](http://vialstudios.com) has released version 0.0.2
   of [ridley](https://github.com/reset/ridley) a reliable Chef API
   client with a simple intuitive DSL. Also, it is threadsafe and
   supports multiple connections per thread. Lastly it works with
   Hosted Chef, Open Source Chef, and private Chef.
+
 * [Archlinux may be switching](http://news.ycombinator.com/item?id=4383243) its default
   init system from the Old Skool sysv init system to
   [systemd](http://www.freedesktop.org/wiki/Software/systemd/).   
- * Yosefk had a great blog post [What "Worse is Better vs The
-  Right Thing" is really about]
-  (http://www.yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html).
+
+* Yosefk had a great blog post [What "Worse is Better vs The
+  Right Thing" is really about](http://www.yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html).
   tl;dr an evolved system will beat the best designed system. The
   article has a great quote from linus
  <blockquote>Don't underestimate the power of survival of the fittest. And don't
@@ -85,8 +87,8 @@ In the News<a name="news"></a>
   let him know! I vote for a screencast on how to use Composer.
 
 * The open-sourcing of erChef has begun! There are bunch of erChef
-  repos now in https://github.com/opscode, just to name a few
-  chef_objects, chef_db, chef_index, and more on the way!
+  repos now in [https://github.com/opscode](https://github.com/opscode), just to name a few
+  [chef_objects](https://github.com/opscode/chef_objects), [chef_db](https://github.com/opscode/chef_db), [chef_index](https://github.com/opscode/chef_index), and more on the way!
 
  * We've hinted at this project before but now it's finally out.
   [Test-kitchen](https://github.com/opscode/test-kitchen) is a
@@ -111,7 +113,7 @@ In the News<a name="news"></a>
   machine-abstraction branch into vagrant master that abstracts all
   the virtualbox-specific code into a plugin. This means you can now
   add support for an additional virtualization platform through a
-  plugin. btw, we will have mitchellh and pdebois on the show in early
+  plugin. btw, we will have [mitchellh](https://twitter.com/mitchellh) and [pdebois](http://twitter.com/pdebois) on the show in early
   September to talk about the future of Vagrant!
   
 ## Upcoming Meetup Groups
@@ -137,6 +139,7 @@ It's been a while since our last show and the Chefs have been busy!  We've got 2
 
 #### Windows
 [Timothy Smith](http://community.opscode.com/users/tas50) has been very busy cranking out some Windows Cookbooks including:
+
 * [ad-auth](http://community.opscode.com/cookbooks/ad-auth) v1.0.4 - [tas50](http://community.opscode.com/users/tas50)
 Configures Active Directory authentication support using Likewise Open 6
 * [firefox](http://community.opscode.com/cookbooks/firefox) v1.0.0 - [tas50](http://community.opscode.com/users/tas50)
@@ -151,14 +154,14 @@ This cookbook installs FileZilla Client 3.5.3 on Windows
 This cookbook installs the Microsoft Message Queueing service
 
 Lest you think [Timothy](http://community.opscode.com/users/tas50) only works on Windows, he's also released two cookbooks for use on linux:
+
 * [hp-tools](http://community.opscode.com/cookbooks/hp-tools) v0.3.0 - [tas50](http://community.opscode.com/users/tas50) - Timothy Smith
 This cookbook installs the HP Management tools including the HP System Management Homepage
 * [kafka](http://community.opscode.com/cookbooks/kafka) v1.0.8 - [tas50](http://community.opscode.com/users/tas50)
 Sets up Kafka
 
-
-
 [John Dewey](http://community.opscode.com/users/retr0h) has released a bunch of cookbooks for useful utilities (is that redundant?)
+
 * [curl](http://community.opscode.com/cookbooks/curl) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
 * [dstat](http://community.opscode.com/cookbooks/dstat) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
 * [ethtool](http://community.opscode.com/cookbooks/ethtool) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
@@ -167,6 +170,7 @@ Sets up Kafka
 * [lldpd](http://community.opscode.com/cookbooks/lldpd) v1.0.0 - [retr0h](http://community.opscode.com/users/retr0h)
 
 [Chris Roberts](http://community.opscode.com/users/chrisroberts) is back this week with three new cookbooks:
+
 * [red_unicorn](http://community.opscode.com/cookbooks/red_unicorn) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 This cookbook installs the red_unicorn gem and provides an easy to use LWRP for configuring a unicorn application with bluepill monitoring.
 * [control_groups](http://community.opscode.com/cookbooks/control_groups) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
@@ -176,12 +180,14 @@ Create bridges
 
 
 We've got two cookbooks from [John Larsen](http://community.opscode.com/users/jpipe)
+
 * [jboss-atg](http://community.opscode.com/cookbooks/jboss-atg) v0.0.3 - [jpipe](http://community.opscode.com/users/jpipe)
 Installs/Configures jboss
 * [atg](http://community.opscode.com/cookbooks/atg) v1.0.0 - [jpipe](http://community.opscode.com/users/jpipe)
 Configures atg on jboss
 
 And, last but not least, the [ssl](http://community.opscode.com/cookbooks/ssl) cookbook from Wes Morgan
+
 * [ssl](http://community.opscode.com/cookbooks/ssl) v1.0.7 - [cap10morgan](http://community.opscode.com/users/cap10morgan)
 A recipe for setting up system-wide SSL certs on Ubuntu / Debian systems. Sets up SSL certs and keys from an encrypted data bag.
 
@@ -231,7 +237,7 @@ about these cookbooks:
 
 
  
-Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
+Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to [info@foodfightshow.org](mailto:info@foodfightshow.org).
 
 
 
@@ -285,12 +291,13 @@ Picks<a name="picks"></a>
 #### lusis  
 
 * [CoolVue iPad Mount](http://toucoul.com/products/coulvue-for-ipad-2)
-* Enstratus
+* [Enstratus](http://enstratus.com/)
+* [Three Philosophers](http://www.ommegang.com/#!beer_three) from Ommegang Brewery
 
 #### Nathen  
 
 * Swapping control and caps lock on your keyboard
-* https://noplaintext.com/
+* [https://noplaintext.com/](https://noplaintext.com/)
 * [Bengali Tiger](http://sixpoint.com/beers/core/bengalitiger) from Sixpoint Brewery.
 
 #### Jesse
@@ -304,7 +311,7 @@ CLOSE
 -----
 
 Please take the time to rate us on itunes and to send your cookbook
-news to info@foodfightshow.org
+news to [info@foodfightshow.org](mailto:info@foodfightshow.org)
 
 Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
 
