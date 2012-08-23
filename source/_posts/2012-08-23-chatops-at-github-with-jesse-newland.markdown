@@ -37,12 +37,8 @@ Panel<a name="panel"></a>
 In the News<a name="news"></a>
 -----------
 
- * [Jamie
-  Winsor](http://vialstudios.com) has started a guide on [how to author
-  a cookbook the berkshelf
-  way](http://vialstudios.com/guide-authoring-cookbooks.html). It is
-  still a work in progress but it is a great primer on the Riot Games'
-  way of cookbook development. Of special note is the `berks cookbook`
+ * [Jamie  Winsor](http://vialstudios.com) has started a guide on [how to author
+  a cookbook the berkshelf way](http://vialstudios.com/guide-authoring-cookbooks.html). It is still a work in progress but it is a great primer on the Riot Games' way of cookbook development. Of special note is the `berks cookbook`
   command which can be used in place of `knife cookbook create`. It
   will generate a Vagrantfile, .gitignore, Gemfile, and even a
   Thorfile with a foodcritic task.  
