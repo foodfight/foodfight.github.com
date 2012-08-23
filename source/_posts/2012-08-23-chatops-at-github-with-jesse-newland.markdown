@@ -322,4 +322,4 @@ Outro Music by [David Lutz](https://twitter.com/dlutzy), the NoOps song!
 Download
 --------
 
-"ChatOps at Github with Jesse Newland: [Download here](http://traffic.libsyn.com/foodfight/ffs25_3.mp3)
+ChatOps at Github with Jesse Newland: [Download here](http://traffic.libsyn.com/foodfight/ffs25_3.mp3)
