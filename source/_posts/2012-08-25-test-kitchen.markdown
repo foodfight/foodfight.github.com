@@ -54,14 +54,14 @@ In the News<a name="news"></a>
 ### Upcoming Meetup Groups and Events
 
 * [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) will be meeting on
-  Tuesday, August 28 to talk about [Team Development Workflows with Chef](www.meetup.com/Chef-BOSTON/events/76035282/)
+  Tuesday, August 28 to talk about [Team Development Workflows with Chef](http://www.meetup.com/Chef-BOSTON/events/76035282/)
 * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group)
   will host another Chef Cafe on Thursday, September 6
-* Bryan McLellan(http://twitter.com/btmspox) will be presenting at the
+* [Bryan McLellan](http://twitter.com/btmspox) will be presenting at the
   Nagios World Conference North America in September.  He'll be
   discussing [Configuring Chef with Nagios](http://www.nagios.com/events/nagiosworldconference/northamerica/2012/speakers/#bmclellan).
 
-### Special Offers
+### Special Offers<a name="offer"></a>
 
 * Do you know someone who needs help getting started with Chef?
   Be sure to use listen to the episode for a discount code for
@@ -130,7 +130,7 @@ Picks<a name="picks"></a>
 * [Rumble IPA](http://greatdivide.com/beer/seasonal/rumble-ipa/) from Great Divide Brewing Co.
 * [Nike Golf 360&deg; iPhone App](http://itunes.apple.com/us/app/nike-golf-360/id527331403?mt=8)
 * [@honesttoddler](http://twitter.com/honesttoddler)
-* [AD&amp;D 1st Edition Premium Players Handbook](www.amazon.com/Edition-Premium-Players-Handbook-Dungeons/dp/0786962437)
+* [AD&amp;D 1st Edition Premium Players Handbook](http://www.amazon.com/Edition-Premium-Players-Handbook-Dungeons/dp/0786962437)
 
 Download
 --------
