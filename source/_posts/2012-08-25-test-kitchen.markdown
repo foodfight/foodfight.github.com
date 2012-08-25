@@ -19,6 +19,8 @@ Show Date:  Thursday, 23 August 2012
   * [Cookbook News](http://foodfightshow.org/2012/08/test-kitchen.html#cookbooks)
 * [Outline](http://foodfightshow.org/2012/08/test-kitchen.html#outline)
 * [Picks](http://foodfightshow.org/2012/08/test-kitchen.html#picks)
+* [Test Kitchen Announcement](http://www.opscode.com/blog/2012/08/17/announcing-test-kitchen/)
+* [Test Kitchen Repo](https://github.com/opscode/test-kitchen)
 * [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-26-Test-Kitchen.mp3)
 
 Panel<a name="panel"></a>
@@ -137,6 +139,8 @@ Download
 
 Test Kitchen with Joshua Timberman &amp; Andrew Crump:  [Download here](http://traffic.libsyn.com/foodfight/Food-Fight-Show-26-Test-Kitchen.mp3)
 
+* [Test Kitchen Announcement](http://www.opscode.com/blog/2012/08/17/announcing-test-kitchen/)
+* [Test Kitchen Repo](https://github.com/opscode/test-kitchen)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to [info@foodfightshow.org](mailto:info@foodfightshow.org).
 
