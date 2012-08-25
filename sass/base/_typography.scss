@@ -37,7 +37,7 @@ h1 {
 }
 
 @media only screen and (min-width: 992px) {
-  body { font-size: 1.15em; }
+  body { font-size: 1em; }
   h1 { font-size: 2.6em; line-height: 1.2em; }
 }
 
@@ -101,7 +101,7 @@ sub, sup { line-height: 0; }
 
 hr { margin-bottom: 0.2em; }
 
-small { font-size: .8em; }
+small { font-size: .5em; }
 
 big { font-size: 1.2em; }
 
@@ -109,7 +109,7 @@ blockquote {
   $bq-margin: 1.2em;
   font-style: italic;
   position: relative;
-  font-size: 1.2em;
+  font-size: .9em;
   line-height: 1.5em;
   padding-left: 1em;
   border-left: 4px solid rgba($text-color-light, .5);
