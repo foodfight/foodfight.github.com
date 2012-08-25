@@ -24,7 +24,7 @@ Show Date:  22 August 2012, 13:00 PST
 * [Picks](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/ffs25_3.mp3)
 
-
+<!-- more --> 
 
 Panel<a name="panel"></a>
 -----
