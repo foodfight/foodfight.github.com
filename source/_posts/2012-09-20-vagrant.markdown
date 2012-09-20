@@ -24,7 +24,7 @@ Show Date:  Tuesday, 11 September 2012
 Panel<a name="panel"></a>
 -----
 * Mitchell Hashimoto [github](https://github.com/mitchellh), [twitter](https://twitter.com/mitchellh)
-* Patrick DeBois [github](https://github.com/jedi4ever), [twitter](https://twitter.com/patrickdebois), [blog](http://www.jedi.be/blog)
+* Patrick Debois [github](https://github.com/jedi4ever), [twitter](https://twitter.com/patrickdebois), [blog](http://www.jedi.be/blog)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
