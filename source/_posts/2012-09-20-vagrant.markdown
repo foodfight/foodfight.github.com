@@ -15,11 +15,9 @@ categories:
 Show Date:  Tuesday, 11 September 2012
 
 * [Panel](http://foodfightshow.org/2012/09/vagrant.html#panel)
-* [Special Offer](http://foodfightshow.org/2012/09/vagrant.html#offer)
 * What's Cookin'
   * [In the News](http://foodfightshow.org/2012/09/vagrant.html#news)
   * [Cookbook News](http://foodfightshow.org/2012/09/vagrant.html#cookbooks)
-* [Outline](http://foodfightshow.org/2012/09/vagrant.html#outline)
 * [Picks](http://foodfightshow.org/2012/09/vagrant.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-27-Vagrant.mp3)
 
@@ -33,7 +31,7 @@ Panel<a name="panel"></a>
 In the News<a name="news"></a>
 -----------
 
-* [Chef 10.14 has been released!].  Since we recorded the last podcast there have actually been a number of Chef releases in the 10.14 series
+* Chef 10.14 has been released!  Since we recorded the last podcast there have actually been a number of Chef releases in the 10.14 series
 * And if Chef 10.14 isn't enough to get you really excited, you can now [Test Drive the Chef 11 Server Preview](http://www.opscode.com/blog/2012/08/31/test-drive-the-chef-11-server-preview/).  This preview is the erchef powered Chef Server using omnibus installer on Ubuntu 10.04.
 * Dan Ryan released [Mastermind](https://github.com/danryan/mastermind), an infrastructure orchestration engine. It provides the ability to compose and automate complex tasks with predefined and reproducible outcomes.
 * Dan has also released [woodchuck](https://github.com/danryan/woodchuck) a lightweight log shipper for logstash written in Ruby.
@@ -64,38 +62,36 @@ In the News<a name="news"></a>
 
 * The [Chef-NYC](http://www.meetup.com/Chef-NYC/) group is meeting on October 16th for an [An Introduction to Shef, The Chef Shell](http://www.meetup.com/Chef-NYC/events/82345952/)
 
-###  Special Offers
-
-* Opscode is offering lots of Introductory Workshops around the US through the end of the year.  If you are new to Chef or know someone who is, be sure to checkout the [Opscode Events page](http://www.eventbrite.com/org/429733222) on Eventbrite.  And remember, you can use discount code "FOODFIGHT" to save 10% off your registration.  Upcoming cities include Sunnyvale, LA, Seattle, Atlanta, and San Francisco.
-
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
-* [rayo](http://community.opscode.com/cookbooks/rayo) v1.0.12 - John Dyer [krumpt](http://community.opscode.com/users/krumpt)
+* [rayo](http://community.opscode.com/cookbooks/rayo) v1.0.12 - [krumpt](http://community.opscode.com/users/krumpt)
 [Rayo](http://rayo.org/) is a message-oriented XML protocol for controlling phone calls, audio mixers and a variety of advanced media resources. This cookbook is to install a Rayo Node or Gateway
 * [spiceweasel](http://community.opscode.com/cookbooks/spiceweasel) v0.1.0 - [mray](http://community.opscode.com/users/mray)
 This simple cookbook installs the latest version of [Spiceweasel](http://bit.ly/spcwsl) from Rubygems.
-* [debian](http://community.opscode.com/cookbooks/debian) v0.0.1 - Guilhem Lettron [guilhemfr](http://community.opscode.com/users/guilhemfr)
+* [debian](http://community.opscode.com/cookbooks/debian) v0.0.1 - [guilhemfr](http://community.opscode.com/users/guilhemfr)
 Sets up apt sources for Debian.
-* [rvm_deploy](http://community.opscode.com/cookbooks/rvm_deploy) v0.0.1 - Pavel Forkert [fxposter](http://community.opscode.com/users/fxposter)
+* [rvm_deploy](http://community.opscode.com/cookbooks/rvm_deploy) v0.0.1 - [fxposter](http://community.opscode.com/users/fxposter)
 This cookbook provides an rvm_deploy resource, which can be used just like deploy or deploy_revision resources, but it provides rvm integration.
-* [graphene](http://community.opscode.com/cookbooks/graphene) v0.0.6 - Zo Obradovic [zo](http://community.opscode.com/users/zo)
+* [graphene](http://community.opscode.com/cookbooks/graphene) v0.0.6 - [zo](http://community.opscode.com/users/zo)
 Installs and configures the Graphene graphing toolkit.
-* [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) v0.0.12 - Gerald Hevener [jackl0phty](http://community.opscode.com/users/jackl0phty)
+* [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) v0.0.12 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
 This cookbook will install bind9, a DNS server, in a CHROOT jail environment.
-* [nexus](http://community.opscode.com/cookbooks/nexus) v0.11.2 - Jamie Winsor [reset](http://community.opscode.com/users/reset)
+* [nexus](http://community.opscode.com/cookbooks/nexus) v0.11.2 - [reset](http://community.opscode.com/users/reset)
 Installs/Configures nexus, a repository manager
-* [unattended_upgrades](http://community.opscode.com/cookbooks/unattended_upgrades) v0.0.2 - Marcel Cary [marcelcary](http://community.opscode.com/users/marcelcary)
+* [unattended_upgrades](http://community.opscode.com/cookbooks/unattended_upgrades) v0.0.2 - [marcelcary](http://community.opscode.com/users/marcelcary)
 Installs/Configures APT unattended_upgrade
 
-There are a couple of new cookbooks for Splunk:
+There are a couple of new cookbooks for Splunk: 
+
 * [splunk_handler](http://community.opscode.com/cookbooks/splunk_handler) v1.1.0 - Greg Albrecht [ampledata](http://community.opscode.com/users/ampledata)
 Cookbook version of the Chef Exception & Reporting Handler for Splunk.
 * [splunkstorm](http://community.opscode.com/cookbooks/splunkstorm) v0.0.1 - Aaron Wallis [d2kagw](http://community.opscode.com/users/d2kagw)
 Installs/Configures Splunk Storm forwarders and includes resources to easily add/remove monitored files and directories.
 
 We've got three new cookbooks form Geoffrey Tran:
+
 * [mysql_charset](http://community.opscode.com/cookbooks/mysql_charset) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
 Installs a charset.cnf file with the default character sets for mysql
 * [symfony2](http://community.opscode.com/cookbooks/symfony2) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
@@ -104,6 +100,7 @@ This cookbook runs the Symfony2 console command
 This cookbook installs PHP Composer, a tool for dependency management in PHP.
 
 Chris Roberts is back with a bunch of cookbooks
+
 * [dnsmasq](http://community.opscode.com/cookbooks/dnsmasq) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Installs and configures dnsmasq
 * [hosts_file](http://community.opscode.com/cookbooks/hosts_file) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
@@ -118,6 +115,7 @@ This is a cookbook that Chris uses to build his workstation.
 Install and configure i3, a dynamic tiling window manager.
 
 John Dewey's  been really busy releasing cookbooks for many common utilities.  This is the third episode in a row where we've got multiple new cookbooks from John:
+
 * [sysstat](http://community.opscode.com/cookbooks/sysstat) v1.2.0 - John Dewey [retr0h](http://community.opscode.com/users/retr0h)
 Installs/Configures sysstat
 * [tree](http://community.opscode.com/cookbooks/tree) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
