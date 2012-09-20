@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-20T10:22:21-07:00</updated>
+  <updated>2012-09-20T10:36:41-07:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -38,7 +38,7 @@
 
 <ul>
 <li>Mitchell Hashimoto <a href="https://github.com/mitchellh">github</a>, <a href="https://twitter.com/mitchellh">twitter</a></li>
-<li>Patrick DeBois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a>, <a href="http://www.jedi.be/blog">blog</a></li>
+<li>Patrick Debois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a>, <a href="http://www.jedi.be/blog">blog</a></li>
 <li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
