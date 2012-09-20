@@ -23,6 +23,8 @@ Show Date:  Thursday, 23 August 2012
 * [Test Kitchen Repo](https://github.com/opscode/test-kitchen)
 * [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-26-Test-Kitchen.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
