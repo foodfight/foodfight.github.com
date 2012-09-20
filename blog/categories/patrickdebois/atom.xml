@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: patrickdebois | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/patrickdebois/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-09-20T09:12:28-07:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Vagrant]]></title>
+    <link href="http://foodfight.github.com/2012/09/vagrant.html"/>
+    <updated>2012-09-20T08:33:00-07:00</updated>
+    <id>http://foodfight.github.com/2012/09/vagrant</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 September 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/09/vagrant.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012/09/vagrant.html#offer">Special Offer</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/09/vagrant.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/09/vagrant.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/09/vagrant.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2012/09/vagrant.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-27-Vagrant.mp3">Download</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Mitchell Hashimoto <a href="https://github.com/mitchellh">github</a>, <a href="https://twitter.com/mitchellh">twitter</a></li>
+<li>Patrick DeBois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a>, <a href="http://www.jedi.be/blog">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li>[Chef 10.14 has been released!].  Since we recorded the last podcast there have actually been a number of Chef releases in the 10.14 series</li>
+<li>And if Chef 10.14 isn't enough to get you really excited, you can now <a href="http://www.opscode.com/blog/2012/08/31/test-drive-the-chef-11-server-preview/">Test Drive the Chef 11 Server Preview</a>.  This preview is the erchef powered Chef Server using omnibus installer on Ubuntu 10.04.</li>
+<li>Dan Ryan released <a href="https://github.com/danryan/mastermind">Mastermind</a>, an infrastructure orchestration engine. It provides the ability to compose and automate complex tasks with predefined and reproducible outcomes.</li>
+<li>Dan has also released <a href="https://github.com/danryan/woodchuck">woodchuck</a> a lightweight log shipper for logstash written in Ruby.</li>
+<li>Mathias Lafeldt wrote up a post on his experiences with <a href="http://mlafeldt.github.com/blog/2012/09/learning-chef/">Learning Chef</a>.  Where should you start?  with Ruby!  Mathias recommends that you start by learning some Ruby before you get too far into Chef.</li>
+<li><a href="https://twitter.com/jonlives">Jon Cowie</a> recently announced that <a href="http://blog.mycrot.ch/2012/08/27/knife-spork-1-0-0-released/">knife-spork made it to 1.0</a>.  With a lot of help from <a href="http://twitter.com/sethvargo">Seth Vargo</a>, <a href="https://rubygems.org/gems/knife-spork">knife-spork</a> was completely refactored and now has a plugin framework.</li>
+<li><a href="https://twitter.com/petecheslock">Pete Cheslock</a> recently presented at the <a href="http://www.meetup.com/Chef-BOSTON/">Chef Boston Meetup</a> on <a href="http://www.slideshare.net/petecheslock/chef-bostonworkflows-14101026">Team Development Workflows with Chef</a>.  The slides from his presentation are <a href="http://www.slideshare.net/petecheslock/chef-bostonworkflows-14101026">available on slideshare</a>.</li>
+<li>The team over at <a href="https://github.com/greenandsecure">Green and Secure IT Limited</a> recently released <a href="https://github.com/greenandsecure/knife-block">knife-block</a> to enable the use of multiple knife.rb files against multiple chef servers. This is a great way to help keep your knife configuration files organized.  Simply type <code>knife block use foo</code> to switch to the 'foo' chef server.  <code>knife block use bar</code> will change your config to connect to the 'bar' chef server.</li>
+<li><a href="https://github.com/NetworksAreMadeOfString">Gareth Llewellyn</a> recently released <a href="https://play.google.com/store/apps/details?id=net.networksaremadeofstring.cyllell&amp;feature=search_result#?t=W251bGwsMSwyLDEsIm5ldC5uZXR3b3Jrc2FyZW1hZGVvZnN0cmluZy5jeWxsZWxsIl0.">Cyllel Beta 0.4</a> An andriod app that lets you interact with your Chef managed infrastructure.  Check-out the <a href="https://github.com/NetworksAreMadeOfString/Cyllell">code on github</a>.</li>
+<li>In the blog post <a href="http://codeascraft.etsy.com/2012/08/31/what-hardware-powers-etsy-com/">What Powers Etsy</a> Etsy detailed the hardware configurations they use to power their site.</li>
+<li>The team over at Etsy also recently wrote a post about the <a href="http://codeascraft.etsy.com/2012/09/10/the-engineer-exchange-program/">Engineer Exchange Program project</a> . It's pretty simple:  An Etsy engineer headed over to San Francisco to spend a week working with a Twitter Platform Engineer.  The two engineers spent the next week in Brooklyn working at Etsy.  I'm really interested to hear how this exchange went.</li>
+<li>We can't record this show as often as we would like but there are so many great topics to cover. That's why we are excited about the <a href="http://theshipshow.com/">ShipShow Podcast</a>, they are putting out great content including their most recent episode that asks "Is there such a thing as too much automation?" tl;dr the resounding answer is no!</li>
+</ul>
+
+
+<h3>Upcoming Meetup Groups and Events</h3>
+
+<ul>
+<li><p><a href="http://twitter.com/kallistec">Daniel DeLeo</a> will be giving at talk on "Whyrun" mode and latest Chef Client at <a href="http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/82878822/">The Bay Area Chef User Group on September 25</a></p></li>
+<li><p>The following night you can head to the San Francisco DevOps meetup to talk about <a href="http://www.meetup.com/San-Francisco-DevOps/events/81251892/">Monitoring and Metrics with Sensu</a>.</p></li>
+<li><p>After that meeting, catch the red eye to <a href="http://omniti.com/surge/2012">SurgeConf 2012</a> which is the 27th and 28th in Baltimore.  I'll be there and recording some interviews with presenters and participants.  Hope to see you there!</p></li>
+<li><p><a href="http://devopsdays.org/events/2012-italy/">devopsdays Rome</a>
+are coming up on October 5 and 6th. If you are in Europe or otherwise
+interested to meet with some really intelligent people, you should
+come out.</p></li>
+<li><p>The next <a href="http://www.meetup.com/Infrastructure-Coders/events/75626072/">Infrastructure Coders meeting</a> will be held on October 10th in Melbourne.</p></li>
+<li><p>The <a href="http://www.meetup.com/Chef-NYC/">Chef-NYC</a> group is meeting on October 16th for an <a href="http://www.meetup.com/Chef-NYC/events/82345952/">An Introduction to Shef, The Chef Shell</a></p></li>
+</ul>
+
+
+<h3>Special Offers</h3>
+
+<ul>
+<li>Opscode is offering lots of Introductory Workshops around the US through the end of the year.  If you are new to Chef or know someone who is, be sure to checkout the <a href="http://www.eventbrite.com/org/429733222">Opscode Events page</a> on Eventbrite.  And remember, you can use discount code "FOODFIGHT" to save 10% off your registration.  Upcoming cities include Sunnyvale, LA, Seattle, Atlanta, and San Francisco.</li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/rayo">rayo</a> v1.0.12 - John Dyer <a href="http://community.opscode.com/users/krumpt">krumpt</a>
+<a href="http://rayo.org/">Rayo</a> is a message-oriented XML protocol for controlling phone calls, audio mixers and a variety of advanced media resources. This cookbook is to install a Rayo Node or Gateway</li>
+<li><a href="http://community.opscode.com/cookbooks/spiceweasel">spiceweasel</a> v0.1.0 - <a href="http://community.opscode.com/users/mray">mray</a>
+This simple cookbook installs the latest version of <a href="http://bit.ly/spcwsl">Spiceweasel</a> from Rubygems.</li>
+<li><a href="http://community.opscode.com/cookbooks/debian">debian</a> v0.0.1 - Guilhem Lettron <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a>
+Sets up apt sources for Debian.</li>
+<li><a href="http://community.opscode.com/cookbooks/rvm_deploy">rvm_deploy</a> v0.0.1 - Pavel Forkert <a href="http://community.opscode.com/users/fxposter">fxposter</a>
+This cookbook provides an rvm_deploy resource, which can be used just like deploy or deploy_revision resources, but it provides rvm integration.</li>
+<li><a href="http://community.opscode.com/cookbooks/graphene">graphene</a> v0.0.6 - Zo Obradovic <a href="http://community.opscode.com/users/zo">zo</a>
+Installs and configures the Graphene graphing toolkit.</li>
+<li><a href="http://community.opscode.com/cookbooks/bind-chroot">bind-chroot</a> v0.0.12 - Gerald Hevener <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a>
+This cookbook will install bind9, a DNS server, in a CHROOT jail environment.</li>
+<li><a href="http://community.opscode.com/cookbooks/nexus">nexus</a> v0.11.2 - Jamie Winsor <a href="http://community.opscode.com/users/reset">reset</a>
+Installs/Configures nexus, a repository manager</li>
+<li><a href="http://community.opscode.com/cookbooks/unattended_upgrades">unattended_upgrades</a> v0.0.2 - Marcel Cary <a href="http://community.opscode.com/users/marcelcary">marcelcary</a>
+Installs/Configures APT unattended_upgrade</li>
+</ul>
+
+
+<p>There are a couple of new cookbooks for Splunk:
+* <a href="http://community.opscode.com/cookbooks/splunk_handler">splunk_handler</a> v1.1.0 - Greg Albrecht <a href="http://community.opscode.com/users/ampledata">ampledata</a>
+Cookbook version of the Chef Exception &amp; Reporting Handler for Splunk.
+* <a href="http://community.opscode.com/cookbooks/splunkstorm">splunkstorm</a> v0.0.1 - Aaron Wallis <a href="http://community.opscode.com/users/d2kagw">d2kagw</a>
+Installs/Configures Splunk Storm forwarders and includes resources to easily add/remove monitored files and directories.</p>
+
+<p>We've got three new cookbooks form Geoffrey Tran:
+* <a href="http://community.opscode.com/cookbooks/mysql_charset">mysql_charset</a> v0.0.1 - <a href="http://community.opscode.com/users/geoffreytran">geoffreytran</a>
+Installs a charset.cnf file with the default character sets for mysql
+* <a href="http://community.opscode.com/cookbooks/symfony2">symfony2</a> v0.0.1 - <a href="http://community.opscode.com/users/geoffreytran">geoffreytran</a>
+This cookbook runs the Symfony2 console command
+* <a href="http://community.opscode.com/cookbooks/composer">composer</a> v0.0.2 - <a href="http://community.opscode.com/users/geoffreytran">geoffreytran</a>
+This cookbook installs PHP Composer, a tool for dependency management in PHP.</p>
+
+<p>Chris Roberts is back with a bunch of cookbooks
+* <a href="http://community.opscode.com/cookbooks/dnsmasq">dnsmasq</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a>
+Installs and configures dnsmasq
+* <a href="http://community.opscode.com/cookbooks/hosts_file">hosts_file</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a>
+Manage your hosts file with chef.
+* <a href="http://community.opscode.com/cookbooks/lxc">lxc</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a>
+Manage linux containers with Chef.
+* <a href="http://community.opscode.com/cookbooks/kernel_vm">kernel_vm</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a>
+Chef driven Kernel VMs
+* <a href="http://community.opscode.com/cookbooks/gozer">gozer</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a>
+This is a cookbook that Chris uses to build his workstation.
+* <a href="http://community.opscode.com/cookbooks/i3">i3</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a>
+Install and configure i3, a dynamic tiling window manager.</p>
+
+<p>John Dewey's  been really busy releasing cookbooks for many common utilities.  This is the third episode in a row where we've got multiple new cookbooks from John:
+* <a href="http://community.opscode.com/cookbooks/sysstat">sysstat</a> v1.2.0 - John Dewey <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures sysstat
+* <a href="http://community.opscode.com/cookbooks/tree">tree</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures tree
+* <a href="http://community.opscode.com/cookbooks/socat">socat</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures socat
+* <a href="http://community.opscode.com/cookbooks/smem">smem</a> v1.0.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures smem
+* <a href="http://community.opscode.com/cookbooks/netcat">netcat</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures netcat
+* <a href="http://community.opscode.com/cookbooks/mtr">mtr</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures mtr
+* <a href="http://community.opscode.com/cookbooks/ltrace">ltrace</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures ltrace
+* <a href="http://community.opscode.com/cookbooks/iperf">iperf</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures iperf</p>
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/minitest-handler">minitest-handler</a> v0.1.2 - <a href="http://community.opscode.com/users/btm">btm</a></li>
+<li><a href="http://community.opscode.com/cookbooks/glassfish">glassfish</a> v0.5.5 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/sensu">sensu</a> v0.1.6 - <a href="http://community.opscode.com/users/portertech">portertech</a></li>
+<li><a href="http://community.opscode.com/cookbooks/virtualbox">virtualbox</a> v0.7.1 - <a href="http://community.opscode.com/users/peplin">peplin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/discovery">discovery</a> v0.1.7 - <a href="http://community.opscode.com/users/fujin">fujin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/netatalk">netatalk</a> v1.0.0 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/hostsfile">hostsfile</a> v0.1.2 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a></li>
+<li><a href="http://community.opscode.com/cookbooks/hostname">hostname</a> v0.0.3 - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a></li>
+<li><a href="http://community.opscode.com/cookbooks/rbenv">rbenv</a> v1.4.0 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.10.7 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/sptoolkit">sptoolkit</a> v0.0.14 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a></li>
+<li><a href="http://community.opscode.com/cookbooks/openvas">openvas</a> v0.0.52 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a></li>
+<li><a href="http://community.opscode.com/cookbooks/cpan">cpan</a> v0.0.19 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
+<li><a href="http://community.opscode.com/cookbooks/gitlab">gitlab</a> v0.3.0 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/iotop">iotop</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ethtool">ethtool</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/dstat">dstat</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/lldpd">lldpd</a> v1.0.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ipmitool">ipmitool</a> v1.0.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/curl">curl</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.6 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/atg">atg</a> v1.0.1 - <a href="http://community.opscode.com/users/jpipe">jpipe</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ldapknife">ldapknife</a> v0.0.10 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a></li>
+<li><a href="http://community.opscode.com/cookbooks/rackspaceknife">rackspaceknife</a> v0.0.4 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.therobostoreinc.com/bigmow.html">Big Mow</a> the robot mower</li>
+<li><a href="https://www.hackerschool.com/blog/5-learning-c-with-gdb">Learning C with GDB</a></li>
+<li><a href="http://devopsweekly.com">Devops Weekly</a></li>
+<li><a href="http://www.ratebeer.com/beer/forst-vip-pils/12287/">Forst VIP Pils</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Working at CustomInk</li>
+<li><a href="http://titosvodka.com/">Tito's Vodka</a></li>
+</ul>
+
+
+<h4>Patrick</h4>
+
+<ul>
+<li><a href="https://github.com/chjj/tty.js/">tty.js</a></li>
+</ul>
+
+
+<h4>Mitchell</h4>
+
+<ul>
+<li><a href="http://blog.notdot.net/tag/damn-cool-algorithms">Damn Cool Algorithms</a></li>
+<li><a href="http://robfig.github.com/revel/">Revel</a> - A high-productivity web framework for the Go language.</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<p>Vagrant with Mitchell Hashimoto &amp; Patrick Debois:  <a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-27-Vagrant.mp3">Download here</a></p>
+
+<p>Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+
+<p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
+]]></content>
+  </entry>
+  
+</feed>
