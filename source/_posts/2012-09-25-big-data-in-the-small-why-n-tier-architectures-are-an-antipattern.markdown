@@ -12,7 +12,7 @@ categories:
   - REST
   - HATEOAS
 ---
-Show Date:  Tuesday, 11 September 2012
+Show Date:  Tuesday, 25 September 2012
 
 * [Panel](http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#panel)
 * What's Cookin'
