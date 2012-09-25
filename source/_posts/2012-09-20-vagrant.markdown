@@ -21,6 +21,8 @@ Show Date:  Tuesday, 11 September 2012
 * [Picks](http://foodfightshow.org/2012/09/vagrant.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-27-Vagrant.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 * Mitchell Hashimoto [github](https://github.com/mitchellh), [twitter](https://twitter.com/mitchellh)
