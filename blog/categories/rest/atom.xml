@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: REST | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/rest/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-09-25T14:18:35-04:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Big Data in the Small: Why N Tier Architectures Are an Antipattern]]></title>
+    <link href="http://foodfight.github.com/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html"/>
+    <updated>2012-09-25T14:06:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 September 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#panel">Panel</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3">Download</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li><p>Michael Bevilacqua-Linn <a href="http://twitter.com/novustiro">twitter</a>, <a href="http://mblinn.com/">blog</a>, <a href="http://omniti.com/surge/2012/sessions/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern">surge presentation</a></p></li>
+<li><p>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></p></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li>Berkshelf 0.6.0beta1 is out, includes windows support and easier
+install. How much easier? It now uses a pure ruby constraint
+solver, which spares us the pain of having to hand-compile the
+gecode library. 0.6.0 builds on the <a href="http://lists.opscode.com/sympa/arc/chef/2012-09/msg00258.html">0.5.0 release</a> which had a ton of
+new features such as
+
+<ul>
+<li>now uses a built-in vagrant plugin instead of shims</li>
+<li>Cookbooks and their dependencies will now automatically be provided to Vagrant when you boot your virtual machine.</li>
+<li>Vagrant will receive any changes made to cookbooks on any future
+provision command.</li>
+<li>can use the your Chef API as a soruce location</li>
+<li>Cookbook generator</li>
+<li>and others!</li>
+</ul>
+</li>
+<li><a href="http://www.karmi.cz">Karel Minarik</a> and Vojtech Hyza gave a
+<a href="http://www.slideshare.net/karmi/shells-kitchen-infrastructure-as-code-webexpo-2012">"hello cloud" presentation</a>
+where they demonstrated how to spin up an application cluster that
+includes a load balancer, 3 application servers, 1 database node, and
+2 elasticsearch nodes. The recipes are on
+<a href="https://github.com/karmi/chef-hello-cloud/">github</a> for your browsing pleasure</li>
+<li>Cloudant labs posted
+<a href="https://cloudant.com/blog/cloudant-labs-on-google-spanner/">their analyis</a>
+of Google's globally distributed datastore known as
+<a href="https://cloudant.com/blog/cloudant-labs-on-google-spanner/">Spanner</a>.
+Essentially, it as a datastore that is globally distributed across
+multiple data centers where each transaction globally consistent. Get that, it is
+globally consistent, not eventually consistent. They use several
+techniques to accomplish this but one of the most notable is that
+they use specialized hardware that includes atomic clocks and GPS on
+each server.</li>
+<li><a href="https://github.com/blog/1261-github-availability-this-week">Github's postmortem</a></li>
+<li><a href="http://puppetlabs.com/resources/podcasts/">PuppetCast podcast</a></li>
+<li><p>Derek Collison, one of the past leaders of the cloud foundry project
+and now CEO of a cloud platform company,
+<a href="https://twitter.com/derekcollison/status/245522124666716160">tweeted his prediction</a>
+that Go will become the dominant
+language for systems work in IaaS, Orchestration, and PaaS in 24 months</p></li>
+<li><p><a href="http://jordanorelli.tumblr.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js">Why I'm went from Python to Go</a></p></li>
+<li><p><a href="https://twitter.com/mitchellh/status/248515077777522690">Mitchellh reported</a>
+that the Mac OS X 10.8.2 upgrade totally breaks virtualbox 4.2 and
+earlier. Luckily Oracle put out
+<a href="https://www.virtualbox.org/wiki/Downloads">Virtualbox 4.2.1</a> with
+hotfix for this issue.</p></li>
+<li><p><a href="https://github.com/blog/1267-github-launch-page">The new github launch page</a>
+which features the
+<a href="https://github.com/blog/1264-introducing-the-command-bar">command bar</a>
+is freaking awesome, essentially it gives u a CLI interface to the
+github site. It comes complete with tab completion, smart filtering,
+history.</p></li>
+<li><p><a href="https://github.com/jedi4ever/stop-the-fork">Stop the fork</a> - a new github repo from <a href="https://github.com/jedi4ever">Patrick Debois</a>.  This repo will collect ideas and examples on how structure your configuration management code to avoid forks from happening.</p></li>
+<li><p><a href="https://github.com/miketheman/knife-community">knife-community</a> - A Knife plugin to assist with deploying completed Chef cookbooks to the Community Site.  The plugin was created by <a href="https://github.com/miketheman">Mike Fiedler</a> and <a href="http://github.com/jtimberman">Joshua Timberman</a> recently wrote up a <a href="http://www.opscode.com/blog/2012/09/17/community-authored-plugin-knife-community-release/">blog post on the Opscode blog</a> about the plugin.</p></li>
+<li><p>DevOpsDC recently had an evening of lightning talks on ChefSpec, OpenTSDB, Disaster Porn, and more.  Checkout the <a href="http://www.meetup.com/DevOpsDC/pages/September_2012_Recap/">presentations on the meetup site</a></p></li>
+<li><p>The Triangle Devops group met recently to talk about how Bronto software is becoming information rich  by collecting production data and analyzing it.  Check the show notes for a link to the presentation.  <a href="http://files.meetup.com/2331301/Triangle%20DevOps.pdf">http://files.meetup.com/2331301/Triangle%20DevOps.pdf</a>.</p></li>
+<li><p><a href="http://twitter.com/allspaw">John Allspaw</a> has been putting a lot of thought into automation and has released part one in his series <a href="http://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/">A Mature Role for Automation</a>.</p></li>
+<li><p><a href="http://queue.acm.org/detail.cfm?id=2371297">Resilience Engineering: Learning to Embrace Failure</a> - this is an interview with Jesse Robbins, Kripa Krishnan, John Allspaw, and Tom Limoncelli.  This is a great article about using Gameday exercises.</p></li>
+</ul>
+
+
+<h3>Upcoming Meetup Groups and Events</h3>
+
+<ul>
+<li><p>Two new DevOps meetup groups are being formed.  One in <a href="http://www.meetup.com/DevOps-Minneapolis/">Minneapolis</a> and one in <a href="http://www.meetup.com/DevOps-Milwaukee/">Miilwaukee</a>.</p></li>
+<li><p>The Triangle Devops group will meet on October 17 in Raleigh, NC.  The topic for the night:  <a href="http://www.meetup.com/Triangle-DevOps/events/82806542/">Learn About Customer Service for People Who Love The Glow of the Terminal</a></p></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<p>There are now more than 600 cookbooks available on the community site!</p>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/mysql-admin-tools">mysql-admin-tools</a> v0.0.1 - <a href="http://community.opscode.com/users/kepes">kepes</a>
+Cookbook for useful MySql admin tools</li>
+<li><a href="http://community.opscode.com/cookbooks/sol">sol</a> v0.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures sol</li>
+<li><a href="http://community.opscode.com/cookbooks/reboot-handler">reboot-handler</a> v0.1.1 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures reboot-handler</li>
+<li><a href="http://community.opscode.com/cookbooks/fusioninventory-agent">fusioninventory-agent</a> v0.1.0 - <a href="http://community.opscode.com/users/ashmere">ashmere</a>
+Installs/Configures fusioninventory-agent</li>
+<li><a href="http://community.opscode.com/cookbooks/haproxy2">haproxy2</a> v0.5.7 - <a href="http://community.opscode.com/users/demonccc">demonccc</a>
+Installs and configures haproxy</li>
+<li><a href="http://community.opscode.com/cookbooks/koha">koha</a> v0.0.1 - <a href="http://community.opscode.com/users/halcyoncorsair">halcyoncorsair</a>
+Installs/Configures koha</li>
+<li><a href="http://community.opscode.com/cookbooks/heartbeat3">heartbeat3</a> v0.4.2 - <a href="http://community.opscode.com/users/demonccc">demonccc</a>
+Installs and configures heartbeat</li>
+<li><a href="http://community.opscode.com/cookbooks/storm">storm</a> v1.0.23 - <a href="http://community.opscode.com/users/tas50">tas50</a>
+Installs Storm</li>
+<li><a href="http://community.opscode.com/cookbooks/pgbadger">pgbadger</a> v0.0.2 - <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a>
+Install pgbadger</li>
+<li><a href="http://community.opscode.com/cookbooks/chef_package">chef_package</a> v0.0.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a>
+Provides chef_package resources for compile time installs</li>
+<li><a href="http://community.opscode.com/cookbooks/udev">udev</a> v0.2.0 - <a href="http://community.opscode.com/users/mray">mray</a>
+Sets udev rules for network configuration.</li>
+<li><p><a href="http://community.opscode.com/cookbooks/dpkg_packages">dpkg_packages</a> v0.1.2 - <a href="http://community.opscode.com/users/demonccc">demonccc</a></p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/dpkg_packages">dpkg_packages</a> v0.1.2 - <a href="http://community.opscode.com/users/demonccc">demonccc</a>
+Installs deb packages via attributes or data bag metadata.</p></li>
+<li><a href="http://community.opscode.com/cookbooks/afw">afw</a> v0.0.1 - <a href="http://community.opscode.com/users/jvehent">jvehent</a>
+Installs/Configures the Advanced FireWall</li>
+<li><a href="http://community.opscode.com/cookbooks/aegir">aegir</a> v0.1.3 - <a href="http://community.opscode.com/users/wik">wik</a>
+Hosting System for Drupal Sites</li>
+<li><a href="http://community.opscode.com/cookbooks/parted">parted</a> v1.0.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a>
+Installs/Configures parted</li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/webobjects">webobjects</a> v0.0.3 - <a href="http://community.opscode.com/users/rgauss">rgauss</a></li>
+<li><a href="http://community.opscode.com/cookbooks/chef_gem">chef_gem</a> v0.0.4 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li>
+<li><a href="http://community.opscode.com/cookbooks/annoyances">annoyances</a> v0.1.0 - <a href="http://community.opscode.com/users/mray">mray</a></li>
+<li><a href="http://community.opscode.com/cookbooks/nexus">nexus</a> v0.13.0 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/lxc">lxc</a> v0.0.2 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li>
+<li><a href="http://community.opscode.com/cookbooks/gozer">gozer</a> v0.0.2 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li>
+<li><a href="http://community.opscode.com/cookbooks/dnsmasq">dnsmasq</a> v0.0.2 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li>
+<li><a href="http://community.opscode.com/cookbooks/kafka">kafka</a> v1.0.11 - <a href="http://community.opscode.com/users/tas50">tas50</a></li>
+<li><a href="http://community.opscode.com/cookbooks/firefox">firefox</a> v1.0.2 - <a href="http://community.opscode.com/users/tas50">tas50</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ad-auth">ad-auth</a> v1.0.5 - <a href="http://community.opscode.com/users/tas50">tas50</a></li>
+<li><a href="http://community.opscode.com/cookbooks/datadog">datadog</a> v0.1.1 - <a href="http://community.opscode.com/users/miketheman">miketheman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ghmac">ghmac</a> v1.3.4 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/glassfish">glassfish</a> v0.5.6 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/php-fpm">php-fpm</a> v0.2.4 - <a href="http://community.opscode.com/users/wik">wik</a></li>
+<li><a href="http://community.opscode.com/cookbooks/omnibus_updater">omnibus_updater</a> v0.0.4 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li>The Go programming language
+
+<ul>
+<li><a href="http://tour.golang.org">A Tour of Go</a></li>
+<li><a href="http://golang.org/doc/effective_go.html">Effective Go</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Group chat tools like <a href="http://campfirenow.com/">Campfire</a> &amp; <a href="https://opscode.hipchat.com/home">Hipchat</a></li>
+</ul>
+
+
+<h4>Michael</h4>
+
+<ul>
+<li><a href="http://cm.bell-labs.com/who/ken/trust.html">Reflections on Trusting Trust</a></li>
+<li>Home brewing!</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<p>Big Data in the Small: Why N Tier Architectures Are an Antipattern:  <a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3">Download here</a></p>
+
+<p>Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+
+<p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
+]]></content>
+  </entry>
+  
+</feed>
