@@ -44,12 +44,14 @@ In the News<a name="news"></a>
   * can use the your Chef API as a soruce location
   * Cookbook generator
   * and others!
+
 * [Karel Minarik](http://www.karmi.cz) and Vojtech Hyza gave a
 ["hello cloud" presentation](http://www.slideshare.net/karmi/shells-kitchen-infrastructure-as-code-webexpo-2012)
 where they demonstrated how to spin up an application cluster that
 includes a load balancer, 3 application servers, 1 database node, and
 2 elasticsearch nodes. The recipes are on
 [github](https://github.com/karmi/chef-hello-cloud/) for your browsing pleasure
+
 * Cloudant labs posted
   [their analyis](https://cloudant.com/blog/cloudant-labs-on-google-spanner/)
   of Google's globally distributed datastore known as
@@ -60,8 +62,11 @@ includes a load balancer, 3 application servers, 1 database node, and
   techniques to accomplish this but one of the most notable is that
   they use specialized hardware that includes atomic clocks and GPS on
   each server.
+
 * [Github's postmortem](https://github.com/blog/1261-github-availability-this-week)
+
 * [PuppetCast podcast](http://puppetlabs.com/resources/podcasts/)
+
 * Derek Collison, one of the past leaders of the cloud foundry project
 and now CEO of a cloud platform company,
 [tweeted his prediction](https://twitter.com/derekcollison/status/245522124666716160)
@@ -131,8 +136,6 @@ Install pgbadger
 Provides chef_package resources for compile time installs
 * [udev](http://community.opscode.com/cookbooks/udev) v0.2.0 - [mray](http://community.opscode.com/users/mray)
 Sets udev rules for network configuration.
-* [dpkg_packages](http://community.opscode.com/cookbooks/dpkg_packages) v0.1.2 - [demonccc](http://community.opscode.com/users/demonccc)
-
 * [dpkg_packages](http://community.opscode.com/cookbooks/dpkg_packages) v0.1.2 - [demonccc](http://community.opscode.com/users/demonccc)
 Installs deb packages via attributes or data bag metadata.
 * [afw](http://community.opscode.com/cookbooks/afw) v0.0.1 - [jvehent](http://community.opscode.com/users/jvehent)
