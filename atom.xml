@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-25T14:28:55-04:00</updated>
+  <updated>2012-09-27T16:14:00-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -14,11 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Surge - Interview with Ryan Kennedy]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-day-1.html"/>
+    <updated>2012-09-27T14:06:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-day-1</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, 27 September 2012</p>
+
+<p>Today is the first day of <a href="http://omniti.com/surge/2012">surge</a>.  Nathen had a chance to sit down with <a href="https://twitter.com/rckenned">Ryan Kennedy</a>, Director of Core Services at Yammer.  They discussed Ryan&#8217;s Surge presentation:</p>
+
+<h3><a href="http://omniti.com/surge/2012/sessions/build-your-own-database-berkeley-db-java-edition-at-yammer">Build Your Own Database: Berkeley DB Java Edition at Yammer</a></h3>
+
+<p>Sometimes the solution to your problem can&#8217;t be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready. After several false starts with pre-built offerings, we constructed our own solution and shipped an embedded, distributed NoSQL data store built on top of Berkeley DB Java Edition. It was not a decision made lightly. Nor was it a particularly easy trail to blaze at times. In this session I&#8217;ll discuss why Yammer chose to build vs. buy, what was built, problems encountered and where Yammer is today.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Big Data in the Small: Why N Tier Architectures Are an Antipattern]]></title>
     <link href="http://foodfight.github.com/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html"/>
     <updated>2012-09-25T14:06:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern</id>
-    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 September 2012</p>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 25 September 2012</p>
 
 <ul>
 <li><a href="http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#panel">Panel</a></li>
@@ -2106,16 +2121,6 @@ Join <a href="http://twitter.com/bryanwb">Bryan</a> and <a href="http://twitter.
 so jealous &#8230;</div>
 </div>
 </div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[#Chefconf Update 5: Daniel DeLeo on whyrun mode]]></title>
-    <link href="http://foodfight.github.com/2012/05/chefconf-update-5-daniel-deleo-on.html"/>
-    <updated>2012-05-16T00:00:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/05/chefconf-update-5-daniel-deleo-on</id>
-    <content type="html"><![CDATA[<div class='post'>
-<div dir="ltr" style="text-align: left;" trbidi="on"><a href="http://traffic.libsyn.com/foodfight/ffs12_5_1.mp3">Download Here</a></div></div>
 ]]></content>
   </entry>
   

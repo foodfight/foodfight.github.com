@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rckenned | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/rckenned/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-09-27T16:14:00-04:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Surge - Interview with Ryan Kennedy]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-day-1.html"/>
+    <updated>2012-09-27T14:06:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-day-1</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, 27 September 2012</p>
+
+<p>Today is the first day of <a href="http://omniti.com/surge/2012">surge</a>.  Nathen had a chance to sit down with <a href="https://twitter.com/rckenned">Ryan Kennedy</a>, Director of Core Services at Yammer.  They discussed Ryan's Surge presentation:</p>
+
+<h3><a href="http://omniti.com/surge/2012/sessions/build-your-own-database-berkeley-db-java-edition-at-yammer">Build Your Own Database: Berkeley DB Java Edition at Yammer</a></h3>
+
+<p>Sometimes the solution to your problem can't be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready. After several false starts with pre-built offerings, we constructed our own solution and shipped an embedded, distributed NoSQL data store built on top of Berkeley DB Java Edition. It was not a decision made lightly. Nor was it a particularly easy trail to blaze at times. In this session I'll discuss why Yammer chose to build vs. buy, what was built, problems encountered and where Yammer is today.</p>
+]]></content>
+  </entry>
+  
+</feed>
