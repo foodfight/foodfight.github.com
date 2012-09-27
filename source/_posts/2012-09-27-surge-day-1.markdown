@@ -1,23 +1,19 @@
 ---
 layout: post
-title: "Surge - Day 1"
+title: "Surge - Interview with Ryan Kennedy"
 date: 2012-09-27 14:06
 comments: true
 categories: 
   - surge
-  - pagerduty
   - rckenned
   - yammer
   - berkeleydb
-  - 
+  - puppet
 ---
 Show Date:  Thursday, 27 September 2012
 
-* [Panel](http://foodfightshow.org/2012/09/surge-day-1.html#panel)
-* What's Cookin'
-  * [In the News](http://foodfightshow.org/2012/09/surge-day-1.html#news)
-  * [Cookbook News](http://foodfightshow.org/2012/09/surge-day-1.html#cookbooks)
-* [Picks](http://foodfightshow.org/2012/09/surge-day-1.html#picks)
-* [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Day-One.mp3)
+Today is the first day of [surge](http://omniti.com/surge/2012).  Nathen had a chance to sit down with [Ryan Kennedy](https://twitter.com/rckenned), Director of Core Services at Yammer.  They discussed Ryan's Surge presentation:
 
-Today is the first day of [surge](http://omniti.com/surge/2012).  Nathen had a chance to sit down with a couple of presenters and talk about their talks.
+### [Build Your Own Database: Berkeley DB Java Edition at Yammer](http://omniti.com/surge/2012/sessions/build-your-own-database-berkeley-db-java-edition-at-yammer)
+
+Sometimes the solution to your problem can't be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready. After several false starts with pre-built offerings, we constructed our own solution and shipped an embedded, distributed NoSQL data store built on top of Berkeley DB Java Edition. It was not a decision made lightly. Nor was it a particularly easy trail to blaze at times. In this session I'll discuss why Yammer chose to build vs. buy, what was built, problems encountered and where Yammer is today.
