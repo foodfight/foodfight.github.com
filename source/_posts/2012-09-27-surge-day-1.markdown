@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Surge - Day 1"
+date: 2012-09-27 14:06
+comments: true
+categories: 
+  - surge
+  - pagerduty
+  - rckenned
+  - yammer
+  - berkeleydb
+  - 
+---
+Show Date:  Thursday, 27 September 2012
+
+* [Panel](http://foodfightshow.org/2012/09/surge-day-1.html#panel)
+* What's Cookin'
+  * [In the News](http://foodfightshow.org/2012/09/surge-day-1.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/09/surge-day-1.html#cookbooks)
+* [Picks](http://foodfightshow.org/2012/09/surge-day-1.html#picks)
+* [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Day-One.mp3)
+
+Today is the first day of [surge](http://omniti.com/surge/2012).  Nathen had a chance to sit down with a couple of presenters and talk about their talks.
