@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mtbf | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/mtbf/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-09-28T10:43:51-04:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
+    <link href="http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
+    <updated>2012-09-28T10:32:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download the episode</a></p>
+
+<p>In this DevOps Delicacy, Nathen sat down with Andrew Miklas, CTO and Co-founder of <a href="http://www.pagerduty.com">PagerDuty</a>.  They discussed Andrew's Surge presentation:</p>
+
+<h3><a href="http://omniti.com/surge/2012/sessions/ensuring-the-call-goes-out-everytime">Ensuring the Call Goes Out—Everytime</a></h3>
+
+<p>Many systems can afford a bit of downtime now and then. Unfortunately, at PagerDuty, even a three-minute outage at the wrong time can cost thousands in lost revenue. This talk will cover some of the techniques and tricks we use at PagerDuty to ensure that our phone and SMS alerts continue to flow while staying well within the budget of a typical startup. Specifically, I will show how we do zero downtime database migrations and deploys, and how we recover from host and data center outages with minimal disruption.</p>
+
+<p>Surge - Interview with Andrew Miklas - <a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+</feed>
