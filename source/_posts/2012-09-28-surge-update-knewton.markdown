@@ -11,6 +11,7 @@ categories:
   - leptoid
   - autoscaling
   - postmortems
+  - delicacy
 ---
 Show Date:  Friday, 28 September 2012
 

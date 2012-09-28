@@ -9,6 +9,7 @@ categories:
   - mtbf
   - mttr
   - cassandra
+  - delicacy
 ---
 Show Date:  Friday, 28 September 2012
 

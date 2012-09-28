@@ -9,6 +9,7 @@ categories:
   - yammer
   - berkeleydb
   - puppet
+  - delicacy
 ---
 Show Date:  Thursday, 27 September 2012
 
