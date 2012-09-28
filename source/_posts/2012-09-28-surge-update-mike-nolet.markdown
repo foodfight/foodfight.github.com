@@ -13,6 +13,9 @@ categories:
 ---
 Show Date:  Friday, 28 September 2012
 
+* Mike Nolet -  [twitter](http://twitter.com/MikeOnAds), [blog](http://MikeOnAds.com)
+* Nathen Harvey - [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+
 [Download the episodee](http://traffic.libsyn.com/foodfight/Surge-4-Appnexus.mp3)
 
 In this DevOps Delicacy, Nathen sits down with Mike Nolet, CTO & Co-founder of AppNexus.  They discussed Mike's Surge presentation:
