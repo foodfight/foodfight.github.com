@@ -4,7 +4,7 @@
   <title><![CDATA[Category: delicacy | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/delicacy/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-28T12:03:33-04:00</updated>
+  <updated>2012-09-28T13:55:03-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -12,6 +12,88 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Surge Update - Mike Nolet]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-update-mike-nolet.html"/>
+    <updated>2012-09-28T12:16:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-update-mike-nolet</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus.mp3">Download the episodee</a></p>
+
+<p>In this DevOps Delicacy, Nathen sits down with Mike Nolet, CTO &amp; Co-founder of AppNexus.  They discussed Mike's Surge presentation:</p>
+
+<h4><a href="http://omniti.com/surge/2012/sessions/from-zero-to-500k-qps-in-three-years-scaling-appnexus">From Zero to 500k QPS in Three Years: Scaling AppNexus</a></h4>
+
+<p>I'd like to tell our story of how we went from two guys on a couch who thought they could build a cloud-hosting company, to more than 200 employees, building the world leader in real-time advertising technology. This presentation will give an uncensored dive into both our colossal mistakes as well as our tremendous successes. How, over the course of one weekend, we used GSLB and KeepAlive to hack our servers into place, build a backend to support them, and freed ourselves from the grips of expensive LB vendors. How, because we’ve always invested in full-time resources for our fully automated deployment world, we managed to not hire a single test engineer until March 2012. How a stupid mistake took down 3/4 of our global data centers for 12 hours and how we still managed to maintain 99.5% uptime.</p>
+
+<p>I'll explore our devops infrastructure, powered by our in-house built continuous deployment system; our load-balancing infrastructure and its many layers; and our real-time and data streaming infrastructure, built primarily in C and processing 12 terabytes of data every day.</p>
+
+<p>This is our story of scaling from zero to 500,000 queries per second in three years.</p>
+
+<p>Surge - Interview with Mike Nolet - <a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Surge Update - Knewton]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-update-knewton.html"/>
+    <updated>2012-09-28T11:51:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-update-knewton</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Download the episode</a></p>
+
+<p>In this DevOps Delicacy, Nathen sat down with <a href="https://twitter.com/achompas">Alejandro Companioni</a> and <a href="https://twitter.com/davezwieback">Dave Zwieback</a> from <a href="http://www.knewton.com/">Knewton</a>.</p>
+
+<p>They discussed Alejandro's Surge presentation and Dave's lightning talk.</p>
+
+<h3><a href="http://omniti.com/surge/2012/sessions/autoscaling-with-leptoid-using-time-series-analysis-and-application-metrics-to-scale-the-knewton-platform">Autoscaling With Leptoid: Using Time Series Analysis and Application Metrics To Scale the Knewton Platform</a></h3>
+
+<p>Auto-scaling is the holy grail of cloud computing. While the mechanics of auto-scaling are fairly straightforward, it can be difficult to find a reliable signal for determining the exact amount of computing resources required at any given moment. Could we analyze the strong periodic and seasonal behavior (like students finishing homework at night or cramming before finals) of the hundreds of thousands of students who study on the Knewton platform and surface a strong signal? Did we identify a correlation between system metrics (e.g., CPU or memory utilization) and application performance? Did continuous deployment practices at Knewton continuously change the performance characteristics of applications? In this presentation, I'll discuss our experience analyzing these different metrics, and identifying potential features for a statistical model that can predict load changes, allowing Knewton to automatically scale our cloud-based infrastructure.</p>
+
+<p>Surge - Interview with Alejandro Companioni and Dave Zwieback -  <a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
+    <link href="http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
+    <updated>2012-09-28T10:32:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download the episode</a></p>
+
+<p>In this DevOps Delicacy, Nathen sat down with Andrew Miklas, CTO and Co-founder of <a href="http://www.pagerduty.com">PagerDuty</a>.  They discussed Andrew's Surge presentation:</p>
+
+<h3><a href="http://omniti.com/surge/2012/sessions/ensuring-the-call-goes-out-everytime">Ensuring the Call Goes Out—Everytime</a></h3>
+
+<p>Many systems can afford a bit of downtime now and then. Unfortunately, at PagerDuty, even a three-minute outage at the wrong time can cost thousands in lost revenue. This talk will cover some of the techniques and tricks we use at PagerDuty to ensure that our phone and SMS alerts continue to flow while staying well within the budget of a typical startup. Specifically, I will show how we do zero downtime database migrations and deploys, and how we recover from host and data center outages with minimal disruption.</p>
+
+<p>Surge - Interview with Andrew Miklas - <a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Surge - Interview with Ryan Kennedy]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-day-1.html"/>
+    <updated>2012-09-27T14:06:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-day-1</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, 27 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Download the episode</a></p>
+
+<p>Today is the first day of <a href="http://omniti.com/surge/2012">surge</a>.  Nathen had a chance to sit down with <a href="https://twitter.com/rckenned">Ryan Kennedy</a>, Director of Core Services at Yammer.  They discussed Ryan's Surge presentation:</p>
+
+<h3><a href="http://omniti.com/surge/2012/sessions/build-your-own-database-berkeley-db-java-edition-at-yammer">Build Your Own Database: Berkeley DB Java Edition at Yammer</a></h3>
+
+<p>Sometimes the solution to your problem can't be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready. After several false starts with pre-built offerings, we constructed our own solution and shipped an embedded, distributed NoSQL data store built on top of Berkeley DB Java Edition. It was not a decision made lightly. Nor was it a particularly easy trail to blaze at times. In this session I'll discuss why Yammer chose to build vs. buy, what was built, problems encountered and where Yammer is today.</p>
+
+<p>Surge - Interview With Ryan Kennedy - <a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Download here</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOps Delicacy - Chef Introductory Workshop with David Bock]]></title>

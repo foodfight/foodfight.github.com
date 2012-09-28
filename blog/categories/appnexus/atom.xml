@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: appnexus | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/appnexus/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-09-28T13:55:03-04:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Surge Update - Mike Nolet]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-update-mike-nolet.html"/>
+    <updated>2012-09-28T12:16:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-update-mike-nolet</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus.mp3">Download the episodee</a></p>
+
+<p>In this DevOps Delicacy, Nathen sits down with Mike Nolet, CTO &amp; Co-founder of AppNexus.  They discussed Mike's Surge presentation:</p>
+
+<h4><a href="http://omniti.com/surge/2012/sessions/from-zero-to-500k-qps-in-three-years-scaling-appnexus">From Zero to 500k QPS in Three Years: Scaling AppNexus</a></h4>
+
+<p>I'd like to tell our story of how we went from two guys on a couch who thought they could build a cloud-hosting company, to more than 200 employees, building the world leader in real-time advertising technology. This presentation will give an uncensored dive into both our colossal mistakes as well as our tremendous successes. How, over the course of one weekend, we used GSLB and KeepAlive to hack our servers into place, build a backend to support them, and freed ourselves from the grips of expensive LB vendors. How, because we’ve always invested in full-time resources for our fully automated deployment world, we managed to not hire a single test engineer until March 2012. How a stupid mistake took down 3/4 of our global data centers for 12 hours and how we still managed to maintain 99.5% uptime.</p>
+
+<p>I'll explore our devops infrastructure, powered by our in-house built continuous deployment system; our load-balancing infrastructure and its many layers; and our real-time and data streaming infrastructure, built primarily in C and processing 12 terabytes of data every day.</p>
+
+<p>This is our story of scaling from zero to 500,000 queries per second in three years.</p>
+
+<p>Surge - Interview with Mike Nolet - <a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+</feed>
