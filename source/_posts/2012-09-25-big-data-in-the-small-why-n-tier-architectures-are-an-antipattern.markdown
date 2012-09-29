@@ -21,6 +21,8 @@ Show Date:  Tuesday, 25 September 2012
 * [Picks](http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
