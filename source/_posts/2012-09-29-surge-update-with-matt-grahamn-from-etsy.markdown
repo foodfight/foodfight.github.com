@@ -13,7 +13,7 @@ Show Date:  Friday, 28 September 2012
 
 [Download the episode](http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3)
 
-In this DevOps Delicacy, Nathen sits down with [Magg Grahamn](http://twitter.com/lapsu) from Etsy.  They discussed Matt's Surge presentation:
+In this DevOps Delicacy, Nathen sits down with [Matt Grahamn](http://twitter.com/lapsu) from Etsy.  They discussed Matt's Surge presentation:
 
 #### [Changing Etsy's Architectural Foundation with Continuous Deployment](http://omniti.com/surge/2012/sessions/changing-etsys-architectural-foundation-with-continuous-deployment)
 
