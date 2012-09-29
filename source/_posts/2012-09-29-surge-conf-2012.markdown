@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Surge Conf 2012"
+date: 2012-09-29 12:21
+comments: true
+categories: 
+ - surge
+ - postwait
+ - lapsu
+ - mikeonads
+ - achompas
+ - davezwieback
+ - pagerduty
+ - rckenned
+ - novustiro
+---
+
+Nathen spent part of this week at [Surge Conference](http://omniti.com/surge/2012) and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with [Michael Bevilacqua-Linn](http://twitter.com/novustiro) earlier in the week to discuss his presentation.
+
+Here's a list of links to all of the Surge-related episodes:
+
+* [Episode 28:  Big Data in the Small: Why N Tier Architectures Are an Antipattern](http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3)
+* [Update from Surge with Ryan Kennedy from Yammer](http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3)
+* [Update from Surge with Andrew Miklas From PagerDuty](http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3)
+* [Update from Surge with Alejandro Companioni and Dave Zwieback from Knewton](http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3)
+* [Update from Surge with Mike Nolet from AppNexus](http://traffic.libsyn.com/foodfight/Surge-4-Appnexus-cleaned.mp3)
+* [Update from Surge with Matt Grahamn from Etsy](http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3)
+* [Wrap-up Surge with Theo Schlossnagle](http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3)
+
+Email [info@foodfightshow.org](mailto:info@foodfightshow.org) if you presented at Surge and would like to share your experience on the Food Fight Show.
+
+
