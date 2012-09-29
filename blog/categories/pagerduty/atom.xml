@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pagerduty | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/pagerduty/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-29T12:19:40-04:00</updated>
+  <updated>2012-09-29T12:41:12-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Surge Conf 2012]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-conf-2012.html"/>
+    <updated>2012-09-29T12:21:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-conf-2012</id>
+    <content type="html"><![CDATA[<p>Nathen spent part of this week at <a href="http://omniti.com/surge/2012">Surge Conference</a> and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with <a href="http://twitter.com/novustiro">Michael Bevilacqua-Linn</a> earlier in the week to discuss his presentation.</p>
+
+<p>Here's a list of links to all of the Surge-related episodes:</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3">Episode 28:  Big Data in the Small: Why N Tier Architectures Are an Antipattern</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Update from Surge with Ryan Kennedy from Yammer</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Update from Surge with Andrew Miklas From PagerDuty</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Update from Surge with Alejandro Companioni and Dave Zwieback from Knewton</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus-cleaned.mp3">Update from Surge with Mike Nolet from AppNexus</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Update from Surge with Matt Grahamn from Etsy</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3">Wrap-up Surge with Theo Schlossnagle</a></li>
+</ul>
+
+
+<p>Email <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> if you presented at Surge and would like to share your experience on the Food Fight Show.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
