@@ -4,7 +4,7 @@
   <title><![CDATA[Category: REST | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/rest/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-29T12:42:53-04:00</updated>
+  <updated>2012-09-30T08:10:12-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -70,7 +70,9 @@ provision command.</li>
 where they demonstrated how to spin up an application cluster that
 includes a load balancer, 3 application servers, 1 database node, and
 2 elasticsearch nodes. The recipes are on
-<a href="https://github.com/karmi/chef-hello-cloud/">github</a> for your browsing pleasure</p></li>
+<a href="https://github.com/karmi/chef-hello-cloud/">github</a> for your browsing pleasure.
+Provided you have Vagrant and Chef Server setup on your workstation,
+you should be able to spin up the whole stack just by running <code>vagrant up</code></p></li>
 <li><p>Cloudant labs posted
 <a href="https://cloudant.com/blog/cloudant-labs-on-google-spanner/">their analyis</a>
 of Google's globally distributed datastore known as
