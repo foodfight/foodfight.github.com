@@ -9,7 +9,7 @@ categories:
   - lightning
   - deployment
   - bacon
-  - shoe tying
+  - how to tie your shoes
 ---
 Show Date:  Friday, 28 September 2012
 
