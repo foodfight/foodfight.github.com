@@ -9,7 +9,7 @@ categories:
   - lightning
   - deployment
   - bacon
-  - shoetying
+  - shoe tying
 ---
 Show Date:  Friday, 28 September 2012
 
