@@ -52,8 +52,9 @@ In the News<a name="news"></a>
 where they demonstrated how to spin up an application cluster that
 includes a load balancer, 3 application servers, 1 database node, and
 2 elasticsearch nodes. The recipes are on
-[github](https://github.com/karmi/chef-hello-cloud/) for your browsing pleasure
-
+[github](https://github.com/karmi/chef-hello-cloud/) for your browsing pleasure.
+Provided you have Vagrant and Chef Server setup on your workstation,
+you should be able to spin up the whole stack just by running `vagrant up`
 * Cloudant labs posted
   [their analyis](https://cloudant.com/blog/cloudant-labs-on-google-spanner/)
   of Google's globally distributed datastore known as
