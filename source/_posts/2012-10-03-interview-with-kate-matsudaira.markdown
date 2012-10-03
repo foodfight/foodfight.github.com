@@ -12,12 +12,12 @@ categories:
 ---
 Show Date:  Tuesday, 2 October 2012
 
-* [Panel](http://foodfightshow.org/2012/09/interview-with-kate-matsudaira.html#panel)
+* [Panel](http://foodfightshow.org/2012/10/interview-with-kate-matsudaira.html#panel)
 * What's Cookin'
-  * [In the News](http://foodfightshow.org/2012/09/interview-with-kate-matsudaira.html#news)
-  * [Cookbook News](http://foodfightshow.org/2012/09/interview-with-kate-matsudaira.html#cookbooks)
-* [Outline](http://foodfightshow.org/2012/09/interview-with-kate-matsudaira.html#outline)
-* [Picks](http://foodfightshow.org/2012/09/interview-with-kate-matsudaira.html#picks)
+  * [In the News](http://foodfightshow.org/2012/10/interview-with-kate-matsudaira.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/10/interview-with-kate-matsudaira.html#cookbooks)
+* [Outline](http://foodfightshow.org/2012/10/interview-with-kate-matsudaira.html#outline)
+* [Picks](http://foodfightshow.org/2012/10/interview-with-kate-matsudaira.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Kate-Mats.mp3)
 
 <!-- more -->
@@ -81,19 +81,25 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 2 new cookbooks this week from Alex Howells:
+
 * [sickbeard](http://community.opscode.com/cookbooks/sickbeard) v1.0.0 - [alexhowells](http://community.opscode.com/users/alexhowells)
 Installs and configures Sickbeard onto a node.  Sickbeard is the ultimate PVR application that searches for and manages your TV shows.
+
 * [sabnzbd](http://community.opscode.com/cookbooks/sabnzbd) v1.0.0 - [alexhowells](http://community.opscode.com/users/alexhowells)
 Installs and configures sabnzbd onto a node.  sabnzbd is software which helps you download things from Usenet.
 
 * Robert Lee-Cann has published [s3fs-c](http://community.opscode.com/cookbooks/s3fs-c) v0.0.1 - [leeky](http://community.opscode.com/users/leeky)
 The purpose of this recipe is to create a s3fs driver for one of your amazon s3 buckets. It uses the modified s3fs-c fork, to be compatible with other S3 client's concepts of directory structures, maintained by [Tong Wang](https://github.com/tongwang).  This recipe is a lightly modified version of 's3fs' by [Tom Wilson](https://github.com/twilson63).
+
 * John Dewey is back this time with [megaraidcli](http://community.opscode.com/cookbooks/megaraidcli) v0.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
 Installs/Configures MegaCLI, a command line utility for managing RAID adapters
+
 * Chris Roberts, another prolific cookbook contributor, recently pulbished [package_installer](http://community.opscode.com/cookbooks/package_installer) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Simple cookbook for managing package versions on a node.
+
 * Padraig O'Sullivan published [akibanserver](http://community.opscode.com/cookbooks/akibanserver) v0.1.2 - [posulliv](http://community.opscode.com/users/posulliv)
 Install and configure the Akiban Server.  Akiban Server is a pure Java, open source database with a unified document-table storage structure and a breakthrough relational algebra. Based on the concept of table-groups, it supports SQL and documents working seamlessly together and performing a lot better.
+
 * Stanislav Bogatyrev released [repos](http://community.opscode.com/cookbooks/repos) v0.0.1 - [realloc](http://community.opscode.com/users/realloc)
 Manages repositories for your platform. Curently only Debian and Ubuntu are supported.
 
@@ -135,6 +141,19 @@ Picks<a name="picks"></a>
 * [TLN - technology &amp; leadership news](http://www.techleadershipnews.com/)
 * [vimfluence](https://github.com/orlandov/vimfluence) - Edit Confluence wikis using vim.
 
+Close
+-----
 
+Please take the time to rate us on itunes and to send your cookbook
+news to [info@foodfightshow.org](mailto:info@foodfightshow.org).
+
+Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
+
+Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
+
+
+
+Download
+--------
 Interview with Kate Matsudaira - [Download here](http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Kate-Mats.mp3)
 
