@@ -4,7 +4,7 @@
   <title><![CDATA[Category: keepalived | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/keepalived/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-30T08:10:12-04:00</updated>
+  <updated>2012-10-03T08:43:37-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -29,6 +29,11 @@
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus-cleaned.mp3">Download the episode</a></p>
 
 <p>In this DevOps Delicacy, Nathen sits down with Mike Nolet, CTO &amp; Co-founder of AppNexus.  They discussed Mike's Surge presentation:</p>
+
+<!-- more -->
+
+
+<p></p>
 
 <h4><a href="http://omniti.com/surge/2012/sessions/from-zero-to-500k-qps-in-three-years-scaling-appnexus">From Zero to 500k QPS in Three Years: Scaling AppNexus</a></h4>
 

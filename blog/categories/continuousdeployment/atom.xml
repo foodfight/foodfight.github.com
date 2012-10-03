@@ -4,7 +4,7 @@
   <title><![CDATA[Category: continuousdeployment | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/continuousdeployment/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-30T08:10:12-04:00</updated>
+  <updated>2012-10-03T08:43:37-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -23,6 +23,9 @@
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Download the episode</a></p>
 
 <p>In this DevOps Delicacy, Nathen sits down with <a href="http://twitter.com/lapsu">Matt Grahamn</a> from Etsy.  They discussed Matt's Surge presentation:</p>
+
+<!-- more -->
+
 
 <h4><a href="http://omniti.com/surge/2012/sessions/changing-etsys-architectural-foundation-with-continuous-deployment">Changing Etsy's Architectural Foundation with Continuous Deployment</a></h4>
 

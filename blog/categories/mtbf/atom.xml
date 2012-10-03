@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mtbf | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/mtbf/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-30T08:10:12-04:00</updated>
+  <updated>2012-10-03T08:43:37-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -23,6 +23,9 @@
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download the episode</a></p>
 
 <p>In this DevOps Delicacy, Nathen sat down with Andrew Miklas, CTO and Co-founder of <a href="http://www.pagerduty.com">PagerDuty</a>.  They discussed Andrew's Surge presentation:</p>
+
+<!-- more -->
+
 
 <h3><a href="http://omniti.com/surge/2012/sessions/ensuring-the-call-goes-out-everytime">Ensuring the Call Goes Out—Everytime</a></h3>
 

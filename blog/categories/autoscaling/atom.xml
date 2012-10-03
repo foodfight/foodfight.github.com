@@ -4,7 +4,7 @@
   <title><![CDATA[Category: autoscaling | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/autoscaling/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-09-30T08:10:12-04:00</updated>
+  <updated>2012-10-03T08:43:37-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -25,6 +25,9 @@
 <p>In this DevOps Delicacy, Nathen sat down with <a href="https://twitter.com/achompas">Alejandro Companioni</a> and <a href="https://twitter.com/davezwieback">Dave Zwieback</a> from <a href="http://www.knewton.com/">Knewton</a>.</p>
 
 <p>They discussed Alejandro's Surge presentation and Dave's lightning talk.</p>
+
+<!-- more -->
+
 
 <h3><a href="http://omniti.com/surge/2012/sessions/autoscaling-with-leptoid-using-time-series-analysis-and-application-metrics-to-scale-the-knewton-platform">Autoscaling With Leptoid: Using Time Series Analysis and Application Metrics To Scale the Knewton Platform</a></h3>
 
