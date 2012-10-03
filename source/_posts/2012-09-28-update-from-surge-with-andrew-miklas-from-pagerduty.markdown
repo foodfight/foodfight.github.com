@@ -17,6 +17,8 @@ Show Date:  Friday, 28 September 2012
 
 In this DevOps Delicacy, Nathen sat down with Andrew Miklas, CTO and Co-founder of [PagerDuty](http://www.pagerduty.com).  They discussed Andrew's Surge presentation:
 
+<!-- more -->
+
 ### [Ensuring the Call Goes Out—Everytime](http://omniti.com/surge/2012/sessions/ensuring-the-call-goes-out-everytime)
 
 Many systems can afford a bit of downtime now and then. Unfortunately, at PagerDuty, even a three-minute outage at the wrong time can cost thousands in lost revenue. This talk will cover some of the techniques and tricks we use at PagerDuty to ensure that our phone and SMS alerts continue to flow while staying well within the budget of a typical startup. Specifically, I will show how we do zero downtime database migrations and deploys, and how we recover from host and data center outages with minimal disruption.

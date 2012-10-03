@@ -15,6 +15,8 @@ Show Date:  Friday, 28 September 2012
 
 In this DevOps Delicacy, Nathen sits down with [Matt Grahamn](http://twitter.com/lapsu) from Etsy.  They discussed Matt's Surge presentation:
 
+<!-- more -->
+
 #### [Changing Etsy's Architectural Foundation with Continuous Deployment](http://omniti.com/surge/2012/sessions/changing-etsys-architectural-foundation-with-continuous-deployment)
 
 You hate that crusty old hunk of company technology that has long outlived the reasons it was adopted in the first place. But after all this time, it's stuck in the middle of everything; how to get rid of it?

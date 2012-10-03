@@ -20,6 +20,7 @@ Show Date:  Friday, 28 September 2012
 
 In this DevOps Delicacy, Nathen sits down with Mike Nolet, CTO & Co-founder of AppNexus.  They discussed Mike's Surge presentation:
 
+<!-- more --> 
 #### [From Zero to 500k QPS in Three Years: Scaling AppNexus](http://omniti.com/surge/2012/sessions/from-zero-to-500k-qps-in-three-years-scaling-appnexus)
 
 I'd like to tell our story of how we went from two guys on a couch who thought they could build a cloud-hosting company, to more than 200 employees, building the world leader in real-time advertising technology. This presentation will give an uncensored dive into both our colossal mistakes as well as our tremendous successes. How, over the course of one weekend, we used GSLB and KeepAlive to hack our servers into place, build a backend to support them, and freed ourselves from the grips of expensive LB vendors. How, because we’ve always invested in full-time resources for our fully automated deployment world, we managed to not hire a single test engineer until March 2012. How a stupid mistake took down 3/4 of our global data centers for 12 hours and how we still managed to maintain 99.5% uptime.
