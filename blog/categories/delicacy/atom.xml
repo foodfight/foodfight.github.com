@@ -4,7 +4,7 @@
   <title><![CDATA[Category: delicacy | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/delicacy/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-10-03T08:43:37-04:00</updated>
+  <updated>2012-10-07T16:10:57-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps Delicacy - Special Episode]]></title>
+    <link href="http://foodfight.github.com/2012/10/devops-delicacy-special-episode.html"/>
+    <updated>2012-10-07T16:08:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/10/devops-delicacy-special-episode</id>
+    <content type="html"><![CDATA[<p>Show Date:  Monday, 8 October 2012</p>
+
+<p>This is a short DevOps Delicacy special that is a tribute to a member of the DevOps Community.  Enjoy.</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Special.mp3">Download</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Surge Update - Mike Nolet]]></title>
@@ -112,43 +125,6 @@
 <p>Sometimes the solution to your problem can't be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready. After several false starts with pre-built offerings, we constructed our own solution and shipped an embedded, distributed NoSQL data store built on top of Berkeley DB Java Edition. It was not a decision made lightly. Nor was it a particularly easy trail to blaze at times. In this session I'll discuss why Yammer chose to build vs. buy, what was built, problems encountered and where Yammer is today.</p>
 
 <p>Surge - Interview With Ryan Kennedy - <a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Download here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOps Delicacy - Chef Introductory Workshop with David Bock]]></title>
-    <link href="http://foodfight.github.com/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html"/>
-    <updated>2012-07-14T09:11:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock</id>
-    <content type="html"><![CDATA[<p>Show Date:  Friday, 13 Jul 2012</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html#outline">Outline</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-Delicacy-IntroToChefCourse.mp3">Download</a></li>
-</ul>
-
-
-<p><strong>Show note</strong> Apologies for the background noise in the second and third interview sessions.</p>
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>David Bock <a href="https://github.com/bokmann">github</a>, <a href="https://twitter.com/bokmann">twitter</a>, <a href="http://blogs.codesherpas.com/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<p>For this DevOps Delicacy, Nathen met with <a href="https://github.com/bokmann">David Bock</a> to talk about the Chef Introductory Workshop.  We met before, during, and after the course and discussed David's expectations of the class, prior experience with Chef, thoughts on the class and more.</p>
-
-<h2>Download</h2>
-
-<p>DevOps Delicacy - Chef Introductory Workshop with David Bock:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow-Delicacy-IntroToChefCourse.mp3">Download here</a></p>
 ]]></content>
   </entry>
   
