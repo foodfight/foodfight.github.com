@@ -22,7 +22,7 @@ Show Date:  Tuesday, 9 October 2012
   * [Cookbook News](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#cookbooks)
 * [Outline](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#outline)
 * [Picks](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#picks)
-* [Download](http://traffic.libsyn.com/foodfight/Food-Fight-30-Metrics-Driven-Engineering.mp3)
+* [Download](http://traffic.libsyn.com/foodfight/Food-Fight-30-Metircs-Driven-Engineering.mp3)
 
 
 Outline<a name="outline"></a>
