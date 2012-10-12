@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphite | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/graphite/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-10-07T20:52:53-04:00</updated>
+  <updated>2012-10-12T11:45:13-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps Days Italy]]></title>
+    <link href="http://foodfight.github.com/2012/10/devopsdays-rome.html"/>
+    <updated>2012-10-05T17:47:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/10/devopsdays-rome</id>
+    <content type="html"><![CDATA[<p>Some updates from DevOps Days Italy</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">Jason Dixon gets Graphy on Graphite at Devops Days Italy</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">John Willis on why Deming Matters</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Monitoring for n00bs with Jason Dixon]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-10-07T20:52:53-04:00</updated>
+  <updated>2012-10-12T11:45:13-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -12,6 +12,193 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[metrics-driven-engineering]]></title>
+    <link href="http://foodfight.github.com/2012/10/metrics-driven-engineering.html"/>
+    <updated>2012-10-11T06:59:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/10/metrics-driven-engineering</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 9 October 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#panel">Panel</a></li>
+<li>What&#8217;s Cookin&#8217;
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-30-Metrics-Driven-Engineering.mp3">Download</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>John and Nathen sat down with Marc Watts, Mark Jennings, and David Lutzy to discuss the DevOps culture and history at Lonely Planet, performance, metrics-driven engineering, and more.</p>
+
+<ul>
+<li>0:40 - <a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#news">In the News</a></li>
+<li>2:08 - Meetup Groups &amp; Events</li>
+<li>3:38 - Google+ Chef Hangouts</li>
+<li>3:55 - Special Offer</li>
+<li>4:20 - <a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#cookbooks">New Cookbooks</a></li>
+<li>5:35 - Updated Cookbooks</li>
+<li>6:35 - <a href="http://foodfightshow.org/2012/10/metrics-driven-engineering.html#panel">Panel Introductions</a></li>
+<li>7:53 - What is Lonely Planet?</li>
+<li>11:00 - History of DevOps at Lonely Planet</li>
+<li>13:35 - Size and Organization of Lonely Planet</li>
+<li>17:02 - How Lonely Planet lost it&#8217;s way&#8230;but found it again.</li>
+<li>18:16 - Infrastructure of Lonely Planet and moving to the cloud</li>
+<li>19:50 - Content caching</li>
+<li>21:55 - Software stack at Lonely Planet</li>
+<li>25:40 - Does performance matter?</li>
+<li>30:00 - Enabling developers to implement metrics</li>
+<li>35:46 - Open Source contributions, including Fozzie</li>
+<li>38:26 - Self-service metrics</li>
+<li>43:36 - Using Chef at Lonely Planet</li>
+<li>49:50 - Picks</li>
+<li>56:40 - Close</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Marc Watts <a href="https://github.com/marckysharky">github</a>, <a href="http://twitter.com/marckysharky">twitter</a></li>
+<li>Mark Jennings</li>
+<li>David Lutz <a href="https://github.com/dlutzy">github</a>, <a href="https://twitter.com/dlutzy">twitter</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<p>Now that Velocity EU and DevOpsDays Rome are over, presentations, blog posts, and videos are starting to appear all over the web.  A little google-fu should help you find what you&#8217;re looking for.  What were some of your favorites?  Email us at info@foodfightshow.org and we&#8217;ll mention them on the next show.</p>
+
+<p>A couple of highlights from VelocityEU include</p>
+
+<ul>
+<li><p><a href="http://www.youtube.com/watch?v=veumR8l07uc">Christopher Brown&#8217;s Velocity Europe Keynote</a></p></li>
+<li><p><a href="http://www.slideshare.net/mcdonnps/continuously-deploying-culture-scaling-culture-at-etsy-14588485">Continuously Deploying Culture:  Scaling Cultre at Etsy</a></p></li>
+<li><p><a href="http://radar.oreilly.com/2012/10/velocity-europe-six-themes.html">Six themes from Velocity Europe</a> - Performance matters more, importance of the human factor in web operations, and more.</p></li>
+<li><p>Obfuscurity&#8217;s DevOpsDays Rome Presentation on <a href="https://speakerdeck.com/u/obfuscurity/p/the-state-of-open-source-monitoring">The State of Open-source Monitoring</a> is available over on SpeakerDeck.</p></li>
+<li><p>In other conference news, the <a href="http://puppetlabs.com/community/videos/puppetconf/">PuppetConf Videos</a> are now available, too.</p></li>
+<li><p><a href="https://github.com/jgoulah/knife-env-diff">knife-env-diff</a> - a knife plugin which will diff the cookbook versions of two or more environments.</p></li>
+<li><p><a href="https://peepcode.com/products/chef-i">Part 1 of the Chef PeepCode Screencast</a> is now available.</p></li>
+</ul>
+
+
+<h3>Upcoming Meetup Groups and Events</h3>
+
+<ul>
+<li><p>There&#8217;s a new Chef Users Group in Los Angeles!  If you live or work near LA, go <a href="http://www.meetup.com/Los-Angeles-Chef-Users-Group/">signup for this group</a>.</p></li>
+<li><p>Chef Cafe meetings are informal gatherings that are a great place to ask questions about Chef and establish connections with people that can help you in the future.  The <a href="http://www.meetup.com/The-Bay-Area-Chef-User-Group/">Bay Area Chef User Group</a> is hosting Chef Cafe meetings on October 18 and the Chicago Chef Users&#8217; Group is holding one <a href="http://www.meetup.com/Chicago-Chef-User-Group/events/84546562">on October 11</a>.</p></li>
+<li><p>The <a href="http://www.meetup.com/Chef-NYC/">Chef-NYC</a> group is meeting on October 16th for an <a href="http://www.meetup.com/Chef-NYC/events/82345952/">An Introduction to Shef, The Chef Shell</a></p></li>
+<li><p>The Triangle Devops group will meet on October 17 in Raleigh, NC.  The topic for the night:  <a href="http://www.meetup.com/Triangle-DevOps/events/82806542/">Lean About Illumos</a></p></li>
+<li><p>Gigaom will be hosting a webinar on October 18th.  The webinar will look at <a href="http://pro.gigaom.com/webinars/opscode-continuous-delivery/">Continuous delivery: develop, deliver and deploy software on demand</a>.  You can <a href="http://pro.gigaom.com/webinars/opscode-continuous-delivery/">register for the free webinar</a> today.</p></li>
+<li><p>The <a href="http://www.citconf.com/">Continuous Integration Testing Conference</a> will be hosting <a href="http://www.citconf.com/budapest2012/">CITCON Europe</a> in Budapest on October 19 &amp; 20.</p></li>
+<li><p>The <a href="http://opscode-summit-2012.eventbrite.com/">Opscode Community Summit #2</a> is coming up on October 23 and 24.  Please come out to Seattle to meet with your tribe and share ideas about making this community even better!</p></li>
+<li><p><a href="http://devopsdays.org/events/2012-newyork/">DevOps Days NYC</a> have been announced for November 1st and 2nd.  Registration is now open and you can send in your <a href="http://devopsdays.org/events/2012-newyork/propose">talk proposals</a> or <a href="http://devopsdays.org/events/2012-newyork/sponsor">become a sponsor now</a>.</p></li>
+<li><p>Would you be interested in joining a Google+ hangout with some fellow Chefs?  We&#8217;re thinking about setting up some regulary Chef hangouts, let us know ifthis is something you&#8217;d be interested by emailing me at <a href="mailto:nharvey@opscode.com">nharvey@opscode.com</a>.</p></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><p><a href="http://community.opscode.com/cookbooks/ubuntu_nvidia_gpu">ubuntu_nvidia_gpu</a> v0.1.0 - <a href="http://community.opscode.com/users/fnichol">fnichol</a>
+Installs/Configures NVIDIA graphics drivers on Ubuntu Linux</p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/tarsnap">tarsnap</a> v0.0.10 - <a href="http://community.opscode.com/users/andreacampi">andreacampi</a>
+This cookbook installs and configures <a href="https://www.tarsnap.com/">tarsnap</a>. Optionally it can also install and configure <a href="https://github.com/miracle2k/tarsnapper">tarsnapper</a>.  Tarsnap is a secure online backup service.  The Tarsnap client code provides a flexible and powerful command-line interface which can be used directly or via shell scripts.  Tarsnapper is a wrapper around tarsnap that allows you to define &#8220;backup jobs&#8221; and expire old backups.</p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/chocolatey">chocolatey</a> v0.0.2 - <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a>
+Install chocolatey and packages on Windows.  <a href="http://chocolatey.org/">Chocolately NuGet</a> is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.</p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/naglite2">naglite2</a> v0.1.3 - <a href="http://community.opscode.com/users/sjourdan">sjourdan</a>
+This Chef cookbook deploys naglite2, which is a full screen nagios viewer intended for NOC/monitoring screens.  <a href="https://github.com/lozzd/Naglite2">Naglite2 on github</a>, <a href="http://www.flickr.com/photos/lozzd/3210502566/">Naglite2 in action</a></p></li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/s3fs-c">s3fs-c</a> v0.0.2 - <a href="http://community.opscode.com/users/leeky">leeky</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ipmitool">ipmitool</a> v1.1.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/splunkstorm">splunkstorm</a> v0.0.3 - <a href="http://community.opscode.com/users/d2kagw">d2kagw</a></li>
+<li><a href="http://community.opscode.com/cookbooks/sol">sol</a> v0.2.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
+<li><a href="http://community.opscode.com/cookbooks/cpan">cpan</a> v0.0.20 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
+<li><a href="http://community.opscode.com/cookbooks/tar">tar</a> v0.0.1 - <a href="http://community.opscode.com/users/smith">smith</a></li>
+<li><a href="http://community.opscode.com/cookbooks/graphite_handler">graphite_handler</a> v0.0.8 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+</ul>
+
+
+<p>Picks<a name="picks"></a></p>
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://itunes.apple.com/us/app/ticket-to-ride-pocket/id471857988?mt=8">Ticket to Ride</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://mizage.com/shush/">Shush</a></li>
+</ul>
+
+
+<h4>Marc</h4>
+
+<ul>
+<li><a href="http://www.camdentownbrewery.com/year-round-beers/camden-hells-lager/">Camden Hells Lager</a></li>
+</ul>
+
+
+<h4>Mark</h4>
+
+<ul>
+<li><a href="http://www.readability.com/">Readibility</a></li>
+</ul>
+
+
+<h4>David</h4>
+
+<ul>
+<li><a href="http://99designs.com/">99 Designs</a></li>
+<li><a href="http://twitter.com/patrickdebois">Patrick Debois</a></li>
+<li><a href="http://refit.sourceforge.net/">rEFIt</a></li>
+<li><a href="http://www.templetonrye.com/home/">Tempelton Rye Whiskey</a></li>
+<li><a href="http://threetrappedtigers.believeband.com/">Three Trapped Tigers</a></li>
+</ul>
+
+
+<p>Here&#8217;s a vidoe from Three Trapped Tigers, one of David&#8217;s picks:</p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/lWOwLKcqb40" frameborder="0" allowfullscreen></iframe>
+
+
+<h2>Close</h2>
+
+<p>Please take the time to rate us on itunes and to send your cookbook
+news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+
+<p>Follow <a href="http://twitter.com/foodfightshow">@foodfightshow</a> on twitter.</p>
+
+<p>Also, you can submit show ideas to our <a href="https://github.com/foodfight/showz">github repo</a></p>
+
+<h2>Download</h2>
+
+<p>Download Metrics-driven Engineering - <a href="http://traffic.libsyn.com/foodfight/Food-Fight-30-Metircs-Driven-Engineering.mp3">Download here</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOps Delicacy - Special Episode]]></title>
@@ -30,6 +217,21 @@
 
 
 <p>Happy Birthday, David!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps Days Italy]]></title>
+    <link href="http://foodfight.github.com/2012/10/devopsdays-rome.html"/>
+    <updated>2012-10-05T17:47:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/10/devopsdays-rome</id>
+    <content type="html"><![CDATA[<p>Some updates from DevOps Days Italy</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">Jason Dixon gets Graphy on Graphite at Devops Days Italy</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">John Willis on why Deming Matters</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -2044,219 +2246,6 @@ Installs Symantec Endpoint Protection from internal package repository.</li>
 <p>Do you have cookbook news that you&#8217;d like to share or feedback on the show?  Please drop a line to info@foodfightshow.org</p>
 
 <p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOps Delicacy - Chef Introductory Workshop with David Bock]]></title>
-    <link href="http://foodfight.github.com/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html"/>
-    <updated>2012-07-14T09:11:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock</id>
-    <content type="html"><![CDATA[<p>Show Date:  Friday, 13 Jul 2012</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html#outline">Outline</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-Delicacy-IntroToChefCourse.mp3">Download</a></li>
-</ul>
-
-
-<p><strong>Show note</strong> Apologies for the background noise in the second and third interview sessions.</p>
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>David Bock <a href="https://github.com/bokmann">github</a>, <a href="https://twitter.com/bokmann">twitter</a>, <a href="http://blogs.codesherpas.com/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<p>For this DevOps Delicacy, Nathen met with <a href="https://github.com/bokmann">David Bock</a> to talk about the Chef Introductory Workshop.  We met before, during, and after the course and discussed David&#8217;s expectations of the class, prior experience with Chef, thoughts on the class and more.</p>
-
-<h2>Download</h2>
-
-<p>DevOps Delicacy - Chef Introductory Workshop with David Bock:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow-Delicacy-IntroToChefCourse.mp3">Download here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interview with Joshua Timberman, King of Sysadmins]]></title>
-    <link href="http://foodfight.github.com/2012/07/interview-with-joshua-timberman.html"/>
-    <updated>2012-07-10T12:36:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/07/interview-with-joshua-timberman</id>
-    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 10 July 2012</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#panel">Panel</a></li>
-<li>What&#8217;s Cookin&#8217;
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#news">In the News</a></li>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#cookbooks">Cookbook News</a></li>
-</ul>
-</li>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#picks">Picks</a></li>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#outline">Outline</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/ffs20_4.mp3">Download</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Joshua Timberman <a href="https://twitter.com/#!/jtimberman">twitter</a>, <a href="http://github.com/jtimberman">github</a>, <a href="mailto:joshua@opscode.com">email</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Matt Ray <a href="https://twitter.com/#!/mattray">twitter</a>, <a href="https://github.com/mattray">github</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a>, <a href="http://blog.lusis.org/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>In the News<a name="news"></a></h2>
-
-<ul>
-<li><p>Jon Cowie&#8217;s presentation at Velocity 2012, <a href="http://www.slideshare.net/jonlives/michelin-starred-cooking-with-chef">Michelin Starred Cooking with Chef</a></p></li>
-<li><p><a href="http://www.mynameiskate.com/visual-guide-to-chef/">Visual guide to Chef</a> from Kate Leroux</p></li>
-<li><p><a href="https://github.com/cjs226/git_to_chef">git_to_chef</a> will compare the
-cookbooks in Git to those in a Chef Environment If there are new and/or
-updated cookbooks in Git, it&#8217;ll either log it or upload/freeze the
-affected cookbooks, update the stated environment, upload databags,
-upload roles then send an email notification.</p></li>
-<li><p><a href="http://fnichol.github.com/knife-server/">Knife::Server</a> - An Opscode
-Chef knife plugin to manage Chef Servers.  Bootstrap a new Chef Server
-on Amazon&#8217;s EC2 or a standalone server. Backup and restore your Chef
-Server or Hosted Chef&#8217;s node, role, data bag, and environment JSON data.</p></li>
-<li><p><a href="http://www.devopsdays.org/events/2012-india/registration/">DevOpsDays Delhi</a> - July 21 &amp; 22</p></li>
-<li><p>chefspec and rspec-chef are great tools for unit-testing your chef cookbooks, but it&#8217;s often cumbersome to mock out all your node&#8217;s ohai data. Even a clean operating system yields a few thousand lines of ohai data, so it&#8217;s easy to quickly pollute your tests with more mock and less test. This not only increases the time required to write tests, but it&#8217;s not extensible and isn&#8217;t sustainable across large projects. That&#8217;s why <a href="hhttp://twitter.com/sethvargo">Seth Vargo</a> at <a href="http://www.customink.com">CustomInk</a> cooked up <a href="https://github.com/customink/fauxhai">fauxhai</a> - a community supported gem for easily mocking ohai data.</p>
-
-<ul>
-<li>command line tool for generating and contributing fauxhai data</li>
-<li>easily override any attributes</li>
-<li>specify default versions</li>
-<li>fetch remote server data (coming soon!)</li>
-</ul>
-</li>
-<li><p><a href="http://nathenharvey.com/blog/2012/07/06/mvt-knife-test-and-travisci/">MVT:  knife test with Travis CI</a></p></li>
-<li><p><a href="http://blog.lusis.org/blog/2012/07/09/what-production-means/">What Production Means</a> - recent blog post by <a href="http://twitter.com//lusis">@lusis</a></p></li>
-<li><p>Opscode training - use discount code <strong>REDACTED, listen to get the code</strong> to save 10% on sessions.</p></li>
-<li><p><a href="http://foodfightshow.org">Food Fight Show</a> website.  You can now support us using <a href="http://flattr.com/thing/733271/foodfightshow-on-Flattr">Flattr</a>, the microdonation platform.</p></li>
-<li><p><a href="http://realityforge.org/presentations/cookbook-reusability/#1">Evolving towards cookbook reusability slides</a></p></li>
-</ul>
-
-
-<h2>Cookbook News<a name="cookbooks"></a></h2>
-
-<h3>New Cookbooks</h3>
-
-<ul>
-<li><p><a href="http://community.opscode.com/cookbooks/phantomjs">phantomjs</a> v0.0.2 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a>
-Installs the phantomjs cookbook and necessary packages. This repository also features a full test suite! (knife, foodcritic, chefspec, using fauxhai)</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/rails_rvm">rails_rvm</a> v0.1.0 - <a href="http://community.opscode.com/users/bwright">bwright</a> - First community cookbook!
-Installs System Wide RVM via the RVM recipe. RVM is configured for the specified user to work on boot.  Then Rails is installed</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/trac4r">trac4r</a> v1.0.3 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a>
-Oftentimes it is helpful for your servers to create and post their own documentation. In Operations, it is important that we focus on publishing information in a timely, organized, and appropriate fashion. Of necessity, a good Operations team has multiple tools. Unfortunately, the multiplicity of tools can result in information fragmentation and difficulty in providing a single location for Developers and collegues to go for answers to common questions. Additionally, it is often sub-optimal to give access to a particular toolset simply to provide log or status information.</p></li>
-</ul>
-
-
-<p>Tasks such as updating tickets when build artifacts have been generated, self-generated wikipages, or even posting drive fragmentation status are all basic tasks that servers should be able to do themselves. This is a basic attempt at enabling machines to interact with a <a href="http://trac.edgewall.org/">Trac</a> system for the specific purposes listed above&#8230; As well as others.</p>
-
-<ul>
-<li><p><a href="http://community.opscode.com/cookbooks/zpool">zpool</a> v0.0.1 - <a href="http://community.opscode.com/users/marthag">marthag</a>
-Lightweight resource and provider to create or destroy simple zpools in Solaris zpools.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/zfs">zfs</a> v0.0.2 - <a href="http://community.opscode.com/users/marthag">marthag</a>
-Lightweight resource and provider to manage Solaris zfs file systems. Currently, only a limited sub-set of options are supported.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/emailer">emailer</a> v1.0.1 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a> (steven c)
-Installs/Configures Mail gems and provides library for quick email messages from servers.  What you see is what you get. Steven has a gmail account that he use as an SMTP server; the example is currently setup for TLS with google.</p></li>
-</ul>
-
-
-<h3>Updated Cookbooks</h3>
-
-<ul>
-<li><a href="http://community.opscode.com/cookbooks/datadog">datadog</a> v0.0.12 - <a href="http://community.opscode.com/users/miketheman">miketheman</a></li>
-<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
-<li><a href="http://community.opscode.com/cookbooks/zncrypt">zncrypt</a> v0.1.2 - <a href="http://community.opscode.com/users/egarcia">egarcia</a></li>
-<li><a href="http://community.opscode.com/cookbooks/ruby_enterprise">ruby_enterprise</a> v0.2.6 - <a href="http://community.opscode.com/users/miketheman">miketheman</a> (Now with TravisCI - foodcritic, knife, and <a href="https://github.com/turboladen/tailor">tailor</a>)</li>
-<li><a href="http://community.opscode.com/cookbooks/sensu">sensu</a> v0.1.1 - <a href="http://community.opscode.com/users/portertech">portertech</a></li>
-<li><a href="http://community.opscode.com/cookbooks/zone">zone</a> v0.0.5 - <a href="http://community.opscode.com/users/marthag">marthag</a></li>
-<li><a href="http://community.opscode.com/cookbooks/pkgutil">pkgutil</a> v0.0.3 - <a href="http://community.opscode.com/users/marthag">marthag</a>
-Manages Solaris pkgutil packages</li>
-<li><a href="http://community.opscode.com/cookbooks/helios">helios</a> v1.0.1 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
-<li><a href="https://github.com/lusis/chef-logstash">logstash</a> v0.2.1 - <a href="https://github.com/lusis">lusis</a></li>
-<li><a href="https://github.com/karmi/cookbook-elasticsearch">elasticsearch</a>
-v0.0.2 - <a href="https://github.com/karmi">Karel Minarik</a></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<p>Great conversation with Joshua Timberman covering many topics including:</p>
-
-<ul>
-<li>Joshua&#8217;s background and how he got started with Opscode</li>
-<li>Cookbook Development</li>
-<li>Community Cookbooks</li>
-<li>Shef</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Bryan</h4>
-
-<ul>
-<li>haproxy - I do all of my http routing w/ it</li>
-<li>Bon Iver - beautiful music but really depressing</li>
-<li>anti-pick - <a href="http://launchpad.net">Launchpad</a>, I don&#8217;t like it</li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li>ldirectord - I do all of my http AND https routing with it!</li>
-<li>music pick - <a href="http://www.nekocase.com/">Neko Case</a></li>
-<li>beer pick - <a href="http://fordhambrewing.com/our-brews/">Fordham Copperhead Ale</a></li>
-</ul>
-
-
-<h4>Matt</h4>
-
-<ul>
-<li><a href="http://stephentobolowsky.wordpress.com/the-tobolowsky-files/">Tobolowsky files</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">The Mythical Man Month</a></li>
-</ul>
-
-
-<h4>Joshua</h4>
-
-<ul>
-<li>anti-pick - lawn maintenance</li>
-<li>listening to 80&#8217;s synth pop and industrial music on <a href="http://rdio.com">rdio</a></li>
-<li>Instapaper</li>
-<li>Pathfinder - offshoot of dungeons and dragons</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<p>Interview with Joshua Timberman, King of Sysadmins:  <a href="http://traffic.libsyn.com/foodfight/ffs20_4.mp3">Download here</a></p>
-
-<h2>Website Credit</h2>
-
-<p>You may have noticed our site has a new look! We have migrated from Blogger to Github Pages using the Octopress framework.</p>
-
-<p>Thanks to Simon Griffee for migrating our site from Blogger to Octopress. Simon Griffee is a freelance <a href="http://hypertexthero.com/about/">graphic designer and web
-developer</a> and <a href="http://simongriffee.com">photographer</a>. <a href="http://hypertexthero.com/contact/">Contact</a> him at
-<a href="mailto:simon@hypertexthero.com">simon@hypertexthero.com</a></p>
 ]]></content>
   </entry>
   
