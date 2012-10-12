@@ -6,6 +6,7 @@ comments: true
 categories: 
   - marckysharky
   - dlutzy
+  - mjenno
   - lonelyplanet
   - fozzie
   - metrics
@@ -57,7 +58,7 @@ Panel<a name="panel"></a>
 ------
 
 * Marc Watts [github](https://github.com/marckysharky), [twitter](http://twitter.com/marckysharky)
-* Mark Jennings
+* Mark Jennings [twitter](http://twitter.com/mjenno), [blog](http://home.mjenno.com/)
 * David Lutz [github](https://github.com/dlutzy), [twitter](https://twitter.com/dlutzy)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
