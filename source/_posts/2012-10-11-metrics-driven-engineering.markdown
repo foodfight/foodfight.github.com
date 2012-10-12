@@ -131,17 +131,34 @@ This Chef cookbook deploys naglite2, which is a full screen nagios viewer intend
 
 
 Picks<a name="picks"></a>
------
 
 #### lusis
 
+* [Ticket to Ride](http://itunes.apple.com/us/app/ticket-to-ride-pocket/id471857988?mt=8)
+
 #### Nathen
+
+* [Shush](http://mizage.com/shush/)
 
 #### Marc
 
+* [Camden Hells Lager](http://www.camdentownbrewery.com/year-round-beers/camden-hells-lager/)
+
 #### Mark
 
+* [Readibility](http://www.readability.com/)
+
 #### David
+
+* [99 Designs](http://99designs.com/)
+* [Patrick Debois](http://twitter.com/patrickdebois)
+* [rEFIt](http://refit.sourceforge.net/)
+* [Tempelton Rye Whiskey](http://www.templetonrye.com/home/)
+* [Three Trapped Tigers](http://threetrappedtigers.believeband.com/)
+
+Here's a vidoe from Three Trapped Tigers, one of David's picks:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/lWOwLKcqb40" frameborder="0" allowfullscreen></iframe>
 
 Close
 -----
