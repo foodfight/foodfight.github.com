@@ -73,10 +73,6 @@ A couple of highlights from VelocityEU include
 
 * Would you be interested in joining a Google+ hangout with some fellow Chefs?  We're thinking about setting up some regulary Chef hangouts, let us know ifthis is something you'd be interested by emailing me at [nharvey@opscode.com](mailto:nharvey@opscode.com).
 
-###  Special Offers
-
-* Opscode is offering lots of Introductory Workshops around the US through the end of the year.  If you are new to Chef or know someone who is, be sure to checkout the [Opscode Events page](http://www.eventbrite.com/org/429733222) on Eventbrite.  And remember, you can use discount code "FOODFIGHT" to save 10% off your registration.  Upcoming cities include Boston, Raleigh, and San Francisco.
-
 
 Cookbook News<a name="cookbooks"></a>
 -------------
