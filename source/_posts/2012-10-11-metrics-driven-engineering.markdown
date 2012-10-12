@@ -10,6 +10,7 @@ categories:
   - fozzie
   - metrics
   - performance
+  - elasticsearch
 ---
 Show Date:  Tuesday, 9 October 2012
 
@@ -21,6 +22,32 @@ Show Date:  Tuesday, 9 October 2012
 * [Outline](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#outline)
 * [Picks](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/Food-Fight-30-Metrics-Driven-Engineering.mp3)
+
+
+Outline<a name="outline"></a>
+-----
+
+* 0:40 - [In the News](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#news)
+* 2:08 - Meetup Groups &amp; Events
+* 3:38 - Google+ Chef Hangouts
+* 3:55 - Special Offer
+* 4:20 - [New Cookbooks](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#cookbooks)
+* 5:35 - Updated Cookbooks
+* 6:35 - [Panel Introductions](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#panel)
+* 7:53 - What is Lonely Planet?
+* 11:00 - History of DevOps at Lonely Planet
+* 13:35 - Size and Organization of Lonely Planet
+* 17:02 - How Lonely Planet lost it's way...but found it again.
+* 18:16 - Infrastructure of Lonely Planet and moving to the cloud
+* 19:50 - Content caching
+* 21:55 - Software stack at Lonely Planet
+* 25:40 - Does performance matter?
+* 30:00 - Enabling developers to implement metrics
+* 35:46 - Open Source contributions, including Fozzie
+* 38:26 - Self-service metrics
+* 43:36 - Using Chef at Lonely Planet
+* 49:50 - Picks
+* 56:40 - Close
 
 <!-- more -->
 
@@ -99,24 +126,6 @@ This Chef cookbook deploys naglite2, which is a full screen nagios viewer intend
 * [tar](http://community.opscode.com/cookbooks/tar) v0.0.1 - [smith](http://community.opscode.com/users/smith)
 * [graphite_handler](http://community.opscode.com/cookbooks/graphite_handler) v0.0.8 - [peter_donald](http://community.opscode.com/users/peter_donald)
 
-Outline<a name="outline"></a>
------
-
-* 0:40 - In the News
-* 2:08 - Meetup Groups &amp; Events
-* 3:38 - Google+ Chef Hangouts
-* 3:55 - Special Offer
-* 4:20 - New Cookbooks
-* 5:35 - Updated Cookbooks
-* 6:35 - Panel Introductions
-* 7:53 - What is Lonely Planet?
-* 11:00 - History of DevOps at Lonely Planet
-* 13:35 - Size and Organization of Lonely Planet
-* 17:02 - How Lonely Planet lost it's way...but found it again.
-* 
-* 
-* 
-* 
 
 
 Picks<a name="picks"></a>
