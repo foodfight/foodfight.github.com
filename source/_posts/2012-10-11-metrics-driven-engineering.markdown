@@ -27,6 +27,8 @@ Show Date:  Tuesday, 9 October 2012
 Outline<a name="outline"></a>
 -----
 
+John and Nathen sat down with Marc Watts, Mark Jennings, and David Lutzy to discuss the DevOps culture and history at Lonely Planet, performance, metrics-driven engineering, and more.
+
 * 0:40 - [In the News](http://foodfightshow.org/2012/10/metrics-driven-engineering.html#news)
 * 2:08 - Meetup Groups &amp; Events
 * 3:38 - Google+ Chef Hangouts
