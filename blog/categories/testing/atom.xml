@@ -4,7 +4,7 @@
   <title><![CDATA[Category: testing | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-10-12T12:51:22-04:00</updated>
+  <updated>2012-10-23T18:17:29-07:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -14,9 +14,78 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Community Summit - Day One]]></title>
+    <link href="http://foodfight.github.com/2012/10/community-summit-day-one.html"/>
+    <updated>2012-10-23T17:47:00-07:00</updated>
+    <id>http://foodfight.github.com/2012/10/community-summit-day-one</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012-10-23-community-summit-day-one.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012-10-23-community-summit-day-one.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2012-10-23-community-summit-day-one.html#hangout">Google+ Hangout</a></li>
+<li><a href="http://foodfightshow.org/2012-10-23-community-summit-day-one.html#hashtag">Twitter hashtag</a></li>
+<li><a href="http://foodfightshow.org/2012-10-23-community-summit-day-one.html#summaries">Session Summaries</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-1.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li><a href="http://vialstudios.com/">Jamie Winsor</a>, <a href="https://github.com/reset">github</a>, <a href="https://twitter.com/resetexistence">twitter</a></li>
+<li>Eric G. Wolfe <a href="http://github.com/atomic-penguin">github</a>, <a href="https://twitter.com/#%21/atomic_penguin">twitter</a></li>
+<li>Seth Vargo <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>Nathen sits down with Eric Wolfe (<a href="https://twitter.com/atomic_penguin">@atomic_penguin</a>), Seth Vargo (<a href="http://twitter.com/sethvargo">@sethvargo</a>), and Jamie Winsor (<a href="https://twitter.com/resetexistence">@resetexistence</a>) to talk about day one of the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Chef Community Summit</a>.</p>
+
+<p>Topics include:</p>
+
+<ul>
+<li>Open space format of the summit</li>
+<li>Various sessions of the day including:
+
+<ul>
+<li>New Chef Documentation - check out <a href="http://docs.opscode.com">docs.opscode.com</a></li>
+<li>Workflow</li>
+<li>Continuous Deployment and Continuous Integration</li>
+<li>Testing your Infrastructure</li>
+<li>Chef on Windows</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Google+ Hangout<a name="hangout"></a></h3>
+
+<p>If you're not at Chef Summit, join us on Wednesday for a Google+ Hangout Chef session.  Follow <a href="https://twitter.com/foodfightshow">@foodfightshow</a> or <a href="https://twitter.com/nathenharvey">Nathen</a> to be notified when we get started.  We're planning on starting the hangout at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20121024T1300">13:00 UTC</a>.</p>
+
+<h3>Twitter Hashtag<a name="hashtag"></a></h3>
+
+<p>Most people are using <a href="https://twitter.com/search/realtime?q=%23chefsummit&amp;src=hash">#chefsummit</a> as the hashtag for updates from the summit.  Update your filters, twitter clients, etc.</p>
+
+<h3>Session Summaries<a name="summaries"></a></h3>
+
+<p>Follow all the updates from the summit on the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Opscode Wiki</a></p>
+
+<h2>Download</h2>
+
+<p>Download Chef Summit Day One Recap - <a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-1.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Test Kitchen]]></title>
     <link href="http://foodfight.github.com/2012/08/test-kitchen.html"/>
-    <updated>2012-08-25T03:04:00-04:00</updated>
+    <updated>2012-08-25T03:04:00-07:00</updated>
     <id>http://foodfight.github.com/2012/08/test-kitchen</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 23 August 2012</p>
 
@@ -195,7 +264,7 @@ This cookbook provides an easy way to install the Yasm Assembler.</li>
   <entry>
     <title type="html"><![CDATA[Jamie Winsor and Michael Ivey Skool us on Berkshelf]]></title>
     <link href="http://foodfight.github.com/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html"/>
-    <updated>2012-08-03T16:33:00-04:00</updated>
+    <updated>2012-08-03T16:33:00-07:00</updated>
     <id>http://foodfight.github.com/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA</p>
 
@@ -406,7 +475,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Interview with Joshua Timberman, King of Sysadmins]]></title>
     <link href="http://foodfight.github.com/2012/07/interview-with-joshua-timberman.html"/>
-    <updated>2012-07-10T12:36:00-04:00</updated>
+    <updated>2012-07-10T12:36:00-07:00</updated>
     <id>http://foodfight.github.com/2012/07/interview-with-joshua-timberman</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 10 July 2012</p>
 
