@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: fnichol | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/fnichol/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-10-25T17:22:03-04:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Community Summit Day Two]]></title>
+    <link href="http://foodfight.github.com/2012/10/community-summit-day-two.html"/>
+    <updated>2012-10-25T10:49:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/10/community-summit-day-two</id>
+    <content type="html"><![CDATA[<p>Show Date:  Wednesday, October 24</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012-10-25-community-summit-day-two.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012-10-25-community-summit-day-two.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Fletcher Nichol <a href="http://github.com/fnichol">github</a>, <a href="https://twitter.com/fnichol">twitter</a></li>
+<li>Seth Vargo <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="https://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>Nathen sits down with Fletcher Nichol (<a href="https://twitter.com/fnichol">@fnichol</a>), Seth Vargo (<a href="https://twitter.com/sethvargo">@sethvargo</a>), Mike Fiedler (<a href="https://twitter.com/mikefiedler">@mikefiedler</a>), and Jeff Hulten (<a href="https://twitter.com/jhulten">@jhulten</a>) to talk about day two of the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Chef Community Summit</a>.  We meant to chat for about 20 minutes but this conversation ended taking about an hour.  Enjoy!</p>
+
+<p>Topics include:</p>
+
+<ul>
+<li>Google+ Hangouts</li>
+<li>Bug smashing</li>
+<li>Contributing to the new <a href="http://doc.opscode.com">Docs Site</a></li>
+<li>Cookbook Curation</li>
+<li>Cookbook Name Squatting</li>
+<li>TDDing  tmux</li>
+<li>Workflow and versioning cookbooks</li>
+<li>Commitments to make knife plugins installable with knife</li>
+<li>Exception Handlers</li>
+</ul>
+
+
+<h3>Session Summaries<a name="summaries"></a></h3>
+
+<p>Follow all the updates from the summit on the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Opscode Wiki</a></p>
+
+<h2>Download</h2>
+
+<p>Download Chef Summit Day Two Recap - <a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-10-23T18:17:29-07:00</updated>
+  <updated>2012-10-25T17:22:03-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -14,9 +14,65 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Community Summit Day Two]]></title>
+    <link href="http://foodfight.github.com/2012/10/community-summit-day-two.html"/>
+    <updated>2012-10-25T10:49:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/10/community-summit-day-two</id>
+    <content type="html"><![CDATA[<p>Show Date:  Wednesday, October 24</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012-10-25-community-summit-day-two.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012-10-25-community-summit-day-two.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Fletcher Nichol <a href="http://github.com/fnichol">github</a>, <a href="https://twitter.com/fnichol">twitter</a></li>
+<li>Seth Vargo <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="https://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>Nathen sits down with Fletcher Nichol (<a href="https://twitter.com/fnichol">@fnichol</a>), Seth Vargo (<a href="https://twitter.com/sethvargo">@sethvargo</a>), Mike Fiedler (<a href="https://twitter.com/mikefiedler">@mikefiedler</a>), and Jeff Hulten (<a href="https://twitter.com/jhulten">@jhulten</a>) to talk about day two of the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Chef Community Summit</a>.  We meant to chat for about 20 minutes but this conversation ended taking about an hour.  Enjoy!</p>
+
+<p>Topics include:</p>
+
+<ul>
+<li>Google+ Hangouts</li>
+<li>Bug smashing</li>
+<li>Contributing to the new <a href="http://doc.opscode.com">Docs Site</a></li>
+<li>Cookbook Curation</li>
+<li>Cookbook Name Squatting</li>
+<li>TDDing  tmux</li>
+<li>Workflow and versioning cookbooks</li>
+<li>Commitments to make knife plugins installable with knife</li>
+<li>Exception Handlers</li>
+</ul>
+
+
+<h3>Session Summaries<a name="summaries"></a></h3>
+
+<p>Follow all the updates from the summit on the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Opscode Wiki</a></p>
+
+<h2>Download</h2>
+
+<p>Download Chef Summit Day Two Recap - <a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
     <link href="http://foodfight.github.com/2012/10/community-summit-day-one.html"/>
-    <updated>2012-10-23T17:47:00-07:00</updated>
+    <updated>2012-10-23T17:47:00-04:00</updated>
     <id>http://foodfight.github.com/2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
@@ -85,7 +141,7 @@
   <entry>
     <title type="html"><![CDATA[metrics-driven-engineering]]></title>
     <link href="http://foodfight.github.com/2012/10/metrics-driven-engineering.html"/>
-    <updated>2012-10-11T06:59:00-07:00</updated>
+    <updated>2012-10-11T06:59:00-04:00</updated>
     <id>http://foodfight.github.com/2012/10/metrics-driven-engineering</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 9 October 2012</p>
 
@@ -272,7 +328,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[DevOps Delicacy - Special Episode]]></title>
     <link href="http://foodfight.github.com/2012/10/devops-delicacy-special-episode.html"/>
-    <updated>2012-10-07T16:08:00-07:00</updated>
+    <updated>2012-10-07T16:08:00-04:00</updated>
     <id>http://foodfight.github.com/2012/10/devops-delicacy-special-episode</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, 8 October 2012</p>
 
@@ -292,7 +348,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[DevOps Days Italy]]></title>
     <link href="http://foodfight.github.com/2012/10/devopsdays-rome.html"/>
-    <updated>2012-10-05T17:47:00-07:00</updated>
+    <updated>2012-10-05T17:47:00-04:00</updated>
     <id>http://foodfight.github.com/2012/10/devopsdays-rome</id>
     <content type="html"><![CDATA[<p>Some updates from DevOps Days Italy</p>
 
@@ -307,7 +363,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Interview with Kate Matsudaira]]></title>
     <link href="http://foodfight.github.com/2012/10/interview-with-kate-matsudaira.html"/>
-    <updated>2012-10-03T08:17:00-07:00</updated>
+    <updated>2012-10-03T08:17:00-04:00</updated>
     <id>http://foodfight.github.com/2012/10/interview-with-kate-matsudaira</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 2 October 2012</p>
 
@@ -465,7 +521,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Ken Robertson on Go, Cloudfoundry, and Chef]]></title>
     <link href="http://foodfight.github.com/2012/10/ken-robertson-on-go.html"/>
-    <updated>2012-10-01T18:26:00-07:00</updated>
+    <updated>2012-10-01T18:26:00-04:00</updated>
     <id>http://foodfight.github.com/2012/10/ken-robertson-on-go</id>
     <content type="html"><![CDATA[<ul>
 <li><p><a href="http://foodfightshow.org/2012/10/ken-robertson-on-go.html#panel">Panel</a></p></li>
@@ -494,7 +550,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Surge Conf 2012]]></title>
     <link href="http://foodfight.github.com/2012/09/surge-conf-2012.html"/>
-    <updated>2012-09-29T12:21:00-07:00</updated>
+    <updated>2012-09-29T12:21:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/surge-conf-2012</id>
     <content type="html"><![CDATA[<p>Nathen spent part of this week at <a href="http://omniti.com/surge/2012">Surge Conference</a> and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with <a href="http://twitter.com/novustiro">Michael Bevilacqua-Linn</a> earlier in the week to discuss his presentation.</p>
 
@@ -519,7 +575,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Wrap-up Surge with Theo Schlossnagle]]></title>
     <link href="http://foodfight.github.com/2012/09/wrap-up-surge-with-theo-schlossnagle.html"/>
-    <updated>2012-09-29T12:15:00-07:00</updated>
+    <updated>2012-09-29T12:15:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/wrap-up-surge-with-theo-schlossnagle</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
@@ -532,7 +588,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Surge Update with Matt Grahamn from Etsy]]></title>
     <link href="http://foodfight.github.com/2012/09/surge-update-with-matt-grahamn-from-etsy.html"/>
-    <updated>2012-09-29T11:58:00-07:00</updated>
+    <updated>2012-09-29T11:58:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/surge-update-with-matt-grahamn-from-etsy</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
@@ -558,7 +614,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Surge Update - Mike Nolet]]></title>
     <link href="http://foodfight.github.com/2012/09/surge-update-mike-nolet.html"/>
-    <updated>2012-09-28T12:16:00-07:00</updated>
+    <updated>2012-09-28T12:16:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/surge-update-mike-nolet</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
@@ -592,7 +648,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Surge Update - Knewton]]></title>
     <link href="http://foodfight.github.com/2012/09/surge-update-knewton.html"/>
-    <updated>2012-09-28T11:51:00-07:00</updated>
+    <updated>2012-09-28T11:51:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/surge-update-knewton</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
@@ -616,7 +672,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
     <link href="http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
-    <updated>2012-09-28T10:32:00-07:00</updated>
+    <updated>2012-09-28T10:32:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
@@ -638,7 +694,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Surge - Interview with Ryan Kennedy]]></title>
     <link href="http://foodfight.github.com/2012/09/surge-day-1.html"/>
-    <updated>2012-09-27T14:06:00-07:00</updated>
+    <updated>2012-09-27T14:06:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/surge-day-1</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 27 September 2012</p>
 
@@ -660,7 +716,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Big Data in the Small: Why N Tier Architectures Are an Antipattern]]></title>
     <link href="http://foodfight.github.com/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html"/>
-    <updated>2012-09-25T14:06:00-07:00</updated>
+    <updated>2012-09-25T14:06:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 25 September 2012</p>
 
@@ -867,7 +923,7 @@ Installs/Configures parted</li>
   <entry>
     <title type="html"><![CDATA[Vagrant]]></title>
     <link href="http://foodfight.github.com/2012/09/vagrant.html"/>
-    <updated>2012-09-20T08:33:00-07:00</updated>
+    <updated>2012-09-20T08:33:00-04:00</updated>
     <id>http://foodfight.github.com/2012/09/vagrant</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 September 2012</p>
 
@@ -1095,7 +1151,7 @@ Installs/Configures iperf</li>
   <entry>
     <title type="html"><![CDATA[Test Kitchen]]></title>
     <link href="http://foodfight.github.com/2012/08/test-kitchen.html"/>
-    <updated>2012-08-25T03:04:00-07:00</updated>
+    <updated>2012-08-25T03:04:00-04:00</updated>
     <id>http://foodfight.github.com/2012/08/test-kitchen</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 23 August 2012</p>
 
@@ -1274,7 +1330,7 @@ This cookbook provides an easy way to install the Yasm Assembler.</li>
   <entry>
     <title type="html"><![CDATA[ChatOps at Github with Jesse Newland]]></title>
     <link href="http://foodfight.github.com/2012/08/chatops-at-github-with-jesse-newland.html"/>
-    <updated>2012-08-23T00:04:00-07:00</updated>
+    <updated>2012-08-23T00:04:00-04:00</updated>
     <id>http://foodfight.github.com/2012/08/chatops-at-github-with-jesse-newland</id>
     <content type="html"><![CDATA[<p>Show Date:  22 August 2012, 13:00 PST</p>
 
@@ -1631,7 +1687,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a></p>
   <entry>
     <title type="html"><![CDATA[Jamie Winsor and Michael Ivey Skool us on Berkshelf]]></title>
     <link href="http://foodfight.github.com/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html"/>
-    <updated>2012-08-03T16:33:00-07:00</updated>
+    <updated>2012-08-03T16:33:00-04:00</updated>
     <id>http://foodfight.github.com/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA</p>
 
@@ -1842,7 +1898,7 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   <entry>
     <title type="html"><![CDATA[Interview with Theo Schlossnagle]]></title>
     <link href="http://foodfight.github.com/2012/07/interview-with-theo-schlossnagle.html"/>
-    <updated>2012-07-27T15:27:00-07:00</updated>
+    <updated>2012-07-27T15:27:00-04:00</updated>
     <id>http://foodfight.github.com/2012/07/interview-with-theo-schlossnagle</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 26 July 2012</p>
 
@@ -2004,147 +2060,6 @@ Installs/Configures Backup, a RubyGem, written for Linux and Mac OSX, that allow
 <h2>Download</h2>
 
 <p>Episode 23 - Interview with Theo Schlossnagle:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3">Download here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Changing Culture &amp; Being a Force for Awesome]]></title>
-    <link href="http://foodfight.github.com/2012/07/changing-culture-and-being-a-force-for-awesome.html"/>
-    <updated>2012-07-20T06:56:00-07:00</updated>
-    <id>http://foodfight.github.com/2012/07/changing-culture-and-being-a-force-for-awesome</id>
-    <content type="html"><![CDATA[<p>Show Date:  Thursday, 19 July 2012</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#offer">Special Offer</a></li>
-<li>What&#8217;s Cookin&#8217;
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#news">In the News</a></li>
-<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#cookbooks">Cookbook News</a></li>
-</ul>
-</li>
-<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#picks">Picks</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow22-BeingAForceForAwesome1.mp3">Download</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Jesse Robbins <a href="https://github.com/jesserobbins">github</a>, <a href="https://twitter.com/jesserobbins">twitter</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Special Offer<a name="offer"></a></h2>
-
-<p>Do you know someone who needs help getting started with Chef?  Opscode is offering the <a href="http://www.eventbrite.com/event/3727049706">Chef Introductory Workshop in Seattle on August 6th</a> and we&#8217;ve got a free pass for one lucky listener!  Leave a comment on this episode&#8217;s page or send an email to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> letting us know that you&#8217;re interested in attending the class.  We&#8217;ll randomly select and announce a &#8220;winner&#8221; on July 25th.  Also, be sure to use the promo code &#8221;<strong>FOODFIGHT</strong>&#8221; (in all caps) to save 10% on your registration for this and <a href="http://www.eventbrite.com/org/429733222?s=5384212">other Opscode Workshops</a>.</p>
-
-<h2>What&#8217;s Cookin&#8217;</h2>
-
-<h3>In the News<a name="news"></a></h3>
-
-<hr />
-
-<ul>
-<li><p><a href="http://www.agileweboperations.com/what-devops-is-not">What DevOps Is Not</a> a great post by <a href="http://twitter.com/ripienaar">R.I. Pienaar</a></p></li>
-<li><p><a href="http://aws.typepad.com/aws/2012/07/new-high-io-ec2-instance-type-hi14xlarge.html">New High I/O EC2 Instance Type - hi1.4xlarge - 2 TB of SSD-Backed Storage</a></p></li>
-<li><p><a href="http://puppetlabs.com/blog/coming-soon-puppet-certification-program/">Puppet Labs&#8217; Certification Program</a> and <a href="http://puppetlabs.com/services/certification/faq/">FAQ</a></p></li>
-<li><p><a href="https://twitter.com/zacharyvoase">Zack Voase</a> presented at a recent Berlin DevOps meetup.  Check out his slides for <a href="https://speakerdeck.com/u/zacharyvoase/p/how-to-sell-devops">How to Sell DevOps</a>.</p></li>
-<li><p><a href="http://twitter.com/brianwbianco">Brian Bianco</a> presented on <a href="http://www.slideshare.net/geekbri/lwrp-presentation">LWRP Development</a> at this week&#8217;s Chef-BOSTON meetup.  A great introduction to creating LWRPs.  Please check the show notes for a link.</p></li>
-<li><p><a href="http://twitter.com/lewg">Lew Goettner</a> presented on  <a href="https://speakerdeck.com/u/lewg/p/consistent-local-development-with-vagrant-and-chef">Consistent Local Development with Vagrant &amp; Chef</a> at this week&#8217;s Philly DevOps Meetup.</p></li>
-<li><p>Local user groups and Meetups that discuss Chef</p>
-
-<ul>
-<li><a href="http://www.meetup.com/The-Bay-Area-Chef-User-Group/">The Bay Area Chef User Group</a> - Jesse Robbins will be at the meeting on Tuesday, July 24</li>
-<li><a href="http://www.meetup.com/Seattle-Opscode-Chef-Meetup-Group/">Seattle Opscode Chef Meetup Group</a> - Next Meeting is July 31</li>
-<li><a href="http://www.meetup.com/Chicago-Chef-User-Group/">Chicago Chef User Group</a> - Next meeting is August 1</li>
-<li><a href="http://www.meetup.com/Infrastructure-Coders/">Infrastructure Coders</a> in Melbourne, Australia - Next Meeting is August 14</li>
-<li><a href="http://www.meetup.com/DevOpsDC/">DevOpsDC</a> - Cooking with Chef, August 14</li>
-<li><a href="http://www.meetup.com/Chef-BOSTON/">Chef-BOSTON</a> - held their first meeting this week</li>
-<li><a href="http://phillydevops.org/">Philly DevOps</a> - held their first meeting this week</li>
-<li><a href="http://www.meetup.com/nycdevops/">nycdevops</a></li>
-<li><a href="http://www.meetup.com/San-Francisco-DevOps/">San Francisco DevOps</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h3>Cookbook News<a name="cookbooks"></a></h3>
-
-<hr />
-
-<p>We just recorded <a href="http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html">episode 21</a> a couple of days ago so there aren&#8217;t any new or updated cookbooks to cover today.  Since we don&#8217;t have cookbook news, let&#8217;s look at two knife plugins that help with your development workflow.</p>
-
-<ul>
-<li><p><a href="https://github.com/jkeiser/knife-essentials">knife-essentials</a> provides a number of useful knife commands that allow you to manipulate Chef using a common set of verbs that work on everything that is stored in the Chef server.</p>
-
-<ul>
-<li>knife diff - Diffs objects on the server against files in the local repository. Output is similar to git diff.</li>
-</ul>
-</li>
-<li><p><a href="https://github.com/jonlives/knife-spork">knife-spork</a> - is a workflow plugin for Chef::Knife which helps multiple devs work on the same chef server and repo without treading on eachothers toes. This plugin was designed around the workflow used at Etsy, where several people are working on the chef repo and chef server at the same time.</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html">Episode 11: Etsy Examined - How the Best Do Their Business</a></li>
-<li>Jon Cowie&#8217;s presentation at Velocity 2012, <a href="http://www.slideshare.net/jonlives/michelin-starred-cooking-with-chef">Michelin Starred Cooking with Chef</a></li>
-<li>Lessons from Etsy: Avoiding Kitchen Nightmares <a href="http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-nightmares-chefconf-2012">slides</a>, <a href="http://www.youtube.com/watch?v=nSnJCJiZDDU">video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>ChefConf</li>
-<li>Velocity</li>
-<li>Emergency Services</li>
-<li>Changing Culture &amp; Being a Force for Awesome</li>
-<li>Community</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="https://github.com/jkeiser/knife-essentials">knife-essentials</a></li>
-<li><a href="http://citizencope.com/">Citizen Cope</a></li>
-</ul>
-
-
-<h4>Jesse</h4>
-
-<ul>
-<li><a href="http://www.steelbattalion.org/controller.php">Steel Battalion Controller</a></li>
-<li><a href="http://eterna.cmu.edu/">EteRNA</a> - a game you play by designing RNAs, tiny molecules at the heart of every cell.</li>
-<li><a href="http://en.wikipedia.org/wiki/Orbital_%28band%29">Orbital</a> playing at <a href="http://dbfestival.com/">Decible Festival</a> in Seattle</li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="https://github.com/technomancy/emacs-starter-kit/">emacs starter kit</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Tranceport_%28album%29">Tranceport</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<p>Changing Culture &amp; Being a Force for Awesome with Jesse Robbins:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow22-BeingAForceForAwesome1.mp3">Download here</a></p>
-
-<p>Do you have cookbook news that you&#8217;d like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
-
-<p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
 ]]></content>
   </entry>
   
