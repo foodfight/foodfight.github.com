@@ -13,8 +13,8 @@ categories:
 
 Show Date:  Wednesday, October 24
 
-* [Panel](http://foodfightshow.org/2012-10-25-community-summit-day-two.html#panel)
-* [Outline](http://foodfightshow.org/2012-10-25-community-summit-day-two.html#outline)
+* [Panel](http://foodfightshow.org/2012/10/community-summit-day-two.html#panel)
+* [Outline](http://foodfightshow.org/2012/10/community-summit-day-two.html#outline)
 * [Download](http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3)
 
 <!-- more -->

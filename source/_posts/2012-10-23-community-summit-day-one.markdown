@@ -18,11 +18,11 @@ categories:
 
 Show Date:  Tuesday October 23
 
-* [Panel](http://foodfightshow.org/2012-10-23-community-summit-day-one.html#panel)
-* [Outline](http://foodfightshow.org/2012-10-23-community-summit-day-one.html#outline)
-* [Google+ Hangout](http://foodfightshow.org/2012-10-23-community-summit-day-one.html#hangout)
-* [Twitter hashtag](http://foodfightshow.org/2012-10-23-community-summit-day-one.html#hashtag)
-* [Session Summaries](http://foodfightshow.org/2012-10-23-community-summit-day-one.html#summaries)
+* [Panel](http://foodfightshow.org/2012/10/community-summit-day-one.html#panel)
+* [Outline](http://foodfightshow.org/2012/10/community-summit-day-one.html#outline)
+* [Google+ Hangout](http://foodfightshow.org/2012/10/community-summit-day-one.html#hangout)
+* [Twitter hashtag](http://foodfightshow.org/2012/10/community-summit-day-one.html#hashtag)
+* [Session Summaries](http://foodfightshow.org/2012/10/community-summit-day-one.html#summaries)
 * [Download](http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-1.mp3)
 
 <!-- more -->
