@@ -25,6 +25,7 @@ Panel<a name="panel"></a>
 * Fletcher Nichol [github](http://github.com/fnichol), [twitter](https://twitter.com/fnichol)
 * Seth Vargo [github](http://github.com/sethvargo), [twitter](https://twitter.com/sethvargo)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](https://twitter.com/mikefiedler)
+* Jeff Hulten [github](http://github.com/jhulten), [twitter](https://twitter.com/jhulten)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
