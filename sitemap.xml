@@ -216,7 +216,7 @@
     </url>
     <url>
         <loc>http://foodfight.github.com/2012/10/metrics-driven-engineering.html</loc>
-        <lastmod>2012-10-12T12:50:42-04:00</lastmod>
+        <lastmod>2012-10-31T14:21:27-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfight.github.com/2012/10/community-summit-day-one.html</loc>
@@ -227,15 +227,19 @@
         <lastmod>2012-10-26T08:00:54-04:00</lastmod>
     </url>
     <url>
+        <loc>http://foodfight.github.com/2012/10/release-engineering.html</loc>
+        <lastmod>2012-10-31T14:38:36-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://foodfight.github.com/about/</loc>
         <lastmod>2012-09-20T11:24:13-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfight.github.com/blog/archives/</loc>
-        <lastmod>2012-10-26T08:00:54-04:00</lastmod>
+        <lastmod>2012-10-31T14:38:36-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfight.github.com/</loc>
-        <lastmod>2012-10-26T08:00:54-04:00</lastmod>
+        <lastmod>2012-10-31T14:38:36-04:00</lastmod>
     </url>
 </urlset>
