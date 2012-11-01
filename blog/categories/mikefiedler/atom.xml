@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mikefiedler | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/mikefiedler/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-11-01T10:19:39-04:00</updated>
+  <updated>2012-11-01T10:31:10-04:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -53,7 +53,7 @@
 <li>Contributing to the new <a href="http://doc.opscode.com">Docs Site</a></li>
 <li>Cookbook Curation</li>
 <li>Cookbook Name Squatting</li>
-<li>TDDing  tmux</li>
+<li><a href="https://github.com/sethvargo/tdding-tmux">TDDing  tmux</a></li>
 <li>Workflow and versioning cookbooks</li>
 <li>Commitments to make knife plugins installable with knife</li>
 <li>Exception Handlers</li>
