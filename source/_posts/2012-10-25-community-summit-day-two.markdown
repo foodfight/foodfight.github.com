@@ -40,7 +40,7 @@ Topics include:
 * Contributing to the new [Docs Site](http://doc.opscode.com)
 * Cookbook Curation
 * Cookbook Name Squatting
-* TDDing  tmux
+* [TDDing  tmux](https://github.com/sethvargo/tdding-tmux)
 * Workflow and versioning cookbooks
 * Commitments to make knife plugins installable with knife
 * Exception Handlers
