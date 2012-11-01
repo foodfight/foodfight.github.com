@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: officehours | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/officehours/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-11-01T09:43:07-04:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Inaugural Office Hours]]></title>
+    <link href="http://foodfight.github.com/2012/11/inaugural-office-hours.html"/>
+    <updated>2012-11-01T09:18:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/11/inaugural-office-hours</id>
+    <content type="html"><![CDATA[<p>Today we are going to hold our Inaugural Chef Hangout Office Hours.  Here are the quick details:</p>
+
+<h3>Date and Time</h3>
+
+<ul>
+<li>Thursday, November 1, 2012 at <a href="http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&amp;month=11&amp;day=1&amp;hour=19&amp;min=0&amp;sec=0&amp;p1=263&amp;p2=234&amp;p3=215&amp;p4=136&amp;p5=103&amp;p6=152">19:00 UTC</a>
+
+<ul>
+<li>20:00 in Rome</li>
+<li>19:00 in London</li>
+<li>15:00 in Washington, DC</li>
+<li>12:00 in Seattle</li>
+<li>09:00 in Honolulu</li>
+<li>06:00 Friday in Melbourne</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Location</h3>
+
+<ul>
+<li>Google+ Hangout - OnAir
+
+<ul>
+<li>The Hangout is limited to 10 people</li>
+<li>Hangout's "OnAir" feature allows us to live stream the hangout to YouTube</li>
+<li>The video will be available during and after the event</li>
+</ul>
+</li>
+<li>Joining the Hangout
+
+<ul>
+<li>Watch this page and our <a href="https://twitter.com/foodfightshow">twitter feed</a> for Hangout and YouTube URLs</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Format</h3>
+
+<p>This Hangout will have an "Office Hours" format.  We are hoping for three types of participants:</p>
+
+<ol>
+<li>You have a question about Chef that you'd like some help with</li>
+<li>You have experience with Chef and would like to help answer a question</li>
+<li>You're interested in learning about what others are doing with Chef</li>
+</ol>
+
+
+<p>If you have a question, please send it to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> in advance or simply show up at the hangout.  Sharing some of your code would be great, as well.</p>
+
+<p>This is an experiment and we hope to have similar hangouts in the future.</p>
+
+<p>Questions, ideas, or feedback should be sent to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
