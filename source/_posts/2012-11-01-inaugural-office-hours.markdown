@@ -10,6 +10,16 @@ categories:
 
 Today we are going to hold our Inaugural Chef Hangout Office Hours.  Here are the quick details:
 
+## Join Now!
+
+* [Google+ Hangout](https://plus.google.com/hangouts/_/ea342448b49e621043b2b95eebb9c5c1b5cb96b0?authuser=2&hl=en)
+
+Comments and questions should be posted:
+
+* In the Google Hangout Chat
+* In comments on the YouTube video
+* In #foodfightshow on IRC
+
 ### Date and Time
 * Thursday, November 1, 2012 at [19:00 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&month=11&day=1&hour=19&min=0&sec=0&p1=263&p2=234&p3=215&p4=136&p5=103&p6=152)
   * 20:00 in Rome
