@@ -4,7 +4,7 @@ title: "Inaugural Office Hours"
 date: 2012-11-01 09:18
 comments: true
 categories: 
-  - hongout
+  - hangout
   - officehours
 ---
 
