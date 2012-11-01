@@ -8,45 +8,102 @@ categories:
   - officehours
 ---
 
-Today we are going to hold our Inaugural Chef Hangout Office Hours.  Here are the quick details:
+Office Hours - Thursday, November 1, 2012
+
+Today we held our Inaugural Chef Hangout Office Hours.
 
 ## Join Now!
 
-* [Google+ Hangout](https://plus.google.com/hangouts/_/ea342448b49e621043b2b95eebb9c5c1b5cb96b0?authuser=2&hl=en)
+Well, the office hours are over but you can still [watch the recording on YouTube](http://www.youtube.com/watch?v=3Y-lpMyG3jA)!
 
-Comments and questions should be posted:
+Outline:
+
+* Introductions
+* Roles
+* Driving the PostgreSQL cookbook with data and attributes
+* Berkshelf
+* Library- and application-style cookbooks
+* Hacking knife ssh
+* DNS cutover strategies
+* Guarding against chef-solo failures in Vagrant
+* [View the Google Chat Transcript](http://foodfightshow.org/2012/11/inaugural-office-hours.html#transcript)
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3Y-lpMyG3jA" frameborder="0" allowfullscreen></iframe>
+
+<!-- more -->
+
+Comments were posted in three places:
 
 * In the Google Hangout Chat
 * In comments on the YouTube video
 * In #foodfightshow on IRC
 
-### Date and Time
-* Thursday, November 1, 2012 at [19:00 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&month=11&day=1&hour=19&min=0&sec=0&p1=263&p2=234&p3=215&p4=136&p5=103&p6=152)
-  * 20:00 in Rome
-  * 19:00 in London
-  * 15:00 in Washington, DC
-  * 12:00 in Seattle
-  * 09:00 in Honolulu
-  * 06:00 Friday in Melbourne
+### Google Chat Transcript<a name="transcript"></a>
+Here's a transcript from the Google Hangout:
+ 
+Nathen Harvey 3:05 PM  
+[http://www.youtube.com/watch?v=3Y-lpMyG3jA](http://www.youtube.com/watch?v=3Y-lpMyG3jA) is the streaming URL
+  
+Eric Wolfe  3:13 PM  
+Baseline role example: [https://gist.github.com/1295668](https://gist.github.com/1295668)
+  
+Derek Schultz 3:14 PM  
+Nice Gist there
+  
+Julian Dunn 3:14 PM  
+We used to use env_run_lists in roles but found they were exclusive of the run_list, sadly
+  
+Michael Fiedler (Mike Fiedler)  3:20 PM  
+[https://github.com/opscode-cookbooks/postgresql/blob/master/attributes/default.rb#L75-78](https://github.com/opscode-cookbooks/postgresql/blob/master/attributes/default.rb#L75-78)
+  
+Nathen Harvey 3:21 PM  
+from the YouTube comments - wrap the cookbook and override certain attributes
+  
+Julian Dunn 3:25 PM  
+Zac which PostgreSQL RPM  s are you using?
+  
+Zac Hallett 3:25 PM  
+specifically: [http://yum.postgresql.org/9.2/redhat/rhel-6-x86_64/pgdg-redhat92-9.2-7.noarch.rpm](http://yum.postgresql.org/9.2/redhat/rhel-6-x86_64/pgdg-redhat92-9.2-7.noarch.rpm)
+  
+Julian Dunn 3:28 PM  
+That's what I'm using too... is the problem that in recipes/server.rb, the service naNathen Harveyis hardcoded as "postgresql"?
+  
+Zac Hallett 3:28 PM  
+Yes, I have had to update all instances of "postgresql" to "postgresql-9.2" to make it work correctly
+  
+Julian Dunn 3:29 PM  
+I made it a configurable attribute within the cookbook... see [https://github.com/secondmarket-cookbooks/postgresql/commit/862274f4912b346b86e87322247253abd5efec7c](https://github.com/secondmarket-cookbooks/postgresql/commit/862274f4912b346b86e87322247253abd5efec7c)
+  
+Zac Hallett 3:31 PM  
+Julian, thank you for that. I'll update my cookbook with that 
+  
+Michael Fiedler (Mike Fiedler)  3:41 PM  
+[http://net-ssh.github.com/ssh/v2/api/classes/Net/SSH.html#M000003](http://net-ssh.github.com/ssh/v2/api/classes/Net/SSH.html#M000003)
+  
+Anthony Leto  3:41 PM  
+[http://wiki.opscode.com/display/chef/Knife](http://wiki.opscode.com/display/chef/Knife)
+-c should let you specify
+  
+Michael Fiedler (Mike Fiedler)  3:44 PM  
+[https://github.com/opscode/chef/blob/10-stable/chef/lib/chef/knife/ssh.rb#L115](https://github.com/opscode/chef/blob/10-stable/chef/lib/chef/knife/ssh.rb#L115)
+  
+Nathen Harvey 3:47 PM  
+Zac - do you have additional question(s)?
+  
+Zac Hallett 3:48 PM  
+my other question was mostly answered via my PG question. Its in regards to standing up a RHEL infrastructure while leaving up the Ubuntu one until we are ready to switch DNS to point to the new infrastructure and what the best way to do that is
+  
+Derek Schultz 3:53 PM  
+[https://gist.github.com/3995987](https://gist.github.com/3995987)  
+[https://gist.github.com/3996003](https://gist.github.com/3996003)
+  
+Julian Dunn 3:54 PM  
+node.set works in Solo mode
+  
+Jamie Winsor  3:55 PM  
+```Chef::Config[:solo]```
+that will be true if it's solo
 
-### Location
-* Google+ Hangout - OnAir
-  * The Hangout is limited to 10 people
-  * Hangout's "OnAir" feature allows us to live stream the hangout to YouTube
-  * The video will be available during and after the event
-* Joining the Hangout
-  * Watch this page and our [twitter feed](https://twitter.com/foodfightshow) for Hangout and YouTube URLs
-
-### Format
-
-This Hangout will have an "Office Hours" format.  We are hoping for three types of participants:
-
-1.  You have a question about Chef that you'd like some help with
-2.  You have experience with Chef and would like to help answer a question
-3.  You're interested in learning about what others are doing with Chef
-
-If you have a question, please send it to [info@foodfightshow.org](mailto:info@foodfightshow.org) in advance or simply show up at the hangout.  Sharing some of your code would be great, as well.
-
-This is an experiment and we hope to have similar hangouts in the future.
+This was an experiment and we hope to have similar hangouts in the future.
 
 Questions, ideas, or feedback should be sent to [info@foodfightshow.org](mailto:info@foodfightshow.org).
