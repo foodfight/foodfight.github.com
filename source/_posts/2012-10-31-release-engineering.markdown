@@ -18,7 +18,7 @@ categories:
 
 Show Date:  Tuesday, 30 October 2012
 
-In this episode, [Bryan](https://twitter.com/bryanwb) and [Nathen](https://twitter.com/nathenharvey) sat down with [J. Paul Reed](https://twitter.com/preed) and [Seth Thomas]((http://twitter.com/cheeseplus) to talk about the practice, profession, and tools of Release Engineering.  We also talked a bit about their Podcast, [The Ship Show](http://theshipshow.com/).
+In this episode, [Bryan](https://twitter.com/bryanwb) and [Nathen](https://twitter.com/nathenharvey) sat down with [J. Paul Reed](https://twitter.com/soberbuildeng) and [Seth Thomas](http://twitter.com/cheeseplus) to talk about the practice, profession, and tools of Release Engineering.  We also talked a bit about their Podcast, [The Ship Show](http://theshipshow.com/).
 
 * [Panel](http://foodfightshow.org/2012/10/release-engineering.html#panel)
 * [Outline](http://foodfightshow.org/2012/10/release-engineering.html#outline)
