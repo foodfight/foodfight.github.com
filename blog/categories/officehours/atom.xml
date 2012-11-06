@@ -4,7 +4,7 @@
   <title><![CDATA[Category: officehours | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/officehours/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-11-04T20:37:04-05:00</updated>
+  <updated>2012-11-06T10:36:26-05:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -29,14 +29,14 @@
 <p>Outline:</p>
 
 <ul>
-<li>Introductions</li>
-<li>Roles</li>
-<li>Driving the PostgreSQL cookbook with data and attributes</li>
-<li>Berkshelf</li>
-<li>Library- and application-style cookbooks</li>
-<li>Hacking knife ssh</li>
-<li>DNS cutover strategies</li>
-<li>Guarding against chef-solo failures in Vagrant</li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=0m25s">Introductions</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=5m50s">Roles</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=17m27s">Driving the PostgreSQL cookbook with data and attributes</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=23m50s">Berkshelf</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=32m00s">Library- and application-style cookbooks</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=38m18s">Hacking knife ssh</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=49m12s">DNS cutover strategies</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=52m26s">Guarding against chef-solo failures in Vagrant</a></li>
 <li><a href="http://foodfightshow.org/2012/11/inaugural-office-hours.html#transcript">View the Google Chat Transcript</a></li>
 </ul>
 
