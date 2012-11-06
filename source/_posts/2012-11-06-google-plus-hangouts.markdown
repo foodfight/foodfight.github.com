@@ -9,6 +9,8 @@ categories:
 ---
 Join us for two Hangouts this week!
 
+[Download the podcast](http://traffic.libsyn.com/foodfight/Food-Fight-Show-Hangouts.mp3)
+
 ## Wednesday, November 7, 19:30 UTC
 
 Our first Hangout will be on [Wednesday, November 7 at 19:30 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&month=11&day=7&hour=19&min=30&sec=0&p1=1928&p2=234) which is 2:30PM in Eastern Standard Time and 11:30AM Pacific Standard.  For this hangout, we've invited [Paul Reed](https://twitter.com/soberbuildeng) and [Seth Thomas](http://twitter.com/cheeseplus) to join us to discuss our most recent [Food Fight Show where we discussed the practice, profession, and tools of Release Engineering](http://foodfightshow.org/2012/10/release-engineering.html).  
@@ -24,3 +26,5 @@ Each will Hangout will be held on Google Plus.  We will send out the URL to the 
 
 Have a specific question or want to reserve a seat?  Drop us a line at [info@foodfightshow.org](mailto:info@foodfightshow.org).
  
+
+[Download the podcast](http://traffic.libsyn.com/foodfight/Food-Fight-Show-Hangouts.mp3)
