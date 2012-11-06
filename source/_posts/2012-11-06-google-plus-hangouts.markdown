@@ -21,4 +21,6 @@ Our second Hangout will be on [Thursday, November 8 at 21:00 UTC](http://www.tim
 ## How to Join
 
 Each will Hangout will be held on Google Plus.  We will send out the URL to the hangout via our twitter feed ([@foodfightshow](http://twitter.com/foodfightshow)) at the beginning of each hangout.  As you may know, Google Plus Hangouts are limited to 10 participants.  To allow for greater participation, we will be streaming the Hangout live to YouTube.  This will allow more people to participate during the discussions.  We've also created a new IRC channel on freenode - #foodfightshow.  You'll be able to participate in the discussion by commenting on the YouTube video or joining us in IRC.
+
+Have a specific question or want to reserve a seat?  Drop us a line at [info@foodfightshow.org](info@foodfightshow.org).
  
