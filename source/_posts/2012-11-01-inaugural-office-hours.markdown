@@ -18,14 +18,14 @@ Well, the office hours are over but you can still [watch the recording on YouTub
 
 Outline:
 
-* Introductions
-* Roles
-* Driving the PostgreSQL cookbook with data and attributes
-* Berkshelf
-* Library- and application-style cookbooks
-* Hacking knife ssh
-* DNS cutover strategies
-* Guarding against chef-solo failures in Vagrant
+* [Introductions](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=0m25s)
+* [Roles](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=5m50s)
+* [Driving the PostgreSQL cookbook with data and attributes](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=17m27s)
+* [Berkshelf](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=23m50s)
+* [Library- and application-style cookbooks](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=32m00s)
+* [Hacking knife ssh](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=38m18s)
+* [DNS cutover strategies](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=49m12s)
+* [Guarding against chef-solo failures in Vagrant](http://www.youtube.com/watch?v=3Y-lpMyG3jA&t=52m26s)
 * [View the Google Chat Transcript](http://foodfightshow.org/2012/11/inaugural-office-hours.html#transcript)
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/3Y-lpMyG3jA" frameborder="0" allowfullscreen></iframe>
