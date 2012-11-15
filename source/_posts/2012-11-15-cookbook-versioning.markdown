@@ -17,9 +17,9 @@ Have a question or comment to share?  Really want to join us for the hangout?  L
 
 * [Panel](http://foodfightshow.org/2012/11/cookbook-versioning.html#panel)
 * What's Cookin'
-  * [In the News](http://foodfightshow.org/2012/10/cookbook-versioning.html#news)
-  * [Cookbook News](http://foodfightshow.org/2012/10/cookbook-versioning.html#cookbooks)
-* [Picks](http://foodfightshow.org/2012/10/cookbook-versioning.html#picks)
+  * [In the News](http://foodfightshow.org/2012/11/cookbook-versioning.html#news)
+  * [Cookbook News](http://foodfightshow.org/2012/11/cookbook-versioning.html#cookbooks)
+* [Picks](http://foodfightshow.org/2012/11/cookbook-versioning.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/ffs32_2.mp3)
 
 <!-- more -->
