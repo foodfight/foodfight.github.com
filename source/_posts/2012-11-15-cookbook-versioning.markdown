@@ -166,6 +166,33 @@ The primary focus of this cookbook will be preparing a GNU/Linux desktop/laptop/
 * [ms_dotnet35](http://community.opscode.com/cookbooks/ms_dotnet35) v1.0.0 - [tas50](http://community.opscode.com/users/tas50)
 
 
+Picks<a name="picks"></a>
+-----
+
+#### Jon
+
+* [Elastic Search](http://www.elasticsearch.org/) and the [Space Vatican](http://www.spacevatican.org/) blog.
+* [Avi Bryant's l1 trend filtering](http://avibryant.github.com/l1tf/)
+
+#### Bryan
+
+* [RSpec](http://rspec.info/) and the [RSpec Book](http://pragprog.com/book/achbd/the-rspec-book)
+* [Eloquent Ruby](http://eloquentruby.com/)
+
+#### Jamie
+* [Berkshelf](http://berkshelf.com/) contributors
+* [Sean O'Mera](https://twitter.com/someara) and the training materials he's been developing for Riot Games
+
+#### Sascha
+* Debug output in Chef 10.14+
+* [Edda](https://github.com/Netflix/edda) from Netfix.  [Learn the Stories of Your Cloud Deployments](http://techblog.netflix.com/2012/11/edda-learn-stories-of-your-cloud.html)
+
+#### Nathen
+* [Spiceweasel](http://wiki.opscode.com/display/chef/Spiceweasel)
+* [Half Acre Beer Company](http://www.halfacrebeer.com/)
+* [Meetup Groups](http://opscode.meetup.com/)
+* [Google+ Hangouts](http://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw/videos?view=0)
+
 Download
 --------
 Cookbook Versioning - [Download here](http://traffic.libsyn.com/foodfight/ffs32_2.mp3)
