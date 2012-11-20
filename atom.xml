@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-11-20T14:55:38-05:00</updated>
+  <updated>2012-11-20T18:38:14-05:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -20,13 +20,9 @@
     <id>http://foodfight.github.com/2012/11/cookbook-versioning</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 13 October 2012</p>
 
-<h2>Join our Hangout!</h2>
+<h2>Watch our Hangout!</h2>
 
-<p><a href="https://plus.google.com/hangouts/_/4d5a97e25b848c6347ecdd909ee4ad9eb143adfa">Join the Hangout Live</a></p>
-
-<p><a href="http://youtu.be/slF72K03ixM">Watch the Livestream on YouTube</a></p>
-
-<p>Comments and questions are welcome and encouraged.  If you can&#8217;t get into the hangout, please just add a comment to the <a href="">video on YouTube</a> or join us on IRC in #foodfightshow on freenode.</p>
+<p>A week after the podcast we held a hangout on Google+ to discuss the topics from this episode.  <a href="http://youtu.be/slF72K03ixM">Watch the video on YouTube</a></p>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/slF72K03ixM" frameborder="0" allowfullscreen></iframe>
 
