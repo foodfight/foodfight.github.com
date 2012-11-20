@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-11-15T15:30:14-05:00</updated>
+  <updated>2012-11-20T14:55:38-05:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -22,9 +22,14 @@
 
 <h2>Join our Hangout!</h2>
 
-<p>We&#8217;ll be hosting a Google+ Hangout with our panelists and YOU to discuss the topics of the episode a bit more.  Please join us on Tuesday, November 20, 2012 at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20121120T2000">2000 UTC</a>.  Watch <a href="http://twitter.com/foodfightshow">@foodfightshow</a> for a link to the Hangout right before we start.  The Hangout will be live steamed to YouTube, too.</p>
+<p><a href="https://plus.google.com/hangouts/_/4d5a97e25b848c6347ecdd909ee4ad9eb143adfa">Join the Hangout Live</a></p>
 
-<p>Have a question or comment to share?  Really want to join us for the hangout?  Let us know and we&#8217;ll do our best to get you in!  Drop us a line at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+<p><a href="http://youtu.be/slF72K03ixM">Watch the Livestream on YouTube</a></p>
+
+<p>Comments and questions are welcome and encouraged.  If you can&#8217;t get into the hangout, please just add a comment to the <a href="">video on YouTube</a> or join us on IRC in #foodfightshow on freenode.</p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/slF72K03ixM" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2012/11/cookbook-versioning.html#panel">Panel</a></li>
@@ -164,6 +169,50 @@ The primary focus of this cookbook will be preparing a GNU/Linux desktop/laptop/
 <li><a href="http://community.opscode.com/cookbooks/ms_dotnet45">ms_dotnet45</a> v1.0.0 - <a href="http://community.opscode.com/users/tas50">tas50</a></li>
 <li><a href="http://community.opscode.com/cookbooks/ms_dotnet4">ms_dotnet4</a> v1.0.1 - <a href="http://community.opscode.com/users/tas50">tas50</a></li>
 <li><a href="http://community.opscode.com/cookbooks/ms_dotnet35">ms_dotnet35</a> v1.0.0 - <a href="http://community.opscode.com/users/tas50">tas50</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Jon</h4>
+
+<ul>
+<li><a href="http://www.elasticsearch.org/">Elastic Search</a> and the <a href="http://www.spacevatican.org/">Space Vatican</a> blog.</li>
+<li><a href="http://avibryant.github.com/l1tf/">Avi Bryant&#8217;s l1 trend filtering</a></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://rspec.info/">RSpec</a> and the <a href="http://pragprog.com/book/achbd/the-rspec-book">RSpec Book</a></li>
+<li><a href="http://eloquentruby.com/">Eloquent Ruby</a></li>
+</ul>
+
+
+<h4>Jamie</h4>
+
+<ul>
+<li><a href="http://berkshelf.com/">Berkshelf</a> contributors</li>
+<li><a href="https://twitter.com/someara">Sean O&#8217;Mera</a> and the training materials he&#8217;s been developing for Riot Games</li>
+</ul>
+
+
+<h4>Sascha</h4>
+
+<ul>
+<li>Debug output in Chef 10.14+</li>
+<li><a href="https://github.com/Netflix/edda">Edda</a> from Netfix.  <a href="http://techblog.netflix.com/2012/11/edda-learn-stories-of-your-cloud.html">Learn the Stories of Your Cloud Deployments</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://wiki.opscode.com/display/chef/Spiceweasel">Spiceweasel</a></li>
+<li><a href="http://www.halfacrebeer.com/">Half Acre Beer Company</a></li>
+<li><a href="http://opscode.meetup.com/">Meetup Groups</a></li>
+<li><a href="http://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw/videos?view=0">Google+ Hangouts</a></li>
 </ul>
 
 
