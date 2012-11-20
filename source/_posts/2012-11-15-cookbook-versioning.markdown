@@ -8,12 +8,12 @@ categories:
 
 Show Date:  Tuesday, 13 October 2012
 
-Join our Hangout!
+Watch our Hangout!
 ----------------
+A week after the podcast we held a hangout on Google+ to discuss the topics from this episode.  [Watch the video on YouTube](http://youtu.be/slF72K03ixM)
 
-We'll be hosting a Google+ Hangout with our panelists and YOU to discuss the topics of the episode a bit more.  Please join us on Tuesday, November 20, 2012 at [2000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20121120T2000).  Watch [@foodfightshow](http://twitter.com/foodfightshow) for a link to the Hangout right before we start.  The Hangout will be live steamed to YouTube, too.
 
-Have a question or comment to share?  Really want to join us for the hangout?  Let us know and we'll do our best to get you in!  Drop us a line at [info@foodfightshow.org](mailto:info@foodfightshow.org).
+<iframe width="560" height="315" src="http://www.youtube.com/embed/slF72K03ixM" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2012/11/cookbook-versioning.html#panel)
 * What's Cookin'
