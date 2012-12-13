@@ -5,6 +5,9 @@ date: 2012-11-15 15:01
 comments: true
 categories: 
 ---
+ - resetexistence
+ - jonlives
+ - sascha_d
 
 Show Date:  Tuesday, 13 October 2012
 
