@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: portertech | Food Fight]]></title>
+  <link href="http://foodfight.github.com/blog/categories/portertech/atom.xml" rel="self"/>
+  <link href="http://foodfight.github.com/"/>
+  <updated>2012-12-17T10:23:38-05:00</updated>
+  <id>http://foodfight.github.com/</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[#monitoringlove with Sensu]]></title>
+    <link href="http://foodfight.github.com/2012/12/monitoringlove-with-sensu.html"/>
+    <updated>2012-12-13T14:12:00-05:00</updated>
+    <id>http://foodfight.github.com/2012/12/monitoringlove-with-sensu</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 December 2012</p>
+
+<p>In this episode <a href="http://twitter.com/nathenharvey">Nathen</a>, <a href="http://twitter.com/lusis">@lusis</a>, and <a href="http://twitter.com/mikefiedler">Mike Fiedler</a> sit down with <a href="http://twitter.com/portertech">Sean Porter</a> and <a href="http://twitter.com/ulfmansson">Ulf Mansson</a> to discuss <a href="https://github.com/sensu/sensu">Sensu</a> and <a href="https://twitter.com/search?q=%23monitoringlove">#monitoringlove</a>.</p>
+
+<p>This episode was inspired by Ulf's presentation at DevOps Days Rome 2012:</p>
+
+<p><a href="http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/">Monitoringlove: a True story</a> in this presentation
+given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme
+from monitoringsucks to monitoringlove. Hey kids, Ulf is right. monitoringsucks is dead, long live monitoringlove! There
+is now an active monitoringlove hashtag on twitter and an active #monitoringlove IRC channel. Join the Fun! Thanks
+to Ulf Mansson for making us realize that monitoring no longer has to suck and that if we put in just a bit of extra work,
+we can experience monitoringlove too.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html#outline">Outline</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS33-Sensu_and_monitoringlove.mp3">Download</a></li>
+</ul>
+
+
+<h2>Listener Survey</h2>
+
+<p>Take the <a href="https://docs.google.com/spreadsheet/viewform?formkey=dGp5WTJzdVlWYkZ4ZE93cEYzVXN4Q0E6MQ#gid=0">Foodfight Listener Survey</a>! <a href="http://bit.ly/ffssurvey">http://bit.ly/ffssurvey</a></p>
+
+<p>Help us make the show more awesome.</p>
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Sean Porter <a href="http://github.com/portertech">github</a>, <a href="http://twitter.com/portertech">twitter</a></li>
+<li>Ulf Mansson <a href="http://twitter.com/ulfmansson">twitter</a>, <a href="http://imansson.wordpress.com/">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline/Questions<a name="outline"></a></h2>
+
+<ul>
+<li>Why Sensu? Why another monitoring system?</li>
+<li>How does Sensu differ from Nagios?</li>
+<li>What role does messaging play in Sensu?</li>
+<li>Is there support for Windows?</li>
+<li>Is Sensu tightly coupled with Chef?</li>
+<li>Ruby is dog-slow, so isn't Sensu slow too?</li>
+<li>Are there pre-built checks?  Can Nagios checks be used?</li>
+<li>https://github.com/sensu/sensu-community-plugins* Ulf: what were your reasons for moving to Sensu?</li>
+<li>Ulf: describe the migration process</li>
+<li>Ulf: What are important considerations for others who want to make the switch?</li>
+<li>Ulf: tell us about graphite/sensu integration</li>
+<li>Ulf: what is #monitoringlove?</li>
+<li>Ulf:  How many servers did you need to set up for Sensu, vs previous monitoring?</li>
+<li>Where could Sensu use the most help?</li>
+<li>Who is using Sensu at the moment?</li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><a href="http://realityforge.org/code/2012/11/19/role-cookbooks-and-wrapper-cookbooks.html">Role Cookbooks and Wrapper Cookbooks</a>, another post on the subject from <a href="https://twitter.com/rahvintaka">Peter Donald</a>.</li>
+<li><a href="https://github.com/jondot/roundtrip">Roundtrip</a> Roundtrip is a business process tracking and measurement service especially useful for tracking distributed systems and services that integrates nicely with Graphite</li>
+<li><a href="https://github.com/hoteltonight/chef-workflow">Chef-workflow</a> is a comprehensive rake-based workflow for chef</li>
+<li><a href="https://github.com/chrisroberts/flock_of_chefs">Flock_of_chefs</a> inter-node communication primatives to Chef instances
+Love the '80s synth-pop reference! Cue Flock of Seagulls "Wishing"</li>
+<li><a href="http://wiki.opscode.com/display/chef/Chef+11+Server+Preview">Alpha omnibus packages for Chef 11 Server</a> are now available for Centos 5,6 and Ubuntu 10-12</li>
+<li><a href="http://www.opscode.com/blog/2012/12/03/test-kitchen-0-7-0-released/">Test-Kitchen</a> 0.7.0 released, now with an OpenStack Runner and some bug fixes</li>
+<li><a href="http://lists.opscode.com/sympa/arc/chef/2012-12/msg00090.html">Berkshelf 1.1.0</a> released. This release adds a bunch of new commands and some bug fixes.
+My favorite is that <code>berks upload</code> can now take a single cookbook as an argument. Before 1.1.0, you <code>berks upload</code> uploaded all of the cookbook referenced in your Berksfile, each time you ran it.
+A big thanks goes out to <a href="https://twitter.com/sethvargo">Seth Vargo</a> who is now the biggest contributor outside of Riot Games to the Berkshelf project</li>
+<li>Peter Zsoldos shared with us an excellent presentation from Dan Milstein, <a href="http://www.slideshare.net/danmil30/how-to-run-a-5-whys-with-humans-not-robots#btnNext">How to run a 5 Whys (with humans, not robots</a>)</li>
+<li>The Resources reference page has moved! All the content on the wiki page for Resources has been moved to <a href="http://docs.opscode.com/chef/resources.html">docs.opscode.com</a></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/tsdb-server">tsdb-server</a> v0.1.0 - <a href="http://community.opscode.com/users/jacekm">jacekm</a>
+Installs OpenTSDB server</li>
+<li><a href="http://community.opscode.com/cookbooks/exim4-light">exim4-light</a> v0.1.0 - <a href="http://community.opscode.com/users/thomas_massmann">thomas_massmann</a>
+This cookbook installs and configures exim4 for client or outbound relayhost.</li>
+<li><a href="http://community.opscode.com/cookbooks/gelf_handler">gelf_handler</a> v1.0.0 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a>
+Installs a Chef handler that sends chef run results to a GELF server such as Logstash or Graylog. If you have the ohai-system_pacakges plugin installed, it will also send package statistics.</li>
+<li><a href="http://community.opscode.com/cookbooks/autohotkey">autohotkey</a> v0.1.1 - <a href="http://community.opscode.com/users/fromonesrc">fromonesrc</a>
+automates the installation of AutoHotkey,  a free, open-source utility for Windows that allows you to automate almost anything by sending keystrokes and mouse clicks.</li>
+<li><a href="http://community.opscode.com/cookbooks/ucs-solo">ucs-solo</a> v0.0.1 - <a href="http://community.opscode.com/users/mraju">mraju</a>
+A Chef cookbook (beta) to deploy and configure Cisco UCS. The cookbook leverages chef-solo with ucslib and helps setup a basic Cisco UCS deployment. It acts as a template to highlight what's possible with the UCS API.</li>
+<li><a href="http://community.opscode.com/cookbooks/ucs">ucs</a> v0.0.1 - <a href="http://community.opscode.com/users/mraju">mraju</a>
+A Chef cookbook (beta) to deploy and configure Cisco UCS. The cookbook leverages Chef Server, a chef-node (UCS Proxy) with ucslib and helps setup a basic Cisco UCS deployment. It acts as a template to highlight what's possible with the UCS API using Chef in a distributed environment.</li>
+<li><a href="http://community.opscode.com/cookbooks/dhcp">dhcp</a> v2.0.0 - <a href="http://community.opscode.com/users/spheromak">spheromak</a>
+Data bag and environment driven DHCP server with isc-dhcpd</li>
+<li><a href="http://community.opscode.com/cookbooks/cpu">cpu</a> v0.2.0 - <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a>
+Manage CPU related tasks on linux (governor, nice, affinity...)</li>
+<li><a href="http://community.opscode.com/cookbooks/kibana">kibana</a> v0.1.0 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a>
+Installs/Configures kibana, the logstash UI</li>
+<li><a href="http://community.opscode.com/cookbooks/sbt-extras">sbt-extras</a> v0.2.2 - <a href="http://community.opscode.com/users/gildegoma">gildegoma</a>
+Installs sbt-extras to build scala projects with any sbt version you need</li>
+<li><a href="http://community.opscode.com/cookbooks/serverdensity">serverdensity</a> v0.1.0 - <a href="http://community.opscode.com/users/avrohom">avrohom</a>
+Installs/Configures Server Density</li>
+<li><a href="http://community.opscode.com/cookbooks/galera">galera</a> v0.3.1 - <a href="http://community.opscode.com/users/alex-s9s">alex-s9s</a>
+Installs <a href="http://http://www.codership.com/">Codership's MySQL Galera cluster</a>. Galera Cluster provides synchronous multi-master replication for MySQL</li>
+<li><a href="http://community.opscode.com/cookbooks/cmon">cmon</a> v0.5.0 - <a href="http://community.opscode.com/users/alex-s9s">alex-s9s</a>
+Installs and configures ClusterControl controller and agents</li>
+<li><a href="http://community.opscode.com/cookbooks/gradle">gradle</a> v1.2.0 - <a href="http://community.opscode.com/users/ollehallin">ollehallin</a>
+Installs/Configures Gradle, a build automation tool.  According to the <a href="http://www.gradle.org/">gradle website</a>, Gradle combines the power and flexibility of Ant with the dependency management and conventions of Maven into a more effective way to build. And, it's powered by a Groovy DSL</li>
+<li><a href="http://community.opscode.com/cookbooks/pandoc">pandoc</a> v1.0.0 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a>
+Installs pandoc, a universal document creator.  If you need to convert files from one markup format into another, pandoc is your swiss-army knife.</li>
+<li><a href="http://community.opscode.com/cookbooks/nephele">nephele</a> v0.1.2 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a>
+Nephele, the Greek cloud nymph, contains some basic utilities for working with cloud services. At the moment, the only implemented item is a library that will sync a local directory with an S3 bucket.</li>
+<li><a href="http://community.opscode.com/cookbooks/minecraft">minecraft</a> v0.0.2 - <a href="http://community.opscode.com/users/gregf">gregf</a>
+Installs/Configures minecraft server</li>
+<li><a href="http://community.opscode.com/cookbooks/zabbix_windows">zabbix_windows</a> v0.0.1 - <a href="http://community.opscode.com/users/gwaldo">gwaldo</a>
+Installs Zabbix Agent on Windows Hosts</li>
+<li><a href="http://community.opscode.com/cookbooks/puppet">puppet</a> v0.2.0 - <a href="http://community.opscode.com/users/fnichol">fnichol</a>
+Installs and manages a Puppet Master service. No, really.</li>
+<li><a href="http://community.opscode.com/cookbooks/myface">myface</a> v0.3.0 - <a href="http://community.opscode.com/users/someara">someara</a>
+Example cookbook written to show the Application Cookbook pattern</li>
+<li><a href="http://community.opscode.com/cookbooks/zeoserver">zeoserver</a> v0.1.1 - <a href="http://community.opscode.com/users/thomas_massmann">thomas_massmann</a>
+Installs and configures a Zope ZEO-Server.</li>
+<li><a href="http://community.opscode.com/cookbooks/known_host">known_host</a> v0.1.0 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a>
+LWRP for adding keys to the ssh_known_hosts file</li>
+<li><a href="http://community.opscode.com/cookbooks/ruby-helper">ruby-helper</a> v0.0.1 - <a href="http://community.opscode.com/users/spheromak">spheromak</a>
+This recipe extends ruby to include .blank? method from rails.</li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/smf">smf</a> v0.6.5 - <a href="http://community.opscode.com/users/bixu">bixu</a></li>
+<li><a href="http://community.opscode.com/cookbooks/certificate">certificate</a> v0.1.0 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/nginx-fastcgi">nginx-fastcgi</a> v0.0.10 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
+<li><a href="http://community.opscode.com/cookbooks/glassfish">glassfish</a> v0.5.10 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/mac_os_x">mac_os_x</a> v1.4.2 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/lxc">lxc</a> v0.1.0 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ruby_build">ruby_build</a> v0.7.0 - <a href="http://community.opscode.com/users/fnichol">fnichol</a></li>
+<li><a href="http://community.opscode.com/cookbooks/helpers-databags">helpers-databags</a> v1.0.0 - <a href="http://community.opscode.com/users/spheromak">spheromak</a></li>
+<li><a href="http://community.opscode.com/cookbooks/sanitize">sanitize</a> v0.1.2 - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a></li>
+<li><a href="http://community.opscode.com/cookbooks/editor">editor</a> v0.2.0 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a></li>
+<li><a href="http://community.opscode.com/cookbooks/magic_shell">magic_shell</a> v0.2.0 - <a href="http://community.opscode.com/users/nathenharvey">nathenharvey</a></li>
+<li><a href="http://community.opscode.com/cookbooks/teamspeak3">teamspeak3</a> v1.1.0 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/1password">1password</a> v1.0.4 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/reginjector">reginjector</a> v0.1.3 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
+<li><a href="http://community.opscode.com/cookbooks/gitlab">gitlab</a> v0.3.4 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
+<li><a href="http://community.opscode.com/cookbooks/nut">nut</a> v0.0.2 - <a href="http://community.opscode.com/users/clarry">clarry</a></li>
+<li><a href="http://community.opscode.com/cookbooks/ruby">ruby</a> v0.9.2 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/hostsfile">hostsfile</a> v0.2.2 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a></li>
+<li><a href="http://community.opscode.com/cookbooks/camo">camo</a> v0.1.0 - <a href="http://community.opscode.com/users/onehealth">onehealth</a></li>
+<li><a href="http://community.opscode.com/cookbooks/resource-tester">resource-tester</a> v0.1.4 - <a href="http://community.opscode.com/users/someara">someara</a></li>
+<li><a href="http://community.opscode.com/cookbooks/beanstalkd">beanstalkd</a> v0.0.3 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/logstash">logstash</a> v0.5.1 - <a href="http://community.opscode.com/users/lusis">lusis</a></li>
+<li><a href="http://community.opscode.com/cookbooks/tunnelblick">tunnelblick</a> v1.0.6 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a></li>
+<li><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.11.1 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/network_interfaces">network_interfaces</a> v0.1.0 - <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a></li>
+<li><a href="http://community.opscode.com/cookbooks/modules">modules</a> v0.1.2 - <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a></li>
+<li><a href="http://community.opscode.com/cookbooks/helpers-search">helpers-search</a> v0.0.3 - <a href="http://community.opscode.com/users/spheromak">spheromak</a></li>
+<li><a href="http://community.opscode.com/cookbooks/geminabox">geminabox</a> v0.1.1 - <a href="http://community.opscode.com/users/chrisroberts">chrisroberts</a></li>
+<li><a href="http://community.opscode.com/cookbooks/kvm">kvm</a> v0.2.1 - <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="https://github.com/turboladen/tailor">Tailor</a> -  style and static analysis "rulers" for Ruby files</li>
+<li><a href="http://www.datadoghq.com/">Datadog</a> - Hosted monitoring</li>
+</ul>
+
+
+<h4>Sean</h4>
+
+<ul>
+<li><a href="http://gawande.com/the-checklist-manifesto">The Checklist Manifesto</a> - Read it.</li>
+<li><a href="http://sysadvent.blogspot.ca/">SysAdvent</a> - Best month for sysadmin blog posts.</li>
+</ul>
+
+
+<h4>Ulf</h4>
+
+<ul>
+<li><a href="http://www.r-project.org/">R</a> programming language</li>
+<li><a href="http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158">R Cookbook</a></li>
+<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://www.jetbrains.com/idea/">IntelliJ IDEA</a></li>
+<li><a href="http://opends.java.net/">OpenDS</a></li>
+<li><a href="http://forgerock.com/what-we-offer/open-identity-stack/opendj/">OpenDJ</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://chefconf.opscode.com">ChefConf 2013</a> - Submit your presentations, buy your tickets.</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Download episode 33 now - <a href="http://traffic.libsyn.com/foodfight/FFS33-Sensu_and_monitoringlove.mp3">#monitoringlove with Sensu</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
