@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-12-20T09:40:47-05:00</updated>
+  <updated>2012-12-20T10:50:35-05:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -20,7 +20,12 @@
     <id>http://foodfight.github.com/2012/12/ops-school-and-training-sysadmins</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 20 December 2012</p>
 
-<p>We will be recording this show via a Google+ Hangout at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ops+School&amp;iso=20121220T11&amp;p1=1928&amp;ah=1">1600 UCT</a>.  Watch here for a YouTube URL where you&#8217;ll be able to watch the stream.  Also, please join us in the #foodfightshow IRC channel on freenode if you&#8217;d like to ask our panel a question or two.</p>
+<p>Please join us in the #foodfightshow IRC channel on freenode if you&#8217;d like to ask our panel a question or two.</p>
+
+<h2>Watch Now<a name="video"></a></h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/zpbr8F2RGBs" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html#video">Video Stream</a></li>
@@ -28,10 +33,6 @@
 <li><a href="http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html#outline">Outline</a></li>
 </ul>
 
-
-<h2>Watch Now<a name="video"></a></h2>
-
-<p>Video stream will be available at about <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ops+School&amp;iso=20121220T11&amp;p1=1928&amp;ah=1">1600 UCT</a>.</p>
 
 <h2>Panel<a name="panel"></a></h2>
 
