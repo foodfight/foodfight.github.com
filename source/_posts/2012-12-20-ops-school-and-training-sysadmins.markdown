@@ -13,16 +13,16 @@ categories:
 ---
 Show Date:  Thursday, 20 December 2012
 
-We will be recording this show via a Google+ Hangout at [1600 UCT](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ops+School&iso=20121220T11&p1=1928&ah=1).  Watch here for a YouTube URL where you'll be able to watch the stream.  Also, please join us in the #foodfightshow IRC channel on freenode if you'd like to ask our panel a question or two.
+Please join us in the #foodfightshow IRC channel on freenode if you'd like to ask our panel a question or two.
+
+Watch Now<a name="video"></a>
+---------
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/zpbr8F2RGBs" frameborder="0" allowfullscreen></iframe>
 
 * [Video Stream](http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html#video)
 * [Panel](http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html#panel)
 * [Outline](http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html#outline)
-
-Watch Soon<a name="video"></a>
----------
-
-Video stream will be available at about [1600 UCT](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ops+School&iso=20121220T11&p1=1928&ah=1).
 
 Panel<a name="panel"></a>
 -----
