@@ -31,6 +31,7 @@ Watch Now<a name="video"></a>
 * [Outline](http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html#outline)
 * [Picks](http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html#picks)
 * Download
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow34-Opsschool.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=zpbr8F2RGBs)
 
 Listener Survey
@@ -254,4 +255,4 @@ Download
 --------
 
 * [Watch the YouTube video](http://www.youtube.com/watch?v=zpbr8F2RGBs) of the episode.
-
+* [Download the Audio file](http://traffic.libsyn.com/foodfight/FoodFightShow34-Opsschool.mp3)
