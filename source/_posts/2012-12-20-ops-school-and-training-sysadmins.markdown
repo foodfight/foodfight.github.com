@@ -75,7 +75,8 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * The [Los Angeles Chef Users Group](http://www.meetup.com/Los-Angeles-Chef-Users-Group/) will meet on February 4th.
 * [DevOps DC](http://www.meetup.com/DevOpsDC/events/90355012/) will meet on January 8th.
 * [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/) will meet on January 9th.
-* [The Chicago Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/dzbvpcyrcbfb/) will hold another Chef Cafe on January 10th.
+* [The Chicago Chef User
+* Group](http://www.meetup.com/Chicago-Chef-User-Group/events/95348762/) will hold another Chef Cafe on January 10th.
 * [LakeMary DevOps](http://www.meetup.com/LakeMary-DevOps/events/95923592/), in Lake Mary, Florida will hold their first meeting on January 14th.
 * The [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/) group will host their first meeutp at Opscode's Seattle Headquarters office on January 15th.
 * The [Infrastructure Coders](http://meetup.infrastructurecoders.com/events/91261252/) group in Melbourne, Australia will meet on January 15th.
