@@ -54,7 +54,7 @@ with a live stream posted to YouTube.
 1.  We will try to keep the show length to about one hour.
 1.  We will start a regular Food Fight Show newsletter which will include
 the content from the What's Cookin' section and any other noteworthy items.
-More details about how to subscribe will be made available soon.
+You can [subscribe to the newsletter now](http://bit.ly/ffsmail).
 
 The [listener survey](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf) 
 gave us some ideas about what sort of topics you'd like to see covered on 
