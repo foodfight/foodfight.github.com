@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfight.github.com/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-12-28T12:23:40-05:00</updated>
+  <updated>2012-12-28T23:06:34-05:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -12,85 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Food Fight Show - Year Two]]></title>
-    <link href="http://foodfight.github.com/2012/12/food-fight-show-year-two.html"/>
-    <updated>2012-12-28T09:32:00-05:00</updated>
-    <id>http://foodfight.github.com/2012/12/food-fight-show-year-two</id>
-    <content type="html"><![CDATA[<h2>Looking Back</h2>
-
-<p>Thank you for your support of the podcast this year!  We released 57
-episodes and have seen about 40,000 downloads.  That&#8217;s about 700 downloads
-for each episode.  We hosted 4 Google+ Hangouts which have about 900
-views.  We&#8217;ve enjoyed the Hangouts so much that we decided to use a Google+
-Hangout, instead of Skype, to facilitate our <a href="http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html">last episode of the year</a>.
-This episode was <a href="http://www.youtube.com/watch?v=zpbr8F2RGBs">streamed live to YouTube</a>
-and released as an audio podacast.</p>
-
-<h3>Top Episodes</h3>
-
-<p>Want to relive some of the best episodes from 2012?  Here&#8217;s a list of our
-five favorite episodes in the order they were aired:</p>
-
-<ol>
-<li><a href="http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html">Episode 11: Etsy Examined, How the Best Do Their
-Business</a></li>
-<li><a href="http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html">Episode 14: Post-Mortems with David Zwieback, John Allspaw, and Mike
-Rembetsy</a></li>
-<li><a href="http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html">Episode 24: Jamie Winsor and Michael Ivey on
-Berkshelf</a></li>
-<li><a href="http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html">Episode 25: ChatOps at Github with Jesse
-Newland</a></li>
-<li><a href="http://foodfightshow.org/2012/09/vagrant.html">Episode 27: Vagrant with Mitchell Hashimoto &amp; Patrick
-Debois</a></li>
-</ol>
-
-
-<h2>Listener Survey</h2>
-
-<p>We recently opened up a <a href="http://bit.ly/ffssurvey">listener poll</a> to gather
-some feedback from you on how we can make the show even more awesome in
-2013.</p>
-
-<p>A quick summary of the <a href="https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf">survey results is now available</a>.
-Thanks to everyone who participated.</p>
-
-<h2>Changes for 2013</h2>
-
-<p>As we look forward to 2013, there are a couple of things that we&#8217;re going
-to change:</p>
-
-<ol>
-<li>Whenever feasible, episodes will now be recorded via Google+ Hangout
-with a live stream posted to YouTube.</li>
-<li>We will try to keep the show length to about one hour.</li>
-<li>We will start a regular Food Fight Show newsletter which will include
-the content from the What&#8217;s Cookin&#8217; section and any other noteworthy items.
-More details about how to subscribe will be made available soon.</li>
-</ol>
-
-
-<p>The <a href="https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf">listener survey</a>
-gave us some ideas about what sort of topics you&#8217;d like to see covered on
-the show.  We&#8217;ll work to line-up those topics and would really appreciate
-your help in doing so.  Is there someone you really want to hear from?  A
-topic you&#8217;d really like to see covered?  Please let us know!</p>
-
-<h2>Thank You!</h2>
-
-<p>We really appreciate all of the time you&#8217;ve put in listening to the show in
-2012.  We hope to see you at <a href="http://chefconf.opscode.com">#ChefConf 2013</a>
-and other conferences throughout the year.</p>
-
-<p>We&#8217;d also like to thank <a href="http://www.opscode.com">Opscode</a> for their
-continued support of the show.  They cover our hosting and bandwidth costs
-and allow their employees to participate on the show on a regular basis.</p>
-
-<p>Keep it hot!<br/>
-Bryan &amp; Nathen</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ops School and Training SysAdmins]]></title>
@@ -182,7 +103,8 @@ Bryan &amp; Nathen</p>
 <li>The <a href="http://www.meetup.com/Los-Angeles-Chef-Users-Group/">Los Angeles Chef Users Group</a> will meet on February 4th.</li>
 <li><a href="http://www.meetup.com/DevOpsDC/events/90355012/">DevOps DC</a> will meet on January 8th.</li>
 <li><a href="http://www.meetup.com/DevOps-Minneapolis/">DevOps Minneapolis</a> will meet on January 9th.</li>
-<li><a href="http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/dzbvpcyrcbfb/">The Chicago Chef User Group</a> will hold another Chef Cafe on January 10th.</li>
+<li>[The Chicago Chef User</li>
+<li>Group](http://www.meetup.com/Chicago-Chef-User-Group/events/95348762/) will hold another Chef Cafe on January 10th.</li>
 <li><a href="http://www.meetup.com/LakeMary-DevOps/events/95923592/">LakeMary DevOps</a>, in Lake Mary, Florida will hold their first meeting on January 14th.</li>
 <li>The <a href="http://www.meetup.com/Opscode-Chef-Meetup/">Opscode Chef Meetup</a> group will host their first meeutp at Opscode&#8217;s Seattle Headquarters office on January 15th.</li>
 <li>The <a href="http://meetup.infrastructurecoders.com/events/91261252/">Infrastructure Coders</a> group in Melbourne, Australia will meet on January 15th.</li>
@@ -523,7 +445,7 @@ Installs sbt-extras to build scala projects with any sbt version you need</li>
 <li><a href="http://community.opscode.com/cookbooks/serverdensity">serverdensity</a> v0.1.0 - <a href="http://community.opscode.com/users/avrohom">avrohom</a>
 Installs/Configures Server Density</li>
 <li><a href="http://community.opscode.com/cookbooks/galera">galera</a> v0.3.1 - <a href="http://community.opscode.com/users/alex-s9s">alex-s9s</a>
-Installs <a href="http://http://www.codership.com/">Codership&#8217;s MySQL Galera cluster</a>. Galera Cluster provides synchronous multi-master replication for MySQL</li>
+Installs <a href="http://codership.com/">Codership&#8217;s MySQL Galera cluster</a>. Galera Cluster provides synchronous multi-master replication for MySQL</li>
 <li><a href="http://community.opscode.com/cookbooks/cmon">cmon</a> v0.5.0 - <a href="http://community.opscode.com/users/alex-s9s">alex-s9s</a>
 Installs and configures ClusterControl controller and agents</li>
 <li><a href="http://community.opscode.com/cookbooks/gradle">gradle</a> v1.2.0 - <a href="http://community.opscode.com/users/ollehallin">ollehallin</a>
@@ -1890,6 +1812,28 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
 <p>Many systems can afford a bit of downtime now and then. Unfortunately, at PagerDuty, even a three-minute outage at the wrong time can cost thousands in lost revenue. This talk will cover some of the techniques and tricks we use at PagerDuty to ensure that our phone and SMS alerts continue to flow while staying well within the budget of a typical startup. Specifically, I will show how we do zero downtime database migrations and deploys, and how we recover from host and data center outages with minimal disruption.</p>
 
 <p>Surge - Interview with Andrew Miklas - <a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Surge - Interview with Ryan Kennedy]]></title>
+    <link href="http://foodfight.github.com/2012/09/surge-day-1.html"/>
+    <updated>2012-09-27T14:06:00-04:00</updated>
+    <id>http://foodfight.github.com/2012/09/surge-day-1</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, 27 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Download the episode</a></p>
+
+<p>Today is the first day of <a href="http://omniti.com/surge/2012">surge</a>.  Nathen had a chance to sit down with <a href="https://twitter.com/rckenned">Ryan Kennedy</a>, Director of Core Services at Yammer.  They discussed Ryan&#8217;s Surge presentation:</p>
+
+<!-- more -->
+
+
+<h3><a href="http://omniti.com/surge/2012/sessions/build-your-own-database-berkeley-db-java-edition-at-yammer">Build Your Own Database: Berkeley DB Java Edition at Yammer</a></h3>
+
+<p>Sometimes the solution to your problem can&#8217;t be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready. After several false starts with pre-built offerings, we constructed our own solution and shipped an embedded, distributed NoSQL data store built on top of Berkeley DB Java Edition. It was not a decision made lightly. Nor was it a particularly easy trail to blaze at times. In this session I&#8217;ll discuss why Yammer chose to build vs. buy, what was built, problems encountered and where Yammer is today.</p>
+
+<p>Surge - Interview With Ryan Kennedy - <a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Download here</a></p>
 ]]></content>
   </entry>
   

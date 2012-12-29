@@ -4,7 +4,7 @@
   <title><![CDATA[Category: portertech | Food Fight]]></title>
   <link href="http://foodfight.github.com/blog/categories/portertech/atom.xml" rel="self"/>
   <link href="http://foodfight.github.com/"/>
-  <updated>2012-12-28T12:23:40-05:00</updated>
+  <updated>2012-12-28T23:06:34-05:00</updated>
   <id>http://foodfight.github.com/</id>
   <author>
     <name><![CDATA[Bryan Berry - Matt Ray - Nathen Harvey]]></name>
@@ -133,7 +133,7 @@ Installs sbt-extras to build scala projects with any sbt version you need</li>
 <li><a href="http://community.opscode.com/cookbooks/serverdensity">serverdensity</a> v0.1.0 - <a href="http://community.opscode.com/users/avrohom">avrohom</a>
 Installs/Configures Server Density</li>
 <li><a href="http://community.opscode.com/cookbooks/galera">galera</a> v0.3.1 - <a href="http://community.opscode.com/users/alex-s9s">alex-s9s</a>
-Installs <a href="http://http://www.codership.com/">Codership's MySQL Galera cluster</a>. Galera Cluster provides synchronous multi-master replication for MySQL</li>
+Installs <a href="http://codership.com/">Codership's MySQL Galera cluster</a>. Galera Cluster provides synchronous multi-master replication for MySQL</li>
 <li><a href="http://community.opscode.com/cookbooks/cmon">cmon</a> v0.5.0 - <a href="http://community.opscode.com/users/alex-s9s">alex-s9s</a>
 Installs and configures ClusterControl controller and agents</li>
 <li><a href="http://community.opscode.com/cookbooks/gradle">gradle</a> v1.2.0 - <a href="http://community.opscode.com/users/ollehallin">ollehallin</a>
