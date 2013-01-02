@@ -9,7 +9,7 @@ sidebar: false
 
 Food Fight is a bi-weekly podcast for the [Chef][opscodewiki] community. We bring together the smartest people in the Chef community and the broader DevOps world to discuss the thorniest issues in system administration. 
 
-Food Fight is hosted by Bryan Berry, Matt Ray and Nathen Harvey. 
+Food Fight is hosted by Bryan Berry, Nathen Harvey, and Matt Ray. 
 
 <p class="clearboth">
     <img class="floatleft" src="/images/bryan.jpg" alt="A photograph of Bryan Berry."/>
@@ -44,7 +44,7 @@ Blog: [http://blog.lusis.org](http://blog.lusis.org)
     <img class="floatleft" src="/images/nathen.jpg" alt="A photograph of Nathen Harvey." />
 </p>
 
-**Nathen Harvey** is active in the technical community contributing to open source and co-organizing [DevOpsDC](http://www.meetup.com/DevOpsDC/) and the [Washington DC MongoDB Users' Group](http://www.meetup.com/Washington-DC-MongoDB-Users-Group/). When not working or hosting meetups, Nathen enjoys going to concerts, drinking craft beer, and over sharing on sites like [twitter](http://twitter.com/nathenharvey), [untappd](http://untappd.com/user/nathenharvey), and [foursquare](https://foursquare.com/nathenharvey).
+**Nathen Harvey** is a Technical Community Manager at [Opscode](http://www.opscode.com), the company behind [Chef](http://www.opscode.com/chef/). Nathen is the co-organizer of the [Washington DC MongoDB Users' Group](http://www.meetup.com/Washington-DC-MongoDB-Users-Group/) and [DevOpsDC](http://www.meetup.com/DevOpsDC/).  Like many others who blog, Nathen updates his [blog](http://nathenharvey.com) on a very irregular basis.  When not working or hosting meetups, Nathen enjoys going to concerts, drinking craft beer, and over sharing on sites like [twitter](http://twitter.com/nathenharvey), [untappd](http://untappd.com/user/nathenharvey), and [foursquare](https://foursquare.com/nathenharvey).
 
 [Twitter](https://twitter.com/#!/nathenharvey), <abbr title="Internet Relay Chat">IRC</abbr>, [Github](https://github.com/nathenharvey): **nathenharvey**  
 Blog: [Nathen Harvey](http://nathenharvey.com/)
