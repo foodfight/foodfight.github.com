@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Food Fight]]></title>
-  <link href="http://foodfight.github.com/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:13-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Food Fight Show - Year Two]]></title>
-    <link href="http://foodfight.github.com/2013/01/food-fight-show-year-two.html"/>
+    <link href="http://foodfightshow.org//2013/01/food-fight-show-year-two.html"/>
     <updated>2013-01-02T11:09:00-05:00</updated>
-    <id>http://foodfight.github.com/2013/01/food-fight-show-year-two</id>
+    <id>http://foodfightshow.org//2013/01/food-fight-show-year-two</id>
     <content type="html"><![CDATA[<p>Show Date:  2 January 2013</p>
 
 <p>This episode is a look back at the Food Fight Show in 2012 and a discussion
@@ -174,9 +174,9 @@ the episode.</li>
   
   <entry>
     <title type="html"><![CDATA[Ops School and Training SysAdmins]]></title>
-    <link href="http://foodfight.github.com/2012/12/ops-school-and-training-sysadmins.html"/>
+    <link href="http://foodfightshow.org//2012/12/ops-school-and-training-sysadmins.html"/>
     <updated>2012-12-20T09:21:00-05:00</updated>
-    <id>http://foodfight.github.com/2012/12/ops-school-and-training-sysadmins</id>
+    <id>http://foodfightshow.org//2012/12/ops-school-and-training-sysadmins</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 20 December 2012</p>
 
 <p>In this episode, we discuss <a href="http://opsschool.org">Ops School</a> and training System Administrators.  The episode was recorded as a Google+ Hangout and steamed live on YouTube.</p>
@@ -486,9 +486,9 @@ Installs/Configures appfirst collector</li>
   
   <entry>
     <title type="html"><![CDATA[#monitoringlove with Sensu]]></title>
-    <link href="http://foodfight.github.com/2012/12/monitoringlove-with-sensu.html"/>
+    <link href="http://foodfightshow.org//2012/12/monitoringlove-with-sensu.html"/>
     <updated>2012-12-13T14:12:00-05:00</updated>
-    <id>http://foodfight.github.com/2012/12/monitoringlove-with-sensu</id>
+    <id>http://foodfightshow.org//2012/12/monitoringlove-with-sensu</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 December 2012</p>
 
 <p>In this episode <a href="http://twitter.com/nathenharvey">Nathen</a>, <a href="http://twitter.com/lusis">@lusis</a>, and <a href="http://twitter.com/mikefiedler">Mike Fiedler</a> sit down with <a href="http://twitter.com/portertech">Sean Porter</a> and <a href="http://twitter.com/ulfmansson">Ulf Mansson</a> to discuss <a href="https://github.com/sensu/sensu">Sensu</a> and <a href="https://twitter.com/search?q=%23monitoringlove">#monitoringlove</a>.</p>
@@ -719,9 +719,9 @@ This recipe extends ruby to include .blank? method from rails.</li>
   
   <entry>
     <title type="html"><![CDATA[Cookbook Versioning]]></title>
-    <link href="http://foodfight.github.com/2012/11/cookbook-versioning.html"/>
+    <link href="http://foodfightshow.org//2012/11/cookbook-versioning.html"/>
     <updated>2012-11-15T15:01:00-05:00</updated>
-    <id>http://foodfight.github.com/2012/11/cookbook-versioning</id>
+    <id>http://foodfightshow.org//2012/11/cookbook-versioning</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 13 October 2012</p>
 
 <h2>Watch our Hangout!</h2>
@@ -924,9 +924,9 @@ The primary focus of this cookbook will be preparing a GNU/Linux desktop/laptop/
   
   <entry>
     <title type="html"><![CDATA[Google Plus Hangouts]]></title>
-    <link href="http://foodfight.github.com/2012/11/google-plus-hangouts.html"/>
+    <link href="http://foodfightshow.org//2012/11/google-plus-hangouts.html"/>
     <updated>2012-11-06T09:26:00-05:00</updated>
-    <id>http://foodfight.github.com/2012/11/google-plus-hangouts</id>
+    <id>http://foodfightshow.org//2012/11/google-plus-hangouts</id>
     <content type="html"><![CDATA[<p>We held two different Hangouts on Google+ this week.  Thank you to everyone who participated!</p>
 
 <p>What did you think about the format, topics, time of day, etc. of the Hangouts?  We&#8217;d want to hear your feedback!  Should we keep doing these?  Drop us a line at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
@@ -961,9 +961,9 @@ The primary focus of this cookbook will be preparing a GNU/Linux desktop/laptop/
   
   <entry>
     <title type="html"><![CDATA[Inaugural Office Hours]]></title>
-    <link href="http://foodfight.github.com/2012/11/inaugural-office-hours.html"/>
+    <link href="http://foodfightshow.org//2012/11/inaugural-office-hours.html"/>
     <updated>2012-11-01T09:18:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/11/inaugural-office-hours</id>
+    <id>http://foodfightshow.org//2012/11/inaugural-office-hours</id>
     <content type="html"><![CDATA[<p>Office Hours - Thursday, November 1, 2012</p>
 
 <p>Today we held our Inaugural Chef Hangout Office Hours.</p>
@@ -1079,9 +1079,9 @@ that will be true if it&#8217;s solo</p>
   
   <entry>
     <title type="html"><![CDATA[Release Engineering]]></title>
-    <link href="http://foodfight.github.com/2012/10/release-engineering.html"/>
+    <link href="http://foodfightshow.org//2012/10/release-engineering.html"/>
     <updated>2012-10-31T09:58:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/release-engineering</id>
+    <id>http://foodfightshow.org//2012/10/release-engineering</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 30 October 2012</p>
 
 <p>In this episode, <a href="https://twitter.com/bryanwb">Bryan</a> and <a href="https://twitter.com/nathenharvey">Nathen</a> sat down with <a href="https://twitter.com/soberbuildeng">J. Paul Reed</a> and <a href="http://twitter.com/cheeseplus">Seth Thomas</a> to talk about the practice, profession, and tools of Release Engineering.  We also talked a bit about their Podcast, <a href="http://theshipshow.com/">The Ship Show</a>.</p>
@@ -1297,9 +1297,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Community Summit Day Two]]></title>
-    <link href="http://foodfight.github.com/2012/10/community-summit-day-two.html"/>
+    <link href="http://foodfightshow.org//2012/10/community-summit-day-two.html"/>
     <updated>2012-10-25T10:49:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/community-summit-day-two</id>
+    <id>http://foodfightshow.org//2012/10/community-summit-day-two</id>
     <content type="html"><![CDATA[<p>Show Date:  Wednesday, October 24</p>
 
 <ul>
@@ -1354,9 +1354,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
-    <link href="http://foodfight.github.com/2012/10/community-summit-day-one.html"/>
+    <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
     <updated>2012-10-23T17:47:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/community-summit-day-one</id>
+    <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
 <ul>
@@ -1423,9 +1423,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[metrics-driven-engineering]]></title>
-    <link href="http://foodfight.github.com/2012/10/metrics-driven-engineering.html"/>
+    <link href="http://foodfightshow.org//2012/10/metrics-driven-engineering.html"/>
     <updated>2012-10-11T06:59:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/metrics-driven-engineering</id>
+    <id>http://foodfightshow.org//2012/10/metrics-driven-engineering</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 9 October 2012</p>
 
 <ul>
@@ -1610,9 +1610,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[DevOps Delicacy - Special Episode]]></title>
-    <link href="http://foodfight.github.com/2012/10/devops-delicacy-special-episode.html"/>
+    <link href="http://foodfightshow.org//2012/10/devops-delicacy-special-episode.html"/>
     <updated>2012-10-07T16:08:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/devops-delicacy-special-episode</id>
+    <id>http://foodfightshow.org//2012/10/devops-delicacy-special-episode</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, 8 October 2012</p>
 
 <p>Today is <a href="https://twitter.com/dlutzy">David Lutz</a>&#8217;s birthday.  We&#8217;ve enlisted the help of <a href="http://twitter.com/venessapaech">Venessa Paech</a> and Nathen&#8217;s children to help wish David a Happy Birthday.</p>
@@ -1630,9 +1630,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[DevOps Days Italy]]></title>
-    <link href="http://foodfight.github.com/2012/10/devopsdays-rome.html"/>
+    <link href="http://foodfightshow.org//2012/10/devopsdays-rome.html"/>
     <updated>2012-10-05T17:47:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/devopsdays-rome</id>
+    <id>http://foodfightshow.org//2012/10/devopsdays-rome</id>
     <content type="html"><![CDATA[<p>Some updates from DevOps Days Italy</p>
 
 <ul>
@@ -1645,9 +1645,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Interview with Kate Matsudaira]]></title>
-    <link href="http://foodfight.github.com/2012/10/interview-with-kate-matsudaira.html"/>
+    <link href="http://foodfightshow.org//2012/10/interview-with-kate-matsudaira.html"/>
     <updated>2012-10-03T08:17:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/interview-with-kate-matsudaira</id>
+    <id>http://foodfightshow.org//2012/10/interview-with-kate-matsudaira</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 2 October 2012</p>
 
 <ul>
@@ -1803,9 +1803,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Ken Robertson on Go, Cloudfoundry, and Chef]]></title>
-    <link href="http://foodfight.github.com/2012/10/ken-robertson-on-go.html"/>
+    <link href="http://foodfightshow.org//2012/10/ken-robertson-on-go.html"/>
     <updated>2012-10-01T18:26:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/ken-robertson-on-go</id>
+    <id>http://foodfightshow.org//2012/10/ken-robertson-on-go</id>
     <content type="html"><![CDATA[<ul>
 <li><p><a href="http://foodfightshow.org/2012/10/ken-robertson-on-go.html#panel">Panel</a></p></li>
 <li><p>Ken Robertson <a href="https://github.com/krobertson">github</a>,
@@ -1832,9 +1832,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Surge Conf 2012]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-conf-2012.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-conf-2012.html"/>
     <updated>2012-09-29T12:21:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-conf-2012</id>
+    <id>http://foodfightshow.org//2012/09/surge-conf-2012</id>
     <content type="html"><![CDATA[<p>Nathen spent part of this week at <a href="http://omniti.com/surge/2012">Surge Conference</a> and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with <a href="http://twitter.com/novustiro">Michael Bevilacqua-Linn</a> earlier in the week to discuss his presentation.</p>
 
 <p>Here&#8217;s a list of links to all of the Surge-related episodes:</p>
@@ -1857,9 +1857,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Wrap-up Surge with Theo Schlossnagle]]></title>
-    <link href="http://foodfight.github.com/2012/09/wrap-up-surge-with-theo-schlossnagle.html"/>
+    <link href="http://foodfightshow.org//2012/09/wrap-up-surge-with-theo-schlossnagle.html"/>
     <updated>2012-09-29T12:15:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/wrap-up-surge-with-theo-schlossnagle</id>
+    <id>http://foodfightshow.org//2012/09/wrap-up-surge-with-theo-schlossnagle</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p>In this DevOps Delicacy, Nathen sits down with <a href="http://twitter.com/postwait">Theo Schlossnagle</a>.  They discussed Theo&#8217;s Surge presentations and wrapped-up the event.</p>
@@ -1870,9 +1870,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Surge Update with Matt Grahamn from Etsy]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-update-with-matt-grahamn-from-etsy.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-update-with-matt-grahamn-from-etsy.html"/>
     <updated>2012-09-29T11:58:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-update-with-matt-grahamn-from-etsy</id>
+    <id>http://foodfightshow.org//2012/09/surge-update-with-matt-grahamn-from-etsy</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Download the episode</a></p>
@@ -1896,9 +1896,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Surge Update - Mike Nolet]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-update-mike-nolet.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-update-mike-nolet.html"/>
     <updated>2012-09-28T12:16:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-update-mike-nolet</id>
+    <id>http://foodfightshow.org//2012/09/surge-update-mike-nolet</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <ul>
@@ -1930,9 +1930,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Surge Update - Knewton]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-update-knewton.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-update-knewton.html"/>
     <updated>2012-09-28T11:51:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-update-knewton</id>
+    <id>http://foodfightshow.org//2012/09/surge-update-knewton</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Download the episode</a></p>
@@ -1954,9 +1954,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
-    <link href="http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
+    <link href="http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
     <updated>2012-09-28T10:32:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
+    <id>http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download the episode</a></p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: lapsu | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/lapsu/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/lapsu/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Surge Conf 2012]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-conf-2012.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-conf-2012.html"/>
     <updated>2012-09-29T12:21:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-conf-2012</id>
+    <id>http://foodfightshow.org//2012/09/surge-conf-2012</id>
     <content type="html"><![CDATA[<p>Nathen spent part of this week at <a href="http://omniti.com/surge/2012">Surge Conference</a> and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with <a href="http://twitter.com/novustiro">Michael Bevilacqua-Linn</a> earlier in the week to discuss his presentation.</p>
 
 <p>Here's a list of links to all of the Surge-related episodes:</p>
@@ -40,9 +40,9 @@
   
   <entry>
     <title type="html"><![CDATA[Surge Update with Matt Grahamn from Etsy]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-update-with-matt-grahamn-from-etsy.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-update-with-matt-grahamn-from-etsy.html"/>
     <updated>2012-09-29T11:58:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-update-with-matt-grahamn-from-etsy</id>
+    <id>http://foodfightshow.org//2012/09/surge-update-with-matt-grahamn-from-etsy</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Download the episode</a></p>

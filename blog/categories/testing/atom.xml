@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: testing | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/testing/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/testing/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
-    <link href="http://foodfight.github.com/2012/10/community-summit-day-one.html"/>
+    <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
     <updated>2012-10-23T17:47:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/community-summit-day-one</id>
+    <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
 <ul>
@@ -84,9 +84,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test Kitchen]]></title>
-    <link href="http://foodfight.github.com/2012/08/test-kitchen.html"/>
+    <link href="http://foodfightshow.org//2012/08/test-kitchen.html"/>
     <updated>2012-08-25T03:04:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/08/test-kitchen</id>
+    <id>http://foodfightshow.org//2012/08/test-kitchen</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 23 August 2012</p>
 
 <ul>
@@ -263,9 +263,9 @@ This cookbook provides an easy way to install the Yasm Assembler.</li>
   
   <entry>
     <title type="html"><![CDATA[Jamie Winsor and Michael Ivey Skool us on Berkshelf]]></title>
-    <link href="http://foodfight.github.com/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html"/>
+    <link href="http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html"/>
     <updated>2012-08-03T16:33:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf</id>
+    <id>http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA</p>
 
 <ul>
@@ -474,9 +474,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Interview with Joshua Timberman, King of Sysadmins]]></title>
-    <link href="http://foodfight.github.com/2012/07/interview-with-joshua-timberman.html"/>
+    <link href="http://foodfightshow.org//2012/07/interview-with-joshua-timberman.html"/>
     <updated>2012-07-10T12:36:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/07/interview-with-joshua-timberman</id>
+    <id>http://foodfightshow.org//2012/07/interview-with-joshua-timberman</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 10 July 2012</p>
 
 <ul>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: mttr | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/mttr/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/mttr/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
-    <link href="http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
+    <link href="http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
     <updated>2012-09-28T10:32:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
+    <id>http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download the episode</a></p>

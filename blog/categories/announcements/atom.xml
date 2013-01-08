@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: announcements | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/announcements/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Google Plus Hangouts]]></title>
-    <link href="http://foodfight.github.com/2012/11/google-plus-hangouts.html"/>
+    <link href="http://foodfightshow.org//2012/11/google-plus-hangouts.html"/>
     <updated>2012-11-06T09:26:00-05:00</updated>
-    <id>http://foodfight.github.com/2012/11/google-plus-hangouts</id>
+    <id>http://foodfightshow.org//2012/11/google-plus-hangouts</id>
     <content type="html"><![CDATA[<p>We held two different Hangouts on Google+ this week.  Thank you to everyone who participated!</p>
 
 <p>What did you think about the format, topics, time of day, etc. of the Hangouts?  We'd want to hear your feedback!  Should we keep doing these?  Drop us a line at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>

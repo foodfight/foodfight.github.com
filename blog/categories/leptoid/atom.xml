@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: leptoid | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/leptoid/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/leptoid/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Surge Update - Knewton]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-update-knewton.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-update-knewton.html"/>
     <updated>2012-09-28T11:51:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-update-knewton</id>
+    <id>http://foodfightshow.org//2012/09/surge-update-knewton</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Download the episode</a></p>

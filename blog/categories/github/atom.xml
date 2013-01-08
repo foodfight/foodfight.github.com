@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: github | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/github/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/github/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Release Engineering]]></title>
-    <link href="http://foodfight.github.com/2012/10/release-engineering.html"/>
+    <link href="http://foodfightshow.org//2012/10/release-engineering.html"/>
     <updated>2012-10-31T09:58:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/release-engineering</id>
+    <id>http://foodfightshow.org//2012/10/release-engineering</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 30 October 2012</p>
 
 <p>In this episode, <a href="https://twitter.com/bryanwb">Bryan</a> and <a href="https://twitter.com/nathenharvey">Nathen</a> sat down with <a href="https://twitter.com/soberbuildeng">J. Paul Reed</a> and <a href="http://twitter.com/cheeseplus">Seth Thomas</a> to talk about the practice, profession, and tools of Release Engineering.  We also talked a bit about their Podcast, <a href="http://theshipshow.com/">The Ship Show</a>.</p>
@@ -233,9 +233,9 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[ChatOps at Github with Jesse Newland]]></title>
-    <link href="http://foodfight.github.com/2012/08/chatops-at-github-with-jesse-newland.html"/>
+    <link href="http://foodfightshow.org//2012/08/chatops-at-github-with-jesse-newland.html"/>
     <updated>2012-08-23T00:04:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/08/chatops-at-github-with-jesse-newland</id>
+    <id>http://foodfightshow.org//2012/08/chatops-at-github-with-jesse-newland</id>
     <content type="html"><![CDATA[<p>Show Date:  22 August 2012, 13:00 PST</p>
 
 <ul>

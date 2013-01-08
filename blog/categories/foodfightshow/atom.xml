@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: foodfightshow | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/foodfightshow/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/foodfightshow/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Food Fight Show - Year Two]]></title>
-    <link href="http://foodfight.github.com/2013/01/food-fight-show-year-two.html"/>
+    <link href="http://foodfightshow.org//2013/01/food-fight-show-year-two.html"/>
     <updated>2013-01-02T11:09:00-05:00</updated>
-    <id>http://foodfight.github.com/2013/01/food-fight-show-year-two</id>
+    <id>http://foodfightshow.org//2013/01/food-fight-show-year-two</id>
     <content type="html"><![CDATA[<p>Show Date:  2 January 2013</p>
 
 <p>This episode is a look back at the Food Fight Show in 2012 and a discussion

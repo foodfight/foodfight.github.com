@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: delicacy | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/delicacy/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/delicacy/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[DevOps Delicacy - Special Episode]]></title>
-    <link href="http://foodfight.github.com/2012/10/devops-delicacy-special-episode.html"/>
+    <link href="http://foodfightshow.org//2012/10/devops-delicacy-special-episode.html"/>
     <updated>2012-10-07T16:08:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/devops-delicacy-special-episode</id>
+    <id>http://foodfightshow.org//2012/10/devops-delicacy-special-episode</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, 8 October 2012</p>
 
 <p>Today is <a href="https://twitter.com/dlutzy">David Lutz</a>'s birthday.  We've enlisted the help of <a href="http://twitter.com/venessapaech">Venessa Paech</a> and Nathen's children to help wish David a Happy Birthday.</p>
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[Surge Update - Mike Nolet]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-update-mike-nolet.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-update-mike-nolet.html"/>
     <updated>2012-09-28T12:16:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-update-mike-nolet</id>
+    <id>http://foodfightshow.org//2012/09/surge-update-mike-nolet</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <ul>
@@ -69,9 +69,9 @@
   
   <entry>
     <title type="html"><![CDATA[Surge Update - Knewton]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-update-knewton.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-update-knewton.html"/>
     <updated>2012-09-28T11:51:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-update-knewton</id>
+    <id>http://foodfightshow.org//2012/09/surge-update-knewton</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Download the episode</a></p>
@@ -93,9 +93,9 @@
   
   <entry>
     <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
-    <link href="http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
+    <link href="http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
     <updated>2012-09-28T10:32:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
+    <id>http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Download the episode</a></p>
@@ -115,9 +115,9 @@
   
   <entry>
     <title type="html"><![CDATA[Surge - Interview with Ryan Kennedy]]></title>
-    <link href="http://foodfight.github.com/2012/09/surge-day-1.html"/>
+    <link href="http://foodfightshow.org//2012/09/surge-day-1.html"/>
     <updated>2012-09-27T14:06:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/09/surge-day-1</id>
+    <id>http://foodfightshow.org//2012/09/surge-day-1</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 27 September 2012</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Download the episode</a></p>

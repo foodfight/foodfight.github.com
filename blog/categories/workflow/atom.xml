@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: workflow | Food Fight]]></title>
-  <link href="http://foodfight.github.com/blog/categories/workflow/atom.xml" rel="self"/>
-  <link href="http://foodfight.github.com/"/>
-  <updated>2013-01-07T21:53:28-05:00</updated>
-  <id>http://foodfight.github.com/</id>
+  <link href="http://foodfightshow.org//blog/categories/workflow/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-08T09:22:32-05:00</updated>
+  <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
-    <link href="http://foodfight.github.com/2012/10/community-summit-day-one.html"/>
+    <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
     <updated>2012-10-23T17:47:00-04:00</updated>
-    <id>http://foodfight.github.com/2012/10/community-summit-day-one</id>
+    <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
 <ul>
