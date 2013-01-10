@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Roles, Environments, Attributes, and Data Bags"
+date: 2013-01-10 12:56
+comments: true
+categories: 
+---
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Z2NssEeVHlI" frameborder="0" allowfullscreen></iframe>
+
+
