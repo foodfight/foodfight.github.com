@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: lnxchk | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/lnxchk/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-18T21:34:23-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays NYC - That's a Wrap!]]></title>
+    <link href="http://foodfightshow.org//2013/01/devopsdays-nyc-thats-a-wrap.html"/>
+    <updated>2013-01-18T21:10:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/devopsdays-nyc-thats-a-wrap</id>
+    <content type="html"><![CDATA[<p>Show Date:  18 January 2013</p>
+
+<p>Join this round-table discussion summarizing DevOpsDays NYC.</p>
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Patrick Debois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a>, <a href="http://www.jedi.be/blog">blog</a></li>
+<li>Julian Dunn <a href="http://twitter.com/julian_dunn">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<p><a href="http://traffic.libsyn.com/foodfight/dod-nyc-wrapup.mp3">Download the DevOpsDays NYC Wrap-up Episode</a></p>
+]]></content>
+  </entry>
+  
+</feed>

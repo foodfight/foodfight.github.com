@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: travisci | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/travisci/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-18T21:34:23-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays with Matthias Meyer]]></title>
+    <link href="http://foodfightshow.org//2013/01/devopsdays-with-matthias-meyer.html"/>
+    <updated>2013-01-18T20:38:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/devopsdays-with-matthias-meyer</id>
+    <content type="html"><![CDATA[<p>Show Date:  18 January 2013</p>
+
+<p>In this episode, <a href="http://twitter.com/nathenharvey">Nathen</a> and <a href="http://twitter.com/lusis">John</a> sat down to talk with Matthias Meyer, aka <a href="http://twitter.com/roidrage">@roidrage</a>, to discuss his DevOpsDays NYC presentation, <a href="http://devopsdays.org/events/2012-newyork/proposals/FailureIsAlwaysAnOption/">Failure is Always An Option</a>, TravisCI, and more.</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/dod-nyc-roidrage.mp3">Download</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
