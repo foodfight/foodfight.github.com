@@ -38,7 +38,7 @@ Panel<a name="panel"></a>
 
 In the News<a name="news"></a>
 -----------
-* [On Resilience in Automated Systems](http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html) by Matthias Meyer - would be a great topic for the show
+* [On Resilience in Automated Systems](http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html) by Mathias Meyer - would be a great topic for the show
 
 * Fletcher Nichol tweeted a handy [vim replace string for FC001](http://bit.ly/M4BbgH)
 
