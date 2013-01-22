@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-01-21T14:22:51-05:00</updated>
+  <updated>2013-01-22T13:49:18-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Roles, Environments, Attributes, and Data Bags - Part 2]]></title>
+    <link href="http://foodfightshow.org//2013/01/roles2.html"/>
+    <updated>2013-01-22T13:34:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/roles2</id>
+    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://www.youtube.com/embed/-3IibcjcnWc" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOpsDays NYC - That's a Wrap!]]></title>
@@ -1923,32 +1933,6 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
 <p>In this DevOps Delicacy, Nathen sits down with <a href="http://twitter.com/postwait">Theo Schlossnagle</a>.  They discussed Theo&#8217;s Surge presentations and wrapped-up the event.</p>
 
 <p><a href="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3">Download the episode</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Surge Update with Matt Grahamn from Etsy]]></title>
-    <link href="http://foodfightshow.org//2012/09/surge-update-with-matt-grahamn-from-etsy.html"/>
-    <updated>2012-09-29T11:58:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/09/surge-update-with-matt-grahamn-from-etsy</id>
-    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
-
-<p><a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Download the episode</a></p>
-
-<p>In this DevOps Delicacy, Nathen sits down with <a href="http://twitter.com/lapsu">Matt Grahamn</a> from Etsy.  They discussed Matt&#8217;s Surge presentation:</p>
-
-<!-- more -->
-
-
-<h4><a href="http://omniti.com/surge/2012/sessions/changing-etsys-architectural-foundation-with-continuous-deployment">Changing Etsy&#8217;s Architectural Foundation with Continuous Deployment</a></h4>
-
-<p>You hate that crusty old hunk of company technology that has long outlived the reasons it was adopted in the first place. But after all this time, it&#8217;s stuck in the middle of everything; how to get rid of it?</p>
-
-<p>At Etsy, we have successfully replaced our biggest problems with the small fixes of Continuous Deployment. How did deployment arrive at the state it is in today from the primitive practices of the 1980s? What practices and tools make it possible to deploy production code more than 50 times per day?</p>
-
-<p>How does such frequent change actually improve quality and agility? Where can Continuous Deployment be applied? Finally, see how Continuous Deployment brings changes to an architectural foundation from a state of impossibility to the realm of safety and feasibility.</p>
-
-<p>Surge - Interview with Matt Grahamn - <a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Download here</a></p>
 ]]></content>
   </entry>
   
