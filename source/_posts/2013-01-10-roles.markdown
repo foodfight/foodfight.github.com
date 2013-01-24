@@ -37,3 +37,9 @@ Watch Now<a name="video"></a>
 ---------
 <iframe width="560" height="315" src="http://www.youtube.com/embed/Z2NssEeVHlI" frameborder="0" allowfullscreen></iframe>
 
+Music Notes
+----------
+* Eric Reeves - Food Fight Show Theme Song
+* [Youngblood Brass Band - Brooklyn](http://www.youtube.com/watch?v=TxH9Dg1JLio)
+* [Epic Violin Guy - Revenge of the Nerds](http://www.youtube.com/watch?v=XePd71I4ozk)
+
