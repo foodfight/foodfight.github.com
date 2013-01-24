@@ -4,5 +4,102 @@ title: "Roles, Environments, Attributes, and Data Bags - Part 2"
 date: 2013-01-22 13:34
 comments: true
 categories: 
+  - someara
+  - jtimberman
+  - dahui0401
 ---
+
+Show Date:  Tuesday, January 22, 2013
+
+This episode is a continuation of our discussion of Roles, Environments, Attributes and Data Bags.
+The episode was recorded as a Google+ Hangout and streamed live on YouTube.
+
+You can now [subscribe to the Food Fight Show email newsletter](http://bit.ly/ffsmail).
+
+* [Panel](http://foodfightshow.org/2013/01/roles2.html#panel)
+* [Outline](http://foodfightshow.org/2013/01/roles2.html#outline)
+* [Picks](http://foodfightshow.org/2013/01/roles2.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-37-Roles-Environs-Etc-Pt2.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=-3IibcjcnWc)
+
+Watch Now
+--------
 <iframe width="420" height="315" src="http://www.youtube.com/embed/-3IibcjcnWc" frameborder="0" allowfullscreen></iframe>
+
+<!-- more -->
+
+Panel<a name="panel"></a>
+-----
+
+* Jeff Hagadorn [github](), [twitter](https://twitter.com/dahui0401)
+* Sean O'Meara  [github](https://github.com/someara), [twitter](https://twitter.com/someara), [blog](http://blog.afistfulofservers.net/)
+* Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Outline<a name="outline"></a>
+-------
+
+This show was a roundtable discussion of some of the components within Chef.  We start with a definition of each object, taken from the [docs site](http://docs.opscode.com/chef_overview.html) and give each panelist a few minutes to discuss.
+
+#### Roles
+A role is a way to define certain patterns and processes that exist across nodes in a Chef organization as belonging to a single job function. Each role may contain attributes and/or a run list. Each node can have zero (or more) roles assigned to it. When a role is run against a node, the configuration details of that node are compared against the attributes of the role, and then the contents of that role’s run list are applied to the node’s configuration details. When a chef-client runs, it merges its own attributes and run lists with those contained within each assigned role.
+
+#### Environments
+An environment is a way to map an organization’s real-life workflow to what can be configured and managed when using Chef server. Every Chef organization begins with a single environment called the _default environment, which cannot be modified (or deleted). Additional environments can be created, such as production, staging, testing, and development. Generally, an environment is also associated with one (or more) cookbook versions.
+
+#### Attributes
+An attribute is a specific detail about a node, such as an IP address, a host name, a desired application setting, a list of loaded kernel modules, the version(s) of available programming languages that are available, and so on. Attributes can be maintained in a variety of ways, such as by re-loading a cookbook (that contains new attributes), by using Knife, or by using JSON data. During a Chef run, the chef-client gets attributes from Ohai, the node object on the Chef server, roles, recipes, and environments. These attributes are compared and then updated based on attribute precedence rules that are defined for each attribute. At the end of a Chef run, the chef-client will save the node object (and all of its attributes) to the Chef server so they can be indexed for search.
+
+Types of attributes:
+
+* Automatic
+* Override
+* Normal
+* Default
+* Check the docs for [attribute precendence](http://docs.opscode.com/essentials_cookbook_recipes_attribute_precedence.html)
+
+#### Data Bags
+A data bag is a global variable that is stored as JSON data and is accessible from a Chef server. A data bag is indexed for searching and can be loaded by a recipe or accessed during a search. The contents of a data bag can vary, but they often include sensitive information (such as database passwords).
+
+
+Picks<a name="picks"></a>
+-----
+
+### Jeff
+
+* [DigitalOcean - Hosting](https://www.digitalocean.com/)
+
+### Joshua
+
+* [Roll20](http://roll20.net) - Virtual tabletop gaming
+* [Process Supervision: Solved Problem](http://jtimberman.housepub.org/blog/2012/12/29/process-supervision-solved-problem/)
+
+### Sean
+
+* [SmartOS](http://joyent.com/technology/smartos) 
+* [Joyent Smart Data Center](http://joyent.com/products/smartdatacenter)
+
+### Bryan
+
+* [Zookeeper Gem](https://github.com/slyphon/zk)
+* [Jamie CI](http://docs.jamie-ci.org/)
+
+### Nathen
+
+* [DevOpsDays](http://devopsdays.org/)
+* [The Truth](http://thetruthapm.com/The_Truth.html)
+
+Download
+--------
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-37-Roles-Environs-Etc-Pt2.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=-3IibcjcnWc)
+
+
+Music Notes
+----------
+* Eric Reeves - Food Fight Show Theme Song
+* [Angel Vivaldi - A Mercurian Summer](http://www.youtube.com/watch?v=uZLtzchX32c)
+* 
+
