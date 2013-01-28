@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: jsegura | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/jsegura/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-28T11:02:41-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Application Deployment]]></title>
+    <link href="http://foodfightshow.org//2013/01/application-deployment.html"/>
+    <updated>2013-01-28T10:45:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/application-deployment</id>
+    <content type="html"><![CDATA[<p>Should you deploy your applicaiton with Chef's <a href="http://docs.opscode.com/resource_deploy.html">deploy resource</a> or should you use <a href="https://github.com/capistrano/capistrano">Capistrano</a> or something like it?</p>
+
+<p>Join the conversation in the #foodfightshow room on freenode IRC.</p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8H3jsj7_B6A" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
