@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-01-28T11:02:41-05:00</updated>
+  <updated>2013-01-29T00:19:08-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,11 +18,63 @@
     <link href="http://foodfightshow.org//2013/01/application-deployment.html"/>
     <updated>2013-01-28T10:45:00-05:00</updated>
     <id>http://foodfightshow.org//2013/01/application-deployment</id>
-    <content type="html"><![CDATA[<p>Should you deploy your applicaiton with Chef&#8217;s <a href="http://docs.opscode.com/resource_deploy.html">deploy resource</a> or should you use <a href="https://github.com/capistrano/capistrano">Capistrano</a> or something like it?</p>
+    <content type="html"><![CDATA[<p>Show Date:  Monday, January 28, 2013</p>
 
-<p>Join the conversation in the #foodfightshow room on freenode IRC.</p>
+<p>This episode was started with a tweet:</p>
+
+<blockquote><p>@nathenharvey are you still recommending capistrano deploys in a chef infrastructure? I want to know what the best practices are</p><footer><strong>@jsegura</strong> <cite><a href='https://twitter.com/jsegura/status/293914528171839488'>twitter.com/jsegura/status/&hellip;</a></cite></footer></blockquote>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/01/application-deployment.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/01/application-deployment.html#notes">Show Notes</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Application-Deployment.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=8H3jsj7_B6A">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/8H3jsj7_B6A" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Javier Segura <a href="http://github.com/jsegura">github</a>, <a href="https://twitter.com/jsegura/">twitter</a></li>
+<li>Julian Dunn <a href="http://github.com/juliandunn">github</a>, <a href="http://twitter.com/julian_dunn">twitter</a>, <a href="http://www.juliandunn.net/">blog</a></li>
+<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Show Notes<a name="notes"></a></h2>
+
+<p>Should you deploy your applicaiton with Chef&#8217;s <a href="http://docs.opscode.com/resource_deploy.html">deploy resource</a> or should you use <a href="https://github.com/capistrano/capistrano">Capistrano</a> or something like it?  To an extent, this comes down to a question of push vs. pull.</p>
+
+<p>On the panel we discuss the merits of both and reach a conclusion something along the lines of:</p>
+
+<p>Use whichever method best suits your team and your application&#8217;s workflow.  In either case, it makes sense to leverage <a href="http://docs.opscode.com/essentials_search.html">Chef&#8217;s search capability</a> to help drive the deployment.</p>
+
+<p>A <a href="http://lists.opscode.com/sympa/arc/chef/2013-01/msg00392.html">thread on the mailing list</a> came up during our discussion.  Although not directly related to our conversation, <a href="http://lists.opscode.com/sympa/arc/chef/2013-01/msg00392.html">the thread</a> is worth reading.  <a href="https://twitter.com/jtimberman">Joshua Timberman</a> schooled all of us on the use of the <a href="http://docs.opscode.com/resource_template.html">template resource&#8217;s</a> <code>local</code> attribute.  This was certainly something new to most, if not all, of the panelists.  Joshua wrote up blog post, <a href="http://jtimberman.housepub.org/blog/2013/01/28/local-templates-for-application-configuration/">Local Templates for Application Configuration</a> exploring the use of local templates.</p>
+
+<h2>Download<a name="download"></a></h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Application-Deployment.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=8H3jsj7_B6A">Video Stream</a></li>
+</ul>
 
 ]]></content>
   </entry>
@@ -32,7 +84,119 @@
     <link href="http://foodfightshow.org//2013/01/windows-roundtable.html"/>
     <updated>2013-01-24T12:41:00-05:00</updated>
     <id>http://foodfightshow.org//2013/01/windows-roundtable</id>
-    <content type="html"><![CDATA[<iframe width="560" height="315" src="http://www.youtube.com/embed/2fL6yPuRxmI" frameborder="0" allowfullscreen></iframe>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, January 24, 2013</p>
+
+<p>In this episode, we discuss managing Window environments with Chef.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/01/windows-roundtable.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/01/windows-roundtable.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-38-Windows.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=2fL6yPuRxmI">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/2fL6yPuRxmI" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<p></p>
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Doug Ireton, Nordstrom <a href="http://github.com/dougireton">github</a>, <a href="http://twitter.com/dougireton">twitter</a>, irc: dougireton, <a href="http://dougireton.com">blog</a></li>
+<li>Jon DeCamp <a href="http://github.com/jondecamp">github</a>, <a href="http://twitter.com/jondecamp">twitter</a>, irc: jondecamp</li>
+<li>Kevin Moser <a href="http://github.com/moserke">github</a>, <a href="http://twitter.com/moserke">twitter</a>, irc: moserke</li>
+<li>Adam Edwards <a href="http://github.com/adamedx">github</a></li>
+<li>Micah Coletti <a href="http://github.com/mcoletti">github</a></li>
+<li>Amos Coletti <a href="http://github.com/acoletti">github</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>John</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/The_Year%27s_Best_Science_Fiction:_Twenty-Ninth_Annual_Collection">The Year&#8217;s Best Science Fiction</a></li>
+</ul>
+
+
+<h4>Adam</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Elasmosaurus">Elasmosaurus</a></li>
+</ul>
+
+
+<h4>Amos</h4>
+
+<ul>
+<li><a href="http://www.jetbrains.com/ruby/">RubyMine</a></li>
+<li><a href="http://beeradvocate.com/beer/profile/207/645">Trappistes Rochefort 10</a></li>
+</ul>
+
+
+<h4>Doug</h4>
+
+<ul>
+<li><a href="https://github.com/Lokaltog/powerline">Powerline</a> an awesome Vim status line plugin</li>
+</ul>
+
+
+<h4>Jon</h4>
+
+<ul>
+<li><a href="http://stedolan.github.com/jq/">jq</a> lightweight and flexible command-line JSON processor</li>
+</ul>
+
+
+<h4>Kevin</h4>
+
+<ul>
+<li><a href="https://lastpass.com/index.php">LastPass</a></li>
+</ul>
+
+
+<h4>Micah</h4>
+
+<ul>
+<li>Testing cookbooks!</li>
+<li><a href="http://www.amazon.com/Test-Driven-Infrastructure-Chef-Stephen-Nelson-Smith/dp/1449304818">Test-driven Infrastructure with Chef</a></li>
+<li><a href="http://muse.mu/">Muse</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://twitter.com/fnichol">Fletcher Nichol</a></li>
+<li><a href="http://www.bluebox.net/about/blog/2013/01/provisioning-with-razor-and-chef-an-interactive-demo/">Provisioning with Razor and Chef – An Interactive Demo</a></li>
+<li><a href="http://chefconf.opscode.com">#ChefConf 2013</a> - <a href="https://chefconf2013.busyconf.com/bookings/new">Buy your tickets</a> and <a href="https://chefconf2013.busyconf.com/proposals/new">submit your talks!</a></li>
+</ul>
+
+
+<h2>Music Notes</h2>
+
+<ul>
+<li>Eric Reeves - Food Fight Show Theme Song</li>
+<li><a href="http://www.youtube.com/watch?v=LHcP4MWABGY">U2 - Pride (In The Name of Love)</a></li>
+<li><a href="http://muse.mu/music-video/music/61.htm">Muse - Madness</a></li>
+</ul>
 
 ]]></content>
   </entry>

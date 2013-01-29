@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ancestry.com | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/ancestry-com/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-29T00:19:08-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Windows Roundtable]]></title>
+    <link href="http://foodfightshow.org//2013/01/windows-roundtable.html"/>
+    <updated>2013-01-24T12:41:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/windows-roundtable</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, January 24, 2013</p>
+
+<p>In this episode, we discuss managing Window environments with Chef.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/01/windows-roundtable.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/01/windows-roundtable.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-38-Windows.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=2fL6yPuRxmI">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/2fL6yPuRxmI" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<p></p>
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Doug Ireton, Nordstrom <a href="http://github.com/dougireton">github</a>, <a href="http://twitter.com/dougireton">twitter</a>, irc: dougireton, <a href="http://dougireton.com">blog</a></li>
+<li>Jon DeCamp <a href="http://github.com/jondecamp">github</a>, <a href="http://twitter.com/jondecamp">twitter</a>, irc: jondecamp</li>
+<li>Kevin Moser <a href="http://github.com/moserke">github</a>, <a href="http://twitter.com/moserke">twitter</a>, irc: moserke</li>
+<li>Adam Edwards <a href="http://github.com/adamedx">github</a></li>
+<li>Micah Coletti <a href="http://github.com/mcoletti">github</a></li>
+<li>Amos Coletti <a href="http://github.com/acoletti">github</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>John</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/The_Year%27s_Best_Science_Fiction:_Twenty-Ninth_Annual_Collection">The Year's Best Science Fiction</a></li>
+</ul>
+
+
+<h4>Adam</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Elasmosaurus">Elasmosaurus</a></li>
+</ul>
+
+
+<h4>Amos</h4>
+
+<ul>
+<li><a href="http://www.jetbrains.com/ruby/">RubyMine</a></li>
+<li><a href="http://beeradvocate.com/beer/profile/207/645">Trappistes Rochefort 10</a></li>
+</ul>
+
+
+<h4>Doug</h4>
+
+<ul>
+<li><a href="https://github.com/Lokaltog/powerline">Powerline</a> an awesome Vim status line plugin</li>
+</ul>
+
+
+<h4>Jon</h4>
+
+<ul>
+<li><a href="http://stedolan.github.com/jq/">jq</a> lightweight and flexible command-line JSON processor</li>
+</ul>
+
+
+<h4>Kevin</h4>
+
+<ul>
+<li><a href="https://lastpass.com/index.php">LastPass</a></li>
+</ul>
+
+
+<h4>Micah</h4>
+
+<ul>
+<li>Testing cookbooks!</li>
+<li><a href="http://www.amazon.com/Test-Driven-Infrastructure-Chef-Stephen-Nelson-Smith/dp/1449304818">Test-driven Infrastructure with Chef</a></li>
+<li><a href="http://muse.mu/">Muse</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://twitter.com/fnichol">Fletcher Nichol</a></li>
+<li><a href="http://www.bluebox.net/about/blog/2013/01/provisioning-with-razor-and-chef-an-interactive-demo/">Provisioning with Razor and Chef – An Interactive Demo</a></li>
+<li><a href="http://chefconf.opscode.com">#ChefConf 2013</a> - <a href="https://chefconf2013.busyconf.com/bookings/new">Buy your tickets</a> and <a href="https://chefconf2013.busyconf.com/proposals/new">submit your talks!</a></li>
+</ul>
+
+
+<h2>Music Notes</h2>
+
+<ul>
+<li>Eric Reeves - Food Fight Show Theme Song</li>
+<li><a href="http://www.youtube.com/watch?v=LHcP4MWABGY">U2 - Pride (In The Name of Love)</a></li>
+<li><a href="http://muse.mu/music-video/music/61.htm">Muse - Madness</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

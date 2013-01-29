@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: search | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/search/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-01-29T00:19:08-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Application Deployment]]></title>
+    <link href="http://foodfightshow.org//2013/01/application-deployment.html"/>
+    <updated>2013-01-28T10:45:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/application-deployment</id>
+    <content type="html"><![CDATA[<p>Show Date:  Monday, January 28, 2013</p>
+
+<p>This episode was started with a tweet:</p>
+
+<p><blockquote><p>@nathenharvey are you still recommending capistrano deploys in a chef infrastructure? I want to know what the best practices are</p><footer><strong>@jsegura</strong> <cite><a href='https://twitter.com/jsegura/status/293914528171839488'>twitter.com/jsegura/status/&hellip;</a></cite></footer></blockquote></p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/01/application-deployment.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/01/application-deployment.html#notes">Show Notes</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Application-Deployment.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=8H3jsj7_B6A">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8H3jsj7_B6A" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Javier Segura <a href="http://github.com/jsegura">github</a>, <a href="https://twitter.com/jsegura/">twitter</a></li>
+<li>Julian Dunn <a href="http://github.com/juliandunn">github</a>, <a href="http://twitter.com/julian_dunn">twitter</a>, <a href="http://www.juliandunn.net/">blog</a></li>
+<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Show Notes<a name="notes"></a></h2>
+
+<p>Should you deploy your applicaiton with Chef's <a href="http://docs.opscode.com/resource_deploy.html">deploy resource</a> or should you use <a href="https://github.com/capistrano/capistrano">Capistrano</a> or something like it?  To an extent, this comes down to a question of push vs. pull.</p>
+
+<p>On the panel we discuss the merits of both and reach a conclusion something along the lines of:</p>
+
+<p>Use whichever method best suits your team and your application's workflow.  In either case, it makes sense to leverage <a href="http://docs.opscode.com/essentials_search.html">Chef's search capability</a> to help drive the deployment.</p>
+
+<p>A <a href="http://lists.opscode.com/sympa/arc/chef/2013-01/msg00392.html">thread on the mailing list</a> came up during our discussion.  Although not directly related to our conversation, <a href="http://lists.opscode.com/sympa/arc/chef/2013-01/msg00392.html">the thread</a> is worth reading.  <a href="https://twitter.com/jtimberman">Joshua Timberman</a> schooled all of us on the use of the <a href="http://docs.opscode.com/resource_template.html">template resource's</a> <code>local</code> attribute.  This was certainly something new to most, if not all, of the panelists.  Joshua wrote up blog post, <a href="http://jtimberman.housepub.org/blog/2013/01/28/local-templates-for-application-configuration/">Local Templates for Application Configuration</a> exploring the use of local templates.</p>
+
+<h2>Download<a name="download"></a></h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Application-Deployment.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=8H3jsj7_B6A">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
