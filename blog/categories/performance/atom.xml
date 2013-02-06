@@ -4,7 +4,7 @@
   <title><![CDATA[Category: performance | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/performance/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-01-29T00:19:08-05:00</updated>
+  <updated>2013-02-06T13:48:49-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[USE - Thinking Methodically about Performance]]></title>
+    <link href="http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance.html"/>
+    <updated>2013-02-06T13:34:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, February 6, 2013</p>
+
+<p>Join the discussion in #foodfightshow on Freenode IRC.</p>
+
+<p>In this episode, we sit down with <a href="https://twitter.com/brendangregg">Brendan Gregg</a> of Joyent to discuss performance and his recent article, <a href="http://queue.acm.org/detail.cfm?id=2413037">Thinking Methodically about Performance</a>.</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/GSjWIoAXzuQ" frameborder="0" allowfullscreen></iframe>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brendan Gregg of Joyent <a href="https://github.com/brendangregg">github</a>, <a href="https://twitter.com/brendangregg">twitter</a>, <a href="http://dtrace.org/blogs/brendan/">blog</a></li>
+<li>Avleen Vig <a href="https://github.com/avleen">github</a>, <a href="https://twitter.com/avleen">twitter</a>, <a href="http://silverwraith.com/blog/">blog</a></li>
+<li>MattRay <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[metrics-driven-engineering]]></title>
