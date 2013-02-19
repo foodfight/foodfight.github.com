@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Logstash"
+date: 2013-02-13 11:52
+comments: true
+categories: 
+---
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/zcTeyG80uY0" frameborder="0" allowfullscreen></iframe>
