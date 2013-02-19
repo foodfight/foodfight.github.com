@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-02-13T11:53:14-05:00</updated>
+  <updated>2013-02-19T10:54:01-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Saving the World with DevOps - Big Data and HPC]]></title>
+    <link href="http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc.html"/>
+    <updated>2013-02-19T10:53:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc</id>
+    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://www.youtube.com/embed/pJ4ahwABPRs" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Logstash]]></title>
@@ -2084,21 +2094,6 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
 
 
 <p>Happy Birthday, David!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOps Days Italy]]></title>
-    <link href="http://foodfightshow.org//2012/10/devopsdays-rome.html"/>
-    <updated>2012-10-05T17:47:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/10/devopsdays-rome</id>
-    <content type="html"><![CDATA[<p>Some updates from DevOps Days Italy</p>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">Jason Dixon gets Graphy on Graphite at Devops Days Italy</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">John Willis on why Deming Matters</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
