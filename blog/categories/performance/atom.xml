@@ -4,7 +4,7 @@
   <title><![CDATA[Category: performance | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/performance/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-02-19T13:43:26-05:00</updated>
+  <updated>2013-02-20T11:45:47-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -19,8 +19,6 @@
     <updated>2013-02-06T13:34:00-05:00</updated>
     <id>http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, February 6, 2013</p>
-
-<p>Join the discussion in #foodfightshow on Freenode IRC.</p>
 
 <p>In this episode, we sit down with <a href="https://twitter.com/brendangregg">Brendan Gregg</a> of Joyent to discuss performance and his recent article, <a href="http://queue.acm.org/detail.cfm?id=2413037">Thinking Methodically about Performance</a>.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-02-19T13:43:26-05:00</updated>
+  <updated>2013-02-20T11:45:47-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chef 11]]></title>
+    <link href="http://foodfightshow.org//2013/02/chef-11.html"/>
+    <updated>2013-02-20T11:39:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/02/chef-11</id>
+    <content type="html"><![CDATA[<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
+
+<p>Watch the stream now:</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/yo2vchHd_FE" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Saving the World with DevOps - Big Data and HPC]]></title>
@@ -39,8 +53,6 @@
     <updated>2013-02-06T13:34:00-05:00</updated>
     <id>http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, February 6, 2013</p>
-
-<p>Join the discussion in #foodfightshow on Freenode IRC.</p>
 
 <p>In this episode, we sit down with <a href="https://twitter.com/brendangregg">Brendan Gregg</a> of Joyent to discuss performance and his recent article, <a href="http://queue.acm.org/detail.cfm?id=2413037">Thinking Methodically about Performance</a>.</p>
 
@@ -2074,26 +2086,6 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
 <h2>Download</h2>
 
 <p>Download Metrics-driven Engineering - <a href="http://traffic.libsyn.com/foodfight/Food-Fight-30-Metircs-Driven-Engineering.mp3">Download here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOps Delicacy - Special Episode]]></title>
-    <link href="http://foodfightshow.org//2012/10/devops-delicacy-special-episode.html"/>
-    <updated>2012-10-07T16:08:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/10/devops-delicacy-special-episode</id>
-    <content type="html"><![CDATA[<p>Show Date:  Monday, 8 October 2012</p>
-
-<p>Today is <a href="https://twitter.com/dlutzy">David Lutz</a>&#8217;s birthday.  We&#8217;ve enlisted the help of <a href="http://twitter.com/venessapaech">Venessa Paech</a> and Nathen&#8217;s children to help wish David a Happy Birthday.</p>
-
-<p><a href="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Special.mp3">Download this special DevOps Delicacy</a></p>
-
-<p>Here&#8217;s one of David&#8217;s famous DevOps videos</p>
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/iYLxw6OsZug" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Happy Birthday, David!</p>
 ]]></content>
   </entry>
   
