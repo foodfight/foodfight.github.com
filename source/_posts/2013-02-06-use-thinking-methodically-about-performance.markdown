@@ -9,8 +9,6 @@ categories:
 ---
 Show Date:  Tuesday, February 6, 2013
 
-Join the discussion in #foodfightshow on Freenode IRC.
-
 In this episode, we sit down with [Brendan Gregg](https://twitter.com/brendangregg) of Joyent to discuss performance and his recent article, [Thinking Methodically about Performance](http://queue.acm.org/detail.cfm?id=2413037).
 
 Watch Now
