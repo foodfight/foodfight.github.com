@@ -4,6 +4,52 @@ title: "Logstash"
 date: 2013-02-13 11:52
 comments: true
 categories: 
+  - jordansissel
+  - kartar
 ---
+Show Date:  Wednesday, February 13, 2013
+
+In this episode, we discuss [Logstash](http://www.logstash.net/) and [The logstash Book](http://logstashbook.com/) with [Jordan Sissel](https://twitter.com/jordansissel) and [James Turnbull](https://twitter.com/kartar). 
+
+* [Panel](http://foodfightshow.org/2013/02/logstash.html#panel)
+* [Outline](http://foodfightshow.org/2013/02/logstash.html#outline)
+* [Picks](http://foodfightshow.org/2013/02/logstash.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=zcTeyG80uY0)
+
+Watch Now
+---------
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/zcTeyG80uY0" frameborder="0" allowfullscreen></iframe>
+
+<!-- more -->
+
+Panel<a name="panel"></a>
+-----
+
+* Jordan Sissel [twitter](https://twitter.com/jordansissel), [github](https://github.com/jordansissel), [blog](http://www.semicomplete.com/)
+* James Turnbull [twitter](https://twitter.com/kartar), [github](https://github.com/jamtur01)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Picks<a name="picks"></a>
+----
+
+#### Jordan
+* [Net Hack](http://www.nethack.org/)
+
+#### James
+* [Sensu](https://github.com/sensu/sensu)
+
+#### lusis  
+* [Hammerfall - Hearts On Fire (Curling Version)](http://www.youtube.com/watch?v=dL9mlqbG5CU)
+
+#### Nathen  
+* [fpm](https://github.com/jordansissel/fpm)
+
+
+Download
+-------
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=zcTeyG80uY0)
