@@ -4,7 +4,7 @@
   <title><![CDATA[Category: brendangregg | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/brendangregg/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-02-20T11:45:47-05:00</updated>
+  <updated>2013-02-25T13:36:32-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -22,9 +22,28 @@
 
 <p>In this episode, we sit down with <a href="https://twitter.com/brendangregg">Brendan Gregg</a> of Joyent to discuss performance and his recent article, <a href="http://queue.acm.org/detail.cfm?id=2413037">Thinking Methodically about Performance</a>.</p>
 
+<ul>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-39-USE-Method.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=GSjWIoAXzuQ">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
 <h2>Watch Now</h2>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/GSjWIoAXzuQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -36,6 +55,52 @@
 <li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
 <li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://jdownloader.org">jdownloader</a></li>
+<li><a href="http://www.youtube.com/watch?v=YHeyuD89n1Y&amp;feature=youtu.be">The Future of Networking by scott shenker</a></li>
+<li>electronic cigarettes</li>
+</ul>
+
+
+<h4>Avleen</h4>
+
+<ul>
+<li><a href="http://www.dueapp.com/mac.html">Due App</a></li>
+</ul>
+
+
+<h4>Brendan</h4>
+
+<ul>
+<li><a href="http://elite.frontier.co.uk/">Elite 4</a></li>
+<li><p><a href="http://www.raspberrypi.org/">Raspbery Pi</a></p></li>
+<li><h4>Matt</h4></li>
+<li><a href="http://www.treadmilldeskdiary.com/">Treadmill Desk Diary</a></li>
+<li><a href="http://www.mybloodyvalentine.org/NewsDetail.aspx?NID=623&amp;flag=1">my bloody valentine's new album:  mvb</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.delirium.be/delirium_nocturnum">Delirium Nocturnum</a></li>
+<li><a href="http://manytricks.com/witch/">Witch</a></li>
+<li><a href="https://chefconf2013.busyconf.com/proposals/new">#ChefConf 2013 CFP</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-39-USE-Method.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=GSjWIoAXzuQ">Video Stream</a></li>
 </ul>
 
 ]]></content>
