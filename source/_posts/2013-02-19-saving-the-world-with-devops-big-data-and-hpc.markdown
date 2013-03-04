@@ -19,7 +19,7 @@ In this episode, we discuss the role DevOps can play in helping science overcome
 * [Picks](http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html#picks)
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3)
-  * [Video Stream](http://www.youtube.com/watch?v=zcTeyG80uY0)
+  * [Video Stream](http://www.youtube.com/watch?v=pJ4ahwABPRs)
 
 Watch Now
 ---------
@@ -69,5 +69,5 @@ Picks<a name="picks"></a>
 Download
 -------
   * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3)
-  * [Video Stream](http://www.youtube.com/watch?v=zcTeyG80uY0)
+  * [Video Stream](http://www.youtube.com/watch?v=pJ4ahwABPRs)
  
