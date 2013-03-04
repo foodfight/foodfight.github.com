@@ -4,7 +4,7 @@
   <title><![CDATA[Category: obfuscurity | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/obfuscurity/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-04T13:05:25-05:00</updated>
+  <updated>2013-03-04T16:19:10-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Adaptive Fault Detection]]></title>
+    <link href="http://foodfightshow.org//2013/03/adaptive-fault-detection.html"/>
+    <updated>2013-03-04T10:49:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/03/adaptive-fault-detection</id>
+    <content type="html"><![CDATA[<p>Show Date:  Monday, March 4, 2013</p>
+
+<p>In this episode, we sat down with <a href="https://twitter.com/xaprb">Baron Schwartz</a> to discuss his presentation on <a href="http://www.xaprb.com/blog/2012/10/02/adaptive-fault-detection-in-mysql-servers/">Adaptive Fault Detection</a>.  <a href="https://twitter.com/obfuscurity">Jason Dixon</a> and <a href="https://twitter.com/solarce">Brandon Burton</a> joined the conversation.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/03/adaptive-fault-detection.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/03/adaptive-fault-detection.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/03/adaptive-fault-detection.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-43-adaptive-fault-detection.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=nyR0elLfy28">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nyR0elLfy28" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Baron Schwartz <a href="https://github.com/xaprb">github</a>, <a href="https://twitter.com/xaprb">twitter</a>, <a href="http://www.xaprb.com/blog/">blog</a></li>
+<li>Jason Dixon <a href="http://github.com/obfuscurity">github</a>, <a href="https://twitter.com/obfuscurity">twitter</a>, <a href="http://obfuscurity.com/">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Baron</h4>
+
+<ul>
+<li><a href="http://vividcortex.com">VividCortex</a></li>
+<li>Bree, apple, honey, and pesto sandwich</li>
+<li>Thyme-tea based gin drink</li>
+</ul>
+
+
+<h4>Jason</h4>
+
+<ul>
+<li><a href="https://github.com/obfuscurity/food-recipes">Food Recipes</a> - Patches welcome!</li>
+<li><a href="http://www.cs.ucr.edu/~eamonn/UCRsuite.html">UCR Suite</a></li>
+<li><a href="https://github.com/b/libdtw">Ben Black's dynamic time warping library</a></li>
+<li><a href="https://gist.github.com/jordansissel/3760225">logstashgraphite.py</a></li>
+<li><a href="http://mashable.com/2013/03/02/wealth-inequality/">Wealth Inequality</a></li>
+<li><a href="http://monitorama.com/">Monitorama</a></li>
+<li><a href="http://blog.librato.com/2013/02/january-sf-metrics-meetup-presentations.html">January SF Metrics Meetup Presentations: Sensu and OpenTSDB</a></li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://www.solowizard.com/">Solo Wizard</a> - and <a href="https://github.com/tommyh/solo_wizard">source code</a></li>
+<li><a href="https://github.com/blog/1345-introducing-boxen">Boxen</a></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li>Ctl-\</li>
+<li><a href="http://en.wikipedia.org/wiki/Bidet">Bidet</a></li>
+<li>Twitter rationing - Only check twitter in the morning and the evening</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://twitter.com/jordansissel">Jordan Sissel's</a> SCaLE 11x presentation on <a href="http://semicomplete.com/presentations/logstash-scale11x">logstash</a></li>
+<li><a href="http://www.bigrubyconf.com/">BigRuby Conf</a> and the (soon to be posted) <a href="http://www.confreaks.com/events/bigruby2013">videos on Confreaks</a>.</li>
+<li><a href="http://gearhartschocolates.com/">Gearhart's Chocolates</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-43-adaptive-fault-detection.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=nyR0elLfy28">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Monitoring for n00bs with Jason Dixon]]></title>

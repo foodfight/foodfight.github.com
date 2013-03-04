@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: chef11 | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/chef11/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-03-04T16:19:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Chef 11]]></title>
+    <link href="http://foodfightshow.org//2013/02/chef-11.html"/>
+    <updated>2013-02-20T11:39:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/02/chef-11</id>
+    <content type="html"><![CDATA[<p>Show Date:  Wednesday, February 20, 2013</p>
+
+<p>In this episode, we sit down with some of the engineering team at Opscode to discuss the recently released Chef 11.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/02/chef-11.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/02/chef-11.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/02/chef-11.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-42-chef11.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=yo2vchHd_FE">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/yo2vchHd_FE" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Dan DeLeo <a href="http://github.com/danielsdeleo">github</a>, <a href="https://twitter.com/kallistec">twitter</a></li>
+<li>Kevin Smith <a href="http://github.com/kevsmith">github</a>, <a href="http://twitter.com/kevsmith">twitter</a></li>
+<li>Seth Falcon <a href="http://github.com/seth">github</a>, <a href="http://twitter.com/sfalcon">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Kevin</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/21st-Century-Tips-New-School/dp/1449327141">21st Century C</a></li>
+<li><a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:392243">Characterizing the Scalability of Erlang VM on Many-Core Processors</a></li>
+<li><a href="http://www.amazon.com/The-Multiprocessor-Programming-Revised-Reprint/dp/0123973376">Art of Multiprocessor Programming</a></li>
+<li><a href="http://www.amazon.com/Garbage-Collection-Handbook-Management-Algorithms/dp/1420082795">The Garbage Collection Handbook 2nd Ed.</a></li>
+<li><a href="http://dune.scs.stanford.edu/belay:dune.pdf">Dune: Safe User-level Access to Privileged CPU Features</a></li>
+<li><a href="http://concurrencykit.org">ConcurrencyKit</a></li>
+<li><a href="http://zeromq.org">ZeroMQ</a></li>
+<li>Soundtrack by Flux Pavilion, Savant, Bare, Cookie Monsta, M83, and Seven Lions</li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<ul>
+<li><a href="http://tom.preston-werner.com/2010/08/23/readme-driven-development.html">Readme Driven Development</a></li>
+<li><a href="http://berkshelf.com/">Berkshelf</a></li>
+</ul>
+
+
+<h4>Dan</h4>
+
+<ul>
+<li><a href="https://github.com/danielsdeleo/knife-boxer">knife-boxer</a> - a set of plugins for managing cookbooks in an immutable way and creating sandboxed environments for testing.</li>
+<li><a href="https://github.com/andreacampi/nyan-cat-chef-formatter">Nyan Cat Formatter</a> - A formatter for Chef dedicated to the wonderful Nyan Cat!</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>YouTube videos of recent <a href="http://www.meetup.com/DevOpsDC/events/97686352/">DevOpsDC</a> meetup:
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=0gx7oQaAy6g">Ops School</a></li>
+<li><a href="http://www.youtube.com/watch?v=UQ6UNhdP6Ic">How To Tie Your Shoes The Right Way</a></li>
+<li><a href="http://www.youtube.com/watch?v=qyxUIY72ywc">a career</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-42-chef11.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=yo2vchHd_FE">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
