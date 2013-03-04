@@ -4,11 +4,69 @@ title: "Chef 11"
 date: 2013-02-20 11:39
 comments: true
 categories: 
+  - kallistec
+  - kevsmith
+  - sfalcon
+  - chef11
   - erchef
 ---
+Show Date:  Wednesday, February 20, 2013
 
-Join the conversation in #foodfightshow on Freenode IRC.
+In this episode, Nathen sits down with some of the engineering team at Opscode to discuss the recently released Chef 11.
 
-Watch the stream now:
+* [Panel](http://foodfightshow.org/2013/02/chef-11.html#panel)
+* [Outline](http://foodfightshow.org/2013/02/chef-11.html#outline)
+* [Picks](http://foodfightshow.org/2013/02/chef-11.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-42-chef11.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=yo2vchHd_FE)
+
+
+Watch Now
+---------
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/yo2vchHd_FE" frameborder="0" allowfullscreen></iframe>
+
+<!-- more -->
+
+Panel<a name="panel"></a>
+-----
+
+* Dan DeLeo [github](http://github.com/danielsdeleo), [twitter](https://twitter.com/kallistec)
+* Kevin Smith [github](http://github.com/kevsmith), [twitter](http://twitter.com/kevsmith)
+* Seth Falcon [github](http://github.com/seth), [twitter](http://twitter.com/sfalcon)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Picks<a name="picks"></a>
+----
+
+#### Kevin
+* [21st Century C](http://www.amazon.com/21st-Century-Tips-New-School/dp/1449327141)
+* [Characterizing the Scalability of Erlang VM on Many-Core Processors](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:392243)
+* [Art of Multiprocessor Programming](http://www.amazon.com/The-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
+* [The Garbage Collection Handbook 2nd Ed.](http://www.amazon.com/Garbage-Collection-Handbook-Management-Algorithms/dp/1420082795)
+* [Dune: Safe User-level Access to Privileged CPU Features](http://dune.scs.stanford.edu/belay:dune.pdf)
+* [ConcurrencyKit](http://concurrencykit.org)
+* [ZeroMQ](http://zeromq.org)
+* Soundtrack by Flux Pavilion, Savant, Bare, Cookie Monsta, M83, and Seven Lions
+
+#### Seth
+* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [Berkshelf]( http://berkshelf.com/)
+
+#### Dan
+* [knife-boxer](https://github.com/danielsdeleo/knife-boxer) - a set of plugins for managing cookbooks in an immutable way and creating sandboxed environments for testing.
+* [Nyan Cat Formatter](https://github.com/andreacampi/nyan-cat-chef-formatter) - A formatter for Chef dedicated to the wonderful Nyan Cat!
+
+#### Nathen
+* YouTube videos of recent [DevOpsDC](http://www.meetup.com/DevOpsDC/events/97686352/) meetup:
+  * [Ops School](http://www.youtube.com/watch?v=0gx7oQaAy6g)
+  * [How To Tie Your Shoes The Right Way](http://www.youtube.com/watch?v=UQ6UNhdP6Ic)
+  * [a career](http://www.youtube.com/watch?v=qyxUIY72ywc)
+
+
+Download
+-------
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-42-chef11.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=yo2vchHd_FE)
