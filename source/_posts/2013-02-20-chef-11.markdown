@@ -12,7 +12,7 @@ categories:
 ---
 Show Date:  Wednesday, February 20, 2013
 
-In this episode, Nathen sits down with some of the engineering team at Opscode to discuss the recently released Chef 11.
+In this episode, we sit down with some of the engineering team at Opscode to discuss the recently released Chef 11.
 
 * [Panel](http://foodfightshow.org/2013/02/chef-11.html#panel)
 * [Outline](http://foodfightshow.org/2013/02/chef-11.html#outline)
