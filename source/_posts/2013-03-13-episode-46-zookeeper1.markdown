@@ -34,9 +34,6 @@ Panel<a name="panel"></a>
 
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis    )
-* Nathen Harvey [github](http://github.com/nathenharvey),
-  [twitter](http://twitter.com/nathenharvey), irc: nathenharvey,
-  [blog](http://nathenharvey.com)
 * Charity Majors [github](http://github.com/charity),
 [twitter](http://twitter.com/mipsytipsy), [blog](http://blog.parse.com)
 * Ben Hartshorne [github](http://github.com/maplebed),
