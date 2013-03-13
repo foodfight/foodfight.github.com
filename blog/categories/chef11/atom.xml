@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chef11 | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chef11/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-13T06:26:24-07:00</updated>
+  <updated>2013-03-13T07:38:02-07:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hangops]]></title>
+    <link href="http://foodfightshow.org//2013/03/hangops.html"/>
+    <updated>2013-03-11T07:33:00-07:00</updated>
+    <id>http://foodfightshow.org//2013/03/hangops</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, March 8, 2013</p>
+
+<p>This is a cross-post from <a href="http://twitter.com/hangops">Hangops</a>.  <a href="http://twitter.com/nathenharvey">Nathen</a> joined <a href="http://twitter.com/solarce">Brandon</a> on this week's Hangops which was all about Chef 11.</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Hangops-Chef-11.mp3">Audio</a></li>
+</ul>
+
+
+<h2>Watch the Video</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/jp9D_CFH6UY" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chef 11]]></title>
