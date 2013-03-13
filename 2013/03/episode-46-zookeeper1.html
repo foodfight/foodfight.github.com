@@ -1,0 +1,451 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>episode-46: zookeeper, the Secret Sauce - Food Fight</title>
+  <meta name="author" content="Bryan Berry - Nathen Harvey - Matt Ray">
+
+  
+  <meta name="description" content="Show Date: Tuesday, 12 March 2012 21:00 Rome, 4:00 EDT In this episode, we sat down with
+Matt Wise,
+Ben Hartshorne and
+Charity Majors to talk about &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Food Fight" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32494051-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+    <a href="/"><img src="/images/foodfight_header.png" width="467" height="150" alt="Food Fight"></a>
+  
+    <h2>The Podcast where DevOps chefs do battle</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:foodfightshow.org/" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Episode-46: Zookeeper, the Secret Sauce</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-13T00:00:00-07:00" pubdate data-updated="true">Mar 13<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Show Date:  Tuesday, 12 March 2012 21:00 Rome, 4:00 EDT</p>
+
+<p>In this episode, we sat down with
+<a href="https://github.com/diranged">Matt Wise</a>,
+<a href="http://github.com/maplebed">Ben Hartshorne</a>  and
+<a href="http://github.com/charity">Charity Majors</a> to talk about using
+<a href="http://zookeeper.apache.org">zookeeper</a> with Chef and Puppet.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/03/zookeeper-1.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/03/zookeeper-1.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/03/zookeeper-1.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - coming soon</li>
+<li><a href="http://www.youtube.com/watch?v=lnszk2BOMgQ">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/lnszk2BOMgQ" frameborder="0" allowfullscreen></iframe>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>,
+<a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey,
+<a href="http://nathenharvey.com">blog</a></li>
+<li>Charity Majors <a href="http://github.com/charity">github</a>,
+<a href="http://twitter.com/mipsytipsy">twitter</a>, <a href="http://blog.parse.com">blog</a></li>
+<li>Ben Hartshorne <a href="http://github.com/maplebed">github</a>,
+<a href="http://twitter.com/maplebed">twitter</a>, <a href="http://blog.parse.com">blog</a></li>
+<li><a href="https://github.com/diranged">Matt Wise</a></li>
+</ul>
+
+
+<h2>Show Notes</h2>
+
+<ul>
+<li>Matt uses <a href="https://kazoo.readthedocs.org/">kazoo</a></li>
+<li>Matt developed <a href="https://github.com/Nextdoor/zkwatcher">zkwatcher</a></li>
+<li>Matt&#8217;s post on creating a <a href="http://engblog.nextdoor.com/post/43517659364/nextdoor-service-registry">service registry w/ zookeeper</a></li>
+<li>Ben and Charity are using the zookeeper-1 gem</li>
+<li>Ben&#8217;s blog post on <a href="http://blog.parse.com/2013/03/11/implementing-failover-for-random-cronjobs-with-zookeeper/">distributed locks with zookeeper</a></li>
+</ul>
+
+
+<h2>Picks<A Name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=XgQo4JkN4Bw">CS 162</a></li>
+<li><a href="http://www.slideshare.net/mobile/pcalcado/from-a-monolithic-ruby-on-rails-app-to-the-jvm">Java is the new C</a></li>
+</ul>
+
+
+<h4>Matt Wise</h4>
+
+<ul>
+<li><a href="http://logstash.net">logstash</a></li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li>Lusis is looking for someone to take over his awesome project <a href="http://blog.lusis.org/blog/2013/01/20/future-of-noah/">Noah</a></li>
+<li>Lusis <a href="https://speakerdeck.com/lusis/cross-node-orchestration-with-chef-and-noah?slide=36">presentation on Noah</a></li>
+</ul>
+
+
+<h3>Ben Hartshorne</h3>
+
+<ul>
+<li><a href="http://zookeeper.apache.org/">ZooKeeper</a></li>
+</ul>
+
+
+<p> foobarbaz to you octopress, srsly</p>
+
+<h2>Download</h2>
+
+<p>coming soon</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Bryan Berry - Nathen Harvey - Matt Ray</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-13T00:00:00-07:00" pubdate data-updated="true">Mar 13<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/configuration-management/'>configuration management</a>, <a class='category' href='/blog/categories/diranged/'>diranged</a>, <a class='category' href='/blog/categories/zookeeper/'>zookeeper</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html" data-via="foodfightshow" data-counturl="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html" >Tweet</a>
+  
+  
+  
+  
+      <!-- http://blog.simonszu.de/2012/02/flattr-fur-octopress/ -->
+<a class="FlattrButton" style="display:none;"
+    title="episode-46: zookeeper, the Secret Sauce"
+    data-flattr-uid="foodfightshow"
+    data-flattr-tags=""
+    data-flattr-button="compact"
+    data-flattr-category="text"
+    href="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html">
+    
+</a>
+
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2013/03/adaptive-fault-detection.html" title="Previous Post: Adaptive Fault Detection">&laquo; Adaptive Fault Detection</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+    
+    <!-- NOTE: Adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template set in _config.yml -->
+    <a href="http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#"><img src="/images/itunes.png" alt="Subscribe with iTunes" /></a>
+    <a href="http://feeds.feedburner.com/TheFoodFightShow"><img src="/images/feed_rss.png" alt="Subscribe with RSS" /></a>    
+    <a href="https://twitter.com/#!/foodfightshow"><img src="/images/feed_twitter.png" alt="Subscribe with iTunes" /></a>
+    <a href="http://flattr.com/thing/733271/foodfightshow-on-Flattr"><img src="/images/support-with-flattr_button.png" alt="Support with Flattr" /></a>
+    <a href="http://bit.ly/ffsmail"><img src="/images/subscribe-to-newsletter_button.png" alt="Subscribe to Newsletter" /></a>
+
+    <h1>Newsletter Archives</h1>
+    <ul>
+      <li><a href="http://eepurl.com/wrAOn">Issue 5</a></li>
+      <li><a href="http://eepurl.com/vD8rT">Issue 4</a></li>
+      <li><a href="http://eepurl.com/u5VRL">Issue 3</a></li>
+      <li><a href="http://eepurl.com/uhCC1">Issue 2</a></li>
+      <li><a href="http://eepurl.com/tGEI1">Issue 1</a></li>
+    </ul>
+    
+    <h1>DevOps Links</h1>
+
+    <ul>
+    <li><a href="http://github.com/foodfight">FoodFightShow on Github</a></li>
+    <li><a href="http://devopsweekly.com/">DevOps Weekly Newsletter</a></li>
+    <li><a href="http://devopscafe.org/">DevOps Cafe</a></li>
+    <li><a href="http://jedi.be/">Patrick DeBois, the Godfather of DevOps</a></li>
+    <li><a href="http://dev2ops.org/">http://dev2ops.org</a></li>
+    </ul>
+    
+    <a href="http://wiki.opscode.com/" title="Chef Wiki at Opscode."><img src="/images/OC_Chef_Logo.png" /></a>
+    
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2013/03/episode-46-zookeeper1.html">episode-46: zookeeper, the Secret Sauce</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/03/adaptive-fault-detection.html">Adaptive Fault Detection</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/02/chef-11.html">Chef 11</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/02/saving-the-world-with-devops-big-data-and-hpc.html">Saving the World with DevOps - Big Data and HPC</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/02/logstash.html">Logstash</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/foodfight">@foodfight</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'foodfight',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("foodfightshow", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/foodfightshow" class="twitter-follow-button" data-show-count="false">Follow @foodfightshow</a>
+  
+</section>
+
+
+
+
+
+<section>
+  <iframe src="http://tools.flattr.net/widgets/thing.html?thing=733271" width="272" height="250"></iframe>
+</section>
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Bryan Berry - Nathen Harvey - Matt Ray -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'foodfightshow';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://foodfightshow.org//2013/03/episode-46-zookeeper1.html';
+        var disqus_url = 'http://foodfightshow.org//2013/03/episode-46-zookeeper1.html';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
