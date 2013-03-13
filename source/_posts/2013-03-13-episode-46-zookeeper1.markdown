@@ -27,9 +27,7 @@ In this episode, we sat down with
 Watch Now
 ---------
 
-<iframe width="420" height="315"
-src="http://www.youtube.com/watch?v=lnszk2BOMgQ" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="http://www.youtube.com/embed/lnszk2BOMgQ" frameborder="0" allowfullscreen></iframe>
 
 Panel<a name="panel"></a>
 -----
