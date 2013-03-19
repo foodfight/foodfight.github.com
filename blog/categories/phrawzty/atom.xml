@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: phrawzty | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/phrawzty/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-03-19T10:43:20-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[elasticsearch]]></title>
+    <link href="http://foodfightshow.org//2013/03/elasticsearch.html"/>
+    <updated>2013-03-19T10:09:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/03/elasticsearch</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, March 19</p>
+
+<p>Join the conversation in #foodfightshow on Freenode IRC</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/dBWlXdmjjzY" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/03/elasticsearch.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/03/elasticsearch.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=dBWlXdmjjzY">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Shay Banon <a href="https://twitter.com/kimchy">twitter</a></li>
+<li>Karel Minarik <a href="https://github.com/karmi">github</a>, <a href="https://twitter.com/karmiq">twitter</a>, irc: karmi</li>
+<li>Rashid Khan <a href="https://github.com/rashidkpc">github</a>, <a href="https://twitter.com/rashidkpc">twitter</a> irc: rashidkpc</li>
+<li>Dan Phrawzty <a href="https://github.com/phrawzty">github</a>, <a href="https://twitter.com/phrawzty">twitter</a>, irc: phrawzty, <a href="http://www.dark.ca/">blog</a></li>
+<li>MattRay <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li><a href="http://www.youtube.com/watch?v=dBWlXdmjjzY">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
