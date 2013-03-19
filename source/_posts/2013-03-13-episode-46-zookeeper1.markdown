@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "episode-46: zookeeper, the Secret Sauce"
+title: "Zookeeper, the Secret Sauce"
 Date: 2013-03-13 05:33
 comments: true
 categories: 
   - diranged
+  - mipsytipsy
+  - maplebed
   - zookeeper
   - configuration management
 ---
 
-Show Date:  Tuesday, 12 March 2012 21:00 Rome, 4:00 EDT
+Show Date:  Tuesday, 12 March 2013
 
 In this episode, we sat down with
 [Matt Wise](https://github.com/diranged),
@@ -21,13 +23,15 @@ In this episode, we sat down with
 * [Outline](http://foodfightshow.org/2013/03/zookeeper-1.html#outline)
 * [Picks](http://foodfightshow.org/2013/03/zookeeper-1.html#picks)
 * Download
-  * Audio - coming soon
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=lnszk2BOMgQ)
 
 Watch Now
 ---------
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/lnszk2BOMgQ" frameborder="0" allowfullscreen></iframe>
+
+<!-- more -->
 
 Panel<a name="panel"></a>
 -----
@@ -71,10 +75,9 @@ Picks<A Name="picks"></a>
 
 * [ZooKeeper](http://zookeeper.apache.org/)
 
- foobarbaz to you octopress, srsly
 
 Download
 --------
-
-coming soon
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=lnszk2BOMgQ)
 
