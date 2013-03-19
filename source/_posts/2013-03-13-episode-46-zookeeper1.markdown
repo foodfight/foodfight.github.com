@@ -19,9 +19,9 @@ In this episode, we sat down with
 [Charity Majors](http://github.com/charity) to talk about using
 [zookeeper](http://zookeeper.apache.org) with Chef and Puppet.
 
-* [Panel](http://foodfightshow.org/2013/03/zookeeper-1.html#panel)
-* [Outline](http://foodfightshow.org/2013/03/zookeeper-1.html#outline)
-* [Picks](http://foodfightshow.org/2013/03/zookeeper-1.html#picks)
+* [Panel](http://foodfightshow.org/2013/03/episode-46-zookeeper1.html#panel)
+* [Outline](http://foodfightshow.org/2013/03/episode-46-zookeeper1.html#outline)
+* [Picks](http://foodfightshow.org/2013/03/episode-46-zookeeper1.html#picks)
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=lnszk2BOMgQ)
@@ -50,7 +50,7 @@ Show Notes
 * Matt uses [kazoo](https://kazoo.readthedocs.org/)
 * Matt developed [zkwatcher](https://github.com/Nextdoor/zkwatcher)
 * Matt's post on creating a [service registry w/ zookeeper](http://engblog.nextdoor.com/post/43517659364/nextdoor-service-registry)
-* Ben and Charity are using the zookeeper-1 gem
+* Ben and Charity are using the zookeeper gem
 * Ben's blog post on [distributed locks with zookeeper](http://blog.parse.com/2013/03/11/implementing-failover-for-random-cronjobs-with-zookeeper/)
 
 Picks<A Name="picks"></a>
