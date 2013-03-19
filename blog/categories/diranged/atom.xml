@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diranged | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/diranged/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-13T09:23:00-07:00</updated>
+  <updated>2013-03-19T09:52:04-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[episode-46: zookeeper, the Secret Sauce]]></title>
+    <title type="html"><![CDATA[Zookeeper, the Secret Sauce]]></title>
     <link href="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html"/>
-    <updated>2013-03-13T00:00:00-07:00</updated>
+    <updated>2013-03-13T00:00:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/episode-46-zookeeper1</id>
-    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 12 March 2012 21:00 Rome, 4:00 EDT</p>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 12 March 2013</p>
 
 <p>In this episode, we sat down with
 <a href="https://github.com/diranged">Matt Wise</a>,
@@ -33,7 +33,7 @@
 <li>Download
 
 <ul>
-<li>Audio - coming soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=lnszk2BOMgQ">Video Stream</a></li>
 </ul>
 </li>
@@ -43,6 +43,11 @@
 <h2>Watch Now</h2>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/lnszk2BOMgQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -101,11 +106,13 @@
 </ul>
 
 
-<p> foobarbaz to you octopress, srsly</p>
-
 <h2>Download</h2>
 
-<p>coming soon</p>
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=lnszk2BOMgQ">Video Stream</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
