@@ -23,7 +23,7 @@ Watch Now
 * [Panel](http://foodfightshow.org/2013/03/elasticsearch.html#panel)
 * [Picks](http://foodfightshow.org/2013/03/elasticsearch.html#picks)
 * Download
-  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3)
+  * Audio - Coming soon!
   * [Video Stream](http://www.youtube.com/watch?v=dBWlXdmjjzY)
 
 <!-- more -->
