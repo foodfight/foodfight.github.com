@@ -4,7 +4,7 @@
   <title><![CDATA[Category: devops | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/devops/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-22T10:56:08-04:00</updated>
+  <updated>2013-03-25T17:54:02-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Phoenix Project]]></title>
+    <link href="http://foodfightshow.org//2013/03/the-phoenix-project.html"/>
+    <updated>2013-03-25T17:45:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/03/the-phoenix-project</id>
+    <content type="html"><![CDATA[<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/RPdUbyxJb_4" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ChatOps at Github with Jesse Newland]]></title>

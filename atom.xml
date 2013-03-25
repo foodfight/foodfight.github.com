@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-22T10:56:08-04:00</updated>
+  <updated>2013-03-25T17:54:02-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Phoenix Project]]></title>
+    <link href="http://foodfightshow.org//2013/03/the-phoenix-project.html"/>
+    <updated>2013-03-25T17:45:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/03/the-phoenix-project</id>
+    <content type="html"><![CDATA[<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/RPdUbyxJb_4" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[elasticsearch]]></title>
@@ -2010,43 +2024,6 @@ The primary focus of this cookbook will be preparing a GNU/Linux desktop/laptop/
 <h2>Download</h2>
 
 <p>Cookbook Versioning - <a href="http://traffic.libsyn.com/foodfight/ffs32_2.mp3">Download here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Google Plus Hangouts]]></title>
-    <link href="http://foodfightshow.org//2012/11/google-plus-hangouts.html"/>
-    <updated>2012-11-06T09:26:00-05:00</updated>
-    <id>http://foodfightshow.org//2012/11/google-plus-hangouts</id>
-    <content type="html"><![CDATA[<p>We held two different Hangouts on Google+ this week.  Thank you to everyone who participated!</p>
-
-<p>What did you think about the format, topics, time of day, etc. of the Hangouts?  We&#8217;d want to hear your feedback!  Should we keep doing these?  Drop us a line at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
-
-<p><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-Hangouts.mp3">Download the podcast</a></p>
-
-<h2>Reusable Cookbook Patterns</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=x0LoqaKbu2g">Watch YouTube Video</a></li>
-</ul>
-
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/x0LoqaKbu2g" frameborder="0" allowfullscreen></iframe>
-
-
-<h2>Release Engineering</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=7E1KcDinD5c&amp;feature=plcp">Watch the YouTube Video</a></li>
-</ul>
-
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/7E1KcDinD5c" frameborder="0" allowfullscreen></iframe>
-
-
-<p>What did you think about the format, topics, time of day, etc. of the Hangouts?  We&#8217;d want to hear your feedback!  Should we keep doing these?  Drop us a line at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
-
-<p><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-Hangouts.mp3">Download the podcast</a></p>
 ]]></content>
   </entry>
   
