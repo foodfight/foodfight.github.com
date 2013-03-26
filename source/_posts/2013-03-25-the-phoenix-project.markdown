@@ -8,7 +8,7 @@ categories:
   - devops
   - books
 ---
-Join the conversation in #foodfightshow on Freenode IRC.
+Show Date:  Monday, March 25, 2013
 
 Watch Now
 --------
