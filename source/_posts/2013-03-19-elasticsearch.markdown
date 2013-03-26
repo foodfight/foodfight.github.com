@@ -12,17 +12,17 @@ categories:
 ---
 Show Date:  Tuesday, March 19
 
-In this episode, e sat down with [Shay Banon](http://twitter.com/kimchy),
+In this episode, we sat down with [Shay Banon](http://twitter.com/kimchy),
 [Karel Minarik](https://twitter.com/karmiq),
 [Rashid Khan](https://twitter.com/rashidkpc), and
-[Dan Phrawzty](http://twitter.com/phrawtzy) to discuss [elasticsearch](http://www.elasticsearch.org/)
-.
+[Dan Phrawzty](http://twitter.com/phrawtzy) to discuss [elasticsearch](http://www.elasticsearch.org/).
+
 
 * [Panel](http://foodfightshow.org/2013/03/elasticsearch.html#panel)
 * [Chef News](http://foodfightshow.org/2013/03/elasticsearch.html#news)
 * [Picks](http://foodfightshow.org/2013/03/elasticsearch.html#picks)
 * Download
-  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-45-LWRPs.mp3)
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-46-elasticsearch.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=dBWlXdmjjzY)
 
 
@@ -44,7 +44,6 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Chef News<a name="news"></a>
-Chef News
 ---------
 * Vote for [awesome community chefs](http://info.opscode.com/awesome-chefs)!
 * Update on #ChefConf
@@ -56,10 +55,46 @@ Chef News
 
 In other news, Bryan is about to start a new job at [Cycle Computing](http://cyclecomputing.com)
 
+Picks<a name="picks"></a>
+-----
 
+#### Bryan
+* /proc/PID/status
+* /proc/PID/maps
+* Jason Stowe and Rob Futrick
+
+#### lusis
+* learning C properly
+* [21st Century C](http://www.amazon.com/21st-Century-Tips-New-School/dp/1449327141)
+
+#### Nathen
+
+* [ICS Workshop at #ChefConf](http://www.opscode.com/blog/2013/03/22/ics-workshop/)
+* [Changing Culture and Being a Force For Awesome](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html) episode with Jesse Robbins start at 35:45 for how operations & emergency services are related.
+
+#### karmi
+
+* [Recline.js from OKFN](http://okfnlabs.org/recline/demos/)
+* [OpenNLP plugin for Elasticsearch](https://github.com/spinscale/elasticsearch-opennlp-plugin)
+* [Dangle, charting components for Elasticsearch facets](http://www.fullscale.co/dangle/)
+
+#### rashidkpc
+* [JDK8 for Raspberry Pi](http://jdk8.java.net/fxarmpreview/javafx-arm-developer-preview.html)
+
+#### phrawzty
+
+* The island nation of [Malta](https://en.wikipedia.org/wiki/Malta) :)
+
+#### Brandon
+* [PaaS Under the Hood, Episode 1: Kernel Namespaces](http://gun.io/blog/PaaS-under-the-hood-episode-1-kernel-namespaces/)
+* [Platform as a Service under the hood](http://www.dotcloud.com/ebook.html) - an eBook
+
+#### Shay
+* [Data-Driven Documents](http://d3js.org/)
+* [Learn how to make Data Visualizations with D3.js](http://www.dashingd3js.com/)
 
 Download
 --------
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-46-elasticsearch.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=dBWlXdmjjzY)
 
