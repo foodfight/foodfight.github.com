@@ -4,7 +4,7 @@
   <title><![CDATA[Category: karmiq | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/karmiq/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-26T06:32:30-04:00</updated>
+  <updated>2013-03-26T07:49:48-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -20,28 +20,36 @@
     <id>http://foodfightshow.org//2013/03/elasticsearch</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, March 19</p>
 
-<p>Join the conversation in #foodfightshow on Freenode IRC</p>
-
-<h2>Watch Now</h2>
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/dBWlXdmjjzY" frameborder="0" allowfullscreen></iframe>
-
+<p>In this episode, we sat down with <a href="http://twitter.com/kimchy">Shay Banon</a>,
+<a href="https://twitter.com/karmiq">Karel Minarik</a>,
+<a href="https://twitter.com/rashidkpc">Rashid Khan</a>, and
+<a href="http://twitter.com/phrawtzy">Dan Phrawzty</a> to discuss <a href="http://www.elasticsearch.org/">elasticsearch</a>.</p>
 
 <ul>
 <li><a href="http://foodfightshow.org/2013/03/elasticsearch.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/03/elasticsearch.html#news">Chef News</a></li>
 <li><a href="http://foodfightshow.org/2013/03/elasticsearch.html#picks">Picks</a></li>
 <li>Download
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-46-elasticsearch.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=dBWlXdmjjzY">Video Stream</a></li>
 </ul>
 </li>
 </ul>
 
 
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/dBWlXdmjjzY" frameborder="0" allowfullscreen></iframe>
+
+
+
+
 <!-- more -->
 
+
+<p></p>
 
 <h2>Panel<a name="panel"></a></h2>
 
@@ -50,17 +58,102 @@
 <li>Karel Minarik <a href="https://github.com/karmi">github</a>, <a href="https://twitter.com/karmiq">twitter</a>, irc: karmi</li>
 <li>Rashid Khan <a href="https://github.com/rashidkpc">github</a>, <a href="https://twitter.com/rashidkpc">twitter</a> irc: rashidkpc</li>
 <li>Dan Phrawzty <a href="https://github.com/phrawzty">github</a>, <a href="https://twitter.com/phrawzty">twitter</a>, irc: phrawzty, <a href="http://www.dark.ca/">blog</a></li>
-<li>MattRay <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 <li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li>Vote for <a href="http://info.opscode.com/awesome-chefs">awesome community chefs</a>!</li>
+<li>Update on #ChefConf
+
+<ul>
+<li>Workshops on Wednesday</li>
+<li>Hack Day on Saturday</li>
+<li>Get you travel and <a href="https://chefconf2013.busyconf.com/bookings/new">tickets</a> arranged now!</li>
+</ul>
+</li>
+<li>test-kitchen runs in 20s w/ LXC on AWS, according to @fujin, <a href="https://twitter.com/fujin_/status/311311580518285312">it's some next-level shhhtuff</a></li>
+<li><a href="http://bit.ly/ffsmail">subscribe</a> to the "What's Cookin" newsletter</li>
+</ul>
+
+
+<p>In other news, Bryan is about to start a new job at <a href="http://cyclecomputing.com">Cycle Computing</a></p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li>/proc/PID/status</li>
+<li>/proc/PID/maps</li>
+<li>Jason Stowe and Rob Futrick</li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li>learning C properly</li>
+<li><a href="http://www.amazon.com/21st-Century-Tips-New-School/dp/1449327141">21st Century C</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.opscode.com/blog/2013/03/22/ics-workshop/">ICS Workshop at #ChefConf</a></li>
+<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html">Changing Culture and Being a Force For Awesome</a> episode with Jesse Robbins start at 35:45 for how operations &amp; emergency services are related.</li>
+</ul>
+
+
+<h4>karmi</h4>
+
+<ul>
+<li><a href="http://okfnlabs.org/recline/demos/">Recline.js from OKFN</a></li>
+<li><a href="https://github.com/spinscale/elasticsearch-opennlp-plugin">OpenNLP plugin for Elasticsearch</a></li>
+<li><a href="http://www.fullscale.co/dangle/">Dangle, charting components for Elasticsearch facets</a></li>
+</ul>
+
+
+<h4>rashidkpc</h4>
+
+<ul>
+<li><a href="http://jdk8.java.net/fxarmpreview/javafx-arm-developer-preview.html">JDK8 for Raspberry Pi</a></li>
+</ul>
+
+
+<h4>phrawzty</h4>
+
+<ul>
+<li>The island nation of <a href="https://en.wikipedia.org/wiki/Malta">Malta</a> :)</li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://gun.io/blog/PaaS-under-the-hood-episode-1-kernel-namespaces/">PaaS Under the Hood, Episode 1: Kernel Namespaces</a></li>
+<li><a href="http://www.dotcloud.com/ebook.html">Platform as a Service under the hood</a> - an eBook</li>
+</ul>
+
+
+<h4>Shay</h4>
+
+<ul>
+<li><a href="http://d3js.org/">Data-Driven Documents</a></li>
+<li><a href="http://www.dashingd3js.com/">Learn how to make Data Visualizations with D3.js</a></li>
 </ul>
 
 
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-46-elasticsearch.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=dBWlXdmjjzY">Video Stream</a></li>
 </ul>
 
