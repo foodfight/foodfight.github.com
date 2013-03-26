@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: lwrp | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/lwrp/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-03-26T06:32:30-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[LWRPs]]></title>
+    <link href="http://foodfightshow.org//2013/03/lwrps.html"/>
+    <updated>2013-03-13T08:00:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/03/lwrps</id>
+    <content type="html"><![CDATA[<p>Show Date:  Wednesday, March 13, 2013</p>
+
+<p>In this episode, we sat down with <a href="http://twitter.com/miah_">Miah Johnson</a>,
+<a href="http://twitter.com/ranjibdey">Ranjib Dey</a>,
+<a href="http://twitter.com/dougireton">Doug Ireton</a>,
+<a href="http://twitter.com/hippiehacker">Chris McClimans</a>,
+<a href="http://twitter.com/jtimberman">Joshua Timberman</a>, and
+<a href="http://twitter.com/sethvargo">Seth Vargo</a> to discuss Libraries, Definitions and LWRPs.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/03/lwrps.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/03/lwrps.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/03/lwrps.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-45-LWRPs.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=sdPIiho1RLY">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/sdPIiho1RLY" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Miah Johnson <a href="https://github.com/miah">github</a>, <a href="https://twitter.com/miah_">twitter</a></li>
+<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
+<li>Doug Ireton <a href="http://github.com/dougireton">github</a>, <a href="http://twitter.com/dougireton">twitter</a>, irc: dougireton, <a href="http://dougireton.com">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Chris McClimans <a href="http://github.com/hh">github</a>, <a href="https://twitter.com/hippiehacker">twitter</a></li>
+<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
+<li>Seth Vargo <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline</h2>
+
+<h3>Doug's articles on writing LWRPs</h3>
+
+<ul>
+<li><a href="http://dougireton.com/blog/2012/12/31/creating-an-lwrp/">Creating an LWRP, Part 1:  The Resource</a></li>
+<li><a href="http://dougireton.com/blog/2013/01/07/creating-an-lwrp-part-2/">Creating an LWRP, Part 2:  The Provider</a></li>
+<li><a href="http://dougireton.com/blog/2013/01/13/creating-an-lwrp-part-3/">Creating an LWRP, Part 3</a></li>
+</ul>
+
+
+<h3>LWRP</h3>
+
+<p>A lightweight resource is a custom resource that creates an abstract approach for defining a set of actions and (for each action) a set of attributes and validation parameters. A lightweight resource relies on a lightweight provider to take the necessary steps to bring a piece of the system to a desired state.</p>
+
+<p>A lightweight provider is a custom provider that is designed to take the steps that are required to bring a piece of the system into a specific state based on an action that is defined by a lightweight resource.</p>
+
+<p><a href="http://docs.opscode.com/lwrp.html">About Lightweight Resources...</a></p>
+
+<h3>Libraries</h3>
+
+<p>A library allows arbitrary Ruby code to be included in a cookbook, either as a way to extend the Chef language or to implement a new class directly. A library is defined in /libraries/library_name.rb for each cookbook. A library that is included in a cookbook is automatically required and will be available to all recipes, attributes, file definitions, providers, and definitions. A library is defined in the library_name.rb, which is found in the libraries folder for each cookbook. The contents of a library will determine the potential uses of that library in a cookbook.</p>
+
+<p><a href="http://docs.opscode.com/essentials_cookbook_libraries.html">About Libraries...</a></p>
+
+<p><a href="https://github.com/sethvargo-cookbooks/swap/blob/master/libraries/swapfile.rb">Simple example for having a module in a Chef recipe</a></p>
+
+<h3>Definitions</h3>
+
+<p>A definition is used to create a resource by stringing together one (or more) existing resources. A definition is not a resource and it does not take any actions by itself. A definition is replaced by one (or more) resources, and it then takes actions on behalf of those resources. There is no limit to the number of resources that can be part of a definition. All definitions within a cookbook must be located in the definitions/ folder. A definition is never declared into a cookbook. A definition is best-used when:</p>
+
+<ul>
+<li>Data needs to be passed from one (or more) recipes into a single definition</li>
+<li>A repeating usage pattern exists for one (or more) resources</li>
+<li>An action does not need to be sent directly to a resource (when it does, it should be sent to a provider)</li>
+</ul>
+
+
+<p><a href="http://docs.opscode.com/essentials_cookbook_definitions.html">About Definitions...</a></p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Miah</h4>
+
+<ul>
+<li><a href="http://www.poodr.info/">Practical Object-Oriented Design in Ruby</a></li>
+</ul>
+
+
+<h4>Ranjib</h4>
+
+<ul>
+<li><a href="https://github.com/celluloid/dcell">dcell</a></li>
+<li><a href="https://github.com/chrisroberts/flock_of_chefs">Flock of Chefs</a></li>
+</ul>
+
+
+<h4>Doug</h4>
+
+<ul>
+<li><a href="http://www.slideshare.net/mobile/500startups/ross-synder-etsy-sxsw-lean-startup-2013">Continuous Deployment at Etsy presentation</a></li>
+</ul>
+
+
+<h4>Chris</h4>
+
+<ul>
+<li><a href="http://ingredients.easybake.cd/">Ingredients</a></li>
+<li><a href="http://airwaysbrewing.com/our-beer/">Sky Hag IPA</a> - The Beer is as  bitter as she is</li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<ul>
+<li><a href="http://steelcityruby.org/cfp.html">Steel City Ruby</a></li>
+</ul>
+
+
+<h4>Joshua</h4>
+
+<ul>
+<li><a href="http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/">Ruby Rogues 87 - Practical Object-Oriented Design in Ruby with Sandi Metz</a></li>
+<li><a href="http://chefconf.opscode.com">#ChefConf</a></li>
+<li><a href="http://roll20.net/">Roll 20</a></li>
+<li><a href="http://greatdivide.com/beer/seasonal/rumble-ipa/">Rumble IPA by Great Divide</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="">instant infrastructure</a></li>
+<li><a href="http://ranjib.com/2013/03/05/community-cookbooks-at-a-glance/">Community Metrics on Ranjib's site</a></li>
+<li><a href="http://info.opscode.com/awesome-chefs">Awesome Chef Awards</a></li>
+<li><a href="http://docs.opscode.com/community_guidelines.html">Community Guidelines</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-45-LWRPs.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=sdPIiho1RLY">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
