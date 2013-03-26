@@ -4,8 +4,117 @@ title: "LWRPs"
 date: 2013-03-13 08:00
 comments: true
 categories: 
+  - miah_
+  - ranjibdey
+  - dougireton
+  - hippiehacker
+  - sethvargo
+  - jtimberman
+  - libraries
+  - definitions
+  - lwrp
 ---
+Show Date:  Wednesday, March 13, 2013
+
+In this episode, we sat down with [Miah Johnson](http://twitter.com/miah_), 
+[Ranjib Dey](http://twitter.com/ranjibdey),
+[Doug Ireton](http://twitter.com/dougireton),
+[Chris McClimans](http://twitter.com/hippiehacker),
+[Joshua Timberman](http://twitter.com/jtimberman), and
+[Seth Vargo](http://twitter.com/sethvargo) to discuss Libraries, Definitions and LWRPs.
+
+* [Panel](http://foodfightshow.org/2013/03/lwrps.html#panel)
+* [Outline](http://foodfightshow.org/2013/03/lwrps.html#outline)
+* [Picks](http://foodfightshow.org/2013/03/lwrps.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-45-LWRPs.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=sdPIiho1RLY)
+
 
 ## Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/sdPIiho1RLY" frameborder="0" allowfullscreen></iframe>
+
+<!-- more -->
+
+Panel<a name="panel"></a>
+-----
+
+* Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
+* Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
+* Doug Ireton [github](http://github.com/dougireton), [twitter](http://twitter.com/dougireton), irc: dougireton, [blog](http://dougireton.com)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Chris McClimans [github](http://github.com/hh), [twitter](https://twitter.com/hippiehacker)
+* Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
+* Seth Vargo [github](http://github.com/sethvargo), [twitter](https://twitter.com/sethvargo)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Outline
+-------
+### Doug's articles on writing LWRPs
+* [Creating an LWRP, Part 1:  The Resource](http://dougireton.com/blog/2012/12/31/creating-an-lwrp/)
+* [Creating an LWRP, Part 2:  The Provider](http://dougireton.com/blog/2013/01/07/creating-an-lwrp-part-2/)
+* [Creating an LWRP, Part 3](http://dougireton.com/blog/2013/01/13/creating-an-lwrp-part-3/)
+
+### LWRP
+A lightweight resource is a custom resource that creates an abstract approach for defining a set of actions and (for each action) a set of attributes and validation parameters. A lightweight resource relies on a lightweight provider to take the necessary steps to bring a piece of the system to a desired state.
+
+A lightweight provider is a custom provider that is designed to take the steps that are required to bring a piece of the system into a specific state based on an action that is defined by a lightweight resource.
+
+[About Lightweight Resources...](http://docs.opscode.com/lwrp.html)
+
+### Libraries
+A library allows arbitrary Ruby code to be included in a cookbook, either as a way to extend the Chef language or to implement a new class directly. A library is defined in /libraries/library_name.rb for each cookbook. A library that is included in a cookbook is automatically required and will be available to all recipes, attributes, file definitions, providers, and definitions. A library is defined in the library_name.rb, which is found in the libraries folder for each cookbook. The contents of a library will determine the potential uses of that library in a cookbook.
+
+[About Libraries...](http://docs.opscode.com/essentials_cookbook_libraries.html)
+
+[Simple example for having a module in a Chef recipe](https://github.com/sethvargo-cookbooks/swap/blob/master/libraries/swapfile.rb)
+ 
+### Definitions
+A definition is used to create a resource by stringing together one (or more) existing resources. A definition is not a resource and it does not take any actions by itself. A definition is replaced by one (or more) resources, and it then takes actions on behalf of those resources. There is no limit to the number of resources that can be part of a definition. All definitions within a cookbook must be located in the definitions/ folder. A definition is never declared into a cookbook. A definition is best-used when:
+
+* Data needs to be passed from one (or more) recipes into a single definition
+* A repeating usage pattern exists for one (or more) resources
+* An action does not need to be sent directly to a resource (when it does, it should be sent to a provider)
+
+[About Definitions...](http://docs.opscode.com/essentials_cookbook_definitions.html)
+
+Picks<a name="picks"></a>
+----
+#### Miah
+* [Practical Object-Oriented Design in Ruby](http://www.poodr.info/)
+
+
+#### Ranjib
+* [dcell](https://github.com/celluloid/dcell)
+* [Flock of Chefs](https://github.com/chrisroberts/flock_of_chefs)
+
+
+#### Doug
+* [Continuous Deployment at Etsy presentation](http://www.slideshare.net/mobile/500startups/ross-synder-etsy-sxsw-lean-startup-2013)
+
+#### Chris
+* [Ingredients](http://ingredients.easybake.cd/)
+* [Sky Hag IPA](http://airwaysbrewing.com/our-beer/) - The Beer is as  bitter as she is
+
+
+#### Seth
+* [Steel City Ruby](http://steelcityruby.org/cfp.html)
+
+#### Joshua
+* [Ruby Rogues 87 - Practical Object-Oriented Design in Ruby with Sandi Metz](http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/)
+* [#ChefConf](http://chefconf.opscode.com)
+* [Roll 20](http://roll20.net/)
+* [Rumble IPA by Great Divide](http://greatdivide.com/beer/seasonal/rumble-ipa/)
+
+
+#### Nathen
+* [instant infrastructure]()
+* [Community Metrics on Ranjib's site](http://ranjib.com/2013/03/05/community-cookbooks-at-a-glance/)
+* [Awesome Chef Awards](http://info.opscode.com/awesome-chefs)
+* [Community Guidelines](http://docs.opscode.com/community_guidelines.html)
+ 
+Download
+--------
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-45-LWRPs.mp3)
+  * [Video Stream](http://www.youtube.com/watch?v=sdPIiho1RLY)
