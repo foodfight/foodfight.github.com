@@ -15,6 +15,9 @@ Show Date:  Monday, March 25, 2013
 
 In this episode, we sat down with [Gene Kim](https://twitter.com/realgenekim) and [Jez Humble](http://twitter.com/jezhumble) to discuss [The Phoenix Project:  A Novel About IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/).
 
+## Free e-Book!
+Download a [free copy of The Phoenix Project from Amazon](http://t.co/sBxePsWA6n) until Wednesday, April 3.
+
 * [Panel](http://foodfightshow.org/2013/03/the-phoenix-project.html#panel)
 * [Chef News](http://foodfightshow.org/2013/03/the-phoenix-project.html#news)
 * [Outline](http://foodfightshow.org/2013/03/the-phoenix-project.html#outline)
@@ -62,8 +65,7 @@ Outline<a name="outline"></a>
 * [PCI-DSS and continuous deployment at Etsy](http://continuousdelivery.com/2012/07/pci-dss-and-continuous-deployment-at-etsy/)
 * [GitHub ElasticSearch Incident Review](http://files.meetup.com/3399832/IaaC%20-%20GitHub%20ES%20Incident%20Review.pdf)
 
-## Books Mentioned in the Show<a name="reading"</a>
-
+## Books Mentioned in the Show<a name="reading"></a>
 * [5 Dysfunctions Of A Team](http://www.amazon.com/The-Five-Dysfunctions-Team-ebook/dp/B006960LQW)
 * [Toyota Kata](http://www.amazon.com/Toyota-Kata-Improvement-Adaptiveness-ebook/dp/B002NPC0Q2/)
 * [Kanban:  Successful Evolutionary Change for Your Technology Business](http://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402/)
