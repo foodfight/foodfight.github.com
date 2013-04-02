@@ -4,7 +4,7 @@
   <title><![CDATA[Category: devops | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/devops/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-26T07:49:48-04:00</updated>
+  <updated>2013-04-02T00:11:14-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -20,9 +20,150 @@
     <id>http://foodfightshow.org//2013/03/the-phoenix-project</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, March 25, 2013</p>
 
+<p>In this episode, we sat down with <a href="https://twitter.com/realgenekim">Gene Kim</a> and <a href="http://twitter.com/jezhumble">Jez Humble</a> to discuss <a href="http://itrevolution.com/books/phoenix-project-devops-book/">The Phoenix Project:  A Novel About IT, DevOps, and Helping Your Business Win</a>.</p>
+
+<h2>Free e-Book!</h2>
+
+<p>Download a <a href="http://t.co/sBxePsWA6n">free copy of The Phoenix Project from Amazon</a> until Wednesday, April 3.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/03/the-phoenix-project.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/03/the-phoenix-project.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/03/the-phoenix-project.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/03/the-phoenix-project.html#reading">Reading List</a></li>
+<li><a href="http://foodfightshow.org/2013/03/the-phoenix-project.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-47-phoenix-project.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=RPdUbyxJb_4">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
 <h2>Watch Now</h2>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/RPdUbyxJb_4" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><a href="http://acrmp.github.com/foodcritic/">foodcritic</a> 2.0.0 - <a href="https://github.com/acrmp/foodcritic/blob/master/CHANGELOG.md">CHANGELOG</a></li>
+<li><a href="http://rubygems.org/gems/jvmargs">jvmargs</a> - Sanity check command-line arguments to the JVM. <a href="https://github.com/bryanwb/jvmargs.git">github</a></li>
+<li><a href="http://community.opscode.com/cookbooks/minitest-handler">minitest-handler</a> cookbook</li>
+<li><a href="http://chef-community.github.com/cvp/">Cookbook Versioning Policy</a> - Sane versioning for Chef Cookbooks</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions</li>
+<li>Intro to the Phoenix Project</li>
+<li>Phoenix Project - Why now?</li>
+<li>Definition of DevOps - 13:02</li>
+<li>The Three Ways - 14:40
+
+<ul>
+<li>Apply Systems Thinking</li>
+<li>Create and Amplify Feedback Loops</li>
+<li>Create a Culture of Continuous Experimentation and Learning</li>
+</ul>
+</li>
+<li>Visibility of IT Operations - 23:00</li>
+<li>Story format - 54:30</li>
+</ul>
+
+
+<h2>Other Resources</h2>
+
+<ul>
+<li><a href="http://itrevolution.com/learn-more-about-concepts-in-phoenix-project/">Where To Learn More About Concepts In "The Phoenix Project"</a></li>
+<li><a href="http://itrevolution.com/construction-phoenix-project-and-selling-devops-downward-spiral/">The Construction Of “The Phoenix Project:” Using The Downward Spiral To Better Sell DevOps</a></li>
+<li><a href="http://itrevolution.us2.list-manage.com/subscribe?u=75532eeeed97412835737f072&amp;id=3ef5811390">Defensive DevOps Audit Kit</a></li>
+<li><a href="http://www.infoq.com/presentations/Etsy-Deployment">Etsy’s Product Development with Continuous Experimentation</a></li>
+<li><a href="http://continuousdelivery.com/2010/11/continuous-delivery-and-itil-change-management/">Continuous Delivery and ITIL: Change Management</a></li>
+<li><a href="http://continuousdelivery.com/2012/07/pci-dss-and-continuous-deployment-at-etsy/">PCI-DSS and continuous deployment at Etsy</a></li>
+<li><a href="http://files.meetup.com/3399832/IaaC%20-%20GitHub%20ES%20Incident%20Review.pdf">GitHub ElasticSearch Incident Review</a></li>
+</ul>
+
+
+<h2>Books Mentioned in the Show<a name="reading"></a></h2>
+
+<ul>
+<li><a href="http://www.amazon.com/The-Five-Dysfunctions-Team-ebook/dp/B006960LQW">5 Dysfunctions Of A Team</a></li>
+<li><a href="http://www.amazon.com/Toyota-Kata-Improvement-Adaptiveness-ebook/dp/B002NPC0Q2/">Toyota Kata</a></li>
+<li><a href="http://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402/">Kanban:  Successful Evolutionary Change for Your Technology Business</a></li>
+<li><a href="http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/">Continuous Delivery</a></li>
+<li><a href="http://www.amazon.com/Release-Production-Ready-Pragmatic-Programmers-ebook/dp/B00A32NXZO">Release It!: Design and Deploy Production-Ready Software</a></li>
+<li><a href="http://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652">Lean UX: Applying Lean Principles to Improve User Experience</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Gene</h3>
+
+<ul>
+<li><a href="http://www.amazon.com/The-Five-Dysfunctions-Team-ebook/dp/B006960LQW">5 Dysfunctions Of A Team</a></li>
+<li><a href="http://www.amazon.com/Release-Production-Ready-Pragmatic-Programmers-ebook/dp/B00A32NXZO">Release It!: Design and Deploy Production-Ready Software</a></li>
+</ul>
+
+
+<h3>Jez</h3>
+
+<ul>
+<li><a href="http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820">Antifragile: Things That Gain from Disorder</a></li>
+<li><a href="http://www.infoq.com/bycategory/contentbycategory.action?idx=4&amp;alias=qcon_sf2012&amp;ct=5">QCon SF Videos</a>
+
+<ul>
+<li><a href="http://www.infoq.com/presentations/Hacking-Culture">Hacking Culture</a></li>
+<li><a href="http://www.infoq.com/presentations/Facebook-Release-Process">The Facebook Release Process</a></li>
+<li><a href="http://www.infoq.com/presentations/Etsy-Deployment">Etsy’s Product Development with Continuous Experimentation</a></li>
+<li><a href="http://www.infoq.com/presentations/Adopting-Continuous-Delivery">Adopting Continuous Delivery</a></li>
+</ul>
+</li>
+<li><a href="http://beeradvocate.com/beer/profile/202/656">Tripel Karmeliet</a></li>
+</ul>
+
+
+<h3>Matthew</h3>
+
+<ul>
+<li><a href="http://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336">Tribes: We Need You to Lead Us</a></li>
+</ul>
+
+
+<h3>Brandon</h3>
+
+<ul>
+<li>Stop using the term "non-functional requirements" and start calling them "operational requirements"</li>
+<li><a href="http://vimeo.com/album/2312414/video/62330508">DevOps in the Hell of a Thousand Different Platforms - Sam Eaton</a></li>
+</ul>
+
+
+<h3>Nathen</h3>
+
+<ul>
+<li><a href="http://monitorama.com/">Monitorama</a></li>
+<li><a href="http://chefconf.opscode.com">#ChefConf 2013</a></li>
+<li><a href="http://devopsdays.org/events/2013-mountainview/registration/">DevOpsDays Mountain View</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-47-phoenix-project.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=RPdUbyxJb_4">Video Stream</a></li>
+</ul>
 
 ]]></content>
   </entry>

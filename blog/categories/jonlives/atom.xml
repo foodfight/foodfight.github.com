@@ -4,7 +4,7 @@
   <title><![CDATA[Category: jonlives | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/jonlives/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-03-26T07:49:48-04:00</updated>
+  <updated>2013-04-02T00:11:14-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -61,7 +61,7 @@
 <li><p><a href="http://www.opscode.com/blog/2012/10/31/introducing-partial-search-for-opscode-hosted-chef/">Partial Search for Opscode Hosted Chef</a> was recently released.  The engineering team at Opscode is getting closer to Chef 11 and one of the latest features is partial search.  This allows you to limit the node attributes returned by searches against the Chef server.  Doing so can have a dramatic impact on the memory and network bandwidth requirements of chef-client.  According to <a href="https://twitter.com/petecheslock">Pete Cheslock</a>, Director of TechOps at Sonian, they're seeing <a href="https://twitter.com/petecheslock/status/263630823230697472">memory usage down 75% using partial search</a>.</p></li>
 <li><p>There are a number of <a href="http://wiki.opscode.com/display/chef/Breaking+Changes+in+Chef+11">Breaking Changes in Chef 11</a>, be sure to check the wiki for a running list of these changes.  <a href="https://twitter.com/kallistec">Daniel DeLeo</a> recently posted a message on the Chef mailing list that goes into some detail on the <a href="http://lists.opscode.com/sympa/arc/chef/2012-10/msg00427.html">changes to attributes in Chef 11</a>.  TL;DR - You may need to change the way you assign node attributes.</p></li>
 <li><p><a href="https://twitter.com/svargo">Seth Vargo</a> has released version 0.0.4.  Fauxhai is the gem you should be using to mock out ohai data in your chef testing.  The latest release includes more operating systems with thanks to <a href="http://twitter.com/jtimberman">Joshua Timberman</a>, <a href="https://twitter.com/atomic_penguin">Eric Wolfe</a>, and <a href="https://twitter.com/mikefiedler">Mike Fiedler</a>.</p></li>
-<li><p><a href="https://github.com/trobrock/chefvm/">chefvm</a> is a simple Chef environment manager, usage inspired by (rvm)[https://rvm.io/].  At first glance this looks similar to <a href="https://github.com/greenandsecure/knife-block">knife-block</a> which we mentioned back in <a href="http://foodfightshow.org/2012/09/vagrant.html">episode 27</a>.  Thanks to <a href="https://twitter.com/CzarneckiD">David Czarnecki</a> for letting us know about chefvm!</p></li>
+<li><p><a href="https://github.com/trobrock/chefvm/">chefvm</a> is a simple Chef environment manager, usage inspired by <a href="https://rvm.io/">rvm</a>.  At first glance this looks similar to <a href="https://github.com/greenandsecure/knife-block">knife-block</a> which we mentioned back in <a href="http://foodfightshow.org/2012/09/vagrant.html">episode 27</a>.  Thanks to <a href="https://twitter.com/CzarneckiD">David Czarnecki</a> for letting us know about chefvm!</p></li>
 <li><p><a href="https://github.com/bryanwb/chef-rewind">chef-rewind</a> is a new gem that adds a simple function to the Chef library scope to edit and existing resource. If that resource doesn't already exist, chef-rewind will raise an error.</p></li>
 <li><p><a href="http://lists.opscode.com/sympa/arc/chef/2012-11/msg00205.html">Berkshelf 1.0 released</a> Maybe have Jaime go over it on the show?</p>
 
