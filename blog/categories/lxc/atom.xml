@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lxc | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/lxc/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-04-08T12:51:43-04:00</updated>
+  <updated>2013-04-15T12:34:47-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Docker: the Linux container runtime]]></title>
+    <link href="http://foodfightshow.org//2013/04/docker-the-linux-container-runtime.html"/>
+    <updated>2013-04-15T12:30:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/04/docker-the-linux-container-runtime</id>
+    <content type="html"><![CDATA[<p>Show Date:  <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130415T13&amp;p1=1928">Monday, April 15, 2013</a></p>
+
+<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
+
+<h2>Watch Now</h2>
+
+<p>Show starts at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130415T13&amp;p1=1928">17:00 UTC</a>.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/LDhrDpz8JQw" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vagrant]]></title>
