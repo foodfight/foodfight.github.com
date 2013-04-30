@@ -10,7 +10,7 @@ categories:
   - chefconf
 ---
 
-Show Date:  26 April 2013
+Show Date:  25 April 2013
 
 This is the inaugural FoodShipShow Joint Production!
 
