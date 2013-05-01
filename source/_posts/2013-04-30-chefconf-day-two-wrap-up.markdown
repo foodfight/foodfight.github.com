@@ -9,6 +9,10 @@ categories:
   - chefconf
   - fnichol
   - mfiedler
+  - sascha_d
+  - buildscientist
+  - cheeseplus
+  - SoberBuildEng
 ---
 Show Date:  26 April 2013
 
