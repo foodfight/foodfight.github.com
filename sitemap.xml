@@ -314,11 +314,31 @@
     </url>
     <url>
         <loc>http://foodfightshow.org//2013/04/a-smarter-os.html</loc>
-        <lastmod>2013-04-15T12:29:27-04:00</lastmod>
+        <lastmod>2013-04-30T13:45:36-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfightshow.org//2013/04/docker-the-linux-container-runtime.html</loc>
         <lastmod>2013-04-15T16:14:50-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up.html</loc>
+        <lastmod>2013-04-30T13:49:22-04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://foodfightshow.org//2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html
+        </loc>
+        <lastmod>2013-04-30T13:45:46-04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak.html
+        </loc>
+        <lastmod>2013-04-30T13:45:46-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up.html</loc>
+        <lastmod>2013-05-01T08:49:51-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfightshow.org//about/</loc>
@@ -326,10 +346,10 @@
     </url>
     <url>
         <loc>http://foodfightshow.org//blog/archives/</loc>
-        <lastmod>2013-04-15T16:14:50-04:00</lastmod>
+        <lastmod>2013-05-01T08:49:51-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfightshow.org//</loc>
-        <lastmod>2013-04-15T16:14:50-04:00</lastmod>
+        <lastmod>2013-05-01T08:49:51-04:00</lastmod>
     </url>
 </urlset>
