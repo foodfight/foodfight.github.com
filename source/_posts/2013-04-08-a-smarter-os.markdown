@@ -88,42 +88,56 @@ Outline<a name="outline"></a>
 * [pkgsrc](http://www.pkgsrc.org/)
   * [7,000 binary packages for OSX Lion](http://www.perkin.org.uk/posts/7000-packages-for-osx-lion.html)
   * [pkgin](http://pkgin.net/)
+* [crossbow](http://www.beginningwithi.com/2009/12/09/crossbow-for-opensolaris-developers/)
+* kvm on SmartOS
+* [SNGL](http://joyent.com/blog/jonathan-perkins-on-why-smartos-is-not-gnu-linux) - SNGL makes SmartOS Look Just Like Linux
+* An anecdote about swap and SmartOS
+* Picks
 
 ## Other Resources 
 * Bryan Cantrill's LISA Presnetation - Fork Yeah!  The Rise & Development of Illumos
   * [video](http://www.youtube.com/watch?v=-zRN7XLCRhc)
   * [slides]( http://www.slideshare.net/bcantrill/fork-yeah-the-rise-and-development-of-illumos)
+* [smf cookbook](https://github.com/modcloth-cookbooks/smf)
+* [zfs on Mac OSX](http://getgreenbytes.com/solutions/zevo/)
+* [SmartOS:  An SA Primer](http://youtu.be/dxZExLeJz2I)
+* [OpenSolaris Network Virtualization and Resource Control](http://en.wikipedia.org/wiki/OpenSolaris_Network_Virtualization_and_Resource_Control)
+* [btrfs](http://en.wikipedia.org/wiki/Btrfs)
 
 Picks<a name="picks"></a>
 -----
 
-### lusis
+#### lusis
 * [Ben's Meetup Introduction to Illumos](http://youtu.be/dxZExLeJz2I)
 * [cuddletech blog](http://cuddletech.com/blog/)
 
-  
-* [smf cookbook](https://github.com/modcloth-cookbooks/smf)
-  
+#### Eric
+* `prstat -Lm` - microstate accounting of all processes and threads
+* `prctl` / `prstat -J`
+* [SmartOS /proc Tools](http://joyent.com/blog/smartos-proc-tools)
+* [Terroir Gin](http://www.stgeorgespirits.com/spirit/terroir-gin/)
 
-  
-* [zfs on Mac OSX](http://getgreenbytes.com/solutions/zevo/)
 
-  
-  
-* [SmartOS:  An SA Primer](http://youtu.be/dxZExLeJz2I)
-  
-* [Vagrant provider for the Joyent Cloud and SmartDatacenter](https://github.com/someara/vagrant-joyent)
-  
-Brendan Gregg on the USE Method: Thinking Methodically About Performance
+#### Blake
+* `prstat`
+*  IP Failover - crossbow tools are awesome! `dladm`
+
+#### Bryan
+* Brendan Gregg on the USE Method: Thinking Methodically About Performance
   * [Video on Joyent's Blog](http://goo.gl/qouBS)
   * [Food Fight Show Episode 39:  USE - Thinking Methodically About Performance](http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html)
-  
+* [Joyent SmartDataCenter](http://joyent.com/products/smartdatacenter)
 * [Project FiFo](http://project-fifo.net/display/PF/Project+FiFo+Home)
 
-* [MEZCAL](http://en.wikipedia.org/wiki/Mezcal)
+#### Ben
+* [lusis](https://twitter.com/lusis)
+* [Vagrant provider for the Joyent Cloud and SmartDatacenter](https://github.com/someara/vagrant-joyent)
+* [sumologic](http://www.sumologic.com/) - logging as a service
+* [Duo:Security](https://www.duosecurity.com/) - Two-factor authentication made "non-sucky"
+* [Anything from Heretic Brewery](http://hereticbrewing.com/)
 
-* [OpenSolaris Network Virtualization and Resource Control](http://en.wikipedia.org/wiki/OpenSolaris_Network_Virtualization_and_Resource_Control)
-* [btrfs](http://en.wikipedia.org/wiki/Btrfs)
+#### Nathen
+* [\#ChefConf 2013](http://chefconf.opscode.com) and the Hack Day at Joyent's offices immediately following \#ChefConf.
 
 Download
 --------
