@@ -9,8 +9,6 @@ categories:
 ---
 Show Date:  Thursday, May 9, 2013
 
-Join the conversation in #foodfightshow on Freenode IRC.
-
 * [Panel](http://foodfightshow.org/2013/05/netflix-oss.html#panel)
 * [Chef News](http://foodfightshow.org/2013/05/netflix-oss.html#news)
 * [Outline](http://foodfightshow.org/2013/05/netflix-oss.html#outline)
