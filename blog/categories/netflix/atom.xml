@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: netflix | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/netflix/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-05-09T10:46:42-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Netflix OSS]]></title>
+    <link href="http://foodfightshow.org//2013/05/netflix-oss.html"/>
+    <updated>2013-05-09T09:48:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/05/netflix-oss</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, May 9, 2013</p>
+
+<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#reading">Reading List</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon</li>
+<li><a href="http://www.youtube.com/watch?v=A69uTnfQgB8">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/A69uTnfQgB8" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Adrian Cockcroft <a href="http://github.com/adrianco">github</a>, <a href="http://twitter.com/adrianco">twitter</a>, <a href="http://perfcap.blogspot.com">blog</a></li>
+<li>Jeremy Edberg <a href="https://github.com/jedberg">github</a>, <a href="https://twitter.com/jedberg">twitter</a></li>
+</ul>
+
+
+<!-- 
+* Mathias Meyer [github](https://github.com/roidrage), [twitter](https://twitter.com/roidrage)
+* Trotter Cashion [github](https://github.com/trotter), [twitter](https://twitter.com/cashion)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+-->
+
+
+<p>
+* Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a>
+* Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="http://twitter.com/solarce">twitter</a>, irc: solarce
+* Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></p>
+
+<h2>In the News<a name="news"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Other Resources</h2>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=dekV3Oq7pH8">Adrian's talk on Highly Available Architectures</a></li>
+<li><a href="http://www.amazon.com/Wool-Hugh-Howey/dp/1476733953">Wool</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.opscode.com/blog/chefconf-talks/">#ChefConf 2013 Talks</a></li>
+<li><a href="https://itunes.apple.com/us/app/spaceteam/id570510529?mt=8">Spaceteam</a> - Addictive team game for iPhone or iPad.  Hat tip to <a href="https://twitter.com/resetexistence">Jamie Winsor</a> for the introduction.</li>
+</ul>
+
+
+<h4>Adrian</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=Wo-zkUH1R8A&amp;feature=youtu.be">Adrian's live demo benchmark on Cassandra on SSD</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li><a href="http://www.youtube.com/watch?v=A69uTnfQgB8">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

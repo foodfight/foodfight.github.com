@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: illumos | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/illumos/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-05-09T10:46:42-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Smarter OS]]></title>
+    <link href="http://foodfightshow.org//2013/04/a-smarter-os.html"/>
+    <updated>2013-04-08T12:40:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/04/a-smarter-os</id>
+    <content type="html"><![CDATA[<p>Show Date:  Monday, April 8, 2013</p>
+
+<p>In this episode, we discuss SmartOS and other Solaris derivatives.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#reading">Reading List</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DJfppm1SyeI">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/DJfppm1SyeI" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Ben Rockwood <a href="http://github.com/benr">github</a>, <a href="http://twitter.com/benr">twitter</a></li>
+<li>Blake Irvin <a href="http://github.com/bixu">github</a>, <a href="http://twitter.com/blakeirvin">twitter</a></li>
+<li>Eric Saxby <a href="http://github.com/sax">github</a>, <a href="http://twitter.com/ecdysone">twitter</a></li>
+<li>Bryan Horstmann-Allen <a href="https://github.com/bdha">github</a>, <a href="https://twitter.com/bdha">twitter</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="http://twitter.com/solarce">twitter</a>, irc: solarce</li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions
+
+<ul>
+<li>Nathen Harvey</li>
+<li>Brandon Burton</li>
+<li>Ben Rockwood</li>
+<li>Blake Irvin</li>
+<li>Eric Saxby</li>
+</ul>
+</li>
+<li>History of SmartOS
+
+<ul>
+<li><a href="http://www.oracle.com/technetwork/server-storage/solaris11/overview/index.html">Open Solaris</a></li>
+<li><a href="http://wiki.illumos.org/display/illumos/illumos+Home">illumos</a></li>
+<li><a href="http://smartos.org/">SmartOS</a></li>
+<li><a href="http://omnios.omniti.com/">OmniOS</a></li>
+<li><a href="http://openindiana.org/">Open Indiana</a></li>
+<li><a href="http://www.nexentastor.org/">Nexenta</a></li>
+</ul>
+</li>
+<li>Joyent's path to using Solaris and making SmartOS</li>
+<li>More Introductions
+
+<ul>
+<li>Bryan Horstmann-Allen</li>
+<li>John Vincent (aka lusis)</li>
+</ul>
+</li>
+<li>Mention of Bryan Cantrill's "Fork Yeah!" talk</li>
+<li><p>Why use Illumos?</p>
+
+<ul>
+<li>Operability
+
+<ul>
+<li>Visibility</li>
+<li>Commands are easy to script</li>
+<li>This is operable software!</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/DTrace">DTrace</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Service_Management_Facility">SMF</a></li>
+<li><a href="http://en.wikipedia.org/wiki/ZFS">ZFS</a></li>
+<li><a href="http://zpool.org/">ZPool</a></li>
+<li>ZFS Snapshots</li>
+<li><a href="http://en.wikipedia.org/wiki/Adaptive_replacement_cache">Adaptive Replacement Cache</a></li>
+<li><p>kstat:</p>
+
+<p>  [root@headnode (latisys-va:0) ~]# kstat -l | wc -l</p>
+
+<pre><code>40210
+</code></pre></li>
+</ul>
+</li>
+<li><p><a href="https://developer.apple.com/library/mac/#documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/Introduction/Introduction.html">Instruments</a> - A GarageBand interface to DTrace on the Mac.</p></li>
+<li><a href="http://www.pkgsrc.org/">pkgsrc</a>
+
+<ul>
+<li><a href="http://www.perkin.org.uk/posts/7000-packages-for-osx-lion.html">7,000 binary packages for OSX Lion</a></li>
+<li><a href="http://pkgin.net/">pkgin</a></li>
+</ul>
+</li>
+<li><a href="http://www.beginningwithi.com/2009/12/09/crossbow-for-opensolaris-developers/">crossbow</a></li>
+<li>kvm on SmartOS</li>
+<li><a href="http://joyent.com/blog/jonathan-perkins-on-why-smartos-is-not-gnu-linux">SNGL</a> - SNGL makes SmartOS Look Just Like Linux</li>
+<li>An anecdote about swap and SmartOS</li>
+<li>Picks</li>
+</ul>
+
+
+<h2>Other Resources</h2>
+
+<ul>
+<li>Bryan Cantrill's LISA Presnetation - Fork Yeah!  The Rise &amp; Development of Illumos
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=-zRN7XLCRhc">video</a></li>
+<li><a href="http://www.slideshare.net/bcantrill/fork-yeah-the-rise-and-development-of-illumos">slides</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/modcloth-cookbooks/smf">smf cookbook</a></li>
+<li><a href="http://getgreenbytes.com/solutions/zevo/">zfs on Mac OSX</a></li>
+<li><a href="http://youtu.be/dxZExLeJz2I">SmartOS:  An SA Primer</a></li>
+<li><a href="http://en.wikipedia.org/wiki/OpenSolaris_Network_Virtualization_and_Resource_Control">OpenSolaris Network Virtualization and Resource Control</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Btrfs">btrfs</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://youtu.be/dxZExLeJz2I">Ben's Meetup Introduction to Illumos</a></li>
+<li><a href="http://cuddletech.com/blog/">cuddletech blog</a></li>
+</ul>
+
+
+<h4>Eric</h4>
+
+<ul>
+<li><code>prstat -Lm</code> - microstate accounting of all processes and threads</li>
+<li><code>prctl</code> / <code>prstat -J</code></li>
+<li><a href="http://joyent.com/blog/smartos-proc-tools">SmartOS /proc Tools</a></li>
+<li><a href="http://www.stgeorgespirits.com/spirit/terroir-gin/">Terroir Gin</a></li>
+</ul>
+
+
+<h4>Blake</h4>
+
+<ul>
+<li><code>prstat</code></li>
+<li>IP Failover - crossbow tools are awesome! <code>dladm</code></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li>Brendan Gregg on the USE Method: Thinking Methodically About Performance
+
+<ul>
+<li><a href="http://goo.gl/qouBS">Video on Joyent's Blog</a></li>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html">Food Fight Show Episode 39:  USE - Thinking Methodically About Performance</a></li>
+</ul>
+</li>
+<li><a href="http://joyent.com/products/smartdatacenter">Joyent SmartDataCenter</a></li>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project FiFo</a></li>
+</ul>
+
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="https://twitter.com/lusis">lusis</a></li>
+<li><a href="https://github.com/someara/vagrant-joyent">Vagrant provider for the Joyent Cloud and SmartDatacenter</a></li>
+<li><a href="http://www.sumologic.com/">sumologic</a> - logging as a service</li>
+<li><a href="https://www.duosecurity.com/">Duo:Security</a> - Two-factor authentication made "non-sucky"</li>
+<li><a href="http://hereticbrewing.com/">Anything from Heretic Brewery</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://chefconf.opscode.com">#ChefConf 2013</a> and the Hack Day at Joyent's offices immediately following #ChefConf.</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DJfppm1SyeI">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
