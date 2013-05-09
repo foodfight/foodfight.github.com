@@ -4,7 +4,7 @@
   <title><![CDATA[Category: netflix | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/netflix/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-05-09T10:46:42-04:00</updated>
+  <updated>2013-05-09T13:06:28-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -53,28 +53,150 @@
 <ul>
 <li>Adrian Cockcroft <a href="http://github.com/adrianco">github</a>, <a href="http://twitter.com/adrianco">twitter</a>, <a href="http://perfcap.blogspot.com">blog</a></li>
 <li>Jeremy Edberg <a href="https://github.com/jedberg">github</a>, <a href="https://twitter.com/jedberg">twitter</a></li>
+<li>Trotter Cashion <a href="https://github.com/trotter">github</a>, <a href="https://twitter.com/cashion">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="http://twitter.com/solarce">twitter</a>, irc: solarce</li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
 
 
-<!-- 
-* Mathias Meyer [github](https://github.com/roidrage), [twitter](https://twitter.com/roidrage)
-* Trotter Cashion [github](https://github.com/trotter), [twitter](https://twitter.com/cashion)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
--->
-
-
-<p>
-* Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a>
-* Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="http://twitter.com/solarce">twitter</a>, irc: solarce
-* Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></p>
-
 <h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><a href="http://jtimberman.housepub.org/blog/2013/05/08/test-kitchen-and-jenkins/">Test Kitchen and Jenkins</a> - A blog post from Joshua Timberman about how he's set up a Jenkins build server to run test-kitchen on cookbooks.</li>
+<li><a href="https://github.com/scalp42/chefabulous">chefabulous</a> - Bootstrap a Chef server on Amazon's EC2 or using Vagrant with Fabric.</li>
+<li><a href="http://alluvium.com/blog/2013/05/03/the-application-cookbook-pattern-berkshelf-and-team-chef-workflow/">The Application Cookbook Pattern, Berkshelf, and Team Chef Workflow</a> - A blog post from Eric Reeves</li>
+</ul>
+
 
 <h2>Outline<a name="outline"></a></h2>
 
-<h2>Other Resources</h2>
+<ul>
+<li>Introductions</li>
+<li>Chef News</li>
+<li><a href="http://www.businessweek.com/articles/2013-05-09/netflix-reed-hastings-survive-missteps-to-join-silicon-valleys-elite">Business Week article</a></li>
+<li>Why is Netflix doing OSS</li>
+<li>Cloud-native</li>
+<li>No traditional HA tools from linux.  Why not?</li>
+<li>S3 is shared filesystem for everything</li>
+<li>Have abstracted one layer above instances</li>
+<li>Oracle to SimpleDB transition</li>
+<li>Switching between NoSQL systems</li>
+<li>Configuration Management pushed up into the application itself
+
+<ul>
+<li><a href="https://github.com/Netflix/archaius">Archaius</a> - Archaius includes a set of configuration management APIs used by Netflix.</li>
+<li><a href="https://github.com/Netflix/eureka">Eureka</a> - Eureka is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.</li>
+</ul>
+</li>
+<li>Java as the language of choice
+
+<ul>
+<li>There is a Python interface for some of the tools</li>
+<li>Closure, Groovy, etc. are other areas that are being explored</li>
+</ul>
+</li>
+<li>AMI generation
+
+<ul>
+<li><a href="https://github.com/Netflix/aminator">Aminator</a> - Easily turn an app into an AMI
+
+<ul>
+<li>Take base image, add some packages, run some chef recipes</li>
+<li>Looking at including chef in the base image for use during build time</li>
+</ul>
+</li>
+<li>Code changes are always deployed as new AMIs</li>
+<li><code>knife ec2 server create --bake</code> - <a href="https://github.com/opscode/knife-ec2/pull/110">https://github.com/opscode/knife-ec2/pull/110</a></li>
+<li>Average lifetime of an instance is ~35 hours</li>
+</ul>
+</li>
+<li>Monitoring
+
+<ul>
+<li><a href="http://www.appdynamics.com/">AppDynamics</a> - Out-of-band monitoring</li>
+<li>Atlas</li>
+<li><a href="http://en.wikipedia.org/wiki/Exponential_smoothing">Double exponential smoothing</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a> - Fast Fourier transform - Look at traffic to be sure it's going in the expected direction.</li>
+<li>Real-time FFT written in R is used for alerting.  Other availability is determined after-the-fact.</li>
+</ul>
+</li>
+<li>Circuit breakers
+
+<ul>
+<li><a href="https://github.com/Netflix/Hystrix">Hystrix</a> - Latency and Fault Tolerance for Distributed Systems - turns off backend if the backend seems to be down or slow.  Adds test to see when it should be re-enabled.</li>
+<li><a href="https://github.com/Netflix/Turbine">Turbine</a> - Dashboard that shows the status of the circuit breakers</li>
+<li>These help with graceful degradation of features on Netflix</li>
+</ul>
+</li>
+<li>Application Stack:
+
+<ul>
+<li>Tomcat</li>
+<li>Cassandra</li>
+</ul>
+</li>
+<li><a href="https://github.com/Netflix/SimianArmy">Simian Army</a>
+
+<ul>
+<li>Chaos Monkey</li>
+<li>Chaos Gorilla - Will destroy an entire zone</li>
+<li>Latency Monkey - Reaches into <a href="https://github.com/Netflix/karyon">Karyon</a> and injects latency
+
+<ul>
+<li>Is much better at finding issues / bugs than Chaos Monkey is</li>
+<li>Latency Monkey introduces latency, Hystrix should trip circuits</li>
+</ul>
+</li>
+<li>Howler Monkey - Looks for overused resources and other auditing</li>
+<li>Security Monkey - Ensures certs are not expiring soon, etc.</li>
+<li>Janitor Monkey - Cleans-up unused resources</li>
+<li>Conformity Monkey</li>
+</ul>
+</li>
+<li>How Trotter is using the Netflix stack
+
+<ul>
+<li>archaius better than plan old properties files</li>
+<li>eureka, karyon, asgard</li>
+</ul>
+</li>
+<li><a href="https://github.com/Netflix/asgard">Asgard</a> - AWS console "on crack".  Built on Groovy.
+
+<ul>
+<li>Necessary when you start deploying auto-scaling groups instead of auto-scaling images</li>
+<li>When would you not use auto-scaling groups?
+
+<ul>
+<li>"Fork lift" operations - moving one app "to the cloud"</li>
+<li>Trotter recommends auto-scaling group even if the group size is one</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Time from deploy-ami to instance - about 3 minutes to start a fairly large instance (start 500 in about 8 minutes)</li>
+<li>How do I get started with the Netflix platform?
+
+<ul>
+<li><a href="https://github.com/cfregly/fluxcapacitor">Flux capicator</a> - Flux Capacitor is a Java-based distributed application demonstrating the following Netflix Open Source components.</li>
+<li><a href="https://github.com/Netflix/recipes-rss">Netflix Recipes RSS</a> - RSS is a Netflix Recipes application demonstrating how all of the following Netflix Open Source components can be tied together.</li>
+</ul>
+</li>
+<li><a href="https://github.com/Netflix/Cloud-Prize">Netflix OSS Prize</a> - A contest for Software Developers</li>
+<li>Visiting Netflix offices</li>
+</ul>
+
 
 <h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://realtalk.io/">Real Talk Podcast</a></li>
+<li><a href="http://www.amazon.com/Mistborn-Trilogy-Boxed-Hero-Ascension/dp/076536543X">Mistborn Trilogy</a></li>
+<li>+1 for Trotter's "Way of Kings" pick</li>
+</ul>
+
 
 <h4>Bryan</h4>
 
@@ -84,18 +206,28 @@
 </ul>
 
 
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://www.opscode.com/blog/chefconf-talks/">#ChefConf 2013 Talks</a></li>
-<li><a href="https://itunes.apple.com/us/app/spaceteam/id570510529?mt=8">Spaceteam</a> - Addictive team game for iPhone or iPad.  Hat tip to <a href="https://twitter.com/resetexistence">Jamie Winsor</a> for the introduction.</li>
-</ul>
-
-
 <h4>Adrian</h4>
 
 <ul>
 <li><a href="http://www.youtube.com/watch?v=Wo-zkUH1R8A&amp;feature=youtu.be">Adrian's live demo benchmark on Cassandra on SSD</a></li>
+<li><a href="http://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216">Drift into Failure</a> Sydney Dekker</li>
+<li><a href="http://www.meetup.com/Netflix-Open-Source-Platform/">Netflix OSS Meetup</a></li>
+<li><a href="http://movies.netflix.com/WiMovie/Going_Postal/70258570">Going Postal</a></li>
+</ul>
+
+
+<h4>Jeremy</h4>
+
+<ul>
+<li><a href="http://techblog.netflix.com/2012/12/videos-of-netflix-talks-at-aws-reinvent.html">Netflix's re:invent presentations</a></li>
+</ul>
+
+
+<h4>Trotter</h4>
+
+<ul>
+<li><a href="http://pragprog.com/book/mnee/release-it">Release It</a></li>
+<li><a href="http://www.amazon.com/Way-Kings-Stormlight-Archive/dp/0765365278">Way of Kings</a></li>
 </ul>
 
 
