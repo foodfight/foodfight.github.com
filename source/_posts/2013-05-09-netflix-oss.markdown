@@ -12,7 +12,6 @@ Show Date:  Thursday, May 9, 2013
 * [Panel](http://foodfightshow.org/2013/05/netflix-oss.html#panel)
 * [Chef News](http://foodfightshow.org/2013/05/netflix-oss.html#news)
 * [Outline](http://foodfightshow.org/2013/05/netflix-oss.html#outline)
-* [Reading List](http://foodfightshow.org/2013/05/netflix-oss.html#reading)
 * [Picks](http://foodfightshow.org/2013/05/netflix-oss.html#picks)
 * Download
   * Audio - Coming Soon
