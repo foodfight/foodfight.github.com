@@ -9,6 +9,8 @@ categories:
 ---
 Show Date:  Thursday, May 9, 2013
 
+Join us as we discuss the [Netflix OSS](http://netflix.github.io/#repo) tools.
+
 * [Panel](http://foodfightshow.org/2013/05/netflix-oss.html#panel)
 * [Chef News](http://foodfightshow.org/2013/05/netflix-oss.html#news)
 * [Outline](http://foodfightshow.org/2013/05/netflix-oss.html#outline)
