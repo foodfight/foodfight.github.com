@@ -5,7 +5,10 @@ date: 2013-05-09 09:48
 comments: true
 categories: 
   - netflix
-  - 
+  - netflixoss
+  - adrianco
+  - jedberg
+  - cashion
 ---
 Show Date:  Thursday, May 9, 2013
 
@@ -16,7 +19,7 @@ Join us as we discuss the [Netflix OSS](http://netflix.github.io/#repo) tools.
 * [Outline](http://foodfightshow.org/2013/05/netflix-oss.html#outline)
 * [Picks](http://foodfightshow.org/2013/05/netflix-oss.html#picks)
 * Download
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-50-NetflixOSS.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=A69uTnfQgB8)
 
 
@@ -142,6 +145,6 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-50-NetflixOSS.mp3)
 * [Video Stream](http://www.youtube.com/watch?v=A69uTnfQgB8)
 
