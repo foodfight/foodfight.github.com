@@ -18,13 +18,13 @@ Join the conversation in #foodfightshow on Freenode IRC.
 * [Picks](http://foodfightshow.org/2013/05/netflix-oss.html#picks)
 * Download
   * Audio - Coming Soon
-  * [Video Stream](http://www.youtube.com/watch?v=)
+  * [Video Stream](http://www.youtube.com/watch?v=A69uTnfQgB8)
 
 
 Watch Now
 --------
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/A69uTnfQgB8" frameborder="0" allowfullscreen></iframe>
 
 <!-- more -->
 
@@ -71,5 +71,5 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon!
-* [Video Stream](http://www.youtube.com/watch?v=)
+* [Video Stream](http://www.youtube.com/watch?v=A69uTnfQgB8)
 
