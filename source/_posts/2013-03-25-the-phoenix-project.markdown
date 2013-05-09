@@ -15,9 +15,6 @@ Show Date:  Monday, March 25, 2013
 
 In this episode, we sat down with [Gene Kim](https://twitter.com/realgenekim) and [Jez Humble](http://twitter.com/jezhumble) to discuss [The Phoenix Project:  A Novel About IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/).
 
-## Free e-Book!
-Download a [free copy of The Phoenix Project from Amazon](http://t.co/sBxePsWA6n) until Wednesday, April 3.
-
 * [Panel](http://foodfightshow.org/2013/03/the-phoenix-project.html#panel)
 * [Chef News](http://foodfightshow.org/2013/03/the-phoenix-project.html#news)
 * [Outline](http://foodfightshow.org/2013/03/the-phoenix-project.html#outline)
