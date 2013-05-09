@@ -6,6 +6,9 @@ comments: true
 categories: 
   - lxc
   - docker
+  - jpetazzo
+  - solomonstre
+  - _spox
 ---
 Show Date:  Monday, April 15, 2013
 
