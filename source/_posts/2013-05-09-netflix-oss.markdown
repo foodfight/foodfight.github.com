@@ -111,30 +111,35 @@ Outline<a name="outline"></a>
 * Visiting Netflix offices
 
 
-
-
-## Other Resources
-
-* [Release It! Design and Deploy Production-Ready Software](http://pragprog.com/book/mnee/release-it) - Great book that talks about circuit breakers and more.
-
-
 Picks<a name="picks"></a>
 -----
+#### Brandon
+
+* [Real Talk Podcast](http://realtalk.io/)
+* [Mistborn Trilogy](http://www.amazon.com/Mistborn-Trilogy-Boxed-Hero-Ascension/dp/076536543X)
+* +1 for Trotter's "Way of Kings" pick
+
 
 #### Bryan
 
 * [Adrian's talk on Highly Available Architectures](http://www.youtube.com/watch?v=dekV3Oq7pH8)
 * [Wool](http://www.amazon.com/Wool-Hugh-Howey/dp/1476733953)
 
-#### Nathen
-
-* [#ChefConf 2013 Talks](http://www.opscode.com/blog/chefconf-talks/)
-* [Spaceteam](https://itunes.apple.com/us/app/spaceteam/id570510529?mt=8) - Addictive team game for iPhone or iPad.  Hat tip to [Jamie Winsor](https://twitter.com/resetexistence) for the introduction.
-
 #### Adrian
 
 * [Adrian's live demo benchmark on Cassandra on SSD](http://www.youtube.com/watch?v=Wo-zkUH1R8A&feature=youtu.be)
+* [Drift into Failure](http://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216) Sydney Dekker
+* [Netflix OSS Meetup](http://www.meetup.com/Netflix-Open-Source-Platform/)
+* [Going Postal](http://movies.netflix.com/WiMovie/Going_Postal/70258570)
 
+#### Jeremy
+
+* [Netflix's re:invent presentations](http://techblog.netflix.com/2012/12/videos-of-netflix-talks-at-aws-reinvent.html)
+
+#### Trotter
+
+* [Release It](http://pragprog.com/book/mnee/release-it)
+* [Way of Kings](http://www.amazon.com/Way-Kings-Stormlight-Archive/dp/0765365278)
 
 Download
 --------
