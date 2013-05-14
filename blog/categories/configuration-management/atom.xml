@@ -4,7 +4,7 @@
   <title><![CDATA[Category: configuration management | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/configuration-management/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-05-09T16:42:56-04:00</updated>
+  <updated>2013-05-14T10:10:03-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chefconf 2013: Talking Shop with Spheromak]]></title>
+    <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak.html"/>
+    <updated>2013-04-27T01:46:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, April 27, 2013</p>
+
+<p>In this episode, we sat down with
+<a href="https://github.com/spheromak">Jesse Nelson</a>,
+<a href="http://github.com/miah">Miah Johnson</a>  and
+<a href="http://github.com/kisoku">Matthieu Sauve-Frankel</a> at Chefconf</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/04/chefconf-2013-talking-shop-with-spheromak.html#panel">Panel</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/ffs_chefconf3.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li><a href="https://github.com/spheromak">Jesse Nelson</a></li>
+<li><a href="http://github.com/miah">Miah Johnson</a></li>
+<li><a href="http://github.com/kisoku">Matthieu Sauve-Frankel</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/ffs_chefconf3.mp3">Audio</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zookeeper, the Secret Sauce]]></title>
