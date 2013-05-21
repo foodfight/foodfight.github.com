@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Monitorama 2013"
+date: 2013-05-21 11:32
+comments: true
+categories: 
+  - monitorama
+  - delicacies
+  - bear
+  - skymob
+  - portertech
+  - webframp
+  - botchagalupe
+  - aphyr
+  - petecheslock
+  - samkottler
+  - wfarr
+  - jnewland
+  - nixgeek
+---
+Show Date:  29 March 2013
+
+Brandon Burton ([@solarce](https://twitter.com/solarce)) took a microphone to this year's [Monitorama](http://monitorama.com/) and was able to record a bunch of DevOps Delicacies for the show.  It's taken [Nathen](http://twitter.com/nathenharvey) a while to get these edited and ready for release but here they are!
+
+* [Bear on DevOps Consulting](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_bear_consulting.mp3) with [@bear](http://twitter.com/bear)
+* [Bethany Erskine of Paperless Post](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_bethany_paperless_post.mp3) with [@skymob](http://twitter.com/skymob)
+* [Github and Happiness](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_shorttake_github_happiness.mp3) with [@wfarr](http://twitter.com/wfarr), [@jnewland](http://twitter.com/jnewland), and [@nixgeek](http://twitter.com/nixgeek)
+* [Heavywater consulting](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_heavywater.mp3) with [@portertech](http://twitter.com/portertech) and [@webframp](http://twitter.com/webframp)
+* [John Willis on Docker](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_john_willis_docker.mp3) with [@botchagalupe](http://twitter.com/botchagalupe)
+* [Julian Martinez from Locaweb](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_julian_martinez-locaweb.mp3)
+* [Kyle Kingsbury on Riemann](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_kyle_reimann.mp3) with [@aphyr](http://twitter.com/aphyr)
+* [Pete Cheslock on Culture](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_pete_cheslock_culture.mp3) with [@petecheslock](http://twitter.com/petecheslock)
+* [Sam Kottler](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_sam-kottler.mp3) with [@samkottler](http://twitter.com/samkottler)
