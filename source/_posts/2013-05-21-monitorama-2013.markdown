@@ -17,6 +17,7 @@ categories:
   - wfarr
   - jnewland
   - nixgeek
+  - ncode
 ---
 Show Date:  29 March 2013
 
@@ -27,7 +28,7 @@ Brandon Burton ([@solarce](https://twitter.com/solarce)) took a microphone to th
 * [Github and Happiness](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_shorttake_github_happiness.mp3) with [@wfarr](http://twitter.com/wfarr), [@jnewland](http://twitter.com/jnewland), and [@nixgeek](http://twitter.com/nixgeek)
 * [Heavywater consulting](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_heavywater.mp3) with [@portertech](http://twitter.com/portertech) and [@webframp](http://twitter.com/webframp)
 * [John Willis on Docker](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_john_willis_docker.mp3) with [@botchagalupe](http://twitter.com/botchagalupe)
-* [Julian Martinez from Locaweb](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_julian_martinez-locaweb.mp3)
+* [Julian Martinez from Locaweb](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_julian_martinez-locaweb.mp3) with [@ncode](http://twitter.com/ncode)
 * [Kyle Kingsbury on Riemann](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_kyle_reimann.mp3) with [@aphyr](http://twitter.com/aphyr)
 * [Pete Cheslock on Culture](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_pete_cheslock_culture.mp3) with [@petecheslock](http://twitter.com/petecheslock)
 * [Sam Kottler](http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_sam-kottler.mp3) with [@samkottler](http://twitter.com/samkottler)
