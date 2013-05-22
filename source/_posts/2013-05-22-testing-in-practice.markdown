@@ -25,8 +25,7 @@ Please join the conversation in #foodfightshow on Freenode.
 Watch Now
 --------
 
-Video stream will be available at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&iso=20130522T15&p1=1928).
-
+<iframe width="560" height="315" src="http://www.youtube.com/embed/DhcXXOIerIc" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/05/testing-in-practice.html#panel)
 * [Chef News](http://foodfightshow.org/2013/05/testing-in-practice.html#news)
@@ -91,4 +90,4 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon!
-* Video stream will be available at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&iso=20130522T15&p1=1928).
+* [Video stream](http://www.youtube.com/embed/DhcXXOIerIc) 
