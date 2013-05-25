@@ -8,6 +8,7 @@ categories:
   - jasonrobertfox
   - mikefiedler
   - lordcope
+  - ranjibdey
   - foodcritic
   - chefspec
   - minitest
@@ -33,18 +34,17 @@ Watch Now
 * [Picks](http://foodfightshow.org/2013/05/testing-in-practice.html#picks)
 * Download
   * Audio - Coming soon!
-  * Video stream will be available at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&iso=20130522T15&p1=1928).
+  * [Video stream](http://www.youtube.com/watch?v=DhcXXOIerIc)
 
 
 Panel<a name="panel"></a>
 -----
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Jason Fox [twitter](https://twitter.com/jasonrobertfox), [github](https://github.com/jasonrobertfox), [blog](http://neverstopbuilding.net/)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn), [blog](http://www.juliandunn.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 
 <!-- more -->
