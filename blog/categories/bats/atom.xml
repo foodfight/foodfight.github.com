@@ -4,7 +4,7 @@
   <title><![CDATA[Category: bats | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/bats/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-05-25T09:07:49-04:00</updated>
+  <updated>2013-05-25T09:18:53-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,7 @@
     <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
     <updated>2013-05-22T08:11:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
-    <content type="html"><![CDATA[<p>Show Date: <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&amp;iso=20130522T15&amp;p1=1928">Wednesday, 22 May 2013 19:00 UTC</a></p>
-
-<p>Please join the conversation in #foodfightshow on Freenode.</p>
+    <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
 
 <h2>Watch Now</h2>
 
@@ -36,7 +34,7 @@
 
 <ul>
 <li>Audio - Coming soon!</li>
-<li>Video stream will be available at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&amp;iso=20130522T15&amp;p1=1928">19:00 UTC</a>.</li>
+<li><a href="http://www.youtube.com/watch?v=DhcXXOIerIc">Video stream</a></li>
 </ul>
 </li>
 </ul>
@@ -45,13 +43,12 @@
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
 <li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 <li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
 <li>Jason Fox <a href="https://twitter.com/jasonrobertfox">twitter</a>, <a href="https://github.com/jasonrobertfox">github</a>, <a href="http://neverstopbuilding.net/">blog</a></li>
 <li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a>, <a href="http://www.juliandunn.net/">blog</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
 <li>Stephen Nelson-Smith <a href="https://twitter.com/lordcope">twitter</a>, <a href="http://github.com/lordcope">github</a></li>
 </ul>
 
@@ -79,15 +76,17 @@
 
 <h2>Picks<a name="picks"></a></h2>
 
-<h4>Brandon</h4>
-
 <h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Prague-Fatale-Bernie-Gunther-Philip/dp/B00B1L6B4G">Prague Fatale</a></li>
+<li><a href="http://poodr.info">POODR</a></li>
+</ul>
+
 
 <h4>Fletcher</h4>
 
 <ul>
-<li><a href="https://github.com/square/cane">Cane gem</a> -- Code quality threshold checking as part of your build</li>
-<li><a href="https://github.com/fnichol/busser/blob/master/Rakefile">Busser gem's Rakefile</a> -- An example showing how to wire unit, integration, and quality tests into TravisCI</li>
 <li><a href="http://beeradvocate.com/beer/profile/342/639">Newcastle Brown Ale</a> -- The beer that fueled Jamie (Test Kitchen 1.0) and many other projects</li>
 </ul>
 
@@ -96,6 +95,7 @@
 
 <ul>
 <li><a href="http://t.co/vFOKd2wiqv">Troegs Dreamweaver</a></li>
+<li><a href="https://leanpub.com/chef-survival-guide">chef survival guide</a></li>
 </ul>
 
 
@@ -115,15 +115,26 @@
 </ul>
 
 
-<h5>Nathen</h5>
+<h5>Ranjib</h5>
+
+<ul>
+<li><a href="https://github.com/jenkinsci/jenkins.rb">jenkins.rb</a> ruby api on top of jenkins</li>
+</ul>
+
 
 <h4>Stephen</h4>
+
+<ul>
+<li><a href="https://github.com/postmodern/chruby">chruby</a> and his <a href="https://github.com/Atalanta/chef-chruby">cookbook</a> for it</li>
+<li><a href="https://itunes.apple.com/us/album/interloper-live-2006-live/id320047495">interloper live 2006, Miles Hunt</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
 <ul>
 <li>Audio - Coming Soon!</li>
-<li><a href="http://www.youtube.com/embed/DhcXXOIerIc">Video stream</a></li>
+<li><a href="http://www.youtube.com/watch?v=DhcXXOIerIc">Video stream</a></li>
 </ul>
 
 ]]></content>
