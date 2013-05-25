@@ -4,7 +4,7 @@
   <title><![CDATA[Category: vagrant | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/vagrant/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-05-22T12:11:42-07:00</updated>
+  <updated>2013-05-25T09:03:52-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
     <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
-    <updated>2013-05-22T08:11:00-07:00</updated>
+    <updated>2013-05-22T08:11:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
     <content type="html"><![CDATA[<p>Show Date: <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&amp;iso=20130522T15&amp;p1=1928">Wednesday, 22 May 2013 19:00 UTC</a></p>
 
@@ -85,6 +85,13 @@
 
 <h4>Fletcher</h4>
 
+<ul>
+<li><a href="https://github.com/square/cane">Cane gem</a> -- Code quality threshold checking as part of your build</li>
+<li><a href="https://github.com/fnichol/busser/blob/master/Rakefile">Busser gem's Rakefile</a> -- An example showing how to wire unit, integration, and quality tests into TravisCI</li>
+<li><a href="http://beeradvocate.com/beer/profile/342/639">Newcastle Brown Ale</a> -- The beer that fueled Jamie (Test Kitchen 1.0) and many other projects</li>
+</ul>
+
+
 <h5>Jason</h5>
 
 <h4>Julian</h4>
@@ -120,7 +127,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
     <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
-    <updated>2012-10-23T17:47:00-07:00</updated>
+    <updated>2012-10-23T17:47:00-04:00</updated>
     <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
@@ -189,7 +196,7 @@
   <entry>
     <title type="html"><![CDATA[Vagrant]]></title>
     <link href="http://foodfightshow.org//2012/09/vagrant.html"/>
-    <updated>2012-09-20T08:33:00-07:00</updated>
+    <updated>2012-09-20T08:33:00-04:00</updated>
     <id>http://foodfightshow.org//2012/09/vagrant</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 September 2012</p>
 
@@ -417,7 +424,7 @@ Installs/Configures iperf</li>
   <entry>
     <title type="html"><![CDATA[Test Kitchen]]></title>
     <link href="http://foodfightshow.org//2012/08/test-kitchen.html"/>
-    <updated>2012-08-25T03:04:00-07:00</updated>
+    <updated>2012-08-25T03:04:00-04:00</updated>
     <id>http://foodfightshow.org//2012/08/test-kitchen</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 23 August 2012</p>
 
@@ -596,7 +603,7 @@ This cookbook provides an easy way to install the Yasm Assembler.</li>
   <entry>
     <title type="html"><![CDATA[Jamie Winsor and Michael Ivey Skool us on Berkshelf]]></title>
     <link href="http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html"/>
-    <updated>2012-08-03T16:33:00-07:00</updated>
+    <updated>2012-08-03T16:33:00-04:00</updated>
     <id>http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA</p>
 
