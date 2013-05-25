@@ -19,9 +19,7 @@ categories:
   - chef-workflow
   - vagrant
 ---
-Show Date: [Wednesday, 22 May 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&iso=20130522T15&p1=1928) 
-
-Please join the conversation in #foodfightshow on Freenode.
+Show Date: May 22, 2013
 
 Watch Now
 --------
@@ -96,4 +94,4 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon!
-* [Video stream](http://www.youtube.com/embed/DhcXXOIerIc) 
+* [Video stream](http://www.youtube.com/watch?v=DhcXXOIerIc)
