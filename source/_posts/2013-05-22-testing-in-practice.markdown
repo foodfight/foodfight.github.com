@@ -77,6 +77,8 @@ Picks<a name="picks"></a>
 
 ##### Jason
 
+- [Troegs Dreamweaver](http://t.co/vFOKd2wiqv)
+
 #### Julian
 
 - Beta of our expanded LWRP documentation -- please check it out and submit PRs! [resource](http://docs.opscode.com/lwrp_custom_resource.html) and [provider](http://docs.opscode.com/lwrp_custom_provider_resources.html)
