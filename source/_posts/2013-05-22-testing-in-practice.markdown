@@ -63,19 +63,19 @@ Outline<a name="outline"></a>
 
 Picks<a name="picks"></a>
 -----
-#### Brandon
-
 #### Bryan
+
+- [Prague Fatale](http://www.amazon.com/Prague-Fatale-Bernie-Gunther-Philip/dp/B00B1L6B4G)
+- [POODR](http://poodr.info)
 
 #### Fletcher
 
-- [Cane gem](https://github.com/square/cane) -- Code quality threshold checking as part of your build
-- [Busser gem's Rakefile](https://github.com/fnichol/busser/blob/master/Rakefile) -- An example showing how to wire unit, integration, and quality tests into TravisCI
 - [Newcastle Brown Ale](http://beeradvocate.com/beer/profile/342/639) -- The beer that fueled Jamie (Test Kitchen 1.0) and many other projects
 
 ##### Jason
 
 - [Troegs Dreamweaver](http://t.co/vFOKd2wiqv)
+- [chef survival guide](https://leanpub.com/chef-survival-guide)
 
 #### Julian
 
@@ -87,9 +87,16 @@ Picks<a name="picks"></a>
 - [tailor](https://github.com/turboladen/tailor) - ruby stlye linter
 - [Benziger Family Winery](http://www.benziger.com/) - especially the [2009 Tribute](http://www.benziger.com/2009_tribute)
 
-##### Nathen 
+##### Ranjib 
+
+- [jenkins.rb](https://github.com/jenkinsci/jenkins.rb) ruby api on top of jenkins
+
 
 #### Stephen
+
+- [chruby](https://github.com/postmodern/chruby) and his [cookbook](https://github.com/Atalanta/chef-chruby) for it
+- [interloper live 2006, Miles Hunt](https://itunes.apple.com/us/album/interloper-live-2006-live/id320047495)
+
 
 Download
 --------
