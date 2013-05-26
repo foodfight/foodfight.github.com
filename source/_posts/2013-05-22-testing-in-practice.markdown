@@ -60,6 +60,46 @@ Outline<a name="outline"></a>
 
 * Introductions
 * Chef News
+* What is testing?
+  * Unit Testing
+  * Integration Testing
+  * Acceptance Testing
+  * Regression Testing
+* The evolution of testing
+* Syntax of linting tools
+  * [Foodcritic](http://acrmp.github.io/foodcritic/)
+* Standardizing Workflows
+  * [chefspec](https://github.com/acrmp/chefspec)
+  * [Opscode Cookbook Test Process](http://wiki.opscode.com/display/chef/Opscode+Cookbook+Test+Process)
+  * [knife cookbook](http://docs.opscode.com/knife_cookbook.html)
+  * [minitest](https://github.com/seattlerb/minitest)
+* [Vagrant](http://www.vagrantup.com/)
+* Tools
+  * [chefspec](https://github.com/acrmp/chefspec)
+  * [Foodcritic](http://acrmp.github.io/foodcritic/)
+  * [minitest](https://github.com/seattlerb/minitest)
+  * [minitest-handler](http://community.opscode.com/cookbooks/minitest-handler)
+* [chefspec](https://github.com/acrmp/chefspec)
+  * The converge in chefspec vs normal converge
+  * Ruby blocks and bash blocks
+  * [Travis CI](https://github.com/travis-ci)
+  * Stubbing search calls
+* Mocks and Stubs
+  * [Martin Fowler: Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
+* [serverspec](https://github.com/mizzy/serverspec)
+* [Test Kitchen](https://github.com/opscode/test-kitchen)
+  * [bats](https://github.com/sstephenson/bats)
+  * [busser](https://github.com/fnichol/busser)
+* IRC Question: Test Kitchen currently uses Chef solo. Is there a way to get it to use [chef-client](http://docs.opscode.com/essentials_chef_client.html)?
+* Load Balancers and Jenkins Servers
+  * [cucumber-chef](https://github.com/Atalanta/cucumber-chef)
+* The concept of how a driver works and their role in Test Kitchen
+  * Mixing and matching drivers
+* A first foray into testing: where to start?
+  * [Code School - Testing with RSpec](http://rspec.codeschool.com/)
+* CI Methods of testing
+  * [Jenkins CI](http://jenkins-ci.org/)
+* When will Test Kitchen 1.0 be ready?
 
 Picks<a name="picks"></a>
 -----
@@ -84,7 +124,7 @@ Picks<a name="picks"></a>
 
 ##### Mike
 
-- [tailor](https://github.com/turboladen/tailor) - ruby stlye linter
+- [tailor](https://github.com/turboladen/tailor) - ruby style linter
 - [Benziger Family Winery](http://www.benziger.com/) - especially the [2009 Tribute](http://www.benziger.com/2009_tribute)
 
 ##### Ranjib 
