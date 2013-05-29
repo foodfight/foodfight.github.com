@@ -4,7 +4,7 @@
   <title><![CDATA[Category: cucumber-chef | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/cucumber-chef/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-05-25T09:18:53-04:00</updated>
+  <updated>2013-05-29T07:30:27-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -20,6 +20,10 @@
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
     <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
 
+<p>Foodcritic, knife cookbook test, Chefspec, minitest chef handler, and cucumber chef.  So many tools but how are these actually used in practice?</p>
+
+<p>Listen in on the panel discussion of testing in practice.</p>
+
 <h2>Watch Now</h2>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/DhcXXOIerIc" frameborder="0" allowfullscreen></iframe>
@@ -33,7 +37,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=DhcXXOIerIc">Video stream</a></li>
 </ul>
 </li>
@@ -71,6 +75,90 @@
 <ul>
 <li>Introductions</li>
 <li>Chef News</li>
+<li>What is testing?
+
+<ul>
+<li>Unit Testing</li>
+<li>Integration Testing</li>
+<li>Acceptance Testing</li>
+<li>Regression Testing</li>
+</ul>
+</li>
+<li>The evolution of testing</li>
+<li>Syntax of linting tools
+
+<ul>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+</ul>
+</li>
+<li>Standardizing Workflows
+
+<ul>
+<li><a href="https://github.com/acrmp/chefspec">chefspec</a></li>
+<li><a href="http://wiki.opscode.com/display/chef/Opscode+Cookbook+Test+Process">Opscode Cookbook Test Process</a></li>
+<li><a href="http://docs.opscode.com/knife_cookbook.html">knife cookbook</a></li>
+<li><a href="https://github.com/seattlerb/minitest">minitest</a></li>
+</ul>
+</li>
+<li><a href="http://www.vagrantup.com/">Vagrant</a></li>
+<li>Tools
+
+<ul>
+<li><a href="https://github.com/acrmp/chefspec">chefspec</a></li>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+<li><a href="https://github.com/seattlerb/minitest">minitest</a></li>
+<li><a href="http://community.opscode.com/cookbooks/minitest-handler">minitest-handler</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/acrmp/chefspec">chefspec</a>
+
+<ul>
+<li>The converge in chefspec vs normal converge</li>
+<li>Ruby blocks and bash blocks</li>
+<li><a href="https://github.com/travis-ci">Travis CI</a></li>
+<li>Stubbing search calls</li>
+</ul>
+</li>
+<li>Mocks and Stubs
+
+<ul>
+<li><a href="http://martinfowler.com/articles/mocksArentStubs.html">Martin Fowler: Mocks Aren't Stubs</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/mizzy/serverspec">serverspec</a></li>
+<li><a href="https://github.com/opscode/test-kitchen">Test Kitchen</a>
+
+<ul>
+<li><a href="https://github.com/sstephenson/bats">bats</a></li>
+<li><a href="https://github.com/fnichol/busser">busser</a></li>
+</ul>
+</li>
+<li>IRC Question: Test Kitchen currently uses Chef solo. Is there a way to get it to use <a href="http://docs.opscode.com/essentials_chef_client.html">chef-client</a>?</li>
+<li>Load Balancers and Jenkins Servers
+
+<ul>
+<li><a href="https://github.com/Atalanta/cucumber-chef">cucumber-chef</a></li>
+</ul>
+</li>
+<li>The concept of how a driver works and their role in Test Kitchen
+
+<ul>
+<li>Mixing and matching drivers</li>
+</ul>
+</li>
+<li>A first foray into testing: where to start?
+
+<ul>
+<li><a href="http://rspec.codeschool.com/">Code School - Testing with RSpec</a></li>
+</ul>
+</li>
+<li>CI Methods of testing
+
+<ul>
+<li><a href="http://jenkins-ci.org/">Jenkins CI</a></li>
+</ul>
+</li>
+<li>When will Test Kitchen 1.0 be ready?</li>
 </ul>
 
 
@@ -110,7 +198,7 @@
 <h5>Mike</h5>
 
 <ul>
-<li><a href="https://github.com/turboladen/tailor">tailor</a> - ruby stlye linter</li>
+<li><a href="https://github.com/turboladen/tailor">tailor</a> - ruby style linter</li>
 <li><a href="http://www.benziger.com/">Benziger Family Winery</a> - especially the <a href="http://www.benziger.com/2009_tribute">2009 Tribute</a></li>
 </ul>
 
@@ -133,7 +221,7 @@
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=DhcXXOIerIc">Video stream</a></li>
 </ul>
 
