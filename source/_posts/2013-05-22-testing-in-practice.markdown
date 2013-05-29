@@ -21,6 +21,10 @@ categories:
 ---
 Show Date: May 22, 2013
 
+Foodcritic, knife cookbook test, Chefspec, minitest chef handler, and cucumber chef.  So many tools but how are these actually used in practice?
+
+Listen in on the panel discussion of testing in practice.
+
 Watch Now
 --------
 
@@ -31,7 +35,7 @@ Watch Now
 * [Outline](http://foodfightshow.org/2013/05/testing-in-practice.html#outline)
 * [Picks](http://foodfightshow.org/2013/05/testing-in-practice.html#picks)
 * Download
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3)
   * [Video stream](http://www.youtube.com/watch?v=DhcXXOIerIc)
 
 
@@ -140,5 +144,5 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3)
 * [Video stream](http://www.youtube.com/watch?v=DhcXXOIerIc)
