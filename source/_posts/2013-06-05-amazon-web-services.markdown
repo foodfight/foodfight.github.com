@@ -13,7 +13,10 @@ Show Date:  [Wednesday, 5 June 2013, 19:00 UTC](http://www.timeanddate.com/world
 
 Join the conversation in #foodfightshow on Freenode IRC.
 
-Video will be streamed live here.
+# Watch Now
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/aGXZPr7zWKc" frameborder="0" allowfullscreen></iframe>
+
 
 Panel<a name="panel"></a>
 -----
