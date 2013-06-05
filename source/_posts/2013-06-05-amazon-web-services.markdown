@@ -28,3 +28,22 @@ Panel<a name="panel"></a>
 
 
 [Outline](https://github.com/foodfight/showz/blob/master/scripts/episode-x-aws.md)
+
+Picks
+-----
+
+Mike
+* [Good Omens](http://books.google.com/books/about/Good_Omens.html?id=B7FL6zzN_FsC)
+* "the sparse usage of ternary operators"
+
+Bryan 
+* [Pry, the good Parts](http://www.confreaks.com/videos/2467-railsconf2013-pry-the-good-parts)
+and Pry.rescue do #.... end
+* [fog](http://fog.io)
+* [Hurting Code](http://www.youtube.com/watch?v=L_z5oqPrDWY)
+
+Brandon
+* http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/
+* https://github.com/dotcloud/docker/wiki/Docker-0.4.0-release-note,-June-3-2013
+ 
+ 
