@@ -46,4 +46,6 @@ Brandon
 * http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/
 * https://github.com/dotcloud/docker/wiki/Docker-0.4.0-release-note,-June-3-2013
  
- 
+Trotter
+* [Mistborn Trilogy](http://www.goodreads.com/book/show/6604209-mistborn-trilogy-boxed-set)
+* The Atlantic Ocean
