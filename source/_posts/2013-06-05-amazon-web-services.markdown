@@ -15,8 +15,7 @@ Join the conversation in #foodfightshow on Freenode IRC.
 
 # Watch Now
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/aGXZPr7zWKc" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="http://www.youtube.com/embed/b8LXZMjVi1A" frameborder="0" allowfullscreen></iframe>
 
 Panel<a name="panel"></a>
 -----
