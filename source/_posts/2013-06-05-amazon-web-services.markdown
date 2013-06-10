@@ -7,6 +7,7 @@ categories:
   - aws
   - ec2
   - cashion
+  - knuckolls
 ---
 
 Show Date:  June 5, 2013
@@ -22,7 +23,7 @@ A round table discussion on using Chef with AWS and brief exploration of some of
 * [Outline](http://foodfightshow.org/2013/06/amazon-web-services.html#outline)
 * [Picks](http://foodfightshow.org/2013/06/amazon-web-services.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3)
   * [Video stream](http://www.youtube.com/watch?v=b8LXZMjVi1A)
 
 
@@ -140,5 +141,5 @@ and Pry.rescue do #.... end
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3)
 * [Video stream](http://www.youtube.com/watch?v=b8LXZMjVi1A)
