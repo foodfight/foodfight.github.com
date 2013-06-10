@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ec2 | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/ec2/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-06T07:37:15-07:00</updated>
+  <updated>2013-06-10T12:37:20-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Amazon Web Services]]></title>
     <link href="http://foodfightshow.org//2013/06/amazon-web-services.html"/>
-    <updated>2013-06-05T07:44:00-07:00</updated>
+    <updated>2013-06-05T07:44:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/amazon-web-services</id>
     <content type="html"><![CDATA[<p>Show Date:  June 5, 2013</p>
 
@@ -35,7 +35,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=b8LXZMjVi1A">Video stream</a></li>
 </ul>
 </li>
@@ -69,9 +69,87 @@
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
-<li>Introductions</li>
 <li>Chef News</li>
 <li><a href="http://www.poodr.info/">Practical Object-Oriented Design in Ruby</a></li>
+<li>Introductions</li>
+<li><a href="http://aws.amazon.com/">Amazon AWS</a></li>
+<li>Getting started with Chef and AWS</li>
+<li><a href="http://docs.opscode.com/plugin_knife_ec2.html">knife ec2</a></li>
+<li>Storage</li>
+<li><a href="http://aws.amazon.com/ec2/">Amazon EC2</a>
+
+<ul>
+<li><a href="http://www.ec2instances.info/">Easy Amazon EC2 Instance Comparison</a></li>
+<li><a href="http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html">AWS EC2 Instance Properties</a></li>
+</ul>
+</li>
+<li>Stateless and stateful servers</li>
+<li>Logical Volume Management (LVM)</li>
+<li>User-data and auto-scaling
+
+<ul>
+<li>S3 can be used as a source of artifacts in <a href="http://ckbk.it/artifact">artifact-cookbook</a> now (includes support for IAM roles)</li>
+</ul>
+</li>
+<li>Running as a service</li>
+<li><a href="http://ckbk.it/aws">AWS Cookbook</a>
+
+<ul>
+<li><a href="http://rubygems.org/gems/right_aws">RightScale AWS gem</a></li>
+<li><a href="http://rubygems.org/gems/fog">fog gem</a></li>
+<li><a href="http://aws.amazon.com/sdkforruby/">AWS SDK for Ruby</a></li>
+</ul>
+</li>
+<li><a href="http://aws.typepad.com/aws/2012/06/iam-roles-for-ec2-instances-simplified-secure-access-to-aws-service-apis-from-ec2.html">IAM roles</a></li>
+<li><a href="https://gist.github.com/anthroprose/9a1b3b7dbf3218578bcb">snapshotting and drive consistency</a></li>
+<li>Servercreate
+
+<ul>
+<li>OHAI hint</li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/vpc/">Amazon VPC (Virtual Private Cloud)</a>
+
+<ul>
+<li><a href="http://aws.amazon.com/articles/2781451301784570">High Availability for Amazon VPC NAT Instances: An Example</a></li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/s3/">Amazon S3</a></li>
+<li><a href="http://guides.rubygems.org/run-your-own-gem-server/">Run your own gem server</a></li>
+<li><a href="https://github.com/opscode-cookbooks/varnish">varnish</a></li>
+<li>Application deployment to Amazon</li>
+<li>AMIs for Windows</li>
+<li>Reboots</li>
+<li><a href="http://aws.amazon.com/route53/">Amazon Route 53</a>
+
+<ul>
+<li><a href="http://blog.parse.com/2013/02/28/working-with-hostnames-in-a-dynamically-scaled-environment/">blog post from Parse using Chef + Route53 to auto-add nodes to Route53</a></li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/rds/">Amazon RDS</a></li>
+<li><a href="http://aws.amazon.com/elasticmapreduce/">Elastic MapReduce (EMR)</a></li>
+<li><a href="http://aws.amazon.com/redshift/">Redshift</a></li>
+<li>Test Kitchen and AWS
+<a href="https://github.com/opscode/kitchen-ec2">kitchen-ec2</a></li>
+<li>EC2 and Multiple Data Centers</li>
+<li>Availability zones within a region</li>
+<li>Regions</li>
+<li>LWRP for pulling stuff from S3
+
+<ul>
+<li><a href="http://aws.amazon.com/sdkforruby/">AWS SDK for Ruby</a></li>
+<li><a href="http://aws.amazon.com/cloudformation/">AWS CloudFormation</a>
+
+<ul>
+<li><a href="https://gist.github.com/solarce/5716564">example of cloudformation and some user-data</a></li>
+<li><a href="https://s3.amazonaws.com/cloudformation-templates-us-east-1/multi-tier-web-app-in-vpc.template">AWS CloudFormation Sample Template</a></li>
+<li><a href="http://www.unixdaemon.net/stack-template.json">another cloud formation template</a></li>
+<li><a href="https://gist.github.com/anthroprose/b3c7f4e0771abcfefef5">sample of stack deploy using quite a bit of different AWS features within cloudformation</a></li>
+<li><a href="https://github.com/songkick/cloud_formatter">CloudFormatter</a> Generates JSON config for AWS CloudFormation using a Ruby DSL.</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 
 
@@ -80,32 +158,15 @@
 <p>Here's a list of things that were mentioned in the show or the IRC backchannel during the episode.</p>
 
 <ul>
-<li><a href="https://s3.amazonaws.com/cloudformation-templates-us-east-1/multi-tier-web-app-in-vpc.template">AWS CloudFormation Sample Template</a></li>
-<li><a href="https://gist.github.com/solarce/5716564">example of cloudformation and some user-data</a></li>
-<li><a href="https://gist.github.com/anthroprose/b3c7f4e0771abcfefef5">sample of stack deploy using quite a bit of different AWS features within cloudformation</a></li>
-<li><a href="http://www.unixdaemon.net/stack-template.json">another cloud formation template</a></li>
-<li><a href="http://www.ec2instances.info/">Easy Amazon EC2 Instance Comparison</a></li>
 <li><a href="http://www.awsnow.info/">Consolidated AWS prices and limits</a></li>
-<li><a href="http://guides.rubygems.org/run-your-own-gem-server/">Run your own gem server</a></li>
-<li><a href="http://ckbk.it/aws">AWS Cookbook</a></li>
-<li><a href="http://docs.opscode.com/plugin_knife_ec2.html">kinfe ec2</a></li>
-<li><a href="http://rubygems.org/gems/fog">fog gem</a></li>
-<li><a href="http://rubygems.org/gems/right_aws">RighScale AWS gem</a></li>
 <li><a href="http://ckbk.it/ebs">EBS Cookbook</a></li>
-<li><a href="http://aws.amazon.com/sdkforruby/">AWS SDK for Ruby</a></li>
-<li>S3 can be used as a source of artifacts in <a href="http://ckbk.it/artifact">artifact-cookbook</a> now (includes support for IAM roles)</li>
-<li><a href="https://github.com/songkick/cloud_formatter">CloudFormatter</a> Generates JSON config for AWS CloudFormation using a Ruby DSL.</li>
-<li><a href="https://gist.github.com/anthroprose/9a1b3b7dbf3218578bcb">snapshotting and drive consistency</a></li>
 <li><a href="http://www.nuvolecomputing.com/2012/07/02/chef-node-de-registration-for-autoscaling-groups/">Chef Node Deregistration For Autoscaling Groups</a></li>
 <li><a href="https://github.com/cwninja/geminabox">Gem in a Box</a> and the <a href="http://community.opscode.com/cookbooks/geminabox">geminabox cookbook</a>.</li>
-<li><a href="http://aws.amazon.com/articles/2781451301784570">High Availability for Amazon VPC NAT Instances: An Example</a></li>
-<li><a href="http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html">AWS EC2 Instance Properties</a></li>
 <li><a href="https://github.com/Netflix/denominator">cloud dns abstractor</a></li>
-<li><a href="http://blog.parse.com/2013/02/28/working-with-hostnames-in-a-dynamically-scaled-environment/">blog post from Parse using Chef + Route53 to auto-add nodes to Route53</a></li>
 <li><a href="https://help.ubuntu.com/community/AptProxy">AptProxy</a></li>
 <li><a href="http://awsadvent.tumblr.com/post/38685647817/strategies-reusable-cfn-templates">Strategies for re-usable CloudFormation Templates</a></li>
 <li><a href="http://awsadvent.tumblr.com/post/37773106407/bootstrap-cfg-mgmt-aws">Bootstrapping Config Management on AWS</a></li>
-<li><a href="https://github.com/ii-cookbooks/ii-usb">Cookboks to create bootable USB sticks that contain OS vendor ISO</a></li>
+<li><a href="https://github.com/ii-cookbooks/ii-usb">Cookbooks to create bootable USB sticks that contain OS vendor ISO</a></li>
 <li><a href="https://github.com/destructuring/vagrant-shell">Vagrant Shell Provider</a></li>
 </ul>
 
@@ -159,7 +220,7 @@ and Pry.rescue do #.... end</li>
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=b8LXZMjVi1A">Video stream</a></li>
 </ul>
 
