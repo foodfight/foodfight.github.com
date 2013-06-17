@@ -4,7 +4,7 @@
   <title><![CDATA[Category: jezhumble | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/jezhumble/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-17T13:35:43-04:00</updated>
+  <updated>2013-06-17T15:38:58-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,7 @@
     <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
     <updated>2013-06-17T12:48:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
-    <content type="html"><![CDATA[<p>Show Date:   <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Continuous+Delivery&amp;iso=20130617T14&amp;p1=1928">Monday, June 17, 2013 18:00 UTC</a></p>
-
-<p>Join us in #foodfightshow on Freenode IRC.</p>
+    <content type="html"><![CDATA[<p>Show Date:   June 17, 2013</p>
 
 <h1>Watch Now</h1>
 
@@ -68,10 +66,6 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
-<h2>Other Resources</h2>
-
-<p>Here's a list of things that were mentioned in the show or the IRC backchannel during the episode.</p>
-
 <h2>Picks</h2>
 
 <h4>Nathen</h4>
@@ -79,12 +73,18 @@
 <ul>
 <li><a href="http://www.youtube.com/watch?v=bmGQVo7UHbU&amp;feature=share&amp;list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ">Mike Fiedler's "What's in this Cookbook" talk</a> from a recent meetup group.</li>
 <li><a href="https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf">The Magic Tricks of Testing</a> - A talk from Sandi Metz given at <a href="http://rubynation.org">RubyNation</a></li>
+<li><a href="http://www.opscode.com/blog/chefconf-talks/chefconf-2013-keynote-session-opscode-adam-jacob/">Adam's #ChefConf Keynote</a></li>
 </ul>
 
 
 <h4>Mike McGarr</h4>
 
 <h4>Mike Fiedler</h4>
+
+<ul>
+<li><a href="http://corner.squareup.com/2012/02/cane.html">cane</a></li>
+</ul>
+
 
 <h4>Jez</h4>
 
