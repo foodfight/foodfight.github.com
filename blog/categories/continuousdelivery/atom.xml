@@ -4,7 +4,7 @@
   <title><![CDATA[Category: continuousdelivery | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/continuousdelivery/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-17T13:20:49-04:00</updated>
+  <updated>2013-06-17T13:35:43-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -59,6 +59,13 @@
 
 <h2>Chef News<a name="news"></a></h2>
 
+<ul>
+<li><a href="https://www.dropbox.com/s/ps4icmboani9wpn/SAP%20Continuous%20Delivery%20-%20JFokus%202013.pdf">Continuous Delivery at SAP</a></li>
+<li><a href="http://www.kickflop.net/blog/2013/06/11/jenkins-running-test-kitchen-via-vagrant-on-windows/">Jenkins running Test-Kitchen via Vagrant. On Windows.</a></li>
+<li><a href="https://www.bluebox.net/about/blog/2013/06/using-opscode-chef-on-blue-box-with-knife-bluebox/">Using Opscode Chef on Blue Box with Knife Bluebox</a></li>
+</ul>
+
+
 <h2>Outline<a name="outline"></a></h2>
 
 <h2>Other Resources</h2>
@@ -68,6 +75,12 @@
 <h2>Picks</h2>
 
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=bmGQVo7UHbU&amp;feature=share&amp;list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ">Mike Fiedler's "What's in this Cookbook" talk</a> from a recent meetup group.</li>
+<li><a href="https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf">The Magic Tricks of Testing</a> - A talk from Sandi Metz given at <a href="http://rubynation.org">RubyNation</a></li>
+</ul>
+
 
 <h4>Mike McGarr</h4>
 
