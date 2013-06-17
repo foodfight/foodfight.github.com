@@ -15,7 +15,7 @@ Join us in #foodfightshow on Freenode IRC.
 
 # Watch Now
 
-Video stream coming soon!
+<iframe width="420" height="315" src="http://www.youtube.com/embed/LuiiwPOZ0Ww" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/06/continuous-delivery.html#panel)
 * [Chef News](http://foodfightshow.org/2013/06/continuous-delivery.html#news)
@@ -23,7 +23,7 @@ Video stream coming soon!
 * [Picks](http://foodfightshow.org/2013/06/continuous-delivery.html#picks)
 * Download
   * Audio - Coming Soon!
-  * Video stream Coming Soon!
+  * [Video](http://youtu.be/LuiiwPOZ0Ww)
 
 Panel<a name="panel"></a>
 -----
@@ -31,6 +31,7 @@ Panel<a name="panel"></a>
 * Adam Jacob [twitter](https://twitter.com/adamhjk), [github](https://github.com/adamhjk)
 * Mike McGarr [twitter](https://twitter.com/jmichaelmcgarr), [blog](http://earlyandoften.wordpress.com/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 <!-- more -->
@@ -57,8 +58,10 @@ Picks
 
 #### Adam
 
+#### Lusis
+
 Download
 --------
 * Audio - Coming soon!
-* Video stream - Coming soon!
+* [Video](http://youtu.be/LuiiwPOZ0Ww)
  
