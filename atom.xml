@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-17T13:02:22-04:00</updated>
+  <updated>2013-06-17T13:20:49-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -24,7 +24,8 @@
 
 <h1>Watch Now</h1>
 
-<p>Video stream coming soon!</p>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/LuiiwPOZ0Ww" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#panel">Panel</a></li>
@@ -35,7 +36,7 @@
 
 <ul>
 <li>Audio - Coming Soon!</li>
-<li>Video stream Coming Soon!</li>
+<li><a href="http://youtu.be/LuiiwPOZ0Ww">Video</a></li>
 </ul>
 </li>
 </ul>
@@ -48,6 +49,7 @@
 <li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a>, <a href="https://github.com/adamhjk">github</a></li>
 <li>Mike McGarr <a href="https://twitter.com/jmichaelmcgarr">twitter</a>, <a href="http://earlyandoften.wordpress.com/">blog</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
 
@@ -75,11 +77,13 @@
 
 <h4>Adam</h4>
 
+<h4>Lusis</h4>
+
 <h2>Download</h2>
 
 <ul>
 <li>Audio - Coming soon!</li>
-<li>Video stream - Coming soon!</li>
+<li><a href="http://youtu.be/LuiiwPOZ0Ww">Video</a></li>
 </ul>
 
 ]]></content>
