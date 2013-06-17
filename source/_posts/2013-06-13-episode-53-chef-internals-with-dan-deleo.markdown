@@ -11,38 +11,39 @@ categories:
    - ruby
 ---
 
-Show Date: Wednesday, June 12, 2013
+Show Date: June 12, 2013
 
 In today's show we discuss the internals of the chef client code
+
+# Watch Now
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1ulVUl_O47g" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/05/netflix-oss.html#panel)
 * [Chef News](http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#news)
 * [Outline](http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#outline)
 * [Picks](http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#picks)
 * Download
-  * [Video Stream](http://www.youtube.com/watch?v=1ulVUl_O47g&feature=youtu.be)
+  * Audio - Coming Soon!
+  * [Video Stream](http://www.youtube.com/watch?v=1ulVUl_O47g)
+
+Panel<a name="panel"></a>
+-----
+
+* Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
+* Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
+* Daniel DeLeo [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+
+<!-- more -->
 
 News<a name="news"></a>
 ----
 
 [RAMP](http://rampconf.com/) will be held July 11-12 in Budapest, Hungary.  Theo Schlossnagle ([@postwait](http://twitter.com/postwait)) will be the keynote speaker and speakers from Netflix, Yahoo, Dropbox, Percona and other great companies will present their experiences in building scalable systems.  Budapest is beautiful in July and listeners of the Food Fight Show can register with discount code [FOODFIGHTSHOW](http://rampconf.eventbrite.com/?discount=FOODFIGHTSHOW) to save $50.
 
-
-Watch Now
---------
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/1ulVUl_O47g" frameborder="0" allowfullscreen></iframe>
-
-<!-- more -->
-
-Panel<a name="panel"></a>
------
-
-* Ranjib Dey
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Joshua Timberman
-* Daniel DeLeo
-
+Outline<a name="outline"></a>
+-------
 
 Links
 -----
@@ -70,7 +71,7 @@ Picks<a name="picks"></a>
 #### Joshua
 
 * Check out and participate in Chef internals conversations at
-  #chef-hacking IRC and chef-dev mailing list
+  \#chef-hacking IRC and chef-dev mailing list
 * Shameless self-promotion: my "5 things you didn't know about Chef"
   [talk from Big Ruby 2013](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef).
 * Geeky pick:
