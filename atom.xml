@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-17T12:41:12-04:00</updated>
+  <updated>2013-06-17T13:02:22-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Continuous Delivery]]></title>
+    <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
+    <updated>2013-06-17T12:48:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
+    <content type="html"><![CDATA[<p>Show Date:   <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Continuous+Delivery&amp;iso=20130617T14&amp;p1=1928">Monday, June 17, 2013 18:00 UTC</a></p>
+
+<p>Join us in #foodfightshow on Freenode IRC.</p>
+
+<h1>Watch Now</h1>
+
+<p>Video stream coming soon!</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li>Video stream Coming Soon!</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jez Humble <a href="https://twitter.com/jezhumble">twitter</a>, <a href="https://github.com/Jezhumble">github</a>, <a href="http://continuousdelivery.com/">blog</a></li>
+<li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a>, <a href="https://github.com/adamhjk">github</a></li>
+<li>Mike McGarr <a href="https://twitter.com/jmichaelmcgarr">twitter</a>, <a href="http://earlyandoften.wordpress.com/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Other Resources</h2>
+
+<p>Here&#8217;s a list of things that were mentioned in the show or the IRC backchannel during the episode.</p>
+
+<h2>Picks</h2>
+
+<h4>Nathen</h4>
+
+<h4>Mike McGarr</h4>
+
+<h4>Mike Fiedler</h4>
+
+<h4>Jez</h4>
+
+<h4>Adam</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming soon!</li>
+<li>Video stream - Coming soon!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
@@ -2208,89 +2280,6 @@ greate demonstration of using Push Jobs like primitives.</p>
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=pJ4ahwABPRs">Video Stream</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Logstash]]></title>
-    <link href="http://foodfightshow.org//2013/02/logstash.html"/>
-    <updated>2013-02-13T11:52:00-05:00</updated>
-    <id>http://foodfightshow.org//2013/02/logstash</id>
-    <content type="html"><![CDATA[<p>Show Date:  Wednesday, February 13, 2013</p>
-
-<p>In this episode, we discuss <a href="http://www.logstash.net/">Logstash</a> and <a href="http://logstashbook.com/">The logstash Book</a> with <a href="https://twitter.com/jordansissel">Jordan Sissel</a> and <a href="https://twitter.com/kartar">James Turnbull</a>.</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/02/logstash.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/02/logstash.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/02/logstash.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=zcTeyG80uY0">Video Stream</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Watch Now</h2>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/zcTeyG80uY0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Jordan Sissel <a href="https://twitter.com/jordansissel">twitter</a>, <a href="https://github.com/jordansissel">github</a>, <a href="http://www.semicomplete.com/">blog</a></li>
-<li>James Turnbull <a href="https://twitter.com/kartar">twitter</a>, <a href="https://github.com/jamtur01">github</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Jordan</h4>
-
-<ul>
-<li><a href="http://www.nethack.org/">Net Hack</a></li>
-</ul>
-
-
-<h4>James</h4>
-
-<ul>
-<li><a href="https://github.com/sensu/sensu">Sensu</a></li>
-</ul>
-
-
-<h4>lusis</h4>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=dL9mlqbG5CU">Hammerfall - Hearts On Fire (Curling Version)</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="https://github.com/jordansissel/fpm">fpm</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=zcTeyG80uY0">Video Stream</a></li>
 </ul>
 
 ]]></content>
