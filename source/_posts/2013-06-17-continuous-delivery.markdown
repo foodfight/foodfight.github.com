@@ -15,7 +15,7 @@ Show Date:   June 17, 2013
 
 # Watch Now
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/LuiiwPOZ0Ww" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/h78cMy63XF8" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/06/continuous-delivery.html#panel)
 * [Chef News](http://foodfightshow.org/2013/06/continuous-delivery.html#news)
@@ -23,7 +23,7 @@ Show Date:   June 17, 2013
 * [Picks](http://foodfightshow.org/2013/06/continuous-delivery.html#picks)
 * Download
   * Audio - Coming Soon!
-  * [Video](http://youtu.be/LuiiwPOZ0Ww)
+  * [Video](http://youtu.be/h78cMy63XF8)
 
 Panel<a name="panel"></a>
 -----
@@ -68,5 +68,5 @@ Picks
 Download
 --------
 * Audio - Coming soon!
-* [Video](http://youtu.be/LuiiwPOZ0Ww)
+* [Video](http://youtu.be/h78cMy63XF8)
  
