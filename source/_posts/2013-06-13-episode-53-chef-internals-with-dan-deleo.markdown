@@ -45,15 +45,31 @@ News<a name="news"></a>
 Outline<a name="outline"></a>
 -------
 
-Links
------
+* [RAMP Conf](http://rampconf.com/) July 11-12 in Budapest, Hungary (Discount Code: FOODFIGHTSHOW for $50 off) 
+* Introductions
+* The idea of the episode
+* Hierarchy 
+ * Pry
+ * [ruby-prof](https://github.com/rdp/ruby-prof)
+ * [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
 * [Chef::Client](https://github.com/opscode/chef/blob/master/lib/chef/client.rb)
-* [Chef::CookbookLoader](https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb)
 * [Chef::RunContext](https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb)
+ * God Objects
+* [Chef::CookbookLoader](https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb)
+* Converge
+* Resources
+* Notifications
+ * Immediate
+ * Delayed
+* Events
+* Documentation
+* Converge by
+* Resources vs Providers
 * [File Provider changes in 11.6](http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html)
-* [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
-* [ruby-prof](https://github.com/rdp/ruby-prof)
-
+* Knife
+* The Node Object
+* Extending Resources and Providers
+* Private Methods
 
 Picks<a name="picks"></a>
 -----
