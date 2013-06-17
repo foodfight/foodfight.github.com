@@ -6,12 +6,12 @@ comments: true
 categories: 
   - jezhumble
   - adamhjk
+  - jmichaelmcgarr
+  - devops
   - continuousdelivery
 ---
 
-Show Date:   [Monday, June 17, 2013 18:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Continuous+Delivery&iso=20130617T14&p1=1928)
-
-Join us in #foodfightshow on Freenode IRC.  
+Show Date:   June 17, 2013
 
 # Watch Now
 
@@ -46,20 +46,18 @@ Chef News<a name="news"></a>
 Outline<a name="outline"></a>
 -------
 
-## Other Resources
-
-Here's a list of things that were mentioned in the show or the IRC backchannel during the episode.
-
 Picks
 -----
 #### Nathen
 
 * [Mike Fiedler's "What's in this Cookbook" talk](http://www.youtube.com/watch?v=bmGQVo7UHbU&feature=share&list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ) from a recent meetup group.
 * [The Magic Tricks of Testing](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf) - A talk from Sandi Metz given at [RubyNation](http://rubynation.org)
+* [Adam's #ChefConf Keynote](http://www.opscode.com/blog/chefconf-talks/chefconf-2013-keynote-session-opscode-adam-jacob/)
 
 #### Mike McGarr
 
 #### Mike Fiedler
+* [cane](http://corner.squareup.com/2012/02/cane.html)
 
 #### Jez
 
