@@ -354,7 +354,11 @@
     </url>
     <url>
         <loc>http://foodfightshow.org//2013/06/amazon-web-services.html</loc>
-        <lastmod>2013-06-10T12:32:22-04:00</lastmod>
+        <lastmod>2013-06-17T12:21:24-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html</loc>
+        <lastmod>2013-06-17T12:40:40-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfightshow.org//about/</loc>
@@ -362,10 +366,10 @@
     </url>
     <url>
         <loc>http://foodfightshow.org//blog/archives/</loc>
-        <lastmod>2013-06-10T12:32:22-04:00</lastmod>
+        <lastmod>2013-06-17T12:40:40-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodfightshow.org//</loc>
-        <lastmod>2013-06-10T12:32:22-04:00</lastmod>
+        <lastmod>2013-06-17T12:40:40-04:00</lastmod>
     </url>
 </urlset>
