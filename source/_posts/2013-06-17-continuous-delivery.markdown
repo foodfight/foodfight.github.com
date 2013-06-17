@@ -39,6 +39,10 @@ Panel<a name="panel"></a>
 Chef News<a name="news"></a>
 ---------
 
+* [Continuous Delivery at SAP](https://www.dropbox.com/s/ps4icmboani9wpn/SAP%20Continuous%20Delivery%20-%20JFokus%202013.pdf)
+* [Jenkins running Test-Kitchen via Vagrant. On Windows.](http://www.kickflop.net/blog/2013/06/11/jenkins-running-test-kitchen-via-vagrant-on-windows/)
+* [Using Opscode Chef on Blue Box with Knife Bluebox](https://www.bluebox.net/about/blog/2013/06/using-opscode-chef-on-blue-box-with-knife-bluebox/)
+
 Outline<a name="outline"></a>
 -------
 
@@ -49,6 +53,9 @@ Here's a list of things that were mentioned in the show or the IRC backchannel d
 Picks
 -----
 #### Nathen
+
+* [Mike Fiedler's "What's in this Cookbook" talk](http://www.youtube.com/watch?v=bmGQVo7UHbU&feature=share&list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ) from a recent meetup group.
+* [The Magic Tricks of Testing](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf) - A talk from Sandi Metz given at [RubyNation](http://rubynation.org)
 
 #### Mike McGarr
 
