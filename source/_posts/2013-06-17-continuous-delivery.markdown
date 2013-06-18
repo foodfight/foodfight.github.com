@@ -112,7 +112,7 @@ Picks
 
 #### Bryan
 * [The Getting Started Guide for Elixir](http://elixir-lang.org/getting_started/1.html)
-* [Reoc Core] 
+* [riak-core](https://github.com/basho/riak_core)
 
 Download
 --------
