@@ -13,7 +13,7 @@ categories:
 
 Show Date: June 12, 2013
 
-In today's show we discuss the internals of the chef client code
+In today's show we discuss the internals of the chef client code.
 
 # Watch Now
 
