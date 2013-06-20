@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-17T15:44:10-04:00</updated>
+  <updated>2013-06-20T06:21:09-07:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Continuous Delivery]]></title>
     <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
-    <updated>2013-06-17T12:48:00-04:00</updated>
+    <updated>2013-06-17T12:48:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
     <content type="html"><![CDATA[<p>Show Date:   June 17, 2013</p>
 
@@ -47,8 +47,8 @@
 <li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a>, <a href="https://github.com/adamhjk">github</a></li>
 <li>Mike McGarr <a href="https://twitter.com/jmichaelmcgarr">twitter</a>, <a href="http://earlyandoften.wordpress.com/">blog</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 </ul>
 
 
@@ -66,6 +66,43 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
+<ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li>Continuous Delivery definition</li>
+<li>Evolution</li>
+<li>Getting started with Continuous Delivery</li>
+<li>Continuous Integration</li>
+<li>Version Control</li>
+<li>Continuous Delivery vs Continuous Deployment vs Continuous Integration</li>
+<li>Continuous Integration vs Continuous Delivery</li>
+<li>Shipment Automation</li>
+<li>Never introducing regressions</li>
+<li>The Deployment Pipeline</li>
+<li>Changing the state of a system</li>
+<li>Gates and Phases</li>
+<li>Expand</li>
+<li>Releasing changes</li>
+<li>Frequency</li>
+<li>User Confusion</li>
+<li>Value</li>
+<li>Sales &amp; Marketing</li>
+<li>Feedback</li>
+<li>Business Value</li>
+<li>Technology Decisions</li>
+<li>Tooling</li>
+<li>Growing people within an organization</li>
+<li>Competency</li>
+<li>Continuous Delivery for infrastructure</li>
+<li>DNS</li>
+<li>What is right for the business?</li>
+<li>Customer Service</li>
+<li>AB Testing and Continuous Delivery</li>
+<li>Continuous Delivery in DevOps</li>
+<li><a href="http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/">DevOps - The Title Match: John Vincent</a></li>
+</ul>
+
+
 <h2>Picks</h2>
 
 <h4>Nathen</h4>
@@ -79,18 +116,48 @@
 
 <h4>Mike McGarr</h4>
 
+<ul>
+<li><a href="http://beeradvocate.com/beer/profile/1416/67046/?ba=russj117">Dubhe Imperial Black IPA</a></li>
+<li><a href="https://github.com/jenkinsci/job-dsl-plugin">jenkinsci/job-dsl-plugin</a></li>
+<li><a href="http://www.amazon.com/Pandoras-Star-Peter-F-Hamilton/dp/0345479211/ref=sr_1_1?ie=UTF8&amp;qid=1371581952&amp;sr=8-1&amp;keywords=pandora+star">Pandora&#8217;s Star by Peter F. Hamilton</a></li>
+<li><a href="http://www.amazon.com/Putting-Out-Your-Mind-Rotella/dp/0743212134/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1371582033&amp;sr=1-1&amp;keywords=putting+out+of+your+mind">Putting Out of Your Mind by Bob Rotella</a></li>
+<li><a href="http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1371582084&amp;sr=1-1&amp;keywords=growing+object-oriented+software+guided+by+tests">Growing Object-Oriented Software, Guided by Tests by Steve Freeman and Nat Pryce</a></li>
+</ul>
+
+
 <h4>Mike Fiedler</h4>
 
 <ul>
 <li><a href="http://corner.squareup.com/2012/02/cane.html">cane</a></li>
+<li>Skydiving</li>
 </ul>
 
 
 <h4>Jez</h4>
 
+<ul>
+<li><a href="http://www.fjords.com/">The Fjords</a></li>
+<li><a href="http://www.amazon.com/Implementing-Beyond-Budgeting-Unlocking-Performance/dp/0470405163">Implementing Beyond Budgeting: Unlocking the Performance Potential by Bjarte Bogsnes</a></li>
+</ul>
+
+
 <h4>Adam</h4>
 
-<h4>Lusis</h4>
+<ul>
+<li><a href="https://itunes.apple.com/us/album/the-devil-put-dinosaurs-here/id622941441">The Devil Put Dinosaurs Here by Alice in Chains</a></li>
+<li><a href="https://itunes.apple.com/us/album/...like-clockwork/id630719740?ign-mpt=uo%3D4">&#8230;Like Clockwork by Queens of the Stone Age</a></li>
+<li><a href="https://github.com/opscode/test-kitchen">test-kitchen</a></li>
+<li><a href="http://www.norcalpiratefestival.com/">piratefest</a></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://elixir-lang.org/getting_started/1.html">The Getting Started Guide for Elixir</a></li>
+<li><a href="https://github.com/basho/riak_core">riak-core</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
@@ -105,11 +172,11 @@
   <entry>
     <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
     <link href="http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html"/>
-    <updated>2013-06-13T09:47:00-04:00</updated>
+    <updated>2013-06-13T09:47:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo</id>
     <content type="html"><![CDATA[<p>Show Date: June 12, 2013</p>
 
-<p>In today&#8217;s show we discuss the internals of the chef client code</p>
+<p>In today&#8217;s show we discuss the internals of the chef client code.</p>
 
 <h1>Watch Now</h1>
 
@@ -150,15 +217,32 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
-<h2>Links</h2>
-
 <ul>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/client.rb">Chef::Client</a></li>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb">Chef::CookbookLoader</a></li>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb">Chef::RunContext</a></li>
-<li><a href="http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html">File Provider changes in 11.6</a></li>
-<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
+<li><a href="http://rampconf.com/">RAMP Conf</a> July 11-12 in Budapest, Hungary (Discount Code: FOODFIGHTSHOW for $50 off)</li>
+<li>Introductions</li>
+<li>The idea of the episode</li>
+<li>Hierarchy</li>
+<li>Pry</li>
 <li><a href="https://github.com/rdp/ruby-prof">ruby-prof</a></li>
+<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/client.rb">Chef::Client</a></li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb">Chef::RunContext</a></li>
+<li>God Objects</li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb">Chef::CookbookLoader</a></li>
+<li>Converge</li>
+<li>Resources</li>
+<li>Notifications</li>
+<li>Immediate</li>
+<li>Delayed</li>
+<li>Events</li>
+<li>Documentation</li>
+<li>Converge by</li>
+<li>Resources vs Providers</li>
+<li><a href="http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html">File Provider changes in 11.6</a></li>
+<li>Knife</li>
+<li>The Node Object</li>
+<li>Extending Resources and Providers</li>
+<li>Private Methods</li>
 </ul>
 
 
@@ -221,7 +305,7 @@ news to info@foodfightshow.org</p>
   <entry>
     <title type="html"><![CDATA[Amazon Web Services]]></title>
     <link href="http://foodfightshow.org//2013/06/amazon-web-services.html"/>
-    <updated>2013-06-05T07:44:00-04:00</updated>
+    <updated>2013-06-05T07:44:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/amazon-web-services</id>
     <content type="html"><![CDATA[<p>Show Date:  June 5, 2013</p>
 
@@ -435,7 +519,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
     <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
-    <updated>2013-05-22T08:11:00-04:00</updated>
+    <updated>2013-05-22T08:11:00-07:00</updated>
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
     <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
 
@@ -650,7 +734,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Monitorama 2013]]></title>
     <link href="http://foodfightshow.org//2013/05/monitorama-2013.html"/>
-    <updated>2013-05-21T11:32:00-04:00</updated>
+    <updated>2013-05-21T11:32:00-07:00</updated>
     <id>http://foodfightshow.org//2013/05/monitorama-2013</id>
     <content type="html"><![CDATA[<p>Show Date:  29 March 2013</p>
 
@@ -674,7 +758,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Netflix OSS]]></title>
     <link href="http://foodfightshow.org//2013/05/netflix-oss.html"/>
-    <updated>2013-05-09T09:48:00-04:00</updated>
+    <updated>2013-05-09T09:48:00-07:00</updated>
     <id>http://foodfightshow.org//2013/05/netflix-oss</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, May 9, 2013</p>
 
@@ -901,7 +985,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[ChefConf:  Day Two Wrap-up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up.html"/>
-    <updated>2013-04-30T13:46:00-04:00</updated>
+    <updated>2013-04-30T13:46:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -942,7 +1026,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Talking Shop with Spheromak]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak.html"/>
-    <updated>2013-04-27T01:46:00-04:00</updated>
+    <updated>2013-04-27T01:46:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, April 27, 2013</p>
 
@@ -987,7 +1071,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Talking about Push Jobs with Kevin Smith]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html"/>
-    <updated>2013-04-26T17:26:00-04:00</updated>
+    <updated>2013-04-26T17:26:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -1021,7 +1105,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Day 1 Wrap up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up.html"/>
-    <updated>2013-04-26T17:12:00-04:00</updated>
+    <updated>2013-04-26T17:12:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  25 April 2013</p>
 
@@ -1060,7 +1144,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Docker: the Linux container runtime]]></title>
     <link href="http://foodfightshow.org//2013/04/docker-the-linux-container-runtime.html"/>
-    <updated>2013-04-15T12:30:00-04:00</updated>
+    <updated>2013-04-15T12:30:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/docker-the-linux-container-runtime</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, April 15, 2013</p>
 
@@ -1203,7 +1287,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[A Smarter OS]]></title>
     <link href="http://foodfightshow.org//2013/04/a-smarter-os.html"/>
-    <updated>2013-04-08T12:40:00-04:00</updated>
+    <updated>2013-04-08T12:40:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/a-smarter-os</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, April 8, 2013</p>
 
@@ -1416,7 +1500,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[The Phoenix Project]]></title>
     <link href="http://foodfightshow.org//2013/03/the-phoenix-project.html"/>
-    <updated>2013-03-25T17:45:00-04:00</updated>
+    <updated>2013-03-25T17:45:00-07:00</updated>
     <id>http://foodfightshow.org//2013/03/the-phoenix-project</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, March 25, 2013</p>
 
@@ -1567,7 +1651,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[elasticsearch]]></title>
     <link href="http://foodfightshow.org//2013/03/elasticsearch.html"/>
-    <updated>2013-03-19T10:09:00-04:00</updated>
+    <updated>2013-03-19T10:09:00-07:00</updated>
     <id>http://foodfightshow.org//2013/03/elasticsearch</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, March 19</p>
 
@@ -1714,7 +1798,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[LWRPs]]></title>
     <link href="http://foodfightshow.org//2013/03/lwrps.html"/>
-    <updated>2013-03-13T08:00:00-04:00</updated>
+    <updated>2013-03-13T08:00:00-07:00</updated>
     <id>http://foodfightshow.org//2013/03/lwrps</id>
     <content type="html"><![CDATA[<p>Show Date:  Wednesday, March 13, 2013</p>
 
@@ -1875,7 +1959,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Zookeeper, the Secret Sauce]]></title>
     <link href="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html"/>
-    <updated>2013-03-13T00:00:00-04:00</updated>
+    <updated>2013-03-13T00:00:00-07:00</updated>
     <id>http://foodfightshow.org//2013/03/episode-46-zookeeper1</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 12 March 2013</p>
 
@@ -1978,7 +2062,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Hangops]]></title>
     <link href="http://foodfightshow.org//2013/03/hangops.html"/>
-    <updated>2013-03-11T07:33:00-04:00</updated>
+    <updated>2013-03-11T07:33:00-07:00</updated>
     <id>http://foodfightshow.org//2013/03/hangops</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, March 8, 2013</p>
 
@@ -1999,7 +2083,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Adaptive Fault Detection]]></title>
     <link href="http://foodfightshow.org//2013/03/adaptive-fault-detection.html"/>
-    <updated>2013-03-04T10:49:00-05:00</updated>
+    <updated>2013-03-04T10:49:00-08:00</updated>
     <id>http://foodfightshow.org//2013/03/adaptive-fault-detection</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, March 4, 2013</p>
 
@@ -2103,7 +2187,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Chef 11]]></title>
     <link href="http://foodfightshow.org//2013/02/chef-11.html"/>
-    <updated>2013-02-20T11:39:00-05:00</updated>
+    <updated>2013-02-20T11:39:00-08:00</updated>
     <id>http://foodfightshow.org//2013/02/chef-11</id>
     <content type="html"><![CDATA[<p>Show Date:  Wednesday, February 20, 2013</p>
 
@@ -2203,7 +2287,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Saving the World with DevOps - Big Data and HPC]]></title>
     <link href="http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc.html"/>
-    <updated>2013-02-19T10:53:00-05:00</updated>
+    <updated>2013-02-19T10:53:00-08:00</updated>
     <id>http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, February 19, 2013</p>
 

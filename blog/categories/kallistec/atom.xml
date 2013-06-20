@@ -4,7 +4,7 @@
   <title><![CDATA[Category: kallistec | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/kallistec/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-17T15:44:10-04:00</updated>
+  <updated>2013-06-20T06:21:09-07:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,11 +16,11 @@
   <entry>
     <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
     <link href="http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html"/>
-    <updated>2013-06-13T09:47:00-04:00</updated>
+    <updated>2013-06-13T09:47:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo</id>
     <content type="html"><![CDATA[<p>Show Date: June 12, 2013</p>
 
-<p>In today's show we discuss the internals of the chef client code</p>
+<p>In today's show we discuss the internals of the chef client code.</p>
 
 <h1>Watch Now</h1>
 
@@ -61,15 +61,32 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
-<h2>Links</h2>
-
 <ul>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/client.rb">Chef::Client</a></li>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb">Chef::CookbookLoader</a></li>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb">Chef::RunContext</a></li>
-<li><a href="http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html">File Provider changes in 11.6</a></li>
-<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
+<li><a href="http://rampconf.com/">RAMP Conf</a> July 11-12 in Budapest, Hungary (Discount Code: FOODFIGHTSHOW for $50 off)</li>
+<li>Introductions</li>
+<li>The idea of the episode</li>
+<li>Hierarchy</li>
+<li>Pry</li>
 <li><a href="https://github.com/rdp/ruby-prof">ruby-prof</a></li>
+<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/client.rb">Chef::Client</a></li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb">Chef::RunContext</a></li>
+<li>God Objects</li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb">Chef::CookbookLoader</a></li>
+<li>Converge</li>
+<li>Resources</li>
+<li>Notifications</li>
+<li>Immediate</li>
+<li>Delayed</li>
+<li>Events</li>
+<li>Documentation</li>
+<li>Converge by</li>
+<li>Resources vs Providers</li>
+<li><a href="http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html">File Provider changes in 11.6</a></li>
+<li>Knife</li>
+<li>The Node Object</li>
+<li>Extending Resources and Providers</li>
+<li>Private Methods</li>
 </ul>
 
 
@@ -132,7 +149,7 @@ news to info@foodfightshow.org</p>
   <entry>
     <title type="html"><![CDATA[Chef 11]]></title>
     <link href="http://foodfightshow.org//2013/02/chef-11.html"/>
-    <updated>2013-02-20T11:39:00-05:00</updated>
+    <updated>2013-02-20T11:39:00-08:00</updated>
     <id>http://foodfightshow.org//2013/02/chef-11</id>
     <content type="html"><![CDATA[<p>Show Date:  Wednesday, February 20, 2013</p>
 
