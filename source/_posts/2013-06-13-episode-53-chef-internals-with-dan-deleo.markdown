@@ -24,7 +24,7 @@ In today's show we discuss the internals of the chef client code.
 * [Outline](http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#outline)
 * [Picks](http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=1ulVUl_O47g)
 
 Panel<a name="panel"></a>
@@ -106,9 +106,11 @@ refreshing, even on a hot summer day
 * [ruby-prof](https://github.com/rdp/ruby-prof)
 
 
+Download
+--------
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3)
+* [Video Stream](http://www.youtube.com/watch?v=1ulVUl_O47g)
 
-CLOSE
------
 
 Make sure to subscribe to the [Foodfight Weekly Newsletter](http://bit.ly/ffsmail) and send your cookbook
 news to info@foodfightshow.org
