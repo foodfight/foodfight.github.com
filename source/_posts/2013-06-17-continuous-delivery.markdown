@@ -22,7 +22,7 @@ Show Date:   June 17, 2013
 * [Outline](http://foodfightshow.org/2013/06/continuous-delivery.html#outline)
 * [Picks](http://foodfightshow.org/2013/06/continuous-delivery.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3)
   * [Video](http://youtu.be/h78cMy63XF8)
 
 Panel<a name="panel"></a>
@@ -116,6 +116,6 @@ Picks
 
 Download
 --------
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3)
 * [Video](http://youtu.be/h78cMy63XF8)
  
