@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rberger | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/rberger/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-06-28T15:49:33-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays - Silicon Valley]]></title>
+    <link href="http://foodfightshow.org//2013/06/devopsdays-silicon-valley.html"/>
+    <updated>2013-06-28T15:24:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/06/devopsdays-silicon-valley</id>
+    <content type="html"><![CDATA[<p>Show Date:  June 21, 2013</p>
+
+<p>Join this episode where we re-cap <a href="http://devopsdays.org/events/2013-mountainview/">DevOpsDays Silicon Valley</a>.  We were lucky enough to have members from <a href="http://theshipshow.com/2013/06/devopsdays-silicon-valley-2013-super-panel/">The Ship Show</a> and <a href="http://devopscafe.org/">DevOps Cafe</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>J. Paul Reed <a href="https://twitter.com/SoberBuildEng">twitter</a></li>
+<li>Sascha Bates <a href="https://github.com/sbates">github</a>, <a href="https://twitter.com/sascha_d">twitter</a></li>
+<li>Patrick Debois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a></li>
+<li>Damon Edwards <a href="https://github.com/damonedwards">github</a>, <a href="https://twitter.com/damonedwards">twitter</a></li>
+<li>Robert Berger <a href="http://twitter.com/rberger">github</a>, <a href="https://github.com/rberger">github</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li><a href="http://cdn.oreillystatic.com/en/assets/1/event/94/Operations%20Level%20Up%20Presentation.pdf">Operations Level Up</a> - Presentation from Mandi Walls ([@lnxchk])(https://twitter.com/lnxchk)</li>
+<li><a href="https://speakerdeck.com/sethvargo/test-driven-infrastructure-with-chef">Test-driven Infrastructure with Chef</a></li>
+<li><a href="http://www.slideshare.net/danmil30/how-to-run-a-postmortem-with-humans-not-robots-velocity-2013">How To Run a Post-mortem with Humans (Not Robots)</a></li>
+<li><a href="http://twitter.com/mrhinkle">@mrhinkle</a> and <a href="http://buildacloud.org">buildacloud.org</a></li>
+<li><a href="http://vimeo.com/69081899">Is your Team Instrument Rated (or: Deploying 89.000 times a day)</a></li>
+<li><a href="https://speakerdeck.com/nathenharvey/devop-with-me">DevOp with Me</a> - Nathen's Lightning talk.</li>
+<li><a href="http://vimeo.com/69084514">Leveling Up a New Engineer in a Devops Culture; Healthy Sustainability</a></li>
+<li><a href="http://vimeo.com/69092627">DevOps and the CIA</a></li>
+<li><a href="http://vimeo.com/69100789">Beer Pinapples and Bottlenecks</a></li>
+<li><a href="http://vimeo.com/album/2435220">All the talks are now available!</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

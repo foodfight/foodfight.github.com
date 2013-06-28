@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-06-21T06:22:24-07:00</updated>
+  <updated>2013-06-28T15:49:33-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,68 @@
 
   
   <entry>
+    <title type="html"><![CDATA[DevOpsDays - Silicon Valley]]></title>
+    <link href="http://foodfightshow.org//2013/06/devopsdays-silicon-valley.html"/>
+    <updated>2013-06-28T15:24:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/06/devopsdays-silicon-valley</id>
+    <content type="html"><![CDATA[<p>Show Date:  June 21, 2013</p>
+
+<p>Join this episode where we re-cap <a href="http://devopsdays.org/events/2013-mountainview/">DevOpsDays Silicon Valley</a>.  We were lucky enough to have members from <a href="http://theshipshow.com/2013/06/devopsdays-silicon-valley-2013-super-panel/">The Ship Show</a> and <a href="http://devopscafe.org/">DevOps Cafe</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>J. Paul Reed <a href="https://twitter.com/SoberBuildEng">twitter</a></li>
+<li>Sascha Bates <a href="https://github.com/sbates">github</a>, <a href="https://twitter.com/sascha_d">twitter</a></li>
+<li>Patrick Debois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a></li>
+<li>Damon Edwards <a href="https://github.com/damonedwards">github</a>, <a href="https://twitter.com/damonedwards">twitter</a></li>
+<li>Robert Berger <a href="http://twitter.com/rberger">github</a>, <a href="https://github.com/rberger">github</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li><a href="http://cdn.oreillystatic.com/en/assets/1/event/94/Operations%20Level%20Up%20Presentation.pdf">Operations Level Up</a> - Presentation from Mandi Walls ([@lnxchk])(https://twitter.com/lnxchk)</li>
+<li><a href="https://speakerdeck.com/sethvargo/test-driven-infrastructure-with-chef">Test-driven Infrastructure with Chef</a></li>
+<li><a href="http://www.slideshare.net/danmil30/how-to-run-a-postmortem-with-humans-not-robots-velocity-2013">How To Run a Post-mortem with Humans (Not Robots)</a></li>
+<li><a href="http://twitter.com/mrhinkle">@mrhinkle</a> and <a href="http://buildacloud.org">buildacloud.org</a></li>
+<li><a href="http://vimeo.com/69081899">Is your Team Instrument Rated (or: Deploying 89.000 times a day)</a></li>
+<li><a href="https://speakerdeck.com/nathenharvey/devop-with-me">DevOp with Me</a> - Nathen&#8217;s Lightning talk.</li>
+<li><a href="http://vimeo.com/69084514">Leveling Up a New Engineer in a Devops Culture; Healthy Sustainability</a></li>
+<li><a href="http://vimeo.com/69092627">DevOps and the CIA</a></li>
+<li><a href="http://vimeo.com/69100789">Beer Pinapples and Bottlenecks</a></li>
+<li><a href="http://vimeo.com/album/2435220">All the talks are now available!</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Continuous Delivery]]></title>
     <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
-    <updated>2013-06-17T12:48:00-07:00</updated>
+    <updated>2013-06-17T12:48:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
     <content type="html"><![CDATA[<p>Show Date:   June 17, 2013</p>
 
@@ -172,7 +231,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
     <link href="http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html"/>
-    <updated>2013-06-13T09:47:00-07:00</updated>
+    <updated>2013-06-13T09:47:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo</id>
     <content type="html"><![CDATA[<p>Show Date: June 12, 2013</p>
 
@@ -311,7 +370,7 @@ news to info@foodfightshow.org</p>
   <entry>
     <title type="html"><![CDATA[Amazon Web Services]]></title>
     <link href="http://foodfightshow.org//2013/06/amazon-web-services.html"/>
-    <updated>2013-06-05T07:44:00-07:00</updated>
+    <updated>2013-06-05T07:44:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/amazon-web-services</id>
     <content type="html"><![CDATA[<p>Show Date:  June 5, 2013</p>
 
@@ -525,7 +584,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
     <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
-    <updated>2013-05-22T08:11:00-07:00</updated>
+    <updated>2013-05-22T08:11:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
     <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
 
@@ -740,7 +799,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Monitorama 2013]]></title>
     <link href="http://foodfightshow.org//2013/05/monitorama-2013.html"/>
-    <updated>2013-05-21T11:32:00-07:00</updated>
+    <updated>2013-05-21T11:32:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/monitorama-2013</id>
     <content type="html"><![CDATA[<p>Show Date:  29 March 2013</p>
 
@@ -764,7 +823,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Netflix OSS]]></title>
     <link href="http://foodfightshow.org//2013/05/netflix-oss.html"/>
-    <updated>2013-05-09T09:48:00-07:00</updated>
+    <updated>2013-05-09T09:48:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/netflix-oss</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, May 9, 2013</p>
 
@@ -991,7 +1050,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[ChefConf:  Day Two Wrap-up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up.html"/>
-    <updated>2013-04-30T13:46:00-07:00</updated>
+    <updated>2013-04-30T13:46:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -1032,7 +1091,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Talking Shop with Spheromak]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak.html"/>
-    <updated>2013-04-27T01:46:00-07:00</updated>
+    <updated>2013-04-27T01:46:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, April 27, 2013</p>
 
@@ -1077,7 +1136,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Talking about Push Jobs with Kevin Smith]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html"/>
-    <updated>2013-04-26T17:26:00-07:00</updated>
+    <updated>2013-04-26T17:26:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -1111,7 +1170,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Day 1 Wrap up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up.html"/>
-    <updated>2013-04-26T17:12:00-07:00</updated>
+    <updated>2013-04-26T17:12:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  25 April 2013</p>
 
@@ -1150,7 +1209,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Docker: the Linux container runtime]]></title>
     <link href="http://foodfightshow.org//2013/04/docker-the-linux-container-runtime.html"/>
-    <updated>2013-04-15T12:30:00-07:00</updated>
+    <updated>2013-04-15T12:30:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/docker-the-linux-container-runtime</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, April 15, 2013</p>
 
@@ -1293,7 +1352,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[A Smarter OS]]></title>
     <link href="http://foodfightshow.org//2013/04/a-smarter-os.html"/>
-    <updated>2013-04-08T12:40:00-07:00</updated>
+    <updated>2013-04-08T12:40:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/a-smarter-os</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, April 8, 2013</p>
 
@@ -1506,7 +1565,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[The Phoenix Project]]></title>
     <link href="http://foodfightshow.org//2013/03/the-phoenix-project.html"/>
-    <updated>2013-03-25T17:45:00-07:00</updated>
+    <updated>2013-03-25T17:45:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/the-phoenix-project</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, March 25, 2013</p>
 
@@ -1657,7 +1716,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[elasticsearch]]></title>
     <link href="http://foodfightshow.org//2013/03/elasticsearch.html"/>
-    <updated>2013-03-19T10:09:00-07:00</updated>
+    <updated>2013-03-19T10:09:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/elasticsearch</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, March 19</p>
 
@@ -1804,7 +1863,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[LWRPs]]></title>
     <link href="http://foodfightshow.org//2013/03/lwrps.html"/>
-    <updated>2013-03-13T08:00:00-07:00</updated>
+    <updated>2013-03-13T08:00:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/lwrps</id>
     <content type="html"><![CDATA[<p>Show Date:  Wednesday, March 13, 2013</p>
 
@@ -1965,7 +2024,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Zookeeper, the Secret Sauce]]></title>
     <link href="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html"/>
-    <updated>2013-03-13T00:00:00-07:00</updated>
+    <updated>2013-03-13T00:00:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/episode-46-zookeeper1</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 12 March 2013</p>
 
@@ -2068,7 +2127,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Hangops]]></title>
     <link href="http://foodfightshow.org//2013/03/hangops.html"/>
-    <updated>2013-03-11T07:33:00-07:00</updated>
+    <updated>2013-03-11T07:33:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/hangops</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, March 8, 2013</p>
 
@@ -2089,7 +2148,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Adaptive Fault Detection]]></title>
     <link href="http://foodfightshow.org//2013/03/adaptive-fault-detection.html"/>
-    <updated>2013-03-04T10:49:00-08:00</updated>
+    <updated>2013-03-04T10:49:00-05:00</updated>
     <id>http://foodfightshow.org//2013/03/adaptive-fault-detection</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, March 4, 2013</p>
 
@@ -2193,7 +2252,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Chef 11]]></title>
     <link href="http://foodfightshow.org//2013/02/chef-11.html"/>
-    <updated>2013-02-20T11:39:00-08:00</updated>
+    <updated>2013-02-20T11:39:00-05:00</updated>
     <id>http://foodfightshow.org//2013/02/chef-11</id>
     <content type="html"><![CDATA[<p>Show Date:  Wednesday, February 20, 2013</p>
 
@@ -2285,108 +2344,6 @@ greate demonstration of using Push Jobs like primitives.</p>
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-42-chef11.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=yo2vchHd_FE">Video Stream</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Saving the World with DevOps - Big Data and HPC]]></title>
-    <link href="http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc.html"/>
-    <updated>2013-02-19T10:53:00-08:00</updated>
-    <id>http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc</id>
-    <content type="html"><![CDATA[<p>Show Date:  Tuesday, February 19, 2013</p>
-
-<p>In this episode, we discuss the role DevOps can play in helping science overcome some of the most pressing research challenges such as climate change and canceer research.</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=pJ4ahwABPRs">Video Stream</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Watch Now</h2>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/pJ4ahwABPRs" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li><a href="http://blog.jcuff.net/">Dr. James Cuff</a>, <a href="https://twitter.com/jamesdotcuff">twitter</a></li>
-<li><a href="http://anthonygoddard.com">Anthony Goddard</a>, <a href="https://twitter.com/anthonygoddard">twitter</a>, <a href="https://github.com/agoddard">github</a>, <a href="http://ops.anthonygoddard.com">blog</a></li>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>James</h4>
-
-<ul>
-<li><a href="http://julialang.org/">julia</a> - high-level, high-performance dynamic programming language for technical computing.</li>
-</ul>
-
-
-<h4>Anthony</h4>
-
-<ul>
-<li><a href="http://www.alastairhumphreys.com/microadventures-2/">Microadventures</a></li>
-<li><a href="https://twitter.com/search?q=%23microadventures">#microadventures</a></li>
-<li><a href="http://cartodb.com/">CartoDB</a> - hosted PostGIS mapping tool</li>
-</ul>
-
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="http://www.socallinuxexpo.org/scale11x">SCaLE 11x</a></li>
-<li>Kyle Kingsbury - <a href="https://twitter.com/aphyr">@aphyr</a>, <a href="http://aphyr.com/">http://aphyr.com/</a>
-
-<ul>
-<li><a href="http://riemann.io/">Riemann</a></li>
-<li><a href="http://aphyr.com/posts/277-timelike-a-network-simulator">Timelike: a network simulator</a></li>
-<li><a href="http://aphyr.com/posts/278-timelike-2-everything-fails-all-the-time">Timelike 2: everything fails all the time</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://blog.geeksinaction.org/tag/systemd/">systemd for administrators</a></li>
-<li><a href="http://daemianmack.com/magit-cheatsheet.html">Magit cheat sheet</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li>Provide personal help to a cancer patient instead of merely writing a check to a foundation.</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=pJ4ahwABPRs">Video Stream</a></li>
 </ul>
 
 ]]></content>
