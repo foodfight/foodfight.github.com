@@ -7,15 +7,11 @@ categories:
   - erlang
   - otp
 ---
-Show Date: [Monday, July 1, 2013 21:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Erlang+Eye+for+the+DevOps+Guy+%28and+Gal%29&iso=20130701T17&p1=1928&ah=1)
+Show Date: Monday, July 1, 2013
 
 An introduction to Erlang and OTP for operations professionals.
 
-Join \#foodfightshow in Freenode IRC to participate in the conversation!
-
 # Watch Now
-
-Video stream will begin at [21:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Erlang+Eye+for+the+DevOps+Guy+%28and+Gal%29&iso=20130701T17&p1=1928&ah=1)
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/7WqczWKwWOU" frameborder="0" allowfullscreen></iframe>
 
@@ -25,7 +21,7 @@ Video stream will begin at [21:00 UTC](http://www.timeanddate.com/worldclock/fix
 * [Picks](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#picks)
 * Download
   * Audio - Coming Soon!
-  * Video - Coming Soon!
+  * [Video](http://youtube.com/watch?v=7WqczWKwWOU)
 
 Panel<a name="panel"></a>
 ------
@@ -35,6 +31,8 @@ Panel<a name="panel"></a>
 * Hector Castro
 * Seth Thomas
 * Chris Meiklejohn
+* PJ
+* Steve
 
 <!-- more -->
 
@@ -43,6 +41,31 @@ Chef News<a name="news"></a>
  
 Outline<a name="outline"></a>
 -------
+
+### Random Links
+
+Here are a bunch of links that were mentioned in the show, in the backchannel, or as part of the picks.  We'll be organizing these as we put together show notes.
+
+* [http://coq.inria.fr/](http://coq.inria.fr/)
+* [http://en.wikipedia.org/wiki/Coq](http://en.wikipedia.org/wiki/Coq)
+* [http://www.youtube.com/watch?v=GyHXLIHtPDM](http://www.youtube.com/watch?v=GyHXLIHtPDM)
+* [https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+* [http://project-fifo.net/display/PF/Project+FiFo+Home](http://project-fifo.net/display/PF/Project+FiFo+Home)
+* [http://elixir-lang.org/](http://elixir-lang.org/)
+* [http://learnyousomeerlang.com/](http://learnyousomeerlang.com/)
+* [http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf](http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf)
+* [https://github.com/basho/node_package](https://github.com/basho/node_package)
+* [http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding](http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding)
+* [http://erlangcentral.org/event/all19/](http://erlangcentral.org/event/all19/)
+* [http://mostlyerlang.com/](http://mostlyerlang.com/)
+* [http://www.randomaccessmemories.com/](http://www.randomaccessmemories.com/)
+* [https://github.com/extend/cowboy](https://github.com/extend/cowboy)
+* [https://github.com/Shopify/dashing](https://github.com/Shopify/dashing)
+* [http://www.aliceinchains.com/home/](http://www.aliceinchains.com/home/)
+* [http://www.packer.io/](http://www.packer.io/)
+* [http://www.erlang-factory.com/](http://www.erlang-factory.com/)
+* [http://theshipshow.com/](http://theshipshow.com/)
+* [http://www.youtube.com/watch?v=owCu5rveBYI](http://www.youtube.com/watch?v=owCu5rveBYI)
 
 Picks
 -----
@@ -56,5 +79,9 @@ Picks
 #### Hector
 
 #### Chris
+
+#### PJ
+
+#### Steve
 
 
