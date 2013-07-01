@@ -30,7 +30,7 @@ Panel<a name="panel"></a>
 * Seth Thomas [github](https://github.com/cheeseplus), [twitter](https://twitter.com/cheeseplus)
 * Hector Castro
 * Seth Thomas
-* Chris Meiklejohn
+* Chris Meiklejohn [twitter](https://twitter.com/cmeik)
 * PJ
 * Steve
 
