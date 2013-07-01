@@ -4,7 +4,7 @@
   <title><![CDATA[Category: otp | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/otp/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-01T16:41:36-04:00</updated>
+  <updated>2013-07-01T18:22:04-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,15 +18,11 @@
     <link href="http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal.html"/>
     <updated>2013-07-01T15:52:00-04:00</updated>
     <id>http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal</id>
-    <content type="html"><![CDATA[<p>Show Date: <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Erlang+Eye+for+the+DevOps+Guy+%28and+Gal%29&amp;iso=20130701T17&amp;p1=1928&amp;ah=1">Monday, July 1, 2013 21:00 UTC</a></p>
+    <content type="html"><![CDATA[<p>Show Date: Monday, July 1, 2013</p>
 
 <p>An introduction to Erlang and OTP for operations professionals.</p>
 
-<p>Join #foodfightshow in Freenode IRC to participate in the conversation!</p>
-
 <h1>Watch Now</h1>
-
-<p>Video stream will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Erlang+Eye+for+the+DevOps+Guy+%28and+Gal%29&amp;iso=20130701T17&amp;p1=1928&amp;ah=1">21:00 UTC</a></p>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/7WqczWKwWOU" frameborder="0" allowfullscreen></iframe>
 
@@ -40,7 +36,7 @@
 
 <ul>
 <li>Audio - Coming Soon!</li>
-<li>Video - Coming Soon!</li>
+<li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
 </ul>
 </li>
 </ul>
@@ -55,6 +51,8 @@
 <li>Hector Castro</li>
 <li>Seth Thomas</li>
 <li>Chris Meiklejohn</li>
+<li>PJ</li>
+<li>Steve</li>
 </ul>
 
 
@@ -64,6 +62,34 @@
 <h2>Chef News<a name="news"></a></h2>
 
 <h2>Outline<a name="outline"></a></h2>
+
+<h3>Random Links</h3>
+
+<p>Here are a bunch of links that were mentioned in the show, in the backchannel, or as part of the picks.  We'll be organizing these as we put together show notes.</p>
+
+<ul>
+<li><a href="http://coq.inria.fr/">http://coq.inria.fr/</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Coq">http://en.wikipedia.org/wiki/Coq</a></li>
+<li><a href="http://www.youtube.com/watch?v=GyHXLIHtPDM">http://www.youtube.com/watch?v=GyHXLIHtPDM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Finite-state_machine">https://en.wikipedia.org/wiki/Finite-state_machine</a></li>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">http://project-fifo.net/display/PF/Project+FiFo+Home</a></li>
+<li><a href="http://elixir-lang.org/">http://elixir-lang.org/</a></li>
+<li><a href="http://learnyousomeerlang.com/">http://learnyousomeerlang.com/</a></li>
+<li><a href="http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf">http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf</a></li>
+<li><a href="https://github.com/basho/node_package">https://github.com/basho/node_package</a></li>
+<li><a href="http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding">http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding</a></li>
+<li><a href="http://erlangcentral.org/event/all19/">http://erlangcentral.org/event/all19/</a></li>
+<li><a href="http://mostlyerlang.com/">http://mostlyerlang.com/</a></li>
+<li><a href="http://www.randomaccessmemories.com/">http://www.randomaccessmemories.com/</a></li>
+<li><a href="https://github.com/extend/cowboy">https://github.com/extend/cowboy</a></li>
+<li><a href="https://github.com/Shopify/dashing">https://github.com/Shopify/dashing</a></li>
+<li><a href="http://www.aliceinchains.com/home/">http://www.aliceinchains.com/home/</a></li>
+<li><a href="http://www.packer.io/">http://www.packer.io/</a></li>
+<li><a href="http://www.erlang-factory.com/">http://www.erlang-factory.com/</a></li>
+<li><a href="http://theshipshow.com/">http://theshipshow.com/</a></li>
+<li><a href="http://www.youtube.com/watch?v=owCu5rveBYI">http://www.youtube.com/watch?v=owCu5rveBYI</a></li>
+</ul>
+
 
 <h2>Picks</h2>
 
@@ -76,6 +102,10 @@
 <h4>Hector</h4>
 
 <h4>Chris</h4>
+
+<h4>PJ</h4>
+
+<h4>Steve</h4>
 ]]></content>
   </entry>
   
