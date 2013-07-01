@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: otp | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/otp/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-07-01T16:41:36-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Erlang Eye for the DevOps Guy and Gal]]></title>
+    <link href="http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal.html"/>
+    <updated>2013-07-01T15:52:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal</id>
+    <content type="html"><![CDATA[<p>Show Date: <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Erlang+Eye+for+the+DevOps+Guy+%28and+Gal%29&amp;iso=20130701T17&amp;p1=1928&amp;ah=1">Monday, July 1, 2013 21:00 UTC</a></p>
+
+<p>An introduction to Erlang and OTP for operations professionals.</p>
+
+<p>Join #foodfightshow in Freenode IRC to participate in the conversation!</p>
+
+<h1>Watch Now</h1>
+
+<p>Video stream will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Erlang+Eye+for+the+DevOps+Guy+%28and+Gal%29&amp;iso=20130701T17&amp;p1=1928&amp;ah=1">21:00 UTC</a></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/7WqczWKwWOU" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li>Video - Coming Soon!</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
+<li>Hector Castro</li>
+<li>Seth Thomas</li>
+<li>Chris Meiklejohn</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Picks</h2>
+
+<h4>Bryan</h4>
+
+<h4>Nathen</h4>
+
+<h4>Seth</h4>
+
+<h4>Hector</h4>
+
+<h4>Chris</h4>
+]]></content>
+  </entry>
+  
+</feed>
