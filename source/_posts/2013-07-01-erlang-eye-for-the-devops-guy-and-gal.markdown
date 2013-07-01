@@ -16,7 +16,6 @@ An introduction to Erlang and OTP for operations professionals.
 <iframe width="420" height="315" src="http://www.youtube.com/embed/7WqczWKwWOU" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#panel)
-* [Chef News](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#news)
 * [Outline](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#outline)
 * [Picks](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#picks)
 * Download
@@ -36,9 +35,6 @@ Panel<a name="panel"></a>
 
 <!-- more -->
 
-Chef News<a name="news"></a>
----------
- 
 Outline<a name="outline"></a>
 -------
 
