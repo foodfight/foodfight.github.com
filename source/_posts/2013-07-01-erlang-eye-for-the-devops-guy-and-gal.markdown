@@ -37,26 +37,39 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
-### Random Links
-
-Here are a bunch of links that were mentioned in the show, in the backchannel, or as part of the picks.  We'll be organizing these as we put together show notes.
-
-* [http://coq.inria.fr/](http://coq.inria.fr/)
-* [http://en.wikipedia.org/wiki/Coq](http://en.wikipedia.org/wiki/Coq)
-* [http://www.youtube.com/watch?v=GyHXLIHtPDM](http://www.youtube.com/watch?v=GyHXLIHtPDM)
-* [https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)
-* [http://project-fifo.net/display/PF/Project+FiFo+Home](http://project-fifo.net/display/PF/Project+FiFo+Home)
-* [http://elixir-lang.org/](http://elixir-lang.org/)
-* [http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf](http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf)
-* [https://github.com/basho/node_package](https://github.com/basho/node_package)
-* [http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding](http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding)
-* [http://erlangcentral.org/event/all19/](http://erlangcentral.org/event/all19/)
-* [http://www.randomaccessmemories.com/](http://www.randomaccessmemories.com/)
-* [https://github.com/extend/cowboy](https://github.com/extend/cowboy)
-* [https://github.com/Shopify/dashing](https://github.com/Shopify/dashing)
-* [http://www.aliceinchains.com/home/](http://www.aliceinchains.com/home/)
-* [http://www.packer.io/](http://www.packer.io/)
-* [http://www.erlang-factory.com/](http://www.erlang-factory.com/)
+* Introductions
+* [Erlang](http://www.erlang.org/)
+* [Erlang: The Movie](http://www.youtube.com/watch?v=xrIjfIjssLE)
+* Why Erlang is a good choice for operations
+* Erlang Processes
+* CPU caches
+* Garbage Collection/Heap Sizes and Allocation
+ * The Memory Supervisor
+ * Heap Per Process
+ * NUMA Awareness
+* Writing an Application in Erlang vs [Go](http://golang.org/)
+ * [Open Telecom Platform (OTP)](http://en.wikipedia.org/wiki/Open_Telecom_Platform)
+* What is Erlang?
+ * [Prolog](http://en.wikipedia.org/wiki/Prolog)
+ * Functional Programming Principals
+ * External Integration
+* Getting Started with Erlang
+ * [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/)
+ * [Elixir](http://elixir-lang.org/)
+ * [erl](http://www.erlang.org/doc/man/erl.html)
+* [Elixir](http://elixir-lang.org/)
+* The Erlang Syntax
+* Deploying Static Binaries
+ * [node_package](https://github.com/basho/node_package)
+* Code Reloading
+* Tracing
+* Exploring Statistics
+* [riak_core](https://github.com/basho/riak_core)
+ * Cluster Management
+ * [Project Fifo](http://project-fifo.net/display/PF/Project+FiFo+Home)
+ * [riak_kv](https://github.com/basho/riak_kv)
+ * [Finite-state Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+ * [riak_pipe](https://github.com/basho/riak_pipe)
 
 Picks
 -----
@@ -65,8 +78,7 @@ Picks
 
 * [Mostly Erlang podcast](http://mostlyerlang.com)
 * [Learn You Some Erlang](http://learnyousomeerlang.com)
-* [All your Cores are Belong to us: Turbo-Charging for the Many-Core World ](http://www.youtube.com/watch?v=GyHXLIHtPDM)
-
+* [All your Cores are Belong to us: Turbo-Charging for the Many-Core World](http://www.youtube.com/watch?v=GyHXLIHtPDM)
 
 #### Nathen
 
@@ -74,21 +86,26 @@ Picks
 
 #### Seth 
 
-* [Project FIFO](http://project-fifo.net/display/PF/Project+FiFo+Home)
-
-#### Hector
+* [Project Fifo](http://project-fifo.net/display/PF/Project+FiFo+Home)
 
 #### Chris
 
-* All Things Distributed Podcast coming soon! join the [ML](http://eepurl.com/BK2Ff) for updates on it
+* All Things Distributed Podcast coming soon! join the [Mailing List](http://eepurl.com/BK2Ff) for updates on it
 * [Hitchhiker's Guide to the Erlang VM](http://www.youtube.com/watch?v=owCu5rveBYI)
-
+* [The Coq Proof Assistant](http://coq.inria.fr/)
 
 #### PJ
 
+* [dashing](https://github.com/Shopify/dashing)
+* [cowboy](https://github.com/extend/cowboy)
+* [Daft Punk: Random Access Memories](http://www.randomaccessmemories.com/)
+
 #### Steve
 
-* [Erlang Solutions Youtube channel](http://www.youtube.com/user/ErlangSolutions)
+* [Erlang Solutions YouTube Channel](http://www.youtube.com/user/ErlangSolutions)
 * [The Kid is not my son](http://steve.vinoski.net/blog/2008/04/21/father-of-corba-not/)
+* [Alice in Chaings: The Devil Put Dinosaurs Here](https://itunes.apple.com/us/album/the-devil-put-dinosaurs-here/id622941441)
 
+#### Hector
 
+* [Packer](http://www.packer.io/)
