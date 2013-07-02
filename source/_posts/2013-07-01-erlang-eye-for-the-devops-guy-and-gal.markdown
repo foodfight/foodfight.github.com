@@ -27,11 +27,10 @@ Panel<a name="panel"></a>
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Seth Thomas [github](https://github.com/cheeseplus), [twitter](https://twitter.com/cheeseplus)
-* Hector Castro
-* Seth Thomas
-* Chris Meiklejohn [twitter](https://twitter.com/cmeik)
-* PJ
-* Steve
+* Hector Castro  [twitter](https://twitter.com/hectcastro), [github](https://github.com/hectcastro), [blog](http://hectcastro.me/)
+* Chris Meiklejohn [twitter](https://twitter.com/cmeik), [github](https://github.com/cmeiklejohn/), [blog](http://christophermeiklejohn.com/)
+* Panos Papadomitsos (PJ) - [twitter](https://twitter.com/priestjim), [github](https://github.com/priestjim), [blog](http://ezgr.net/)
+* Steve Vinoksi [github](https://github.com/vinoski), [twitter](https://twitter.com/stevevinoski), [blog](http://steve.vinoski.net/blog/)
 
 <!-- more -->
 
