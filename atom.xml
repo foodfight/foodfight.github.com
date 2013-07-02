@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-02T06:38:37-04:00</updated>
+  <updated>2013-07-02T17:02:52-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -59,27 +59,40 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
-<h3>Random Links</h3>
-
-<p>Here are a bunch of links that were mentioned in the show, in the backchannel, or as part of the picks.  We&#8217;ll be organizing these as we put together show notes.</p>
-
 <ul>
-<li><a href="http://coq.inria.fr/">http://coq.inria.fr/</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Coq">http://en.wikipedia.org/wiki/Coq</a></li>
-<li><a href="http://www.youtube.com/watch?v=GyHXLIHtPDM">http://www.youtube.com/watch?v=GyHXLIHtPDM</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Finite-state_machine">https://en.wikipedia.org/wiki/Finite-state_machine</a></li>
-<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">http://project-fifo.net/display/PF/Project+FiFo+Home</a></li>
-<li><a href="http://elixir-lang.org/">http://elixir-lang.org/</a></li>
-<li><a href="http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf">http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf</a></li>
-<li><a href="https://github.com/basho/node_package">https://github.com/basho/node_package</a></li>
-<li><a href="http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding">http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding</a></li>
-<li><a href="http://erlangcentral.org/event/all19/">http://erlangcentral.org/event/all19/</a></li>
-<li><a href="http://www.randomaccessmemories.com/">http://www.randomaccessmemories.com/</a></li>
-<li><a href="https://github.com/extend/cowboy">https://github.com/extend/cowboy</a></li>
-<li><a href="https://github.com/Shopify/dashing">https://github.com/Shopify/dashing</a></li>
-<li><a href="http://www.aliceinchains.com/home/">http://www.aliceinchains.com/home/</a></li>
-<li><a href="http://www.packer.io/">http://www.packer.io/</a></li>
-<li><a href="http://www.erlang-factory.com/">http://www.erlang-factory.com/</a></li>
+<li>Introductions</li>
+<li><a href="http://www.erlang.org/">Erlang</a></li>
+<li><a href="http://www.youtube.com/watch?v=xrIjfIjssLE">Erlang: The Movie</a></li>
+<li>Why Erlang is a good choice for operations</li>
+<li>Erlang Processes</li>
+<li>CPU caches</li>
+<li>Garbage Collection/Heap Sizes and Allocation</li>
+<li>The Memory Supervisor</li>
+<li>Heap Per Process</li>
+<li>NUMA Awareness</li>
+<li>Writing an Application in Erlang vs <a href="http://golang.org/">Go</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Open_Telecom_Platform">Open Telecom Platform (OTP)</a></li>
+<li>What is Erlang?</li>
+<li><a href="http://en.wikipedia.org/wiki/Prolog">Prolog</a></li>
+<li>Functional Programming Principals</li>
+<li>External Integration</li>
+<li>Getting Started with Erlang</li>
+<li><a href="http://learnyousomeerlang.com/">Learn You Some Erlang for Great Good</a></li>
+<li><a href="http://elixir-lang.org/">Elixir</a></li>
+<li><a href="http://www.erlang.org/doc/man/erl.html">erl</a></li>
+<li><a href="http://elixir-lang.org/">Elixir</a></li>
+<li>The Erlang Syntax</li>
+<li>Deploying Static Binaries</li>
+<li><a href="https://github.com/basho/node_package">node_package</a></li>
+<li>Code Reloading</li>
+<li>Tracing</li>
+<li>Exploring Statistics</li>
+<li><a href="https://github.com/basho/riak_core">riak_core</a></li>
+<li>Cluster Management</li>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project Fifo</a></li>
+<li><a href="https://github.com/basho/riak_kv">riak_kv</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Finite-state_machine">Finite-state Machine</a></li>
+<li><a href="https://github.com/basho/riak_pipe">riak_pipe</a></li>
 </ul>
 
 
@@ -90,7 +103,7 @@
 <ul>
 <li><a href="http://mostlyerlang.com">Mostly Erlang podcast</a></li>
 <li><a href="http://learnyousomeerlang.com">Learn You Some Erlang</a></li>
-<li><a href="http://www.youtube.com/watch?v=GyHXLIHtPDM">All your Cores are Belong to us: Turbo-Charging for the Many-Core World </a></li>
+<li><a href="http://www.youtube.com/watch?v=GyHXLIHtPDM">All your Cores are Belong to us: Turbo-Charging for the Many-Core World</a></li>
 </ul>
 
 
@@ -104,27 +117,41 @@
 <h4>Seth</h4>
 
 <ul>
-<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project FIFO</a></li>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project Fifo</a></li>
 </ul>
 
-
-<h4>Hector</h4>
 
 <h4>Chris</h4>
 
 <ul>
-<li>All Things Distributed Podcast coming soon! join the <a href="http://eepurl.com/BK2Ff">ML</a> for updates on it</li>
+<li>All Things Distributed Podcast coming soon! join the <a href="http://eepurl.com/BK2Ff">Mailing List</a> for updates on it</li>
 <li><a href="http://www.youtube.com/watch?v=owCu5rveBYI">Hitchhiker&#8217;s Guide to the Erlang VM</a></li>
+<li><a href="http://coq.inria.fr/">The Coq Proof Assistant</a></li>
 </ul>
 
 
 <h4>PJ</h4>
 
+<ul>
+<li><a href="https://github.com/Shopify/dashing">dashing</a></li>
+<li><a href="https://github.com/extend/cowboy">cowboy</a></li>
+<li><a href="http://www.randomaccessmemories.com/">Daft Punk: Random Access Memories</a></li>
+</ul>
+
+
 <h4>Steve</h4>
 
 <ul>
-<li><a href="http://www.youtube.com/user/ErlangSolutions">Erlang Solutions Youtube channel</a></li>
+<li><a href="http://www.youtube.com/user/ErlangSolutions">Erlang Solutions YouTube Channel</a></li>
 <li><a href="http://steve.vinoski.net/blog/2008/04/21/father-of-corba-not/">The Kid is not my son</a></li>
+<li><a href="https://itunes.apple.com/us/album/the-devil-put-dinosaurs-here/id622941441">Alice in Chaings: The Devil Put Dinosaurs Here</a></li>
+</ul>
+
+
+<h4>Hector</h4>
+
+<ul>
+<li><a href="http://www.packer.io/">Packer</a></li>
 </ul>
 
 ]]></content>
