@@ -47,37 +47,48 @@ Here are a bunch of links that were mentioned in the show, in the backchannel, o
 * [https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)
 * [http://project-fifo.net/display/PF/Project+FiFo+Home](http://project-fifo.net/display/PF/Project+FiFo+Home)
 * [http://elixir-lang.org/](http://elixir-lang.org/)
-* [http://learnyousomeerlang.com/](http://learnyousomeerlang.com/)
 * [http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf](http://www.erlang-factory.com/upload/presentations/857/JaredEUC-2013.pdf)
 * [https://github.com/basho/node_package](https://github.com/basho/node_package)
 * [http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding](http://www.erlang-factory.com/conference/London2012/speakers/RobertVirding)
 * [http://erlangcentral.org/event/all19/](http://erlangcentral.org/event/all19/)
-* [http://mostlyerlang.com/](http://mostlyerlang.com/)
 * [http://www.randomaccessmemories.com/](http://www.randomaccessmemories.com/)
 * [https://github.com/extend/cowboy](https://github.com/extend/cowboy)
 * [https://github.com/Shopify/dashing](https://github.com/Shopify/dashing)
 * [http://www.aliceinchains.com/home/](http://www.aliceinchains.com/home/)
 * [http://www.packer.io/](http://www.packer.io/)
 * [http://www.erlang-factory.com/](http://www.erlang-factory.com/)
-* [http://theshipshow.com/](http://theshipshow.com/)
-* [http://www.youtube.com/watch?v=owCu5rveBYI](http://www.youtube.com/watch?v=owCu5rveBYI)
-* [Think Distributed Podcast Mailing List](http://t.co/vvdyTKUzjE)
 
 Picks
 -----
 
 #### Bryan
 
+* [Mostly Erlang podcast](http://mostlyerlang.com)
+* [Learn You Some Erlang](http://learnyousomeerlang.com)
+* [All your Cores are Belong to us: Turbo-Charging for the Many-Core World ](http://www.youtube.com/watch?v=GyHXLIHtPDM)
+
+
 #### Nathen
 
+* [The Ship Show Podcast](http://theshipshow.com)
+
 #### Seth 
+
+* [Project FIFO](http://project-fifo.net/display/PF/Project+FiFo+Home)
 
 #### Hector
 
 #### Chris
 
+* All Things Distributed Podcast coming soon! join the [ML](http://eepurl.com/BK2Ff) for updates on it
+* [Hitchhiker's Guide to the Erlang VM](http://www.youtube.com/watch?v=owCu5rveBYI)
+
+
 #### PJ
 
 #### Steve
+
+* [Erlang Solutions Youtube channel](http://www.youtube.com/user/ErlangSolutions)
+* [The Kid is not my son](http://steve.vinoski.net/blog/2008/04/21/father-of-corba-not/)
 
 
