@@ -61,6 +61,7 @@ Here are a bunch of links that were mentioned in the show, in the backchannel, o
 * [http://www.erlang-factory.com/](http://www.erlang-factory.com/)
 * [http://theshipshow.com/](http://theshipshow.com/)
 * [http://www.youtube.com/watch?v=owCu5rveBYI](http://www.youtube.com/watch?v=owCu5rveBYI)
+* [Think Distributed Podcast Mailing List](http://t.co/vvdyTKUzjE)
 
 Picks
 -----
