@@ -4,7 +4,7 @@
   <title><![CDATA[Category: erlang | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/erlang/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-02T17:02:52-04:00</updated>
+  <updated>2013-07-02T17:09:58-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -34,7 +34,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3">Audio</a></li>
 <li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
 </ul>
 </li>
@@ -152,6 +152,14 @@
 
 <ul>
 <li><a href="http://www.packer.io/">Packer</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3">Audio</a></li>
+<li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
 </ul>
 
 ]]></content>
