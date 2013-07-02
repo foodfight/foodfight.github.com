@@ -19,7 +19,7 @@ An introduction to Erlang and OTP for operations professionals.
 * [Outline](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#outline)
 * [Picks](http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3)
   * [Video](http://youtube.com/watch?v=7WqczWKwWOU)
 
 Panel<a name="panel"></a>
@@ -109,3 +109,10 @@ Picks
 #### Hector
 
 * [Packer](http://www.packer.io/)
+
+Download
+--------
+
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3)
+* [Video](http://youtube.com/watch?v=7WqczWKwWOU)
+
