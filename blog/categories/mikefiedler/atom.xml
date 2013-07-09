@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mikefiedler | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mikefiedler/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-09T10:46:53-04:00</updated>
+  <updated>2013-07-09T11:01:55-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,82 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Secret Chef]]></title>
+    <link href="http://foodfightshow.org//2013/07/secret-chef.html"/>
+    <updated>2013-07-09T10:48:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/07/secret-chef</id>
+    <content type="html"><![CDATA[<p>Show Date:  <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">Tuesday, July 9, 2013 16:00 UTC</a></p>
+
+<p>In today's episode, we will discuss managing secrets with Chef.  Please join the conversation in #foodfightshow on Freenode IRC or tweet with #foodfightshow.</p>
+
+<h1>Watch Now</h1>
+
+<p>Video feed will start at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming soon!</li>
+<li>Video - feed will start at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Cameron Johnston - <a href="https://github.com/cwjohnston">github</a>, <a href="https://twitter.com/cwjohnston">twitter</a></li>
+<li>Kevin Moser  <a href="https://github.com/moserke">github</a>, <a href="https://twitter.com/moserke">twitter</a></li>
+<li>Matt Ray <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Miah Johnson <a href="https://github.com/miah">github</a>, <a href="https://twitter.com/miah_">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Picks</h2>
+
+<h4>Bryan</h4>
+
+<h4>Cameron</h4>
+
+<h4>Kevin</h4>
+
+<h4>Matt</h4>
+
+<h4>Miah</h4>
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Five-Dysfunctions-Team-Large-Print/dp/0470580461">The Five Dysfunctions of a Team: A Leadership Fable</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming soon!</li>
+<li>Video - feed will start at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
