@@ -21,7 +21,7 @@ In today's episode, we will discuss managing secrets with Chef.  Please join the
 
 # Watch Now
 
-Video feed will start at [16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&iso=20130709T12&p1=1928&ah=1)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HL59_dot9zw" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/07/secret-chef.html#panel)
 * [Chef News](http://foodfightshow.org/2013/07/secret-chef.html#news)
@@ -29,7 +29,7 @@ Video feed will start at [16:00 UTC](http://www.timeanddate.com/worldclock/fixed
 * [Picks](http://foodfightshow.org/2013/07/secret-chef.html#picks)
 * Download
   * Audio - Coming soon!
-  * Video - feed will start at [16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&iso=20130709T12&p1=1928&ah=1)
+  * [Video](http://www.youtube.com/watch?v=HL59_dot9zw)
 
 Panel<a name="panel"></a>
 ------
@@ -79,4 +79,4 @@ Download
 --------
 
 * Audio - Coming soon!
-* Video - feed will start at [16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&iso=20130709T12&p1=1928&ah=1)
+* [Video](http://www.youtube.com/watch?v=HL59_dot9zw)
