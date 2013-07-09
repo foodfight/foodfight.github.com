@@ -15,9 +15,9 @@ categories:
   - miah_
   - mikefiedler
 ---
-Show Date:  [Tuesday, July 9, 2013 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&iso=20130709T12&p1=1928&ah=1)
+Show Date:  July 9, 2013
 
-In today's episode, we will discuss managing secrets with Chef.  Please join the conversation in #foodfightshow on Freenode IRC or tweet with #foodfightshow.
+In this episode, we discuss managing secrets with Chef.
 
 # Watch Now
 
@@ -53,27 +53,45 @@ Chef News<a name="news"></a>
 Outline<a name="outline"></a>
 -------
 
+* [chef-client cookbook](http://ckbk.it/chef-client) and the delete_validation recipe
+* [Chef Vault](https://github.com/Nordstrom/chef-vault)
+* [Knife Briefcase](https://github.com/3ofcoins/knife-briefcase)
+* [Gazzang zTrustee](http://www.gazzang.com/products/ztrustee)
+* [deploy_key cookbook](https://github.com/cassianoleal/cookbook-deploy_key)
+
 Picks
 -----
-
-#### Bryan
-
 #### Cameron
+
+* [Tour de France](http://www.letour.fr/le-tour/2013/us/)
 
 #### Kevin
 
+* [The Newsroom](http://www.hbo.com/the-newsroom/index.html)
+
 #### Matt
+
+* [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
+* [Electronic Privacy Information Center](http://epic.org/)
+* [Future Perfect: The Case For Progress In A Networked Age](http://www.amazon.com/Future-Perfect-Case-Progress-Networked/dp/1594488207)
+* [ghostery](http://www.ghostery.com/) - But there was some discussion in the backchannel about ghostery:
+  * [A Popular Ad Blocker Also Helps the Ad Industry](http://www.technologyreview.com/news/516156/a-popular-ad-blocker-also-helps-the-ad-industry/)
+  * Miah recommends [adblock-edge](https://addons.mozilla.org/en-us/firefox/addon/adblock-edge/)
 
 #### Miah
 
+* [Security Engineering — The Book](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [Zodiac](http://www.amazon.com/Zodiac-Neal-Stephenson/dp/0802143156/)
+
 #### Mike
 
-* [The Five Dysfunctions of a Team: A Leadership Fable](http://www.amazon.com/Five-Dysfunctions-Team-Large-Print/dp/0470580461)
+* [The Five Dysfunctions of a Team: A Leadership Fable](http://amzn.com/0787960756/)
+* [Cryptonomicon](http://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806)
 
 #### Nathen
 
 * [surge 2013](http://surge.omniti.com/2013/)
-
+* [Food Fight Show Newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d)
 
 Download
 --------
