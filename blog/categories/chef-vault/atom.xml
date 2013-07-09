@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chef-vault | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chef-vault/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-09T11:46:30-04:00</updated>
+  <updated>2013-07-09T13:31:41-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,9 @@
     <link href="http://foodfightshow.org//2013/07/secret-chef.html"/>
     <updated>2013-07-09T10:48:00-04:00</updated>
     <id>http://foodfightshow.org//2013/07/secret-chef</id>
-    <content type="html"><![CDATA[<p>Show Date:  <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">Tuesday, July 9, 2013 16:00 UTC</a></p>
+    <content type="html"><![CDATA[<p>Show Date:  July 9, 2013</p>
 
-<p>In today's episode, we will discuss managing secrets with Chef.  Please join the conversation in #foodfightshow on Freenode IRC or tweet with #foodfightshow.</p>
+<p>In this episode, we discuss managing secrets with Chef.</p>
 
 <h1>Watch Now</h1>
 
@@ -69,22 +69,60 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
-<h2>Picks</h2>
+<ul>
+<li><a href="http://ckbk.it/chef-client">chef-client cookbook</a> and the delete_validation recipe</li>
+<li><a href="https://github.com/Nordstrom/chef-vault">Chef Vault</a></li>
+<li><a href="https://github.com/3ofcoins/knife-briefcase">Knife Briefcase</a></li>
+<li><a href="http://www.gazzang.com/products/ztrustee">Gazzang zTrustee</a></li>
+<li><a href="https://github.com/cassianoleal/cookbook-deploy_key">deploy_key cookbook</a></li>
+</ul>
 
-<h4>Bryan</h4>
+
+<h2>Picks</h2>
 
 <h4>Cameron</h4>
 
+<ul>
+<li><a href="http://www.letour.fr/le-tour/2013/us/">Tour de France</a></li>
+</ul>
+
+
 <h4>Kevin</h4>
+
+<ul>
+<li><a href="http://www.hbo.com/the-newsroom/index.html">The Newsroom</a></li>
+</ul>
+
 
 <h4>Matt</h4>
 
+<ul>
+<li><a href="https://www.eff.org/">Electronic Frontier Foundation (EFF)</a></li>
+<li><a href="http://epic.org/">Electronic Privacy Information Center</a></li>
+<li><a href="http://www.amazon.com/Future-Perfect-Case-Progress-Networked/dp/1594488207">Future Perfect: The Case For Progress In A Networked Age</a></li>
+<li><a href="http://www.ghostery.com/">ghostery</a> - But there was some discussion in the backchannel about ghostery:
+
+<ul>
+<li><a href="http://www.technologyreview.com/news/516156/a-popular-ad-blocker-also-helps-the-ad-industry/">A Popular Ad Blocker Also Helps the Ad Industry</a></li>
+<li>Miah recommends <a href="https://addons.mozilla.org/en-us/firefox/addon/adblock-edge/">adblock-edge</a></li>
+</ul>
+</li>
+</ul>
+
+
 <h4>Miah</h4>
+
+<ul>
+<li><a href="http://www.cl.cam.ac.uk/~rja14/book.html">Security Engineering — The Book</a></li>
+<li><a href="http://www.amazon.com/Zodiac-Neal-Stephenson/dp/0802143156/">Zodiac</a></li>
+</ul>
+
 
 <h4>Mike</h4>
 
 <ul>
-<li><a href="http://www.amazon.com/Five-Dysfunctions-Team-Large-Print/dp/0470580461">The Five Dysfunctions of a Team: A Leadership Fable</a></li>
+<li><a href="http://amzn.com/0787960756/">The Five Dysfunctions of a Team: A Leadership Fable</a></li>
+<li><a href="http://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806">Cryptonomicon</a></li>
 </ul>
 
 
@@ -92,6 +130,7 @@
 
 <ul>
 <li><a href="http://surge.omniti.com/2013/">surge 2013</a></li>
+<li><a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">Food Fight Show Newsletter</a></li>
 </ul>
 
 
