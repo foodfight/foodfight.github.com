@@ -53,11 +53,23 @@ Chef News<a name="news"></a>
 Outline<a name="outline"></a>
 -------
 
-* [chef-client cookbook](http://ckbk.it/chef-client) and the delete_validation recipe
+* Chef News
+* Introductions
+* Storing Secrets
+* Managing Encrypted Data Bags
+* What is a "Secret" and Why Share Them?
+* Security
+* Authentication Process and Validation
+ * [chef-client cookbook](http://ckbk.it/chef-client) and the delete_validation recipe
+* Data Bags
+ * Encrypted vs Non-encrypted
+ * [Gazzang zTrustee](http://www.gazzang.com/products/ztrustee)
 * [Chef Vault](https://github.com/Nordstrom/chef-vault)
 * [Knife Briefcase](https://github.com/3ofcoins/knife-briefcase)
-* [Gazzang zTrustee](http://www.gazzang.com/products/ztrustee)
-* [deploy_key cookbook](https://github.com/cassianoleal/cookbook-deploy_key)
+* [Cloud Keep](http://www.openstack.org/summit/portland-2013/session-videos/presentation/cloud-keep-openstack-key-management-as-a-service)
+* Deploy Keys
+ * [deploy_key cookbook](https://github.com/cassianoleal/cookbook-deploy_key)
+* Changing/Replacing a Secret
 
 Picks
 -----
