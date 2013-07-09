@@ -4,7 +4,7 @@
   <title><![CDATA[Category: knife-briefcase | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/knife-briefcase/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-09T11:39:29-04:00</updated>
+  <updated>2013-07-09T11:46:30-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -24,7 +24,8 @@
 
 <h1>Watch Now</h1>
 
-<p>Video feed will start at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></p>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HL59_dot9zw" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2013/07/secret-chef.html#panel">Panel</a></li>
@@ -35,7 +36,7 @@
 
 <ul>
 <li>Audio - Coming soon!</li>
-<li>Video - feed will start at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></li>
+<li><a href="http://www.youtube.com/watch?v=HL59_dot9zw">Video</a></li>
 </ul>
 </li>
 </ul>
@@ -98,7 +99,7 @@
 
 <ul>
 <li>Audio - Coming soon!</li>
-<li>Video - feed will start at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&amp;iso=20130709T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></li>
+<li><a href="http://www.youtube.com/watch?v=HL59_dot9zw">Video</a></li>
 </ul>
 
 ]]></content>
