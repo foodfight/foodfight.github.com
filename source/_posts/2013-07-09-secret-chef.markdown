@@ -28,7 +28,7 @@ In this episode, we discuss managing secrets with Chef.
 * [Outline](http://foodfightshow.org/2013/07/secret-chef.html#outline)
 * [Picks](http://foodfightshow.org/2013/07/secret-chef.html#picks)
 * Download
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-57-SecretChef.mp3)
   * [Video](http://www.youtube.com/watch?v=HL59_dot9zw)
 
 Panel<a name="panel"></a>
@@ -108,5 +108,5 @@ Picks
 Download
 --------
 
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-57-SecretChef.mp3)
 * [Video](http://www.youtube.com/watch?v=HL59_dot9zw)
