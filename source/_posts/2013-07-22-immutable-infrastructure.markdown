@@ -41,6 +41,7 @@ Panel<a name="panel"></a>
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Panos Papadomitsos [twitter](http://twitter.com/priestjim), [github](https://github.com/priestjim)
+* Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
@@ -84,6 +85,8 @@ Picks<a name="picks"></a>
 - Ship Show Podcast with Sandi Metz - [Practical Object OO (and Cat!) Design with Sandi Metz!](http://theshipshow.com/2013/07/practical-object-oo-and-cat-design-with-sandi-metz/)
 
 #### Panos
+
+#### Ranjib
 
 Download
 --------
