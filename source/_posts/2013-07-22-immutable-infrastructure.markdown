@@ -71,7 +71,7 @@ Picks<a name="picks"></a>
 
 #### Chad
 
-* #shitfire on Freenode IRC
+* \#shitfire on Freenode IRC
 
 #### Craig
 
@@ -86,7 +86,7 @@ Picks<a name="picks"></a>
 
 #### Mike
 
-* [code school](http://www.codeschool.com
+* [code school](http://www.codeschool.com)
 * [Code Climate](https://codeclimate.com/)
 * [Sprout](http://sprout-talk.cfapps.io/)
 
