@@ -28,7 +28,7 @@ This episode was inspired by Chad's recent blog post on [Immutable Infrastructur
 * [Picks](http://foodfightshow.org/2013/07/immutable-infrastructure.html#picks)
 * Download
   * Audio - Coming Soon!
-  * [Video](http://youtu.be/G92dPaluEwo) - Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
+  * [Video](http://youtu.be/G92dPaluEwo)
 
 Panel<a name="panel"></a>
 ------
