@@ -4,7 +4,7 @@
   <title><![CDATA[Category: immutable | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/immutable/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-22T14:10:43-04:00</updated>
+  <updated>2013-07-22T14:15:56-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -97,7 +97,7 @@
 <h4>Chad</h4>
 
 <ul>
-<li><h1>shitfire on Freenode IRC</h1></li>
+<li>#shitfire on Freenode IRC</li>
 </ul>
 
 
@@ -121,7 +121,7 @@
 <h4>Mike</h4>
 
 <ul>
-<li>[code school](http://www.codeschool.com</li>
+<li><a href="http://www.codeschool.com">code school</a></li>
 <li><a href="https://codeclimate.com/">Code Climate</a></li>
 <li><a href="http://sprout-talk.cfapps.io/">Sprout</a></li>
 </ul>
