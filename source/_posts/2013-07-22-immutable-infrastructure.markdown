@@ -11,19 +11,13 @@ categories:
   - mikefiedler
   - priestjim
 ---
-Show Date:  [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1)
+Show Date:  July 22, 2013
 
 Join us as we discuss [Immutable Infrastructure](http://chadfowler.com/blog/2013/06/23/immutable-deployments/) with [Chad Fowler](https://twitter.com/chadfowler).
 
-Today's episode was inspired by Chad's recent [blog post](http://chadfowler.com/blog/2013/06/23/immutable-deployments/) on the subject.  For some additional thoughts on the subject, check-out Mike Fiedler's #ChefConf talk:  [Treating Your Infrastructure Like Garbage](http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/).
-
-Join the conversation in #foodfightshow on Freenode IRC.  
-
-The live stream of this episode will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
+This episode was inspired by Chad's recent blog post on [Immutable Infrastructure](http://chadfowler.com/blog/2013/06/23/immutable-deployments/).  For some additional thoughts on the subject, check-out Mike Fiedler's #ChefConf talk:  [Treating Your Infrastructure Like Garbage](http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/).
 
 # Watch Now
-
-Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/G92dPaluEwo" frameborder="0" allowfullscreen></iframe>
 
@@ -55,40 +49,59 @@ Chef News<a name="news"></a>
 
 * [Gusteau](http://gusteau.gs/) - a tasteful Chef Solo wrapper and configuration manager.  This is a gem that aims to provide chef solo users with a more efficent workflow.  It looks like an abstraction on top of Vagrant, Berkshelf, and Chef that makes it easier to get started with these various tools.
 
+* [kitchen-docker](https://github.com/portertech/kitchen-docker)
+
 
 Outline<a name="outline"></a>
 -------
 
-[Show Notes](https://github.com/foodfight/showz/blob/master/scripts/episode-58-immutable-infrastructure.md)
+* [Homeostasis](http://en.wikipedia.org/wiki/Homeostasis)
  
 Picks<a name="picks"></a>
 -----
 #### Brandon
 
+* [AskHistorians Reddit](http://www.reddit.com/r/AskHistorians)
+
 #### Bryan
+
+* [Revolution in Storage - RICON East 2013](http://www.youtube.com/watch?v=ulBHarnnf3Y)
+* [Services Platform: Experiments in OTP-Compliant Dataflow Programming](http://www.youtube.com/watch?v=FWM3bQ43WzE)
 
 #### Chad
 
+* #shitfire on Freenode IRC
+
+#### Craig
+
+* Openstack bare metal provider with cloud init
+* Opscode's [Omnibus project](https://github.com/opscode/omnibus-software)
+
 #### Fletcher
 
-#### lusis
+* Mike's [#ChefConf talk](http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/)
+* [The Passionate Programmer](http://pragprog.com/book/cfcar2/the-passionate-programmer)
+* Alice in Chains latest album - [The Devil Put Dinosaurs Here](http://www.rdio.com/artist/Alice_In_Chains/album/The_Devil_Put_Dinosaurs_Here/)
 
 #### Mike
 
-- http://www.codeschool.com
-- https://codeclimate.com/
+* [code school](http://www.codeschool.com
+* [Code Climate](https://codeclimate.com/)
+* [Sprout](http://sprout-talk.cfapps.io/)
 
 #### Nathen
 
-- Vacation!
-- [Flight Carrier Landing Practice](http://www.youtube.com/watch?v=aeEFMvPPx2U)
-- Ship Show Podcast with Sandi Metz - [Practical Object OO (and Cat!) Design with Sandi Metz!](http://theshipshow.com/2013/07/practical-object-oo-and-cat-design-with-sandi-metz/)
+* Vacation!
+* [Flight Carrier Landing Practice](http://www.youtube.com/watch?v=aeEFMvPPx2U)
+* Ship Show Podcast with Sandi Metz - [Practical Object OO (and Cat!) Design with Sandi Metz!](http://theshipshow.com/2013/07/practical-object-oo-and-cat-design-with-sandi-metz/)
 
-#### Panos
 
 #### Ranjib
+
+* [Chimay Blue Cap](http://www.chimay.com/en/chimay-bleue.html?IDD=130&IDC=287)
+
 
 Download
 --------
 * Audio - Coming Soon!
-* [Video](http://youtu.be/G92dPaluEwo) - Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
+* [Video](http://youtu.be/G92dPaluEwo)
