@@ -99,6 +99,7 @@ Picks<a name="picks"></a>
 
 #### Ranjib
 
+* [Chomsky hierarchy](http://en.wikipedia.org/wiki/Chomsky_hierarchy)
 * [Chimay Blue Cap](http://www.chimay.com/en/chimay-bleue.html?IDD=130&IDC=287)
 
 
