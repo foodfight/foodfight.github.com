@@ -77,6 +77,10 @@ Picks<a name="picks"></a>
 
 #### Nathen
 
+- Vacation!
+- [Flight Carrier Landing Practice](http://www.youtube.com/watch?v=aeEFMvPPx2U)
+- Ship Show Podcast with Sandi Metz - [Practical Object OO (and Cat!) Design with Sandi Metz!](http://theshipshow.com/2013/07/practical-object-oo-and-cat-design-with-sandi-metz/)
+
 #### Panos
 
 Download
