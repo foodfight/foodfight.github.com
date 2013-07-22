@@ -48,6 +48,10 @@ Panel<a name="panel"></a>
 Chef News<a name="news"></a>
 ---------
 
+* [DevOps Toolbox: Introduction](http://chrislaco.com/devops-toolbox/introduction/) - a series of blog posts from [Christopher Laco](https://twitter.com/claco) that walks through many tools used with Chef.  The series starts with installing pre-requisites like XCode, Ruby, and VirtualBox.  Throughout the series, you'll learn about Veewee, Vagrant, Chef Solo, Hosted Chef, and more!
+
+* [Gusteau](http://gusteau.gs/) - a tasteful Chef Solo wrapper and configuration manager.  This is a gem that aims to provide chef solo users with a more efficent workflow.  It looks like an abstraction on top of Vagrant, Berkshelf, and Chef that makes it easier to get started with these various tools.
+
 
 Outline<a name="outline"></a>
 -------
