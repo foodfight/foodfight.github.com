@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mikefiedler | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mikefiedler/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-10T06:55:08-04:00</updated>
+  <updated>2013-07-22T10:34:19-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,96 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Immutable Infrastructure]]></title>
+    <link href="http://foodfightshow.org//2013/07/immutable-infrastructure.html"/>
+    <updated>2013-07-22T10:20:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/07/immutable-infrastructure</id>
+    <content type="html"><![CDATA[<p>Show Date:  <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&amp;iso=20130722T12&amp;p1=1928&amp;ah=1">Monday, July 22, 16:00 UTC</a></p>
+
+<p>Join us as we discuss <a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Immutable Infrastructure</a> with <a href="https://twitter.com/chadfowler">Chad Fowler</a>.</p>
+
+<p>Today's episode was inspired by Chad's recent <a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">blog post</a> on the subject.  For some additional thoughts on the subject, check-out Mike Fiedler's #ChefConf talk:  <a href="http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/">Treating Your Infrastructure Like Garbage</a>.</p>
+
+<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
+
+<p>The live stream of this episode will begin <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&amp;iso=20130722T12&amp;p1=1928&amp;ah=1">Monday, July 22, 16:00 UTC</a>.</p>
+
+<h1>Watch Now</h1>
+
+<p>Streaming will begin <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&amp;iso=20130722T12&amp;p1=1928&amp;ah=1">Monday, July 22, 16:00 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li>Video - Streaming will begin <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&amp;iso=20130722T12&amp;p1=1928&amp;ah=1">Monday, July 22, 16:00 UTC</a>.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Chad Fowler <a href="https://twitter.com/chadfowler">twitter</a>, <a href="https://github.com/chad">github</a>, <a href="http://chadfowler.com/">blog</a></li>
+<li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Panos Papadomitsos <a href="http://twitter.com/priestjim">twitter</a>, <a href="https://github.com/priestjim">github</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-58-immutable-infrastructure.md">Show Notes</a></p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<h4>Bryan</h4>
+
+<h4>Chad</h4>
+
+<h4>Fletcher</h4>
+
+<h4>lusis</h4>
+
+<h4>Mike</h4>
+
+<ul>
+<li>http://www.codeschool.com</li>
+<li>https://codeclimate.com/</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<h4>Panos</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li>Video - Streaming will begin <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&amp;iso=20130722T12&amp;p1=1928&amp;ah=1">Monday, July 22, 16:00 UTC</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Secret Chef]]></title>
@@ -552,63 +642,6 @@ the episode.</li>
 <li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-35-A-Year-in-Review.mp3">Download the Audio file</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Community Summit Day Two]]></title>
-    <link href="http://foodfightshow.org//2012/10/community-summit-day-two.html"/>
-    <updated>2012-10-25T10:49:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/10/community-summit-day-two</id>
-    <content type="html"><![CDATA[<p>Show Date:  Wednesday, October 24</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/10/community-summit-day-two.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2012/10/community-summit-day-two.html#outline">Outline</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3">Download</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Fletcher Nichol <a href="http://github.com/fnichol">github</a>, <a href="https://twitter.com/fnichol">twitter</a></li>
-<li>Seth Vargo <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="https://twitter.com/mikefiedler">twitter</a></li>
-<li>Jeff Hulten <a href="http://github.com/jhulten">github</a>, <a href="https://twitter.com/jhulten">twitter</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<p>Nathen sits down with Fletcher Nichol (<a href="https://twitter.com/fnichol">@fnichol</a>), Seth Vargo (<a href="https://twitter.com/sethvargo">@sethvargo</a>), Mike Fiedler (<a href="https://twitter.com/mikefiedler">@mikefiedler</a>), and Jeff Hulten (<a href="https://twitter.com/jhulten">@jhulten</a>) to talk about day two of the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Chef Community Summit</a>.  We meant to chat for about 20 minutes but this conversation ended taking about an hour.  Enjoy!</p>
-
-<p>Topics include:</p>
-
-<ul>
-<li>Google+ Hangouts</li>
-<li>Bug smashing</li>
-<li>Contributing to the new <a href="http://doc.opscode.com">Docs Site</a></li>
-<li>Cookbook Curation</li>
-<li>Cookbook Name Squatting</li>
-<li><a href="https://github.com/sethvargo/tdding-tmux">TDDing  tmux</a></li>
-<li>Workflow and versioning cookbooks</li>
-<li>Commitments to make knife plugins installable with knife</li>
-<li>Exception Handlers</li>
-</ul>
-
-
-<h3>Session Summaries<a name="summaries"></a></h3>
-
-<p>Follow all the updates from the summit on the <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">Opscode Wiki</a></p>
-
-<h2>Download</h2>
-
-<p>Download Chef Summit Day Two Recap - <a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3">Download here</a></p>
 ]]></content>
   </entry>
   
