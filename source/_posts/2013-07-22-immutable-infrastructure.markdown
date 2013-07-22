@@ -25,13 +25,15 @@ The live stream of this episode will begin [Monday, July 22, 16:00 UTC](http://w
 
 Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/G92dPaluEwo" frameborder="0" allowfullscreen></iframe>
+
 * [Panel](http://foodfightshow.org/2013/07/immutable-infrastructure.html#panel)
 * [Chef News](http://foodfightshow.org/2013/07/immutable-infrastructure.html#news)
 * [Outline](http://foodfightshow.org/2013/07/immutable-infrastructure.html#outline)
 * [Picks](http://foodfightshow.org/2013/07/immutable-infrastructure.html#picks)
 * Download
   * Audio - Coming Soon!
-  * Video - Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
+  * [Video](http://youtu.be/G92dPaluEwo) - Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
 
 Panel<a name="panel"></a>
 ------
@@ -86,4 +88,4 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon!
-* Video - Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
+* [Video](http://youtu.be/G92dPaluEwo) - Streaming will begin [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1).
