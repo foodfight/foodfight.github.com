@@ -4,7 +4,7 @@
   <title><![CDATA[Category: immutable | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/immutable/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-22T10:34:19-04:00</updated>
+  <updated>2013-07-22T11:36:49-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -65,6 +65,12 @@
 
 <h2>Chef News<a name="news"></a></h2>
 
+<ul>
+<li><p><a href="http://chrislaco.com/devops-toolbox/introduction/">DevOps Toolbox: Introduction</a> - a series of blog posts from <a href="https://twitter.com/claco">Christopher Laco</a> that walks through many tools used with Chef.  The series starts with installing pre-requisites like XCode, Ruby, and VirtualBox.  Throughout the series, you'll learn about Veewee, Vagrant, Chef Solo, Hosted Chef, and more!</p></li>
+<li><p><a href="http://gusteau.gs/">Gusteau</a> - a tasteful Chef Solo wrapper and configuration manager.  This is a gem that aims to provide chef solo users with a more efficent workflow.  It looks like an abstraction on top of Vagrant, Berkshelf, and Chef that makes it easier to get started with these various tools.</p></li>
+</ul>
+
+
 <h2>Outline<a name="outline"></a></h2>
 
 <p><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-58-immutable-infrastructure.md">Show Notes</a></p>
@@ -90,6 +96,13 @@
 
 
 <h4>Nathen</h4>
+
+<ul>
+<li>Vacation!</li>
+<li><a href="http://www.youtube.com/watch?v=aeEFMvPPx2U">Flight Carrier Landing Practice</a></li>
+<li>Ship Show Podcast with Sandi Metz - <a href="http://theshipshow.com/2013/07/practical-object-oo-and-cat-design-with-sandi-metz/">Practical Object OO (and Cat!) Design with Sandi Metz!</a></li>
+</ul>
+
 
 <h4>Panos</h4>
 
