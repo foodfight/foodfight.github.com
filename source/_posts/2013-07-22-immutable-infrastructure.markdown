@@ -56,7 +56,35 @@ Chef News<a name="news"></a>
 Outline<a name="outline"></a>
 -------
 
+* Chef News
+* Introductions
+* [Chad Fowler: Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components](http://chadfowler.com/blog/2013/06/23/immutable-deployments/)
+* Article Summary
+* Changing Servers (Process)
+* Repackaging AMIs
+* Garbage Collection
+* Autoscaling
+* Servers
+* [Amazon RDS](http://aws.amazon.com/rds/)
+* [cassandra](https://github.com/apache/cassandra)
+* [zookeeper](https://github.com/apache/zookeeper)
+* [Riak](http://basho.com/riak/)
+* Classes of Servers
+* RDS Performance
+* Making Changes on the Server
+* Termination Protection
+* [6Wunderkinder: Wunderlist](http://www.6wunderkinder.com/wunderlist-pro)
+* Golden Image System
+* Pulling from Code Repos
+* AMI vs Configuration Management
+* Rebuilding AMIS
+* Optimization
+* Immutable Properties
+* Handling Infrastructure Emergencies
 * [Homeostasis](http://en.wikipedia.org/wiki/Homeostasis)
+* Keeping Log Files
+* [kitchen-docker](https://github.com/portertech/kitchen-docker)
+* Log Rotation
  
 Picks<a name="picks"></a>
 -----
