@@ -4,7 +4,7 @@
   <title><![CDATA[Category: priestjim | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/priestjim/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-07-22T14:37:27-04:00</updated>
+  <updated>2013-07-22T20:56:03-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -37,7 +37,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/%20FoodFightShow-58-ImmutableInfrastructure.mp3">Audio</a></li>
 <li><a href="http://youtu.be/G92dPaluEwo">Video</a></li>
 </ul>
 </li>
@@ -73,7 +73,35 @@
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li><a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Chad Fowler: Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components</a></li>
+<li>Article Summary</li>
+<li>Changing Servers (Process)</li>
+<li>Repackaging AMIs</li>
+<li>Garbage Collection</li>
+<li>Autoscaling</li>
+<li>Servers</li>
+<li><a href="http://aws.amazon.com/rds/">Amazon RDS</a></li>
+<li><a href="https://github.com/apache/cassandra">cassandra</a></li>
+<li><a href="https://github.com/apache/zookeeper">zookeeper</a></li>
+<li><a href="http://basho.com/riak/">Riak</a></li>
+<li>Classes of Servers</li>
+<li>RDS Performance</li>
+<li>Making Changes on the Server</li>
+<li>Termination Protection</li>
+<li><a href="http://www.6wunderkinder.com/wunderlist-pro">6Wunderkinder: Wunderlist</a></li>
+<li>Golden Image System</li>
+<li>Pulling from Code Repos</li>
+<li>AMI vs Configuration Management</li>
+<li>Rebuilding AMIS</li>
+<li>Optimization</li>
+<li>Immutable Properties</li>
+<li>Handling Infrastructure Emergencies</li>
 <li><a href="http://en.wikipedia.org/wiki/Homeostasis">Homeostasis</a></li>
+<li>Keeping Log Files</li>
+<li><a href="https://github.com/portertech/kitchen-docker">kitchen-docker</a></li>
+<li>Log Rotation</li>
 </ul>
 
 
@@ -147,7 +175,7 @@
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/%20FoodFightShow-58-ImmutableInfrastructure.mp3">Audio</a></li>
 <li><a href="http://youtu.be/G92dPaluEwo">Video</a></li>
 </ul>
 
