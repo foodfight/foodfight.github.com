@@ -27,7 +27,7 @@ This episode was inspired by Chad's recent blog post on [Immutable Infrastructur
 * [Outline](http://foodfightshow.org/2013/07/immutable-infrastructure.html#outline)
 * [Picks](http://foodfightshow.org/2013/07/immutable-infrastructure.html#picks)
 * Download
-  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-58-ImmutableInfrastructure.mp3)
+  * [Audio](http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3)
   * [Video](http://youtu.be/G92dPaluEwo)
 
 Panel<a name="panel"></a>
@@ -133,5 +133,5 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-58-ImmutableInfrastructure.mp3)
+* [Audio](http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3)
 * [Video](http://youtu.be/G92dPaluEwo)
