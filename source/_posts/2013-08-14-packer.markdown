@@ -9,14 +9,13 @@ categories:
 - go
 - mitchellh
 ---
-The show will begin [Wednesday, August 14, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&iso=20130814T12&p1=1928&ah=1)
-
 Join us as we discuss [Packer](http://packer.io) with [Mitchell Hashimoto](https://twitter.com/mitchellh)
 
 Join the conversation in #foodfightshow on Freenode IRC and tag your tweets with #foodfightshow.
 
 # Watch Now
-The show will begin [Wednesday, August 14, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&iso=20130814T12&p1=1928&ah=1)
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/MOCao3DeWSU" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/08/packer.html#panel)
 * [Chef News](http://foodfightshow.org/2013/08/packer.html#news)
@@ -24,7 +23,7 @@ The show will begin [Wednesday, August 14, 2013 at 16:00:00 UTC](http://www.time
 * [Picks](http://foodfightshow.org/2013/08/packer.html#picks)
 * Download
   * Audio - Coming Soon!
-  * Video - [Starts at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&iso=20130814T12&p1=1928&ah=1)
+  * [Video](http://youtu.be/MOCao3DeWSU)
 
 Panel<a name="panel"></a>
 ------
@@ -66,7 +65,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon!
-* Video - [Starts at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&iso=20130814T12&p1=1928&ah=1)
+* [Video](http://youtu.be/MOCao3DeWSU)
 
 <hr />
 
