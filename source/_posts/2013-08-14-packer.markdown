@@ -47,20 +47,53 @@ Chef News<a name="news"></a>
 
 Outline<a name="outline"></a>
 -------
+* Download Packer
+* Write you template
+* Builder brings up a machine
+* Provisioner installs software (upload files, chef, puppet, etc.)
+* Builder shuts thing down and packages things up
+* With the template you run packer build
+* Builders produce artifact
+* Post-processor takes an artifact and outputs a new artifact
+
 
 Picks<a name="picks"></a>
 -----
 #### Mitchell
 
+* Mozilla
+  * [Rust](http://www.rust-lang.org/)
+    * [Rust for Rubyists](http://www.rustforrubyists.com/)
+  * [Firefox OS](http://www.mozilla.org/en-US/firefox/os/)
+  * [Servo](https://github.com/mozilla/servo)
+* Napa Valley
+
 #### Brandon
+
+* [John Willis](https://twitter.com/botchagalupe)
+* [Gene Kim](https://twitter.com/realgenekim)
 
 #### Bryan
 
+* [Go for System Administrators](http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/)
+* [Elixir Design Goals](http://elixir-lang.org/blog/2013/08/08/elixir-design-goals/)
+
 #### John
+
+* [Soundfreaq](http://soundfreaq.com/soundplatform2)
+* [DevOpsDays Atlanta](http://devopsdays.org/events/2013-atlanta/)
+* [Where's My Water](http://games.disney.com/wheres-my-water-app)
 
 #### Mike
 
+* [DevOpsDays NYC](http://devopsdays.org/events/2013-newyork/)
+* [Duolingo](http://www.duolingo.com/)
+
 #### Nathen
+
+* [Surge](http://surge.omniti.com/2013)
+* [Rocky Mountain Ruby Conference](http://rockymtnruby.com/)
+* [Raging Bitch - Belgian-style IPA](http://flyingdogales.com/beers/raging-bitch/)
 
 Download
 --------
