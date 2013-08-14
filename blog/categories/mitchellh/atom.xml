@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mitchellh | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mitchellh/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-08-14T11:56:21-04:00</updated>
+  <updated>2013-08-14T13:25:27-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -67,19 +67,81 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
+<ul>
+<li>Download Packer</li>
+<li>Write you template</li>
+<li>Builder brings up a machine</li>
+<li>Provisioner installs software (upload files, chef, puppet, etc.)</li>
+<li>Builder shuts thing down and packages things up</li>
+<li>With the template you run packer build</li>
+<li>Builders produce artifact</li>
+<li>Post-processor takes an artifact and outputs a new artifact</li>
+</ul>
+
+
 <h2>Picks<a name="picks"></a></h2>
 
 <h4>Mitchell</h4>
 
+<ul>
+<li>Mozilla
+
+<ul>
+<li><a href="http://www.rust-lang.org/">Rust</a>
+
+<ul>
+<li><a href="http://www.rustforrubyists.com/">Rust for Rubyists</a></li>
+</ul>
+</li>
+<li><a href="http://www.mozilla.org/en-US/firefox/os/">Firefox OS</a></li>
+<li><a href="https://github.com/mozilla/servo">Servo</a></li>
+</ul>
+</li>
+<li>Napa Valley</li>
+</ul>
+
+
 <h4>Brandon</h4>
+
+<ul>
+<li><a href="https://twitter.com/botchagalupe">John Willis</a></li>
+<li><a href="https://twitter.com/realgenekim">Gene Kim</a></li>
+</ul>
+
 
 <h4>Bryan</h4>
 
+<ul>
+<li><a href="http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/">Go for System Administrators</a></li>
+<li><a href="http://elixir-lang.org/blog/2013/08/08/elixir-design-goals/">Elixir Design Goals</a></li>
+</ul>
+
+
 <h4>John</h4>
+
+<ul>
+<li><a href="http://soundfreaq.com/soundplatform2">Soundfreaq</a></li>
+<li><a href="http://devopsdays.org/events/2013-atlanta/">DevOpsDays Atlanta</a></li>
+<li><a href="http://games.disney.com/wheres-my-water-app">Where's My Water</a></li>
+</ul>
+
 
 <h4>Mike</h4>
 
+<ul>
+<li><a href="http://devopsdays.org/events/2013-newyork/">DevOpsDays NYC</a></li>
+<li><a href="http://www.duolingo.com/">Duolingo</a></li>
+</ul>
+
+
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="http://surge.omniti.com/2013">Surge</a></li>
+<li><a href="http://rockymtnruby.com/">Rocky Mountain Ruby Conference</a></li>
+<li><a href="http://flyingdogales.com/beers/raging-bitch/">Raging Bitch - Belgian-style IPA</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
