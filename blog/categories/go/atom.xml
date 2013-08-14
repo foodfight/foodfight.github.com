@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: go | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/go/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-08-14T09:51:26-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Packer]]></title>
+    <link href="http://foodfightshow.org//2013/08/packer.html"/>
+    <updated>2013-08-14T09:03:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/08/packer</id>
+    <content type="html"><![CDATA[<p>The show will begin <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&amp;iso=20130814T12&amp;p1=1928&amp;ah=1">Wednesday, August 14, 2013 at 16:00:00 UTC</a></p>
+
+<p>Join us as we discuss <a href="http://packer.io">Packer</a> with <a href="https://twitter.com/mitchellh">Mitchell Hashimoto</a></p>
+
+<p>Join the conversation in #foodfightshow on Freenode IRC and tag your tweets with #foodfightshow.</p>
+
+<h1>Watch Now</h1>
+
+<p>The show will begin <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&amp;iso=20130814T12&amp;p1=1928&amp;ah=1">Wednesday, August 14, 2013 at 16:00:00 UTC</a></p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/08/packer.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/08/packer.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/08/packer.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/08/packer.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li>Video - <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&amp;iso=20130814T12&amp;p1=1928&amp;ah=1">Starts at 16:00:00 UTC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Mitchell Hashimoto <a href="https://github.com/mitchellh">github</a>, <a href="https://twitter.com/mitchellh">twitter</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li><a href="http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/">Infrastructure upgrades with Chef</a> - A blog post from Etsy on how they roll-out minor changes to their infrastructure using knife-spork and knife-flip. The post also details how they roll-out larger changes with feature flags using <a href="https://github.com/etsy/chef-whitelist">chef-whitelist</a>, a library cookbook for implementing feature flags.</li>
+<li><a href="http://www.reddit.com/r/IAmA/comments/1k7tlu/we_are_the_operations_team_at_etsy_ask_us_anything/">We are the Operations team at Etsy. Ask us anything!</a> - A Q&amp;A session with the Operations team at Etsy run via reddit.</li>
+<li><a href="http://www.miketheman.net/2013/08/11/the-importance-of-dependency-testing/">The Importance of Dependency Testing</a></li>
+<li><p><a href="http://www.opscode.com/blog/2013/08/12/awesome-community-chef-mike-fiedler-roller-derbies-cookbook-versions/">Awesome Community Chef: Mike Fiedler – “Roller Derbies &amp; Cookbook Versions”</a></p></li>
+<li><p><a href="http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Opscode Community Summit</a> - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so <a href="https://www.regonline.com/opscodesummit-2013">register today</a>!</p></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Mitchell</h4>
+
+<h4>Brandon</h4>
+
+<h4>Bryan</h4>
+
+<h4>John</h4>
+
+<h4>Mike</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li>Video - <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&amp;iso=20130814T12&amp;p1=1928&amp;ah=1">Starts at 16:00:00 UTC</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
