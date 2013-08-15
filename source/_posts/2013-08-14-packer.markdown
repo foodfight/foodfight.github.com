@@ -45,15 +45,36 @@ Chef News<a name="news"></a>
 
 Outline<a name="outline"></a>
 -------
+* Chef News
+* Introductions
+* [HashiCorp](http://www.hashicorp.com)
+* The State of [Vagrant](http://www.vagrantup.com)
+* What is [Packer](http://mitchellh.com/packer)?
+* Developing Packer
+* [The Go Programming Language](http://golang.org)
+* [JSON](http://www.json.org)
+* Creating Images/Virtual Boxes
+* [veewee](https://github.com/jedi4ever/veewee)
+* [veewee-to-packer](https://github.com/mitchellh/veewee-to-packer)
 * Download Packer
-* Write you template
+* Write your template
 * Builder brings up a machine
 * Provisioner installs software (upload files, chef, puppet, etc.)
 * Builder shuts thing down and packages things up
 * With the template you run packer build
-* Builders produce artifact
+* Artifacts
+* Builders produce artifact your template
 * Post-processor takes an artifact and outputs a new artifact
-
+* Builds
+* Mistakes made in Vagrant
+* Work on Packer vs work on Vagrant
+* Is Packer Stable?
+* Is the Chef Provisioner Included with the Packer Distribution?
+* Contributors
+* Parallel Builds Feature
+* Editing a configuration and building packer images workflow
+* [rpc](http://golang.org/pkg/net/rpc/)
+* Box Versioning
 
 Picks<a name="picks"></a>
 -----
