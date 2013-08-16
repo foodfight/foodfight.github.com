@@ -20,7 +20,7 @@ Join us as we discuss [Packer](http://packer.io) with [Mitchell Hashimoto](https
 * [Outline](http://foodfightshow.org/2013/08/packer.html#outline)
 * [Picks](http://foodfightshow.org/2013/08/packer.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3)
   * [Video](http://youtu.be/MOCao3DeWSU)
 
 Panel<a name="panel"></a>
@@ -49,23 +49,24 @@ Outline<a name="outline"></a>
 * Introductions
 * [HashiCorp](http://www.hashicorp.com)
 * The State of [Vagrant](http://www.vagrantup.com)
-* What is [Packer](http://mitchellh.com/packer)?
+* What is [Packer](http://www.packer.io/intro/index.html)
 * Developing Packer
 * [The Go Programming Language](http://golang.org)
 * [JSON](http://www.json.org)
 * Creating Images/Virtual Boxes
 * [veewee](https://github.com/jedi4ever/veewee)
 * [veewee-to-packer](https://github.com/mitchellh/veewee-to-packer)
-* Download Packer
-* Write your template
-* Builder brings up a machine
-* Provisioner installs software (upload files, chef, puppet, etc.)
-* Builder shuts thing down and packages things up
-* With the template you run packer build
-* Artifacts
-* Builders produce artifact your template
-* Post-processor takes an artifact and outputs a new artifact
-* Builds
+* Packer Workflow:
+  * Download Packer
+  * Write your template
+  * Builder brings up a machine
+  * Provisioner installs software (upload files, chef, puppet, etc.)
+  * Builder shuts thing down and packages things up
+  * With the template you run packer build
+  * Artifacts
+  * Builders produce artifact your template
+  * Post-processor takes an artifact and outputs a new artifact
+  * Builds
 * Mistakes made in Vagrant
 * Work on Packer vs work on Vagrant
 * Is Packer Stable?
@@ -116,7 +117,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3)
 * [Video](http://youtu.be/MOCao3DeWSU)
 
 <hr />
