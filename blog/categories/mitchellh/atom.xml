@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mitchellh | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mitchellh/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-08-14T13:29:16-04:00</updated>
+  <updated>2013-08-15T23:17:14-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -33,7 +33,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3">Audio</a></li>
 <li><a href="http://youtu.be/MOCao3DeWSU">Video</a></li>
 </ul>
 </li>
@@ -52,6 +52,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Chef News<a name="news"></a></h2>
 
 <ul>
@@ -66,14 +69,41 @@
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li><a href="http://www.hashicorp.com">HashiCorp</a></li>
+<li>The State of <a href="http://www.vagrantup.com">Vagrant</a></li>
+<li>What is <a href="http://www.packer.io/intro/index.html">Packer</a></li>
+<li>Developing Packer</li>
+<li><a href="http://golang.org">The Go Programming Language</a></li>
+<li><a href="http://www.json.org">JSON</a></li>
+<li>Creating Images/Virtual Boxes</li>
+<li><a href="https://github.com/jedi4ever/veewee">veewee</a></li>
+<li><a href="https://github.com/mitchellh/veewee-to-packer">veewee-to-packer</a></li>
+<li>Packer Workflow:
+
+<ul>
 <li>Download Packer</li>
-<li>Write you template</li>
+<li>Write your template</li>
 <li>Builder brings up a machine</li>
 <li>Provisioner installs software (upload files, chef, puppet, etc.)</li>
 <li>Builder shuts thing down and packages things up</li>
 <li>With the template you run packer build</li>
-<li>Builders produce artifact</li>
+<li>Artifacts</li>
+<li>Builders produce artifact your template</li>
 <li>Post-processor takes an artifact and outputs a new artifact</li>
+<li>Builds</li>
+</ul>
+</li>
+<li>Mistakes made in Vagrant</li>
+<li>Work on Packer vs work on Vagrant</li>
+<li>Is Packer Stable?</li>
+<li>Is the Chef Provisioner Included with the Packer Distribution?</li>
+<li>Contributors</li>
+<li>Parallel Builds Feature</li>
+<li>Editing a configuration and building packer images workflow</li>
+<li><a href="http://golang.org/pkg/net/rpc/">rpc</a></li>
+<li>Box Versioning</li>
 </ul>
 
 
@@ -144,7 +174,7 @@
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3">Audio</a></li>
 <li><a href="http://youtu.be/MOCao3DeWSU">Video</a></li>
 </ul>
 
