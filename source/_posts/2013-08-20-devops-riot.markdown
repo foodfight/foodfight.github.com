@@ -6,12 +6,9 @@ comments: true
 categories: 
   - devops
   - riotgames
-  - kanban
-  - holacracy
   - elebertus
   - bluepojo
   - jchackert
-  - dominicad
   - ivey
 ---
 
