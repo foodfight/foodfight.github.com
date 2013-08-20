@@ -78,6 +78,7 @@ Picks<a name="picks"></a>
 #### Nathen
 
 * DevOpsDays - [Tokyo](http://devopsdays.org/events/2013-tokyo/), [Tel Aviv](http://devopsdays.org/events/2013-telaviv/), [Atlanta](http://devopsdays.org/events/2013-atlanta/).  You can still submit proposals for [NYC](http://devopsdays.org/events/2013-newyork/), [Vancouver](http://devopsdays.org/events/2013-vancouver/), and [Portland](http://devopsdays.org/events/2013-portland/).
+* [Chef Community](http://chef-community.github.io/about/) organization on github.  It's where the [Cookbook Versioning Policy](http://chef-community.github.io/cvp/) is stored and is meant as an organization that can "adopt" maintenance of repositories and cookbooks that have lost their maintainers.
 
 Download
 --------
