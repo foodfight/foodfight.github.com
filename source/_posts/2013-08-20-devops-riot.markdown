@@ -63,6 +63,7 @@ Outline<a name="outline"></a>
 -------
 * Chef News
 * Introductions
+* [The Riot Manifesto](http://www.riotgames.com/about)
 
 Picks<a name="picks"></a>
 -----
