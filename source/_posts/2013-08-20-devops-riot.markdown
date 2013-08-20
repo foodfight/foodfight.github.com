@@ -21,7 +21,11 @@ Join the discussion in #foodfightshow on Free Node IRC or mark your tweets with 
 
 # Watch Now
 
+### Part 1
 <iframe width="420" height="315" src="http://www.youtube.com/embed/19Av1h9tVIg" frameborder="0" allowfullscreen></iframe>
+
+### Part 2
+<iframe width="420" height="315" src="http://www.youtube.com/embed/YGidDA5Vs4g" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/08/devops-riot.html#panel)
 * [Chef News](http://foodfightshow.org/2013/08/devops-riot.html#news)
@@ -29,7 +33,8 @@ Join the discussion in #foodfightshow on Free Node IRC or mark your tweets with 
 * [Picks](http://foodfightshow.org/2013/08/devops-riot.html#picks)
 * Download
   * Audio - Coming Soon!
-  * [Video](http://youtu.be/19Av1h9tVIg)
+  * [Video Part 1](http://youtu.be/19Av1h9tVIg)
+  * [Video Part 2](http://youtu.be/YGidDA5Vs4g)
 
 Panel<a name="panel"></a>
 -------------
@@ -83,7 +88,8 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon!
-* [Video](http://youtu.be/19Av1h9tVIg)
+* [Video Part 1](http://youtu.be/19Av1h9tVIg)
+* [Video Part 2](http://youtu.be/YGidDA5Vs4g)
 
 <hr />
 
