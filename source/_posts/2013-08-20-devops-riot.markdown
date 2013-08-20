@@ -45,6 +45,15 @@ Panel<a name="panel"></a>
 Chef News<a name="news"></a>
 ---------
 
+
+* [Introducing Enterprise Chef](http://www.opscode.com/blog/2013/08/19/introducing-enterprise-chef/) - Private and Hosted Chef have been renamed to Enterprise Chef&#124;.
+* [Opscode and Arista Networks Extend IT Automation to Networking](http://www.opscode.com/blog/2013/08/19/opscode-and-arista-networks-extend-it-automation-to-networking/)
+* [Opscode Chef Delivers Robust Open Source Automation Platform for Windows Environments](http://www.opscode.com/blog/2013/08/19/opscode-chef-delivers-robust-open-source-automation-platform-for-windows-environments/) and a webinar with Julian Dunn:  [Cooking with Chef on Microsoft Windows](http://pages.opscode.com/chef-on-windows-webinar.html) August 27 at 10AM PDT.
+
+* [Visit Opscode During VMWorld](http://www.opscode.com/blog/event/visit-opscode-during-vmworld-august-25th-29th/) - Opscode will be on the exhibit floor during VMWorld, August 25th-28th.  If you’re at the show be sure to stop by grab a sticker and chat about your automation project, with Chef or otherwise.  You’ll find us in booth #1748.  See you at the conference!
+* [Opscode Community Summit](http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
+
+
 Outline<a name="outline"></a>
 -------
 * Chef News
@@ -67,6 +76,8 @@ Picks<a name="picks"></a>
 #### Michael Ivey
 
 #### Nathen
+
+* DevOpsDays - [Tokyo](http://devopsdays.org/events/2013-tokyo/), [Tel Aviv](http://devopsdays.org/events/2013-telaviv/), [Atlanta](http://devopsdays.org/events/2013-atlanta/).  You can still submit proposals for [NYC](http://devopsdays.org/events/2013-newyork/), [Vancouver](http://devopsdays.org/events/2013-vancouver/), and [Portland](http://devopsdays.org/events/2013-portland/).
 
 Download
 --------
