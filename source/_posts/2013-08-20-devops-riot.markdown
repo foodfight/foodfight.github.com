@@ -68,21 +68,28 @@ Picks<a name="picks"></a>
 -----
 #### Brandon 
 
-#### Dominica
+* [Chronicles of the Lensmen](http://freeread.com.au/@RGLibrary/EEDocSmith/Lensmen/@Lensmen.html)
 
 #### Erik
 
+* [Snow Crash](http://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/344245302X)
+* [Go Outside](http://www.webcams.travel/) - Link courtesy of Brandon ;)
+
 #### Jeff
+
+* [Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy](http://www.amazon.com/Teaming-Organizations-Innovate-Compete-Knowledge/dp/078797093X/)
 
 #### Josiah
 
-#### Mike Fiedler
+* Snorkeling 
 
-#### Michael Ivey
+#### Michael
+
+* [dokku](https://github.com/progrium/dokku/)
 
 #### Nathen
 
-* DevOpsDays - [Tokyo](http://devopsdays.org/events/2013-tokyo/), [Tel Aviv](http://devopsdays.org/events/2013-telaviv/), [Atlanta](http://devopsdays.org/events/2013-atlanta/).  You can still submit proposals for [NYC](http://devopsdays.org/events/2013-newyork/), [Vancouver](http://devopsdays.org/events/2013-vancouver/), and [Portland](http://devopsdays.org/events/2013-portland/).
+* DevOpsDays - [Tokyo](http://devopsdays.org/events/2013-tokyo/), [Tel Aviv](http://devopsdays.org/events/2013-telaviv/), [Atlanta](http://devopsdays.org/events/2013-atlanta/).  You can still submit proposals for [NYC](http://devopsdays.org/events/2013-newyork/), [Vancouver](http://devopsdays.org/events/2013-vancouver/), [Barcelona](http://devopsdays.org/events/2013-barcelona/propose/), and [Portland](http://devopsdays.org/events/2013-portland/).
 * [Chef Community](http://chef-community.github.io/about/) organization on github.  It's where the [Cookbook Versioning Policy](http://chef-community.github.io/cvp/) is stored and is meant as an organization that can "adopt" maintenance of repositories and cookbooks that have lost their maintainers.
 
 Download
