@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-08-20T12:52:39-04:00</updated>
+  <updated>2013-08-20T13:33:35-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -24,7 +24,14 @@
 
 <h1>Watch Now</h1>
 
+<h3>Part 1</h3>
+
 <iframe width="420" height="315" src="http://www.youtube.com/embed/19Av1h9tVIg" frameborder="0" allowfullscreen></iframe>
+
+
+<h3>Part 2</h3>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/YGidDA5Vs4g" frameborder="0" allowfullscreen></iframe>
 
 
 <ul>
@@ -36,7 +43,8 @@
 
 <ul>
 <li>Audio - Coming Soon!</li>
-<li><a href="http://youtu.be/19Av1h9tVIg">Video</a></li>
+<li><a href="http://youtu.be/19Av1h9tVIg">Video Part 1</a></li>
+<li><a href="http://youtu.be/YGidDA5Vs4g">Video Part 2</a></li>
 </ul>
 </li>
 </ul>
@@ -103,7 +111,8 @@
 
 <ul>
 <li>Audio - Coming Soon!</li>
-<li><a href="http://youtu.be/19Av1h9tVIg">Video</a></li>
+<li><a href="http://youtu.be/19Av1h9tVIg">Video Part 1</a></li>
+<li><a href="http://youtu.be/YGidDA5Vs4g">Video Part 2</a></li>
 </ul>
 
 
