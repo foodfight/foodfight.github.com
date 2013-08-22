@@ -4,7 +4,7 @@
   <title><![CDATA[Category: elebertus | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/elebertus/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-08-20T22:02:35-04:00</updated>
+  <updated>2013-08-22T16:45:49-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -33,7 +33,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=--E0MzMH_FM">Video</a></li>
 </ul>
 </li>
@@ -70,7 +70,36 @@
 <ul>
 <li>Chef News</li>
 <li>Introductions</li>
-<li><a href="http://www.riotgames.com/about">The Riot Manifesto</a></li>
+<li><a href="http://www.riotgames.com">Riot Games</a></li>
+<li><a href="http://beta.na.leagueoflegends.com">League of Legends</a></li>
+<li><a href="http://www.riotgames.com/about">The Riot Manifesto</a>
+
+<ul>
+<li>Player Experienece</li>
+<li>Challenge Convention</li>
+<li>Focus on the team and talent</li>
+<li>Take play seriously</li>
+<li>Stay hungry and humble</li>
+</ul>
+</li>
+<li>Riot's Infrastucture and challenging convention</li>
+<li>Hardware</li>
+<li>Envoronment/Platform</li>
+<li><a href="https://github.com/Netflix/archaius">Archaius</a></li>
+<li><a href="http://netflix.github.io/#repo">Netflix Open Source Center</a></li>
+<li>Culture and how engineering teams work together at Riot</li>
+<li>How big are the teams?</li>
+<li>Challenges introducing new technology</li>
+<li>Common set of practices and proccesses</li>
+<li>Creating Automation</li>
+<li>Relational Databases</li>
+<li>Open Source Experimentation</li>
+<li>Deployment Automation</li>
+<li>Questions from IRC</li>
+<li>How do you support or do infrastructure testing in QA for operations?</li>
+<li>Do you use Archaius with Chef Search?</li>
+<li>What's up with <a href="https://github.com/erikhuda/thor">Thor</a>?</li>
+<li>What do you do in terms of monitoring?</li>
 </ul>
 
 
@@ -123,7 +152,7 @@
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=--E0MzMH_FM">Video</a></li>
 </ul>
 
