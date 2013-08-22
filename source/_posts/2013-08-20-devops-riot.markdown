@@ -23,7 +23,7 @@ Join us as we discuss DevOps at Riot Games.
 * [Outline](http://foodfightshow.org/2013/08/devops-riot.html#outline)
 * [Picks](http://foodfightshow.org/2013/08/devops-riot.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3)
   * [Video](http://www.youtube.com/watch?v=--E0MzMH_FM)
 
 Panel<a name="panel"></a>
@@ -56,11 +56,11 @@ Outline<a name="outline"></a>
 * [Riot Games](http://www.riotgames.com)
 * [League of Legends](http://beta.na.leagueoflegends.com)
 * [The Riot Manifesto](http://www.riotgames.com/about)
- * Player Experienece
- * Challenge Convention
- * Focus on the team and talent
- * Take play seriously
- * Stay hungry and humble
+  * Player Experienece
+  * Challenge Convention
+  * Focus on the team and talent
+  * Take play seriously
+  * Stay hungry and humble
 * Riot's Infrastucture and challenging convention
 * Hardware
 * Envoronment/Platform
@@ -110,7 +110,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3)
 * [Video](http://www.youtube.com/watch?v=--E0MzMH_FM)
 
 <hr />
