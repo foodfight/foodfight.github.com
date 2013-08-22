@@ -53,7 +53,32 @@ Outline<a name="outline"></a>
 -------
 * Chef News
 * Introductions
+* [Riot Games](http://www.riotgames.com)
+* [League of Legends](http://beta.na.leagueoflegends.com)
 * [The Riot Manifesto](http://www.riotgames.com/about)
+ * Player Experienece
+ * Challenge Convention
+ * Focus on the team and talent
+ * Take play seriously
+ * Stay hungry and humble
+* Riot's Infrastucture and challenging convention
+* Hardware
+* Envoronment/Platform
+* [Archaius](https://github.com/Netflix/archaius)
+* [Netflix Open Source Center](http://netflix.github.io/#repo)
+* Culture and how engineering teams work together at Riot
+ * How big are the teams?
+ * Challenges introducing new technology
+ * Common set of practices and proccesses
+ * Creating Automation
+ * Relational Databases
+ * Open Source Experimentation
+* Deployment Automation
+* Questions from IRC
+ * How do you support or do infrastructure testing in QA for operations?
+ * Do you use Archaius with Chef Search?
+ * What's up with [Thor](https://github.com/erikhuda/thor)? 
+ * What do you do in terms of monitoring?
 
 Picks<a name="picks"></a>
 -----
