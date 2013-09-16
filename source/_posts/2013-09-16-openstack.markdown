@@ -29,7 +29,7 @@ Panel<a name="panel"></a>
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Hendrik Volkmer  [github](http://github.com/hvolkmer), [twitter](http://www.twitter.com/hvolkmer), blog: [Refactoring life. Mercilessly.](http://blog.hendrikvolkmer.de/)
-* Judd Maltin
+* Judd Maltin - [twitter](https://twitter.com/newgoliath)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
