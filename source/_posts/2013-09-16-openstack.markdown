@@ -6,15 +6,14 @@ comments: true
 categories: 
   - hvolkmer
   - newgoliath
+  - edolnx
 ---
-
-Today's show will begin at [16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
 
 Join the conversation in #foodfightshow on Freenode IRC.
 
 # Watch Now
 
-Today's show will begin at [16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dzbBxezbXko" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/09/openstack.html#panel)
 * [Chef News](http://foodfightshow.org/2013/09/openstack.html#news)
@@ -22,12 +21,13 @@ Today's show will begin at [16:00 UTC](http://www.timeanddate.com/worldclock/fix
 * [Picks](http://foodfightshow.org/2013/09/openstack.html#picks)
 * Download
   * Audio - Coming soon
-  * Video - begins at [16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
+  * [Video](http://youtu.be/dzbBxezbXko)
 
 Panel<a name="panel"></a>
 -------------
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Carl Perry, [twitter](http://twitter.com/edolnx), [github](http://github.com/edolnx), irc: carlp@freenode
 * Hendrik Volkmer  [github](http://github.com/hvolkmer), [twitter](http://www.twitter.com/hvolkmer), blog: [Refactoring life. Mercilessly.](http://blog.hendrikvolkmer.de/)
 * Judd Maltin - [twitter](https://twitter.com/newgoliath), [github](https://github.com/newgoliath), irc:  newgoliath, [blog](http://blog.newgoliath.com/)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
@@ -48,6 +48,8 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
+#### Carl
+
 #### Hendrik
 
 #### Judd
@@ -66,7 +68,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming soon
-* Video - begins at [16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&iso=20130916T12&p1=1928&ah=1)
+* [Video](http://youtu.be/dzbBxezbXko)
 
 <hr />
 
