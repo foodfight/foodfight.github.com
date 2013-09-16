@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-16T11:01:25-04:00</updated>
+  <updated>2013-09-16T11:57:29-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,13 +18,12 @@
     <link href="http://foodfightshow.org//2013/09/openstack.html"/>
     <updated>2013-09-16T10:31:00-04:00</updated>
     <id>http://foodfightshow.org//2013/09/openstack</id>
-    <content type="html"><![CDATA[<p>Today&#8217;s show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&amp;iso=20130916T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></p>
-
-<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
+    <content type="html"><![CDATA[<p>Join the conversation in #foodfightshow on Freenode IRC.</p>
 
 <h1>Watch Now</h1>
 
-<p>Today&#8217;s show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&amp;iso=20130916T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></p>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dzbBxezbXko" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2013/09/openstack.html#panel">Panel</a></li>
@@ -35,7 +34,7 @@
 
 <ul>
 <li>Audio - Coming soon</li>
-<li>Video - begins at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&amp;iso=20130916T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></li>
+<li><a href="http://youtu.be/dzbBxezbXko">Video</a></li>
 </ul>
 </li>
 </ul>
@@ -46,6 +45,7 @@
 <ul>
 <li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
 <li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Carl Perry, <a href="http://twitter.com/edolnx">twitter</a>, <a href="http://github.com/edolnx">github</a>, irc: carlp@freenode</li>
 <li>Hendrik Volkmer  <a href="http://github.com/hvolkmer">github</a>, <a href="http://www.twitter.com/hvolkmer">twitter</a>, blog: <a href="http://blog.hendrikvolkmer.de/">Refactoring life. Mercilessly.</a></li>
 <li>Judd Maltin - <a href="https://twitter.com/newgoliath">twitter</a>, <a href="https://github.com/newgoliath">github</a>, irc:  newgoliath, <a href="http://blog.newgoliath.com/">blog</a></li>
 <li>MattRay <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
@@ -68,6 +68,8 @@
 <h4>Brandon</h4>
 
 <h4>Bryan</h4>
+
+<h4>Carl</h4>
 
 <h4>Hendrik</h4>
 
@@ -93,7 +95,7 @@
 
 <ul>
 <li>Audio - Coming soon</li>
-<li>Video - begins at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Openstack&amp;iso=20130916T12&amp;p1=1928&amp;ah=1">16:00 UTC</a></li>
+<li><a href="http://youtu.be/dzbBxezbXko">Video</a></li>
 </ul>
 
 
