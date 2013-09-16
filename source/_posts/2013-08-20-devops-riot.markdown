@@ -37,6 +37,8 @@ Panel<a name="panel"></a>
 * Michael Ivey [github](https://github.com/ivey), [twitter](https://twitter.com/ivey), [blog](http://gweezlebur.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more -->
+
 Chef News<a name="news"></a>
 ---------
 
