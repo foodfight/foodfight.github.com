@@ -35,17 +35,55 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 * Introductions
-* For more about core: [http://robhirschfeld.com/2013/07/22/kicking-off-core/](http://robhirschfeld.com/2013/07/22/kicking-off-core/)
-* [http://docs.opscode.com/openstack.html](http://docs.opscode.com/openstack.html)
-* [https://wiki.openstack.org/wiki/How_To_Contribute](https://wiki.openstack.org/wiki/How_To_Contribute)
+* What is OpenStack?
+ * [Rob Hirschfeld: Kicking off discussion about OpenStack Core](http://robhirschfeld.com/2013/07/22/kicking-off-core/)
+ * [Rackspace](http://www.rackspace.com)
+* 7 Core Components (Terms)
+ * [Compute (Nova)](http://docs.openstack.org/developer/nova/)
+ * [Object Storage (Swift)](http://docs.openstack.org/developer/swift/)
+ * [Image Service (Glance)](http://docs.openstack.org/developer/glance/)
+ * [Identity Service (Keystone)](https://wiki.openstack.org/wiki/Keystone)
+ * [Dashboard (Horizon)](http://docs.openstack.org/developer/horizon/)
+ * [Network Service (Neutron)](https://wiki.openstack.org/wiki/Neutron)
+ * [Block Storage Service (Cinder)](https://wiki.openstack.org/wiki/Cinder)
+ * Metering Service (Salometer)
+ * Orchestration (Heat)
+* [DevStack](http://devstack.org/)
+ * [docker](https://github.com/dotcloud/docker)
+ * [Chef for OpenStack](http://docs.opscode.com/openstack.html)
+* [knife-openstack](https://github.com/opscode/knife-openstack)
+* [Python](http://www.python.org/)
+* [How To Contribute to OpenStack](https://wiki.openstack.org/wiki/How_To_Contribute)
+ * [review.openstack.org](https://review.openstack.org/#/q/status:open,n,z)
+* The Path to Openstack
+* Transitioning from a public cloud to Openstack
+ * Complience
+ * Efficiency
+* Tooling around APIs
+* The Knife Commands
+ * Knife Cloud
+ * [knife-openstack](https://github.com/opscode/knife-openstack)
+* [OpenStack Summit Hong Kong](http://www.openstack.org/summit/openstack-summit-hong-kong-2013/?source=o3)
+ * [omnibus-openstack](https://github.com/craigtracey/omnibus-openstack)
+* Grizly to Havannah and sequencing upgrades
+* [docs.opscode.com/openstack](http://docs.opscode.com/openstack.html)
 
 Picks<a name="picks"></a>
 -----
 #### Craig
 
+* [Ironic](https://wiki.openstack.org/wiki/Ironic)
+* [sensu](https://github.com/sensu)
+
 #### Edmund
 
+* [The Phoenix Project](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592)
+* [Daft Punk: Random Access Memories](http://www.amazon.com/Random-Access-Memories-Daft-Punk/dp/B00C061I3K)
+
 #### Hendrik
+
+* [Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1379445344&sr=1-1-catcorr&keywords=antifragile)
+* Grilled Tuna
 
 #### Judd
 
