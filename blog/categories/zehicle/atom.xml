@@ -4,7 +4,7 @@
   <title><![CDATA[Category: zehicle | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/zehicle/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-16T21:21:07-04:00</updated>
+  <updated>2013-09-16T22:48:00-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -88,6 +88,7 @@
 
 <ul>
 <li><a href="http://www.google.com/intl/en/chrome/devices/chromecast/">Chromecast</a></li>
+<li><a href="http://jtimberman.housepub.org/blog/2013/09/10/managing-secrets-with-chef-vault/">chef-vault</a></li>
 <li><a href="https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Community Summit</a></li>
 </ul>
 
