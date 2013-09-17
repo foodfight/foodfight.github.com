@@ -60,6 +60,7 @@ Picks<a name="picks"></a>
 #### Nathen
 
 * [Chromecast](http://www.google.com/intl/en/chrome/devices/chromecast/)
+* [chef-vault](http://jtimberman.housepub.org/blog/2013/09/10/managing-secrets-with-chef-vault/)
 * [Community Summit](https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013)
 
 #### Rob
