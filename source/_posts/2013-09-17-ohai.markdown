@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Ohai"
+date: 2013-09-17 11:22
+comments: true
+categories: 
+  - ohai
+---
+
+Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
+
+Join the conversation in #foodfightshow on Freenode IRC
+
+# Watch Now
+
+Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
+
+* [Panel](http://foodfightshow.org/2013/09/ohai.html#panel)
+* [Outline](http://foodfightshow.org/2013/09/ohai.html#outline)
+* [Picks](http://foodfightshow.org/2013/09/ohai.html#picks)
+* Download
+  * Audio - Coming soon
+  * Video - Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
+
+Panel<a name="panel"></a>
+-------------
+
+* Claire McQuin
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Warren 'Wazza' Bain [github](http://github.com/thoughtcroft), [twitter](https://twitter.com/thoughtcroft)
+
+Outline<a name="outline"></a>
+-------
+* Introductions
+
+Picks<a name="picks"></a>
+-----
+#### Claire
+
+#### Mike
+
+#### Nathen
+
+#### Warren
+
+Download
+--------
+* Audio - Coming soon
+* Video - Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
+
+<hr />
+
+The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+
