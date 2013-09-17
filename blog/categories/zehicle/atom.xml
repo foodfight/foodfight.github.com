@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: zehicle | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/zehicle/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-09-16T21:21:07-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[OpenStack]]></title>
+    <link href="http://foodfightshow.org//2013/09/openstack.html"/>
+    <updated>2013-09-16T10:31:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/09/openstack</id>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dzbBxezbXko" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/09/openstack.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/09/openstack.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/09/openstack.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming soon</li>
+<li><a href="http://youtu.be/dzbBxezbXko">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Craig Tracey - <a href="https://twitter.com/craig_tracey">twitter</a>, <a href="https://github.com/craigtracey">github</a>, <a href="http://www.scalehorizontally.com/">blog</a></li>
+<li>Edmund Haselwanter - <a href="http://twitter.com/ehaselwanter">twitter</a>, <a href="http://github.com/ehaselwanter">github</a></li>
+<li>Hendrik Volkmer  <a href="http://github.com/hvolkmer">github</a>, <a href="http://www.twitter.com/hvolkmer">twitter</a>, blog: <a href="http://blog.hendrikvolkmer.de/">Refactoring life. Mercilessly.</a></li>
+<li>Judd Maltin - <a href="https://twitter.com/newgoliath">twitter</a>, <a href="https://github.com/newgoliath">github</a>, irc:  newgoliath, <a href="http://blog.newgoliath.com/">blog</a></li>
+<li>Matt Ray <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Rob Hirschfeld - <a href="https://twitter.com/zehicle">twitter</a>, <a href="https://github.com/cloudedge">github</a>, <a href="http://robhirschfeld.com/">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions</li>
+<li>For more about core: <a href="http://robhirschfeld.com/2013/07/22/kicking-off-core/">http://robhirschfeld.com/2013/07/22/kicking-off-core/</a></li>
+<li><a href="http://docs.opscode.com/openstack.html">http://docs.opscode.com/openstack.html</a></li>
+<li><a href="https://wiki.openstack.org/wiki/How_To_Contribute">https://wiki.openstack.org/wiki/How_To_Contribute</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Craig</h4>
+
+<h4>Edmund</h4>
+
+<h4>Hendrik</h4>
+
+<h4>Judd</h4>
+
+<ul>
+<li><a href="http://coreos.com/">CoreOS</a></li>
+<li><a href="http://pemachodronfoundation.org/">Pema Chödrön</a></li>
+</ul>
+
+
+<h4>Matt</h4>
+
+<ul>
+<li><a href="http://www.joinfu.com/2013/05/working-with-the-openstack-code-review-and-ci-system-chef-edition/">Working with the OpenStack Code Review and CI system – Chef Edition</a></li>
+<li><a href="http://www.youtube.com/watch?v=FuarlNKs_FY">Vagabond multinode testing walkthrough with Chris Roberts</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.google.com/intl/en/chrome/devices/chromecast/">Chromecast</a></li>
+<li><a href="https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Community Summit</a></li>
+</ul>
+
+
+<h4>Rob</h4>
+
+<ul>
+<li><a href="http://www.rhapsody.com/artist/cloud-cult">Cloud Cult</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming soon</li>
+<li><a href="http://youtu.be/dzbBxezbXko">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
