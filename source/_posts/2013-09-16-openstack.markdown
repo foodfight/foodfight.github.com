@@ -19,7 +19,7 @@ categories:
 * [Outline](http://foodfightshow.org/2013/09/openstack.html#outline)
 * [Picks](http://foodfightshow.org/2013/09/openstack.html#picks)
 * Download
-  * Audio - Coming soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow61-OpenStack.mp3)
   * [Video](http://youtu.be/dzbBxezbXko)
 
 Panel<a name="panel"></a>
@@ -107,7 +107,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming soon
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow61-OpenStack.mp3)
 * [Video](http://youtu.be/dzbBxezbXko)
 
 <hr />
