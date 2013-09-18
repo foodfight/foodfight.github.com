@@ -24,22 +24,31 @@ Panel<a name="panel"></a>
 -------------
 
 * Bryan McLellan - [twitter](https://twitter.com/btmspox), [github](https://github.com/btm), [blog](http://loftninjas.org/)
-* Claire McQuin
+* Claire McQuin - [github](https://github.com/mcquin)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Seth Vargo - [github](http://github.com/sethvargo), [twitter](https://twitter.com/sethvargo)
 * Warren 'Wazza' Bain [github](http://github.com/thoughtcroft), [twitter](https://twitter.com/thoughtcroft)
 
 Outline<a name="outline"></a>
 -------
 * Introductions
+* [Warren's Blog Post](http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&cd=1&hl=en&ct=clnk&gl=us)
+* [Community Plugins:  Ohai](http://docs.opscode.com/community_plugin_ohai.html)
+* [Ohai documentation](http://docs.opscode.com/ohai.html)
+* [ninefold_ohai cookbook](https://github.com/ninefold/chef-ninefold-ohai)
 
 Picks<a name="picks"></a>
 -----
 #### Claire
 
-#### Mike
+* Baroness "Yellow & Green"
 
 #### Nathen
+
+* [Rocky Mountain Ruby](http://rockymtnruby.com/)
+
+#### Seth
 
 #### Warren
 
