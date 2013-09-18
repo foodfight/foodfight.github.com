@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-17T21:01:47-04:00</updated>
+  <updated>2013-09-18T10:59:33-07:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Ohai]]></title>
     <link href="http://foodfightshow.org//2013/09/ohai.html"/>
-    <updated>2013-09-17T11:22:00-04:00</updated>
+    <updated>2013-09-17T11:22:00-07:00</updated>
     <id>http://foodfightshow.org//2013/09/ohai</id>
     <content type="html"><![CDATA[<p>Join our discussion about Ohai and Ohai Plugins.</p>
 
@@ -43,9 +43,10 @@
 
 <ul>
 <li>Bryan McLellan - <a href="https://twitter.com/btmspox">twitter</a>, <a href="https://github.com/btm">github</a>, <a href="http://loftninjas.org/">blog</a></li>
-<li>Claire McQuin</li>
+<li>Claire McQuin - <a href="https://github.com/mcquin">github</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Seth Vargo - <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
 <li>Warren &#8216;Wazza&#8217; Bain <a href="http://github.com/thoughtcroft">github</a>, <a href="https://twitter.com/thoughtcroft">twitter</a></li>
 </ul>
 
@@ -54,6 +55,10 @@
 
 <ul>
 <li>Introductions</li>
+<li><a href="http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us">Warren&#8217;s Blog Post</a></li>
+<li><a href="http://docs.opscode.com/community_plugin_ohai.html">Community Plugins:  Ohai</a></li>
+<li><a href="http://docs.opscode.com/ohai.html">Ohai documentation</a></li>
+<li><a href="https://github.com/ninefold/chef-ninefold-ohai">ninefold_ohai cookbook</a></li>
 </ul>
 
 
@@ -61,9 +66,19 @@
 
 <h4>Claire</h4>
 
-<h4>Mike</h4>
+<ul>
+<li>Baroness &#8220;Yellow &amp; Green&#8221;</li>
+</ul>
+
 
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="http://rockymtnruby.com/">Rocky Mountain Ruby</a></li>
+</ul>
+
+
+<h4>Seth</h4>
 
 <h4>Warren</h4>
 
@@ -89,7 +104,7 @@
   <entry>
     <title type="html"><![CDATA[OpenStack]]></title>
     <link href="http://foodfightshow.org//2013/09/openstack.html"/>
-    <updated>2013-09-16T10:31:00-04:00</updated>
+    <updated>2013-09-16T10:31:00-07:00</updated>
     <id>http://foodfightshow.org//2013/09/openstack</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -242,7 +257,7 @@
   <entry>
     <title type="html"><![CDATA[DevOps Riot]]></title>
     <link href="http://foodfightshow.org//2013/08/devops-riot.html"/>
-    <updated>2013-08-20T08:52:00-04:00</updated>
+    <updated>2013-08-20T08:52:00-07:00</updated>
     <id>http://foodfightshow.org//2013/08/devops-riot</id>
     <content type="html"><![CDATA[<p>Join us as we discuss DevOps at Riot Games.</p>
 
@@ -400,7 +415,7 @@
   <entry>
     <title type="html"><![CDATA[Packer]]></title>
     <link href="http://foodfightshow.org//2013/08/packer.html"/>
-    <updated>2013-08-14T09:03:00-04:00</updated>
+    <updated>2013-08-14T09:03:00-07:00</updated>
     <id>http://foodfightshow.org//2013/08/packer</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="http://packer.io">Packer</a> with <a href="https://twitter.com/mitchellh">Mitchell Hashimoto</a></p>
 
@@ -577,7 +592,7 @@
   <entry>
     <title type="html"><![CDATA[Immutable Infrastructure]]></title>
     <link href="http://foodfightshow.org//2013/07/immutable-infrastructure.html"/>
-    <updated>2013-07-22T10:20:00-04:00</updated>
+    <updated>2013-07-22T10:20:00-07:00</updated>
     <id>http://foodfightshow.org//2013/07/immutable-infrastructure</id>
     <content type="html"><![CDATA[<p>Show Date:  July 22, 2013</p>
 
@@ -746,7 +761,7 @@
   <entry>
     <title type="html"><![CDATA[Secret Chef]]></title>
     <link href="http://foodfightshow.org//2013/07/secret-chef.html"/>
-    <updated>2013-07-09T10:48:00-04:00</updated>
+    <updated>2013-07-09T10:48:00-07:00</updated>
     <id>http://foodfightshow.org//2013/07/secret-chef</id>
     <content type="html"><![CDATA[<p>Show Date:  July 9, 2013</p>
 
@@ -889,7 +904,7 @@
   <entry>
     <title type="html"><![CDATA[Erlang Eye for the DevOps Guy and Gal]]></title>
     <link href="http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal.html"/>
-    <updated>2013-07-01T15:52:00-04:00</updated>
+    <updated>2013-07-01T15:52:00-07:00</updated>
     <id>http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal</id>
     <content type="html"><![CDATA[<p>Show Date: Monday, July 1, 2013</p>
 
@@ -1041,7 +1056,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays - Silicon Valley]]></title>
     <link href="http://foodfightshow.org//2013/06/devopsdays-silicon-valley.html"/>
-    <updated>2013-06-28T15:24:00-04:00</updated>
+    <updated>2013-06-28T15:24:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/devopsdays-silicon-valley</id>
     <content type="html"><![CDATA[<p>Show Date:  June 21, 2013</p>
 
@@ -1100,7 +1115,7 @@
   <entry>
     <title type="html"><![CDATA[Continuous Delivery]]></title>
     <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
-    <updated>2013-06-17T12:48:00-04:00</updated>
+    <updated>2013-06-17T12:48:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
     <content type="html"><![CDATA[<p>Show Date:   June 17, 2013</p>
 
@@ -1256,7 +1271,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
     <link href="http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html"/>
-    <updated>2013-06-13T09:47:00-04:00</updated>
+    <updated>2013-06-13T09:47:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo</id>
     <content type="html"><![CDATA[<p>Show Date: June 12, 2013</p>
 
@@ -1395,7 +1410,7 @@ news to info@foodfightshow.org</p>
   <entry>
     <title type="html"><![CDATA[Amazon Web Services]]></title>
     <link href="http://foodfightshow.org//2013/06/amazon-web-services.html"/>
-    <updated>2013-06-05T07:44:00-04:00</updated>
+    <updated>2013-06-05T07:44:00-07:00</updated>
     <id>http://foodfightshow.org//2013/06/amazon-web-services</id>
     <content type="html"><![CDATA[<p>Show Date:  June 5, 2013</p>
 
@@ -1609,7 +1624,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
     <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
-    <updated>2013-05-22T08:11:00-04:00</updated>
+    <updated>2013-05-22T08:11:00-07:00</updated>
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
     <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
 
@@ -1824,7 +1839,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Monitorama 2013]]></title>
     <link href="http://foodfightshow.org//2013/05/monitorama-2013.html"/>
-    <updated>2013-05-21T11:32:00-04:00</updated>
+    <updated>2013-05-21T11:32:00-07:00</updated>
     <id>http://foodfightshow.org//2013/05/monitorama-2013</id>
     <content type="html"><![CDATA[<p>Show Date:  29 March 2013</p>
 
@@ -1848,7 +1863,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Netflix OSS]]></title>
     <link href="http://foodfightshow.org//2013/05/netflix-oss.html"/>
-    <updated>2013-05-09T09:48:00-04:00</updated>
+    <updated>2013-05-09T09:48:00-07:00</updated>
     <id>http://foodfightshow.org//2013/05/netflix-oss</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, May 9, 2013</p>
 
@@ -2075,7 +2090,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[ChefConf:  Day Two Wrap-up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up.html"/>
-    <updated>2013-04-30T13:46:00-04:00</updated>
+    <updated>2013-04-30T13:46:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -2116,7 +2131,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Talking Shop with Spheromak]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak.html"/>
-    <updated>2013-04-27T01:46:00-04:00</updated>
+    <updated>2013-04-27T01:46:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, April 27, 2013</p>
 
@@ -2161,7 +2176,7 @@ and Pry.rescue do #&#8230;. end</li>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Talking about Push Jobs with Kevin Smith]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html"/>
-    <updated>2013-04-26T17:26:00-04:00</updated>
+    <updated>2013-04-26T17:26:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -2195,7 +2210,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Chefconf 2013: Day 1 Wrap up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up.html"/>
-    <updated>2013-04-26T17:12:00-04:00</updated>
+    <updated>2013-04-26T17:12:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  25 April 2013</p>
 
@@ -2234,7 +2249,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[Docker: the Linux container runtime]]></title>
     <link href="http://foodfightshow.org//2013/04/docker-the-linux-container-runtime.html"/>
-    <updated>2013-04-15T12:30:00-04:00</updated>
+    <updated>2013-04-15T12:30:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/docker-the-linux-container-runtime</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, April 15, 2013</p>
 
@@ -2377,7 +2392,7 @@ greate demonstration of using Push Jobs like primitives.</p>
   <entry>
     <title type="html"><![CDATA[A Smarter OS]]></title>
     <link href="http://foodfightshow.org//2013/04/a-smarter-os.html"/>
-    <updated>2013-04-08T12:40:00-04:00</updated>
+    <updated>2013-04-08T12:40:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/a-smarter-os</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, April 8, 2013</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ohai | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/ohai/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-17T21:01:47-04:00</updated>
+  <updated>2013-09-18T10:59:33-07:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Ohai]]></title>
     <link href="http://foodfightshow.org//2013/09/ohai.html"/>
-    <updated>2013-09-17T11:22:00-04:00</updated>
+    <updated>2013-09-17T11:22:00-07:00</updated>
     <id>http://foodfightshow.org//2013/09/ohai</id>
     <content type="html"><![CDATA[<p>Join our discussion about Ohai and Ohai Plugins.</p>
 
@@ -43,9 +43,10 @@
 
 <ul>
 <li>Bryan McLellan - <a href="https://twitter.com/btmspox">twitter</a>, <a href="https://github.com/btm">github</a>, <a href="http://loftninjas.org/">blog</a></li>
-<li>Claire McQuin</li>
+<li>Claire McQuin - <a href="https://github.com/mcquin">github</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Seth Vargo - <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
 <li>Warren 'Wazza' Bain <a href="http://github.com/thoughtcroft">github</a>, <a href="https://twitter.com/thoughtcroft">twitter</a></li>
 </ul>
 
@@ -54,6 +55,10 @@
 
 <ul>
 <li>Introductions</li>
+<li><a href="http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us">Warren's Blog Post</a></li>
+<li><a href="http://docs.opscode.com/community_plugin_ohai.html">Community Plugins:  Ohai</a></li>
+<li><a href="http://docs.opscode.com/ohai.html">Ohai documentation</a></li>
+<li><a href="https://github.com/ninefold/chef-ninefold-ohai">ninefold_ohai cookbook</a></li>
 </ul>
 
 
@@ -61,9 +66,19 @@
 
 <h4>Claire</h4>
 
-<h4>Mike</h4>
+<ul>
+<li>Baroness "Yellow &amp; Green"</li>
+</ul>
+
 
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="http://rockymtnruby.com/">Rocky Mountain Ruby</a></li>
+</ul>
+
+
+<h4>Seth</h4>
 
 <h4>Warren</h4>
 
