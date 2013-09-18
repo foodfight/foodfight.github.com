@@ -23,7 +23,7 @@ Join our discussion about Ohai and Ohai Plugins.
 Panel<a name="panel"></a>
 -------------
 
-* Bryan McLellan
+* Bryan McLellan - [twitter](https://twitter.com/btmspox), [github](https://github.com/btm), [blog](http://loftninjas.org/)
 * Claire McQuin
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
