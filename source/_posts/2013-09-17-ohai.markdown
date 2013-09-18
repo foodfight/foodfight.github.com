@@ -5,6 +5,10 @@ date: 2013-09-17 11:22
 comments: true
 categories: 
   - ohai
+  - thoughtcroft
+  - sethvargo
+  - ninefold
+  - fauxhai
 ---
 
 Join our discussion about Ohai and Ohai Plugins.
