@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ohai | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/ohai/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-17T12:55:26-04:00</updated>
+  <updated>2013-09-17T20:50:15-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,13 +18,12 @@
     <link href="http://foodfightshow.org//2013/09/ohai.html"/>
     <updated>2013-09-17T11:22:00-04:00</updated>
     <id>http://foodfightshow.org//2013/09/ohai</id>
-    <content type="html"><![CDATA[<p>Today's show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&amp;iso=20130917T15&amp;p1=263&amp;ah=1">19:00:00 UTC</a></p>
-
-<p>Join the conversation in #foodfightshow on Freenode IRC</p>
+    <content type="html"><![CDATA[<p>Join our discussion about Ohai and Ohai Plugins.</p>
 
 <h1>Watch Now</h1>
 
-<p>Today's show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&amp;iso=20130917T15&amp;p1=263&amp;ah=1">19:00:00 UTC</a></p>
+<iframe width="560" height="315" src="http://foodfightshow.org///www.youtube.com/embed/g-q-P2z87zg?list=UUjcxay9M63Ci4CmFF9KO3jw" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2013/09/ohai.html#panel">Panel</a></li>
@@ -34,7 +33,7 @@
 
 <ul>
 <li>Audio - Coming soon</li>
-<li>Video - Today's show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&amp;iso=20130917T15&amp;p1=263&amp;ah=1">19:00:00 UTC</a></li>
+<li><a href="http://www.youtube.com/watch?v=g-q-P2z87zg">Video</a></li>
 </ul>
 </li>
 </ul>
@@ -43,6 +42,7 @@
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
+<li>Bryan McLellan</li>
 <li>Claire McQuin</li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
@@ -71,7 +71,7 @@
 
 <ul>
 <li>Audio - Coming soon</li>
-<li>Video - Today's show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&amp;iso=20130917T15&amp;p1=263&amp;ah=1">19:00:00 UTC</a></li>
+<li><a href="http://www.youtube.com/watch?v=g-q-P2z87zg">Video</a></li>
 </ul>
 
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: zehicle | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/zehicle/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-17T12:55:26-04:00</updated>
+  <updated>2013-09-17T20:50:15-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -54,9 +54,38 @@
 
 <ul>
 <li>Introductions</li>
-<li>For more about core: <a href="http://robhirschfeld.com/2013/07/22/kicking-off-core/">http://robhirschfeld.com/2013/07/22/kicking-off-core/</a></li>
-<li><a href="http://docs.opscode.com/openstack.html">http://docs.opscode.com/openstack.html</a></li>
-<li><a href="https://wiki.openstack.org/wiki/How_To_Contribute">https://wiki.openstack.org/wiki/How_To_Contribute</a></li>
+<li>What is OpenStack?</li>
+<li><a href="http://robhirschfeld.com/2013/07/22/kicking-off-core/">Rob Hirschfeld: Kicking off discussion about OpenStack Core</a></li>
+<li><a href="http://www.rackspace.com">Rackspace</a></li>
+<li>7 Core Components (Terms)</li>
+<li><a href="http://docs.openstack.org/developer/nova/">Compute (Nova)</a></li>
+<li><a href="http://docs.openstack.org/developer/swift/">Object Storage (Swift)</a></li>
+<li><a href="http://docs.openstack.org/developer/glance/">Image Service (Glance)</a></li>
+<li><a href="https://wiki.openstack.org/wiki/Keystone">Identity Service (Keystone)</a></li>
+<li><a href="http://docs.openstack.org/developer/horizon/">Dashboard (Horizon)</a></li>
+<li><a href="https://wiki.openstack.org/wiki/Neutron">Network Service (Neutron)</a></li>
+<li><a href="https://wiki.openstack.org/wiki/Cinder">Block Storage Service (Cinder)</a></li>
+<li>Metering Service (Salometer)</li>
+<li>Orchestration (Heat)</li>
+<li><a href="http://devstack.org/">DevStack</a></li>
+<li><a href="https://github.com/dotcloud/docker">docker</a></li>
+<li><a href="http://docs.opscode.com/openstack.html">Chef for OpenStack</a></li>
+<li><a href="https://github.com/opscode/knife-openstack">knife-openstack</a></li>
+<li><a href="http://www.python.org/">Python</a></li>
+<li><a href="https://wiki.openstack.org/wiki/How_To_Contribute">How To Contribute to OpenStack</a></li>
+<li><a href="https://review.openstack.org/#/q/status:open,n,z">review.openstack.org</a></li>
+<li>The Path to Openstack</li>
+<li>Transitioning from a public cloud to Openstack</li>
+<li>Complience</li>
+<li>Efficiency</li>
+<li>Tooling around APIs</li>
+<li>The Knife Commands</li>
+<li>Knife Cloud</li>
+<li><a href="https://github.com/opscode/knife-openstack">knife-openstack</a></li>
+<li><a href="http://www.openstack.org/summit/openstack-summit-hong-kong-2013/?source=o3">OpenStack Summit Hong Kong</a></li>
+<li><a href="https://github.com/craigtracey/omnibus-openstack">omnibus-openstack</a></li>
+<li>Grizly to Havannah and sequencing upgrades</li>
+<li><a href="http://docs.opscode.com/openstack.html">docs.opscode.com/openstack</a></li>
 </ul>
 
 
@@ -64,9 +93,27 @@
 
 <h4>Craig</h4>
 
+<ul>
+<li><a href="https://wiki.openstack.org/wiki/Ironic">Ironic</a></li>
+<li><a href="https://github.com/sensu">sensu</a></li>
+</ul>
+
+
 <h4>Edmund</h4>
 
+<ul>
+<li><a href="http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592">The Phoenix Project</a></li>
+<li><a href="http://www.amazon.com/Random-Access-Memories-Daft-Punk/dp/B00C061I3K">Daft Punk: Random Access Memories</a></li>
+</ul>
+
+
 <h4>Hendrik</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/ref=sr_1_cc_1?s=aps&amp;ie=UTF8&amp;qid=1379445344&amp;sr=1-1-catcorr&amp;keywords=antifragile">Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb</a></li>
+<li>Grilled Tuna</li>
+</ul>
+
 
 <h4>Judd</h4>
 
