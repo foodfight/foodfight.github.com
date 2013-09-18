@@ -7,24 +7,23 @@ categories:
   - ohai
 ---
 
-Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
-
-Join the conversation in #foodfightshow on Freenode IRC
+Join our discussion about Ohai and Ohai Plugins.
 
 # Watch Now
 
-Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
+<iframe width="560" height="315" src="//www.youtube.com/embed/g-q-P2z87zg?list=UUjcxay9M63Ci4CmFF9KO3jw" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/09/ohai.html#panel)
 * [Outline](http://foodfightshow.org/2013/09/ohai.html#outline)
 * [Picks](http://foodfightshow.org/2013/09/ohai.html#picks)
 * Download
   * Audio - Coming soon
-  * Video - Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
+  * [Video](http://www.youtube.com/watch?v=g-q-P2z87zg)
 
 Panel<a name="panel"></a>
 -------------
 
+* Bryan McLellan
 * Claire McQuin
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
@@ -47,7 +46,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming soon
-* Video - Today's show will begin at [19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
+* [Video](http://www.youtube.com/watch?v=g-q-P2z87zg)
 
 <hr />
 
