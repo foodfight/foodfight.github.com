@@ -37,24 +37,46 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 * Introductions
-* [Warren's Blog Post](http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&cd=1&hl=en&ct=clnk&gl=us)
-* [Community Plugins:  Ohai](http://docs.opscode.com/community_plugin_ohai.html)
+* [Warren's Blog Post: Cloud programming part four: how to write and install an Ohai plugin, the Fight Club way](http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&cd=1&hl=en&ct=clnk&gl=us)
+* What Ohai does and what it's used for
+* Writing your own Ohai plugin
+* [Community Plugins: Ohai](http://docs.opscode.com/community_plugin_ohai.html)
 * [Ohai documentation](http://docs.opscode.com/ohai.html)
 * [ninefold_ohai cookbook](https://github.com/ninefold/chef-ninefold-ohai)
+* The Hints System
+* Testing
+* [fauxhai](https://github.com/customink/fauxhai)
+* Running Ohai plugins
+* What's coming in Ohai 7
+* Attributes
+* More flexibility in plugin path organization
 
 Picks<a name="picks"></a>
 -----
+#### Seth
+
+* Iced Tea
+
+#### Warren
+
+* [GoPro Camera](http://gopro.com/)
+* [GoGaRuCo](http://gogaruco.com/)
+* [flood.io](https://flood.io/)
+* [V for Vendetta](http://www.imdb.com/title/tt0434409/)
+
 #### Claire
 
-* Baroness "Yellow & Green"
+* [Baroness "Yellow & Green"](http://baroness.bandcamp.com/album/yellow-green)
+* Using a Tennis Ball
+
+#### Bryan
+
+* [Disable typing mute in Google Hangouts on both OS X and Windows](https://plus.google.com/113194239234001586097/posts/MZna2qrTBfm)
+* [Beeminder](https://www.beeminder.com/)
 
 #### Nathen
 
 * [Rocky Mountain Ruby](http://rockymtnruby.com/)
-
-#### Seth
-
-#### Warren
 
 Download
 --------
