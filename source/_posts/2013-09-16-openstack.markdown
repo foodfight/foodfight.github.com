@@ -32,6 +32,8 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Rob Hirschfeld - [twitter](https://twitter.com/zehicle), [github](https://github.com/cloudedge), [blog](http://robhirschfeld.com/)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 * Introductions

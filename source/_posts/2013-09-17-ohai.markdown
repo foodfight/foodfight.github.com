@@ -21,7 +21,7 @@ Join our discussion about Ohai and Ohai Plugins.
 * [Outline](http://foodfightshow.org/2013/09/ohai.html#outline)
 * [Picks](http://foodfightshow.org/2013/09/ohai.html#picks)
 * Download
-  * Audio - Coming soon
+  * [Audio](http://traffic.libsyn.com/foodfight/iFoodFightShow-62-Ohai.mp3)
   * [Video](http://www.youtube.com/watch?v=g-q-P2z87zg)
 
 Panel<a name="panel"></a>
@@ -80,7 +80,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming soon
+* [Audio](http://traffic.libsyn.com/foodfight/iFoodFightShow-62-Ohai.mp3)
 * [Video](http://www.youtube.com/watch?v=g-q-P2z87zg)
 
 <hr />
