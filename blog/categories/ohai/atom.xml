@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ohai | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/ohai/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-18T10:59:33-07:00</updated>
+  <updated>2013-09-20T16:01:34-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Ohai]]></title>
     <link href="http://foodfightshow.org//2013/09/ohai.html"/>
-    <updated>2013-09-17T11:22:00-07:00</updated>
+    <updated>2013-09-17T11:22:00-04:00</updated>
     <id>http://foodfightshow.org//2013/09/ohai</id>
     <content type="html"><![CDATA[<p>Join our discussion about Ohai and Ohai Plugins.</p>
 
@@ -32,7 +32,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/iFoodFightShow-62-Ohai.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=g-q-P2z87zg">Video</a></li>
 </ul>
 </li>
@@ -55,19 +55,54 @@
 
 <ul>
 <li>Introductions</li>
-<li><a href="http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us">Warren's Blog Post</a></li>
-<li><a href="http://docs.opscode.com/community_plugin_ohai.html">Community Plugins:  Ohai</a></li>
+<li><a href="http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us">Warren's Blog Post: Cloud programming part four: how to write and install an Ohai plugin, the Fight Club way</a></li>
+<li>What Ohai does and what it's used for</li>
+<li>Writing your own Ohai plugin</li>
+<li><a href="http://docs.opscode.com/community_plugin_ohai.html">Community Plugins: Ohai</a></li>
 <li><a href="http://docs.opscode.com/ohai.html">Ohai documentation</a></li>
 <li><a href="https://github.com/ninefold/chef-ninefold-ohai">ninefold_ohai cookbook</a></li>
+<li>The Hints System</li>
+<li>Testing</li>
+<li><a href="https://github.com/customink/fauxhai">fauxhai</a></li>
+<li>Running Ohai plugins</li>
+<li>What's coming in Ohai 7</li>
+<li>Attributes</li>
+<li>More flexibility in plugin path organization</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
 
+<h4>Seth</h4>
+
+<ul>
+<li>Iced Tea</li>
+</ul>
+
+
+<h4>Warren</h4>
+
+<ul>
+<li><a href="http://gopro.com/">GoPro Camera</a></li>
+<li><a href="http://gogaruco.com/">GoGaRuCo</a></li>
+<li><a href="https://flood.io/">flood.io</a></li>
+<li><a href="http://www.imdb.com/title/tt0434409/">V for Vendetta</a></li>
+</ul>
+
+
 <h4>Claire</h4>
 
 <ul>
-<li>Baroness "Yellow &amp; Green"</li>
+<li><a href="http://baroness.bandcamp.com/album/yellow-green">Baroness "Yellow &amp; Green"</a></li>
+<li>Using a Tennis Ball</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="https://plus.google.com/113194239234001586097/posts/MZna2qrTBfm">Disable typing mute in Google Hangouts on both OS X and Windows</a></li>
+<li><a href="https://www.beeminder.com/">Beeminder</a></li>
 </ul>
 
 
@@ -78,14 +113,10 @@
 </ul>
 
 
-<h4>Seth</h4>
-
-<h4>Warren</h4>
-
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/iFoodFightShow-62-Ohai.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=g-q-P2z87zg">Video</a></li>
 </ul>
 
