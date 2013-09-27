@@ -10,6 +10,8 @@ categories:
   - jsquyres
 ---
 
+Bryan and Nathen are joined by [Brock Palen](http://www.rce-cast.com/about/about-the-hosts.html#brockp) and [Jeff Squyers](http://www.rce-cast.com/about/about-the-hosts.html#jsquyres),  the co-hosts of the [RCE Cast](http://www.rce-cast.com/), a podcast about High Performance Computing.
+
 Join the discussion about Chef and HPC in #foodfightshow on Freenode IRC.
 
 The show will begin at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&iso=20130927T11&p1=419).
@@ -33,6 +35,7 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
+-------
 
 Picks<a name="picks"></a>
 -----
