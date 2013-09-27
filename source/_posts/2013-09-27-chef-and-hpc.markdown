@@ -8,6 +8,7 @@ categories:
   - cycle computing
   - brockpalen
   - jsquyres
+  - funnelfiasco
 ---
 
 Bryan and Nathen are joined by [Brock Palen](http://www.rce-cast.com/about/about-the-hosts.html#brockp) and [Jeff Squyers](http://www.rce-cast.com/about/about-the-hosts.html#jsquyres),  the co-hosts of the [RCE Cast](http://www.rce-cast.com/), a podcast about High Performance Computing.
@@ -27,6 +28,7 @@ Panel<a name="panel"></a>
 -----
 * Brock Palen [twitter](https://twitter.com/brockpalen), [github](https://github.com/brockpalen), [blog](http://www.failureasaservice.com/)
 * Jeff Squyres [twitter](https://twitter.com/jsquyres), [github](https://github.com/jsquyres)
+* Ben Cotton [twitter](https://twitter.com/funnelfiasco), [github](https://github.com/funnelfiasco), [blog](http://www.funnelfiasco.com/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
