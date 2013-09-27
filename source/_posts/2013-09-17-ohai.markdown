@@ -34,6 +34,8 @@ Panel<a name="panel"></a>
 * Seth Vargo - [github](http://github.com/sethvargo), [twitter](https://twitter.com/sethvargo)
 * Warren 'Wazza' Bain [github](http://github.com/thoughtcroft), [twitter](https://twitter.com/thoughtcroft)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 * Introductions
