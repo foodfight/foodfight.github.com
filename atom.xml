@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-27T12:47:39-04:00</updated>
+  <updated>2013-09-27T15:25:43-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -44,6 +44,7 @@
 <ul>
 <li>Brock Palen <a href="https://twitter.com/brockpalen">twitter</a>, <a href="https://github.com/brockpalen">github</a>, <a href="http://www.failureasaservice.com/">blog</a></li>
 <li>Jeff Squyres <a href="https://twitter.com/jsquyres">twitter</a>, <a href="https://github.com/jsquyres">github</a></li>
+<li>Ben Cotton <a href="https://twitter.com/funnelfiasco">twitter</a>, <a href="https://github.com/funnelfiasco">github</a>, <a href="http://www.funnelfiasco.com/">blog</a></li>
 <li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
