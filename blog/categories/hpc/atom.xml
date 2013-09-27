@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hpc | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/hpc/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-27T10:53:32-04:00</updated>
+  <updated>2013-09-27T12:47:39-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -19,10 +19,6 @@
     <updated>2013-09-27T10:08:00-04:00</updated>
     <id>http://foodfightshow.org//2013/09/chef-and-hpc</id>
     <content type="html"><![CDATA[<p>Bryan and Nathen are joined by <a href="http://www.rce-cast.com/about/about-the-hosts.html#brockp">Brock Palen</a> and <a href="http://www.rce-cast.com/about/about-the-hosts.html#jsquyres">Jeff Squyers</a>,  the co-hosts of the <a href="http://www.rce-cast.com/">RCE Cast</a>, a podcast about High Performance Computing.</p>
-
-<p>Join the discussion about Chef and HPC in #foodfightshow on Freenode IRC.</p>
-
-<p>The show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&amp;iso=20130927T11&amp;p1=419">15:00:00 UTC</a>.</p>
 
 <h1>Watch Now</h1>
 
@@ -55,6 +51,12 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
+<ul>
+<li><a href="http://www.opscode.com/blog/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/">Facebook talk from ChefConf</a></li>
+<li><a href="http://www.opscode.com/blog/chefconf-talks/utility-hpc-right-systems-right-scale-right-science-jason-stowe/">Cycle Computing talk from ChefConf</a></li>
+</ul>
+
+
 <h2>Picks<a name="picks"></a></h2>
 
 <h4>Brock</h4>
@@ -67,9 +69,32 @@
 
 <h4>Jeff</h4>
 
+<h4>Ben</h4>
+
+<ul>
+<li><a href="https://www.usenix.org/conference/lisa13">LISA</a></li>
+<li><a href="https://www.google.com/?doodle=9019609">Today's Doodle Google</a></li>
+</ul>
+
+
 <h4>Bryan</h4>
 
+<h4>Matt</h4>
+
+<ul>
+<li><a href="http://www.treadmilldeskdiary.com/">The Treadmill Desk Diary</a></li>
+<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Sunshine (Music from the Motion Picture</a></li>
+</ul>
+
+
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.unlockingthetruthband.com/">Unlocking the Truth</a></li>
+<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Interview with Unlocking the Truth</a></li>
+<li>Happy 7th Birthday, Shannon!</li>
+</ul>
+
 
 <h2>Download</h2>
 
