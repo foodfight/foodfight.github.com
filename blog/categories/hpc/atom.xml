@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hpc | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/hpc/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-09-20T16:04:14-04:00</updated>
+  <updated>2013-09-27T10:26:34-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,82 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chef and HPC]]></title>
+    <link href="http://foodfightshow.org//2013/09/chef-and-hpc.html"/>
+    <updated>2013-09-27T10:08:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/09/chef-and-hpc</id>
+    <content type="html"><![CDATA[<p>Bryan and Nathen are joined by <a href="http://www.rce-cast.com/about/about-the-hosts.html#brockp">Brock Palen</a> and <a href="http://www.rce-cast.com/about/about-the-hosts.html#jsquyres">Jeff Squyers</a>,  the co-hosts of the <a href="http://www.rce-cast.com/">RCE Cast</a>, a podcast about High Performance Computing.</p>
+
+<p>Join the discussion about Chef and HPC in #foodfightshow on Freenode IRC.</p>
+
+<p>The show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&amp;iso=20130927T11&amp;p1=419">15:00:00 UTC</a>.</p>
+
+<h1>Watch Now</h1>
+
+<p>The show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&amp;iso=20130927T11&amp;p1=419">15:00:00 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/09/chef-and-hpc.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/09/chef-and-hpc.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/09/chef-and-hpc.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming soon!</li>
+<li>Video - The show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&amp;iso=20130927T11&amp;p1=419">15:00:00 UTC</a>.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brock Palen <a href="https://twitter.com/brockpalen">twitter</a>, <a href="https://github.com/brockpalen">github</a>, <a href="http://www.failureasaservice.com/">blog</a></li>
+<li>Jeff Squyres <a href="https://twitter.com/jsquyres">twitter</a>, <a href="https://github.com/jsquyres">github</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brock</h4>
+
+<ul>
+<li><a href="http://marginalrevolution.com/">Marginal Revolution</a></li>
+<li>Sitting on Yoga balls and Standing Desks</li>
+</ul>
+
+
+<h4>Jeff</h4>
+
+<h4>Bryan</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming soon!</li>
+<li>Video - The show will begin at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&amp;iso=20130927T11&amp;p1=419">15:00:00 UTC</a>.</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Saving the World with DevOps - Big Data and HPC]]></title>
