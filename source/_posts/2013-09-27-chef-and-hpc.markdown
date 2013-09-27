@@ -12,10 +12,6 @@ categories:
 
 Bryan and Nathen are joined by [Brock Palen](http://www.rce-cast.com/about/about-the-hosts.html#brockp) and [Jeff Squyers](http://www.rce-cast.com/about/about-the-hosts.html#jsquyres),  the co-hosts of the [RCE Cast](http://www.rce-cast.com/), a podcast about High Performance Computing.
 
-Join the discussion about Chef and HPC in #foodfightshow on Freenode IRC.
-
-The show will begin at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&iso=20130927T11&p1=419).
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/P44L-7jLb6w" frameborder="0" allowfullscreen></iframe>
@@ -37,6 +33,11 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+* [Facebook talk from ChefConf]( http://www.opscode.com/blog/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/)
+* [Cycle Computing talk from ChefConf](http://www.opscode.com/blog/chefconf-talks/utility-hpc-right-systems-right-scale-right-science-jason-stowe/)
+
+  
+
 Picks<a name="picks"></a>
 -----
 
@@ -46,9 +47,22 @@ Picks<a name="picks"></a>
 
 #### Jeff
 
+#### Ben
+* [LISA](https://www.usenix.org/conference/lisa13)
+* [Today's Doodle Google](https://www.google.com/?doodle=9019609)
+
 #### Bryan
 
+#### Matt
+
+* [The Treadmill Desk Diary](http://www.treadmilldeskdiary.com/)
+* [Sunshine (Music from the Motion Picture](https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863)
+
 #### Nathen
+
+* [Unlocking the Truth](http://www.unlockingthetruthband.com/)
+* [Interview with Unlocking the Truth](https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863)
+* Happy 7th Birthday, Shannon!
 
 Download
 --------
