@@ -18,14 +18,14 @@ The show will begin at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixe
 
 # Watch Now
 
-The show will begin at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&iso=20130927T11&p1=419).
+<iframe width="420" height="315" src="http://www.youtube.com/embed/P44L-7jLb6w" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/09/chef-and-hpc.html#panel)
 * [Outline](http://foodfightshow.org/2013/09/chef-and-hpc.html#outline)
 * [Picks](http://foodfightshow.org/2013/09/chef-and-hpc.html#picks)
 * Download
   * Audio - Coming soon!
-  * Video - The show will begin at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&iso=20130927T11&p1=419).
+  * [Video](http://youtu.be/P44L-7jLb6w)
 
 Panel<a name="panel"></a>
 -----
@@ -53,7 +53,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming soon!
-* Video - The show will begin at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&iso=20130927T11&p1=419).
+* [Video](http://youtu.be/P44L-7jLb6w)
 
 <hr />
 
