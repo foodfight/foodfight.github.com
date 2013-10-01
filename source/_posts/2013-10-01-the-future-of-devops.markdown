@@ -7,6 +7,7 @@ categories:
   - devops
   - littleidea
   - itil
+  - julian_dunn
 ---
 
 Andrew Clay Shafer ([@littleidea](http://twitter.com/littleidea)) joins us to discuss the future of DevOps.
