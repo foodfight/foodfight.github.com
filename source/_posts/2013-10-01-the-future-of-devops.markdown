@@ -30,7 +30,7 @@ Panel<a name="panel"></a>
 * Andrew Clay Shafer [twitter](http:twitter.com/littleidea),
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Upcoming DevOps Days
@@ -66,11 +66,7 @@ Picks<a name="picks"></a>
 -----
 #### Andrew
 
-#### Brandon
-
-#### Bryan
-
-#### John
+#### Julian
 
 #### Nathen
 
