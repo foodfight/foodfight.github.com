@@ -12,18 +12,17 @@ Andrew Clay Shafer ([@littleidea](http://twitter.com/littleidea)) joins us to di
 
 Please join the conversation in #foodfightshow on Freenode IRC.
 
-Today's show will start at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Andrew+Clay+Shafer&iso=20131001T11&p1=263&ah=1).
 
 # Watch Now
 
-Today's show will start at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Andrew+Clay+Shafer&iso=20131001T11&p1=263&ah=1).
+<iframe width="420" height="315" src="http://www.youtube.com/embed/jT6JdGHVbj0" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/10/the-future-of-devops.html#panel)
 * [Outline](http://foodfightshow.org/2013/10/the-future-of-devops.html#outline)
 * [Picks](http://foodfightshow.org/2013/10/the-future-of-devops.html#picks)
 * Download
   * Audio - Coming soon!
-  * Video will start at [15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Andrew+Clay+Shafer&iso=20131001T11&p1=263&ah=1).
+  * [Video](http://youtu.be/jT6JdGHVbj0)
 
 Panel<a name="panel"></a>
 -----
@@ -68,6 +67,12 @@ Picks<a name="picks"></a>
 * Rocky Mountain Ruby Conference &amp; the [Introduction to Chef](https://speakerdeck.com/nathenharvey/intro-to-chef-rocky-mountain-ruby) workshop.
 * [Opscode Community Summit](https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013)
 * [Miah Johnson](http://www.opscode.com/blog/2013/09/24/awesome-community-chefs-miah-johnson-game-for-cookbooking-awesome/)
+
+
+Download
+--------
+* Audio - Coming soon!
+* [Video](http://youtu.be/jT6JdGHVbj0)
 
 <hr />
 
