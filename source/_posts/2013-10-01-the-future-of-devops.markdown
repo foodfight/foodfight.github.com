@@ -11,9 +11,6 @@ categories:
 
 Andrew Clay Shafer ([@littleidea](http://twitter.com/littleidea)) joins us to discuss the future of DevOps.
 
-Please join the conversation in #foodfightshow on Freenode IRC.
-
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/jT6JdGHVbj0" frameborder="0" allowfullscreen></iframe>
