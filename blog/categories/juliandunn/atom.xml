@@ -4,7 +4,7 @@
   <title><![CDATA[Category: juliandunn | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/juliandunn/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-10-01T12:24:47-04:00</updated>
+  <updated>2013-10-01T12:25:38-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -22,9 +22,7 @@
 
 <p>This episode was started with a tweet:</p>
 
-<p>{% blockquote @jsegura https://twitter.com/jsegura/status/293914528171839488 %}
-@nathenharvey are you still recommending capistrano deploys in a chef infrastructure? I want to know what the best practices are
-{% endblockquote %}</p>
+<p><blockquote><p>@nathenharvey are you still recommending capistrano deploys in a chef infrastructure? I want to know what the best practices are</p><footer><strong>@jsegura</strong> <cite><a href='https://twitter.com/jsegura/status/293914528171839488'>twitter.com/jsegura/status/&hellip;</a></cite></footer></blockquote></p>
 
 <ul>
 <li><a href="http://foodfightshow.org/2013/01/application-deployment.html#panel">Panel</a></li>
