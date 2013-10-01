@@ -6,6 +6,7 @@ comments: true
 categories: 
   - devops
   - littleidea
+  - itil
 ---
 
 Andrew Clay Shafer ([@littleidea](http://twitter.com/littleidea)) joins us to discuss the future of DevOps.
@@ -28,10 +29,8 @@ Panel<a name="panel"></a>
 -----
 * Andrew Clay Shafer [twitter](http:twitter.com/littleidea),
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Upcoming DevOps Days
@@ -47,20 +46,31 @@ Upcoming DevOps Days
 
 Outline<a name="outline"></a>
 -------
-
+* ITIL
+* Learning Organizations
+* Dimensions of Organizational Learning
+  * Continuous Learning
+  * Inquiry and dialog
+  * Team Learning
+  * Empowerment
+  * Embedded System
+  * System Connection
+  * Strategic Leadership
+* Questionnaire 
+* Situational Blindness
+* [Maverick](http://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553)
+* Local Rationality
+* [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342)
+* Make more awesome!
 Picks<a name="picks"></a>
 -----
 #### Andrew
 
 #### Brandon
 
-#### Matt
-
 #### Bryan
 
 #### John
-
-#### Mike
 
 #### Nathen
 
