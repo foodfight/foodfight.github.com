@@ -66,6 +66,8 @@ Picks<a name="picks"></a>
 -----
 #### Andrew
 
+* [Perspectives - James Hamilton's Blog](http://perspectives.mvdirona.com/)
+
 #### Julian
 
 #### Nathen
