@@ -21,7 +21,7 @@ Bryan and Nathen are joined by [Brock Palen](http://www.rce-cast.com/about/about
 * [Outline](http://foodfightshow.org/2013/09/chef-and-hpc.html#outline)
 * [Picks](http://foodfightshow.org/2013/09/chef-and-hpc.html#picks)
 * Download
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3)
   * [Video](http://youtu.be/P44L-7jLb6w)
 
 Panel<a name="panel"></a>
@@ -89,7 +89,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3)
 * [Video](http://youtu.be/P44L-7jLb6w)
 
 <hr />

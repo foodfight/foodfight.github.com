@@ -20,7 +20,7 @@ Andrew Clay Shafer ([@littleidea](http://twitter.com/littleidea)) joins us to di
 * [Outline](http://foodfightshow.org/2013/10/the-future-of-devops.html#outline)
 * [Picks](http://foodfightshow.org/2013/10/the-future-of-devops.html#picks)
 * Download
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3)
   * [Video](http://youtu.be/jT6JdGHVbj0)
 
 Panel<a name="panel"></a>
@@ -94,7 +94,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3)
 * [Video](http://youtu.be/jT6JdGHVbj0)
 
 <hr />
