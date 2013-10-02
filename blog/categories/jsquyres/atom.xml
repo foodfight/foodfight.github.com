@@ -4,7 +4,7 @@
   <title><![CDATA[Category: jsquyres | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/jsquyres/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-10-01T12:28:55-04:00</updated>
+  <updated>2013-10-01T22:58:51-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -32,7 +32,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3">Audio</a></li>
 <li><a href="http://youtu.be/P44L-7jLb6w">Video</a></li>
 </ul>
 </li>
@@ -53,8 +53,23 @@
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
+<li><a href="http://devopsdays.org/">Upcoming devopsdays</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp</a></li>
+<li><a href="http://www.rce-cast.com/">RCE an HPC Podcast</a></li>
+<li>What is HPC? <a href="http://en.wikipedia.org/wiki/Supercomputer">High Performance Computing</a></li>
+<li>Traditional HPC vs <a href="http://en.wikipedia.org/wiki/Apache_Hadoop">Hadoop</a></li>
+<li>Infrastructure</li>
+<li>Virtualization and Performance</li>
+<li>Paying and Retaining SysAdmins</li>
+<li><a href="http://top500.org/">TOP500</a></li>
+<li>HPC and Chef</li>
 <li><a href="http://www.opscode.com/blog/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/">Facebook talk from ChefConf</a></li>
 <li><a href="http://www.opscode.com/blog/chefconf-talks/utility-hpc-right-systems-right-scale-right-science-jason-stowe/">Cycle Computing talk from ChefConf</a></li>
+<li>Resources</li>
+<li>Cookbooks</li>
+<li><a href="http://docs.opscode.com/resource_cron.html">cron</a></li>
+<li>Search</li>
+<li><a href="https://learnchef.opscode.com/">Learn Chef</a></li>
 </ul>
 
 
@@ -68,7 +83,22 @@
 </ul>
 
 
+<h4>Matt</h4>
+
+<ul>
+<li><a href="http://www.treadmilldeskdiary.com/">The Treadmill Desk Diary</a></li>
+<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Sunshine (Music from the Motion Picture</a></li>
+</ul>
+
+
 <h4>Jeff</h4>
+
+<ul>
+<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
+<li><a href="https://github.com/jsquyres/pynest">pynest</a></li>
+<li><a href="https://github.com/jhermann/ruby-slippers">ruby-slippers</a></li>
+</ul>
+
 
 <h4>Ben</h4>
 
@@ -80,11 +110,9 @@
 
 <h4>Bryan</h4>
 
-<h4>Matt</h4>
-
 <ul>
-<li><a href="http://www.treadmilldeskdiary.com/">The Treadmill Desk Diary</a></li>
-<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Sunshine (Music from the Motion Picture</a></li>
+<li><a href="https://github.com/diranged">Matt Wise</a></li>
+<li><a href="https://soundcloud.com/chvrches">Chvrches</a></li>
 </ul>
 
 
@@ -100,7 +128,7 @@
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3">Audio</a></li>
 <li><a href="http://youtu.be/P44L-7jLb6w">Video</a></li>
 </ul>
 

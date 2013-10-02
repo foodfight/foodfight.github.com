@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-10-01T12:28:55-04:00</updated>
+  <updated>2013-10-01T22:58:51-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -32,7 +32,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3">Audio</a></li>
 <li><a href="http://youtu.be/jT6JdGHVbj0">Video</a></li>
 </ul>
 </li>
@@ -66,13 +66,14 @@
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
-<li>ITIL</li>
+<li>What is DevOps?</li>
+<li><a href="http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library">ITIL</a></li>
 <li>Learning Organizations</li>
 <li>Dimensions of Organizational Learning
 
 <ul>
 <li>Continuous Learning</li>
-<li>Inquiry and dialog</li>
+<li>Inquiry and Dialogue</li>
 <li>Team Learning</li>
 <li>Empowerment</li>
 <li>Embedded System</li>
@@ -81,25 +82,41 @@
 </ul>
 </li>
 <li>Questionnaire</li>
-<li>Situational Blindness</li>
+<li><a href="http://en.wikipedia.org/wiki/Conway%27s_law">Conway&#8217;s Law</a></li>
+<li>Transforming Organizations into a Learning Organizations</li>
+<li>Culture</li>
+<li>Continuous Learning</li>
+<li>Understanding Political Processes</li>
+<li>Money</li>
+<li>Enterprise Transformation</li>
+<li><a href="http://en.wikipedia.org/wiki/Inattentional_blindness">Situational Blindness</a></li>
+<li>The Future of these Organizations</li>
 <li><a href="http://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553">Maverick</a></li>
 <li>Local Rationality</li>
+<li>Modern Management</li>
+<li>Leadership</li>
 <li><a href="http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342">The Fifth Discipline</a></li>
-<li>Make more awesome!
-Picks<a name="picks"></a></li>
+<li>Make more awesome!</li>
 </ul>
 
 
-<hr />
+<h2>Picks<a name="picks"></a></h2>
 
 <h4>Andrew</h4>
 
 <ul>
-<li><a href="http://perspectives.mvdirona.com/">Perspectives - James Hamilton&#8217;s Blog</a></li>
+<li>Volunteer Work</li>
+<li>Don&#8217;t take things for granted</li>
 </ul>
 
 
 <h4>Julian</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Leading-Change-Preface-Author-ebook/dp/B00A07FPEO/ref=sr_1_1?ie=UTF8&amp;qid=1380676867&amp;sr=8-1&amp;keywords=john+kotter">Leading Change by John P. Kotter</a></li>
+<li><a href="http://www.amazon.com/Winning-Ultimate-Business-How--ebook/dp/B000FCK3GO/ref=sr_1_1?ie=UTF8&amp;qid=1380676945&amp;sr=8-1&amp;keywords=winning+jack+welch">Winning by Jack Welsh</a></li>
+</ul>
+
 
 <h4>Nathen</h4>
 
@@ -113,7 +130,7 @@ Picks<a name="picks"></a></li>
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3">Audio</a></li>
 <li><a href="http://youtu.be/jT6JdGHVbj0">Video</a></li>
 </ul>
 
@@ -148,7 +165,7 @@ Picks<a name="picks"></a></li>
 <li>Download
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3">Audio</a></li>
 <li><a href="http://youtu.be/P44L-7jLb6w">Video</a></li>
 </ul>
 </li>
@@ -169,8 +186,23 @@ Picks<a name="picks"></a></li>
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
+<li><a href="http://devopsdays.org/">Upcoming devopsdays</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp</a></li>
+<li><a href="http://www.rce-cast.com/">RCE an HPC Podcast</a></li>
+<li>What is HPC? <a href="http://en.wikipedia.org/wiki/Supercomputer">High Performance Computing</a></li>
+<li>Traditional HPC vs <a href="http://en.wikipedia.org/wiki/Apache_Hadoop">Hadoop</a></li>
+<li>Infrastructure</li>
+<li>Virtualization and Performance</li>
+<li>Paying and Retaining SysAdmins</li>
+<li><a href="http://top500.org/">TOP500</a></li>
+<li>HPC and Chef</li>
 <li><a href="http://www.opscode.com/blog/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/">Facebook talk from ChefConf</a></li>
 <li><a href="http://www.opscode.com/blog/chefconf-talks/utility-hpc-right-systems-right-scale-right-science-jason-stowe/">Cycle Computing talk from ChefConf</a></li>
+<li>Resources</li>
+<li>Cookbooks</li>
+<li><a href="http://docs.opscode.com/resource_cron.html">cron</a></li>
+<li>Search</li>
+<li><a href="https://learnchef.opscode.com/">Learn Chef</a></li>
 </ul>
 
 
@@ -184,7 +216,22 @@ Picks<a name="picks"></a></li>
 </ul>
 
 
+<h4>Matt</h4>
+
+<ul>
+<li><a href="http://www.treadmilldeskdiary.com/">The Treadmill Desk Diary</a></li>
+<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Sunshine (Music from the Motion Picture</a></li>
+</ul>
+
+
 <h4>Jeff</h4>
+
+<ul>
+<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
+<li><a href="https://github.com/jsquyres/pynest">pynest</a></li>
+<li><a href="https://github.com/jhermann/ruby-slippers">ruby-slippers</a></li>
+</ul>
+
 
 <h4>Ben</h4>
 
@@ -196,11 +243,9 @@ Picks<a name="picks"></a></li>
 
 <h4>Bryan</h4>
 
-<h4>Matt</h4>
-
 <ul>
-<li><a href="http://www.treadmilldeskdiary.com/">The Treadmill Desk Diary</a></li>
-<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Sunshine (Music from the Motion Picture</a></li>
+<li><a href="https://github.com/diranged">Matt Wise</a></li>
+<li><a href="https://soundcloud.com/chvrches">Chvrches</a></li>
 </ul>
 
 
@@ -216,7 +261,7 @@ Picks<a name="picks"></a></li>
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3">Audio</a></li>
 <li><a href="http://youtu.be/P44L-7jLb6w">Video</a></li>
 </ul>
 
