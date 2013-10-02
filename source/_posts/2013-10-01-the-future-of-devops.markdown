@@ -44,29 +44,46 @@ Upcoming DevOps Days
 
 Outline<a name="outline"></a>
 -------
-* ITIL
+
+* What is DevOps?
+* [ITIL](http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library)
 * Learning Organizations
 * Dimensions of Organizational Learning
   * Continuous Learning
-  * Inquiry and dialog
+  * Inquiry and Dialogue
   * Team Learning
   * Empowerment
   * Embedded System
   * System Connection
   * Strategic Leadership
 * Questionnaire 
-* Situational Blindness
+* [Conway's Law](http://en.wikipedia.org/wiki/Conway%27s_law)
+* Transforming Organizations into a Learning Organizations
+* Culture
+* Continuous Learning
+* Understanding Political Processes
+* Money
+* Enterprise Transformation
+* [Situational Blindness](http://en.wikipedia.org/wiki/Inattentional_blindness)
+* The Future of these Organizations
 * [Maverick](http://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553)
 * Local Rationality
+* Modern Management
+* Leadership
 * [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342)
 * Make more awesome!
+
 Picks<a name="picks"></a>
 -----
 #### Andrew
 
-* [Perspectives - James Hamilton's Blog](http://perspectives.mvdirona.com/)
+* Volunteer Work
+* Don't take things for granted
 
 #### Julian
+
+* [Leading Change by John P. Kotter](http://www.amazon.com/Leading-Change-Preface-Author-ebook/dp/B00A07FPEO/ref=sr_1_1?ie=UTF8&qid=1380676867&sr=8-1&keywords=john+kotter)
+* [Winning by Jack Welsh](http://www.amazon.com/Winning-Ultimate-Business-How--ebook/dp/B000FCK3GO/ref=sr_1_1?ie=UTF8&qid=1380676945&sr=8-1&keywords=winning+jack+welch)
 
 #### Nathen
 
