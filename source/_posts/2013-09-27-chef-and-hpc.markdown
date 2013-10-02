@@ -35,9 +35,23 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+* [Upcoming devopsdays](http://devopsdays.org/)
+* [Config Management Camp](http://cfgmgmtcamp.eu/)
+* [RCE an HPC Podcast](http://www.rce-cast.com/)
+* What is HPC? [High Performance Computing](http://en.wikipedia.org/wiki/Supercomputer)
+* Traditional HPC vs [Hadoop](http://en.wikipedia.org/wiki/Apache_Hadoop)
+* Infrastructure
+* Virtualization and Performance
+* Paying and Retaining SysAdmins
+* [TOP500](http://top500.org/)
+* HPC and Chef
 * [Facebook talk from ChefConf]( http://www.opscode.com/blog/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/)
 * [Cycle Computing talk from ChefConf](http://www.opscode.com/blog/chefconf-talks/utility-hpc-right-systems-right-scale-right-science-jason-stowe/)
-
+* Resources
+* Cookbooks
+* [cron](http://docs.opscode.com/resource_cron.html)
+* Search
+* [Learn Chef](https://learnchef.opscode.com/)
   
 
 Picks<a name="picks"></a>
@@ -47,7 +61,16 @@ Picks<a name="picks"></a>
 * [Marginal Revolution](http://marginalrevolution.com/)
 * Sitting on Yoga balls and Standing Desks
 
+#### Matt
+
+* [The Treadmill Desk Diary](http://www.treadmilldeskdiary.com/)
+* [Sunshine (Music from the Motion Picture](https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863)
+
 #### Jeff
+
+* [Raspberry Pi](http://www.raspberrypi.org/)
+* [pynest](https://github.com/jsquyres/pynest)
+* [ruby-slippers](https://github.com/jhermann/ruby-slippers)
 
 #### Ben
 * [LISA](https://www.usenix.org/conference/lisa13)
@@ -55,10 +78,8 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
-#### Matt
-
-* [The Treadmill Desk Diary](http://www.treadmilldeskdiary.com/)
-* [Sunshine (Music from the Motion Picture](https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863)
+* [Matt Wise](https://github.com/diranged)
+* [Chvrches](https://soundcloud.com/chvrches)
 
 #### Nathen
 
