@@ -48,6 +48,7 @@ Outline<a name="outline"></a>
 * What is DevOps?
 * [ITIL](http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library)
 * Learning Organizations
+* [Organizational Learning Culture's Influence on Job Satisfaction, Organizational Commitment, and Turnover Intention among R&D Professionals in Taiwan during an Economic Downturn](http://conservancy.umn.edu/bitstream/53624/1/Hsu_umn_0130E_10474.pdf)
 * Dimensions of Organizational Learning
   * Continuous Learning
   * Inquiry and Dialogue
@@ -56,7 +57,7 @@ Outline<a name="outline"></a>
   * Embedded System
   * System Connection
   * Strategic Leadership
-* Questionnaire 
+* [Questionnaire](http://www.partnersforlearning.com/instructions.html)
 * [Conway's Law](http://en.wikipedia.org/wiki/Conway%27s_law)
 * Transforming Organizations into a Learning Organizations
 * Culture
