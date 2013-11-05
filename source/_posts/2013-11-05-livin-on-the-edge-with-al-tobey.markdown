@@ -32,6 +32,26 @@ Panel<a name="panel"></a>
 
 <!-- more -->
 
+Outline<a name="outline"></a>
+
+Introductions
+* [Practice Makes Perfect: Extreme Cassandra Optimization](http://www.youtube.com/watch?v=_IL1u1IIRhc)
+* [cassandra](https://github.com/apache/cassandra)
+* [Apache Cassandra Wiki](http://en.wikipedia.org/wiki/Apache_Cassandra)
+* Cassandra vs [Riak](http://basho.com/riak/)
+* [DataStax](http://www.datastax.com/) and Cassandra
+* [Red Hat](http://www.redhat.com/)
+* [MongoDB](http://www.mongodb.org/)
+* [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and [OpenJDK](http://openjdk.java.net/)
+* Optimization
+* Third-Party Integration
+* Red Hat and [Twitter](http://www.twitter.com)
+* How Cassandra Deals with the Heap Space Issue
+* Read Ahead
+* Starting Points
+* System D
+* File Systems
+
 Picks<a name="picks"></a>
 -----
 
