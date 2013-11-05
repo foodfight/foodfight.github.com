@@ -20,7 +20,9 @@ Join us as we discuss how to test your distributed system in production with Al 
 * [Chef News](http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#news)
 * [Outline](http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#outline)
 * [Picks](http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#picks)
-* [Video](http://www.youtube.com/watch?v=2Iz2ydIrPA8)
+* Download
+  * Audio - Coming soon!
+  * [Video](http://www.youtube.com/watch?v=2Iz2ydIrPA8)
 
 Panel<a name="panel"></a>
 ------
@@ -41,7 +43,7 @@ Picks<a name="picks"></a>
 #### Al 
 
 * [Vibram shoes](http://www.vibramfivefingers.com/index.htm)
-* [Serfdom](serfdom.io)
+* [Serfdom](http://serfdom.io)
 
 #### Mike
 
@@ -51,6 +53,7 @@ Picks<a name="picks"></a>
 Download
 --------
 
+* Audio - Coming soon!
 * [Video](http://www.youtube.com/watch?v=2Iz2ydIrPA8)
 
 <hr />
