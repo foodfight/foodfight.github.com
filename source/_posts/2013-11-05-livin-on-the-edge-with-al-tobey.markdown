@@ -34,7 +34,7 @@ Panel<a name="panel"></a>
 
 Outline<a name="outline"></a>
 
-Introductions
+* Introductions
 * [Practice Makes Perfect: Extreme Cassandra Optimization](http://www.youtube.com/watch?v=_IL1u1IIRhc)
 * [cassandra](https://github.com/apache/cassandra)
 * [Apache Cassandra Wiki](http://en.wikipedia.org/wiki/Apache_Cassandra)
