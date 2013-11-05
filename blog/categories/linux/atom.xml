@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: linux | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/linux/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2013-11-05T06:40:41-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Livin' on the Edge with Al Tobey]]></title>
+    <link href="http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey.html"/>
+    <updated>2013-11-05T09:20:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey</id>
+    <content type="html"><![CDATA[<p>Join us as we discuss how to test your distributed system in production with Al Tobey</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2Iz2ydIrPA8" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming soon!</li>
+<li><a href="http://www.youtube.com/watch?v=2Iz2ydIrPA8">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Al Tobey, Open Source Mechanic at Datastax <a href="https://github.com/tobert">github</a>, <a href="https://twitter.com/AlTobey">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li>Remapping the right option key on the Macbook to be a Control key</li>
+<li>M-f, M-b, M-d, M-del shortcuts in the shell, see the <a href="http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf">Emacs Readline Cheatsheet</a></li>
+</ul>
+
+
+<h4>Al</h4>
+
+<ul>
+<li><a href="http://www.vibramfivefingers.com/index.htm">Vibram shoes</a></li>
+<li><a href="http://serfdom.io">Serfdom</a></li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://www.cuculinary.com/2013/03/basil-polenta-with-poached-egg-and-lemon-roasted-brussels-sprouts/">Basil Polenta with Poached egg and lemon roasted brussel sprouts</a></li>
+<li><a href="http://rubymonk.com/">Ruby Monk Ruby Tutorials</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming soon!</li>
+<li><a href="http://www.youtube.com/watch?v=2Iz2ydIrPA8">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
