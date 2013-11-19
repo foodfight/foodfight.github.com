@@ -4,7 +4,7 @@
   <title><![CDATA[Category: berkshelf | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/berkshelf/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-11-05T23:32:34-05:00</updated>
+  <updated>2013-11-19T10:58:58-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Community Summit - Day 1]]></title>
+    <link href="http://foodfightshow.org//2013/11/community-summit-day-1.html"/>
+    <updated>2013-11-19T10:35:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/11/community-summit-day-1</id>
+    <content type="html"><![CDATA[<p>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.</p>
+
+<p>Check the <a href="https://github.com/opscode/opscode-summit-2013/wiki">github-based wiki</a> for notes from many of the sessions.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/11/community-summit-day-1.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/11/community-summit-day-1.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow66-CommunitySummit-DayOne.mp3">Download</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>John Dyer <a href="https://twitter.com/thedyers">twitter</a></li>
+<li>Tom Duffield <a href="https://twitter.com/tomduffield">twitter</a>, <a href="https://github.com/tduffield">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a href="outline"></a></h2>
+
+<ul>
+<li>Opscode Community Summit</li>
+<li>Introductions</li>
+<li><a href="http://www.killswitchengage.com/">Killswitch Engage</a></li>
+<li>Open Spaces</li>
+<li><a href="http://berkshelf.com/">Berkshelf</a></li>
+<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Cyan-1030">Chef without a git repo</a></li>
+<li><a href="http://community.opscode.com">The Community Site</a></li>
+<li>The <a href="http://en.wikipedia.org/wiki/Contributor_License_Agreement">CLA</a> Signing Process</li>
+<li><a href="https://www.echosign.adobe.com/en/home.html">EchoSign</a></li>
+<li><a href="http://www.vagrantup.com/">Vagrant</a> with <a href="http://docs.opscode.com/chef_solo.html">chef-solo</a> and <a href="https://github.com/opscode/chef-zero">chef-zero</a></li>
+<li><a href="https://github.com/jkeiser/knife-essentials">knife-essentials</a></li>
+<li><a href="https://docs.google.com/document/d/1RJ7jspmby5hQ3Ay_TUQJaX6aZxTUfo5k9mYBw_FsQgU/edit">The Education and Training Session</a></li>
+<li><a href="http://lists.opscode.com/sympa/arc/chef-dev/2013-11/msg00009.html">Attribute Validation</a></li>
+<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-D-1430">Cookbook as Library Gems</a></li>
+<li><a href="https://github.com/bryanwb/chef-rewind">chef-rewind</a></li>
+<li><a href="https://github.com/poise/poise">poise</a></li>
+<li>eclipse</li>
+<li><a href="http://www.riotgames.com/">Riot Games</a></li>
+<li>Versioning in Chef 12</li>
+<li><a href="https://github.com/test-kitchen/test-kitchen">test-kitchen</a></li>
+<li><a href="http://chefconf.opscode.com/chefconf/">#ChefConf 2014</a></li>
+<li><a href="http://pages.opscode.com/awesome-chefs.html">Awesome Chef Awards Nominations</a></li>
+<li><a href="http://hw-ops.com/">Heavy Water</a></li>
+<li><a href="http://dyn.com/">Dyn</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow66-CommunitySummit-DayOne.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
