@@ -11,7 +11,7 @@ categories:
   - test-kitchen
   - #chefconf
   - tomduffield
-  - 
+  - thedyers
 ---
 Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.
 
