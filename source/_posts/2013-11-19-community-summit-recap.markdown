@@ -11,11 +11,10 @@ categories:
   - ianmeyer
 ---
 
-Join us [Wednesday, November 20, 2013 at 14:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Community+Summit+Recap&iso=20131120T09&p1=419&ah=1) as we recap the [Opscode Community Summit](https://github.com/opscode/opscode-summit-2013/wiki).
+Join us as we recap the [Opscode Community Summit](https://github.com/opscode/opscode-summit-2013/wiki).
 
 # Watch Now
 
-The video stream will begin at [14:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Community+Summit+Recap&iso=20131120T09&p1=419&ah=1).
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/WjEIK9CG2dE" frameborder="0" allowfullscreen></iframe>
 
