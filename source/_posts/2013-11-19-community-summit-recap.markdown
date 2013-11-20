@@ -31,6 +31,23 @@ Panel<a name="panel"></a>
 
 Outline<a href="outline"></a>
 -------
+A bunch of links mentioned in no particular order:
+
+* [http://docs.opscode.com/api_omnitruck.html](http://docs.opscode.* com/api_omnitruck.html)
+* [http://en.wikipedia.org/wiki/Shuhari](http://en.wikipedia.org/wiki/Shuhari)
+* [http://learnchef.com](http://learnchef.com)
+* [http://vimeo.com/74387133](http://vimeo.com/74387133)
+* [http://www.imdb.com/title/tt0218839/?ref_=nv_sr_1](http://www.imdb.* com/title/tt0218839/?ref_=nv_sr_1)
+* [https://github.com/adamhjk/metarepo](https://github.com/adamhjk/metarepo)
+* [https://github.com/chrisroberts/vagabond](https://github.* com/chrisroberts/vagabond)
+* [https://github.com/dougireton/mirror_pond](https://github.* com/dougireton/mirror_pond)
+* [https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-* 1000#votes-on-features](https://github.com/opscode/opscode-summit-* 2013/wiki/Wednesday-Azure-1000#votes-on-features)
+* [https://github.com/portertech/chef-monitor](https://github.* com/portertech/chef-monitor)
+* [https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1](https* ://mobile.twitter.com/btmspox/status/400699453335539712/photo/1)
+* [https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond](* https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond)
+* [https://www.youtube.com/watch?v=FuarlNKs_FY](https://www.youtube.* com/watch?v=FuarlNKs_FY)
+* [TheOmnitruckAPIcanbeusedtodownloadplatform-appropriateversionsofthechef-* clientandtheserver.](TheOmnitruckAPIcanbeusedtodownloadplatform-* appropriateversionsofthechef-clientandtheserver.) 
+
 
 Download
 --------
