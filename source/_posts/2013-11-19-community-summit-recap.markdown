@@ -27,7 +27,7 @@ Panel<a name="panel"></a>
 -----
 * John Dyer [twitter](https://twitter.com/thedyers)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* JJ Ashgar [twitter](https://twitter.com/jjasghar), [github](https://github.com/jjasghar)
+* JJ Asghar [twitter](https://twitter.com/jjasghar), [github](https://github.com/jjasghar)
 * Ian Meyer [twitter](https://twitter.com/ianmeyer), [github](https://github.com/imeyer)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
@@ -41,6 +41,7 @@ Outline<a href="outline"></a>
 
 * [Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems](http://kernel.dk/blk-mq.pdf)
 * Introductions
+* [JJ's Chef Book](http://github.com/jjasghar/chef-book)
 * [Diversity in Tech](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-D-1000)
 * Mentoring
 * [Chef 12 Features](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1000)
