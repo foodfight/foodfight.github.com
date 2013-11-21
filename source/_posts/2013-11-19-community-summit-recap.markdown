@@ -15,15 +15,13 @@ Join us as we recap the [Opscode Community Summit](https://github.com/opscode/op
 
 # Watch Now
 
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/WjEIK9CG2dE" frameborder="0" allowfullscreen></iframe>
+Video coming soon!
 
 * [Panel](http://foodfightshow.org/2013/11/community-summit-recap.html#panel)
 * [Outline](http://foodfightshow.org/2013/11/community-summit-recap.html#outline)
-* [Picks](http://foodfightshow.org/2013/11/community-summit-recap.html#picks)
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
-  * [Video](http://www.youtube.com/watch?v=WjEIK9CG2dE)
+  * Video - Coming Soon!
 
 Panel<a name="panel"></a>
 -----
@@ -33,6 +31,13 @@ Panel<a name="panel"></a>
 * Ian Meyer [twitter](https://twitter.com/ianmeyer), [github](https://github.com/imeyer)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Show Note<a href="note"></a>
+---------
+
+During the original recording of the show we went a bit off topic and there was a brief discussion that was not in keeping with the spirit of this show.  We have removed about three minutes from the audio and will add an edited version of the video to YouTube soon.
+
+<!-- During the original recording of the show we went a bit off topic and there was a brief discussion that was not in keeping with the spirit of this show.  We have removed about three minutes from the video on YouTube and from the audio recording.   -->
 
 Outline<a href="outline"></a>
 -------
@@ -65,7 +70,7 @@ Outline<a href="outline"></a>
 Download
 --------
 * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
-* [Video](http://www.youtube.com/watch?v=WjEIK9CG2dE)
+* Video - Coming Soon!
 
 <hr />
 
