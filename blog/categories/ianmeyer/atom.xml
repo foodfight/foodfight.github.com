@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ianmeyer | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/ianmeyer/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-11-21T08:59:03-05:00</updated>
+  <updated>2013-11-21T15:25:00-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -43,7 +43,7 @@
 <ul>
 <li>John Dyer <a href="https://twitter.com/thedyers">twitter</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>JJ Ashgar <a href="https://twitter.com/jjasghar">twitter</a>, <a href="https://github.com/jjasghar">github</a></li>
+<li>JJ Asghar <a href="https://twitter.com/jjasghar">twitter</a>, <a href="https://github.com/jjasghar">github</a></li>
 <li>Ian Meyer <a href="https://twitter.com/ianmeyer">twitter</a>, <a href="https://github.com/imeyer">github</a></li>
 <li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
@@ -59,6 +59,7 @@
 <ul>
 <li><a href="http://kernel.dk/blk-mq.pdf">Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems</a></li>
 <li>Introductions</li>
+<li><a href="http://github.com/jjasghar/chef-book">JJ's Chef Book</a></li>
 <li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-D-1000">Diversity in Tech</a></li>
 <li>Mentoring</li>
 <li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1000">Chef 12 Features</a></li>
