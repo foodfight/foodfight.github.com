@@ -22,7 +22,7 @@ Join us as we recap the [Opscode Community Summit](https://github.com/opscode/op
 * [Outline](http://foodfightshow.org/2013/11/community-summit-recap.html#outline)
 * [Picks](http://foodfightshow.org/2013/11/community-summit-recap.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
   * [Video](http://www.youtube.com/watch?v=WjEIK9CG2dE)
 
 Panel<a name="panel"></a>
@@ -39,9 +39,9 @@ Outline<a href="outline"></a>
 
 * [Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems](http://kernel.dk/blk-mq.pdf)
 * Introductions
-* Diversity in Tech
+* [Diversity in Tech](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-D-1000)
 * Mentoring
-* Chef 12 Features
+* [Chef 12 Features](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1000)
 * Version Roles
 * [Julian Dunn: Chef Roles Aren’t Evil](http://www.opscode.com/blog/2013/11/19/chef-roles-arent-evil/)
 * [Top #opschef issues discussion, ordered](https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1)
@@ -52,10 +52,11 @@ Outline<a href="outline"></a>
 * [metarepo](https://github.com/adamhjk/metarepo)
 * [sensu](https://github.com/sensu)
 * [chef-monitor](https://github.com/portertech/chef-monitor)
-* [vagabond](https://github.com/chrisroberts/vagabond)
-* [BDDing your infrastructure with Vagabond: A Big Nerd Ranch Tech Talk](http://vimeo.com/74387133)
-* [Matt Ray: Vagabond Overview](https://www.youtube.com/watch?v=FuarlNKs_FY)
-* [Valiently Validating Vagrant wit Vagabond by Will Farrington](https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond)
+* [Multi-node testing &amp; Vagabond](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1300)
+  * [vagabond](https://github.com/chrisroberts/vagabond)
+  * [BDDing your infrastructure with Vagabond: A Big Nerd Ranch Tech Talk](http://vimeo.com/74387133)
+  * [Matt Ray: Vagabond Overview](https://www.youtube.com/watch?v=FuarlNKs_FY)
+  * [Valiently Validating Vagrant wit Vagabond by Will Farrington](https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond)
 * Hallway Track
 * Windows and Windows Support
 * [AWS re:Invent 2013](http://reinvent.awsevents.com/)
@@ -63,7 +64,7 @@ Outline<a href="outline"></a>
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
 * [Video](http://www.youtube.com/watch?v=WjEIK9CG2dE)
 
 <hr />
