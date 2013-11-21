@@ -22,7 +22,7 @@ Join us as we recap the [Opscode Community Summit](https://github.com/opscode/op
 * [Outline](http://foodfightshow.org/2013/11/community-summit-recap.html#outline)
 * [Picks](http://foodfightshow.org/2013/11/community-summit-recap.html#picks)
 * Download
-  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
+  * Audio - Coming Soon
   * [Video](http://www.youtube.com/watch?v=WjEIK9CG2dE)
 
 Panel<a name="panel"></a>
@@ -64,7 +64,7 @@ Outline<a href="outline"></a>
 
 Download
 --------
-* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
+* Audio - Coming Soon
 * [Video](http://www.youtube.com/watch?v=WjEIK9CG2dE)
 
 <hr />
