@@ -15,13 +15,13 @@ Join us as we recap the [Opscode Community Summit](https://github.com/opscode/op
 
 # Watch Now
 
-Video coming soon!
+<iframe width="420" height="315" src="//www.youtube.com/embed/cs3dPocJk7U" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/11/community-summit-recap.html#panel)
 * [Outline](http://foodfightshow.org/2013/11/community-summit-recap.html#outline)
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
-  * Video - Coming Soon!
+  * [Video](http://www.youtube.com/watch?v=cs3dPocJk7U)
 
 Panel<a name="panel"></a>
 -----
@@ -70,7 +70,7 @@ Outline<a href="outline"></a>
 Download
 --------
 * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3)
-* Video - Coming Soon!
+* [Video](http://www.youtube.com/watch?v=cs3dPocJk7U)
 
 <hr />
 
