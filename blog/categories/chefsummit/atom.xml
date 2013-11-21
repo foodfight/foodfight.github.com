@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chefsummit | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chefsummit/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-11-20T10:28:23-05:00</updated>
+  <updated>2013-11-21T06:26:25-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -32,7 +32,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=WjEIK9CG2dE">Video</a></li>
 </ul>
 </li>
@@ -53,30 +53,42 @@
 
 <h2>Outline<a href="outline"></a></h2>
 
-<p>A bunch of links mentioned in no particular order:</p>
+<ul>
+<li><a href="http://kernel.dk/blk-mq.pdf">Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems</a></li>
+<li>Introductions</li>
+<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-D-1000">Diversity in Tech</a></li>
+<li>Mentoring</li>
+<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1000">Chef 12 Features</a></li>
+<li>Version Roles</li>
+<li><a href="http://www.opscode.com/blog/2013/11/19/chef-roles-arent-evil/">Julian Dunn: Chef Roles Aren’t Evil</a></li>
+<li><a href="https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1">Top #opschef issues discussion, ordered</a></li>
+<li>"Best Practices"</li>
+<li><a href="http://en.wikipedia.org/wiki/Shuhari">Shuhari</a></li>
+<li><a href="http://learnchef.com">Learn Chef</a></li>
+<li><a href="http://docs.opscode.com/api_omnitruck.html">Omnitruck API</a></li>
+<li><a href="https://github.com/adamhjk/metarepo">metarepo</a></li>
+<li><a href="https://github.com/sensu">sensu</a></li>
+<li><a href="https://github.com/portertech/chef-monitor">chef-monitor</a></li>
+<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1300">Multi-node testing &amp; Vagabond</a>
 
 <ul>
-<li><a href="http://docs.opscode.*%20com/api_omnitruck.html">http://docs.opscode.com/api_omnitruck.html</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Shuhari">http://en.wikipedia.org/wiki/Shuhari</a></li>
-<li><a href="http://learnchef.com">http://learnchef.com</a></li>
-<li><a href="http://vimeo.com/74387133">http://vimeo.com/74387133</a></li>
-<li><a href="http://www.imdb.*%20com/title/tt0218839/?ref_=nv_sr_1">http://www.imdb.com/title/tt0218839/?ref_=nv_sr_1</a></li>
-<li><a href="https://github.com/adamhjk/metarepo">https://github.com/adamhjk/metarepo</a></li>
-<li><a href="https://github.*%20com/chrisroberts/vagabond">https://github.com/chrisroberts/vagabond</a></li>
-<li><a href="https://github.*%20com/dougireton/mirror_pond">https://github.com/dougireton/mirror_pond</a></li>
-<li><a href="https://github.com/opscode/opscode-summit-*%202013/wiki/Wednesday-Azure-1000#votes-on-features">https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-* 1000#votes-on-features</a></li>
-<li><a href="https://github.*%20com/portertech/chef-monitor">https://github.com/portertech/chef-monitor</a></li>
-<li><a href="https*%20://mobile.twitter.com/btmspox/status/400699453335539712/photo/1">https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1</a></li>
-<li><a href="*%20https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond">https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond</a></li>
-<li><a href="https://www.youtube.*%20com/watch?v=FuarlNKs_FY">https://www.youtube.com/watch?v=FuarlNKs_FY</a></li>
-<li><a href="TheOmnitruckAPIcanbeusedtodownloadplatform-*%20appropriateversionsofthechef-clientandtheserver.">TheOmnitruckAPIcanbeusedtodownloadplatform-appropriateversionsofthechef-* clientandtheserver.</a></li>
+<li><a href="https://github.com/chrisroberts/vagabond">vagabond</a></li>
+<li><a href="http://vimeo.com/74387133">BDDing your infrastructure with Vagabond: A Big Nerd Ranch Tech Talk</a></li>
+<li><a href="https://www.youtube.com/watch?v=FuarlNKs_FY">Matt Ray: Vagabond Overview</a></li>
+<li><a href="https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond">Valiently Validating Vagrant wit Vagabond by Will Farrington</a></li>
+</ul>
+</li>
+<li>Hallway Track</li>
+<li>Windows and Windows Support</li>
+<li><a href="http://reinvent.awsevents.com/">AWS re:Invent 2013</a></li>
+<li><a href="http://www.imdb.com/title/tt0218839/?ref_=nv_sr_1">Best in Show</a></li>
 </ul>
 
 
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=WjEIK9CG2dE">Video</a></li>
 </ul>
 
