@@ -27,6 +27,8 @@ Panel<a name="panel"></a>
 * Tom Duffield [twitter](https://twitter.com/tomduffield), [github](https://github.com/tduffield)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more --> 
+
 Outline<a href="outline"></a>
 -------
 * Opscode Community Summit

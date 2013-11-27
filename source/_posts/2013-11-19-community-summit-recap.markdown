@@ -36,6 +36,8 @@ Show Note<a href="note"></a>
 ---------
 During the original recording of the show we went a bit off topic and there was a brief discussion that was not in keeping with the spirit of this show.  We have removed about three minutes from the video on YouTube and from the audio recording.
 
+<!-- more -->
+
 Outline<a href="outline"></a>
 -------
 
