@@ -11,7 +11,7 @@ categories:
   - vagrant
 ---
 
-# Watch NowA
+# Watch Now
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/gEr7YFWc-8s" frameborder="0" allowfullscreen></iframe>
 
