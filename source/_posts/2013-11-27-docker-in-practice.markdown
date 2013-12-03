@@ -28,6 +28,8 @@ Panel<a name="panel"></a>
 * James Turnbull [twitter](https://twitter.com/kartar), [github](https://github.com/jamtur01)
 * Tim Dysinger [twitter](https://twitter.com/dysinger), [github](https://github.com/dysinger), [blog](http://tim.dysinger.net/)
 
+<!-- more --> 
+
 Outline<a name="outline"></a>
 -------
 
