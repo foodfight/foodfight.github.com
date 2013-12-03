@@ -7,6 +7,7 @@ categories:
   - dylannorthrup
   - krisbuytaert
   - julian_dunn
+  - lusis
 ---
 # Join Us!
 
@@ -30,6 +31,7 @@ Panel<a name="panel"></a>
 
 * Dylan Northrup [twitter](https://twitter.com/dylannorthrup), [github](https://github.com/dylannorthrup), [blog](http://doc-x.net/blog/node/48)
 * Kris Buytaert [twitter](https://twitter.com/KrisBuytaert), [github](https://github.com/KrisBuytaert), [blog](http://www.krisbuytaert.be/blog/)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
