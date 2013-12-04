@@ -41,11 +41,12 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
-### FOSDEM &amp; Configuration Management Camp EU
+See the [show outline on github](https://github.com/foodfight/showz/blob/master/scripts/episode69-bestpractices.md).  Pull requests appreciated!
+
+#### FOSDEM &amp; Configuration Management Camp EU
 
 Kris joins us to discuss FOSDEM and the Configuration Management Camp conferences.  CFP for the FOSDEM [Configuration Management Dev Room closes on 8 Dec](https://penta.fosdem.org/submission/FOSDEM14) and the [CFP for Configuration Management Camp](http://cfgmgmtcamp.eu/) closes on 15 December.  Submit your talks today!
 
-See the [show outline on github](https://github.com/foodfight/showz/blob/master/scripts/episode69-bestpractices.md).  Pull requests appreciated!
 
 Picks<a name="picks"></a>
 -----
