@@ -10,9 +10,6 @@ categories:
   - lusis
   - thomasrobison
 ---
-# Join Us!
-
-Join the conversation in Freenode IRC:  #foodfightshow
 
 # Watch Now
 
@@ -47,15 +44,34 @@ Kris joins us to discuss FOSDEM and the Configuration Management Camp conference
 Picks<a name="picks"></a>
 -----
 
+#### Brandon
+
+* [this gif](http://i.imgur.com/41mGmuu.gif)
+* [GoAdvent 2013](http://blog.gopheracademy.com/index)
+* [SysAdvent 2013](http://sysadvent.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=5)
+
+
 #### Dylan
+
+* [Hex TCG](http://hextcg.com/) - Digital Trading Card Game. Currently in Alpha, but available to folks who backed their Kickstarter and folks who donate.
+* [Tested.com](http://www.tested.com/) - Geeky maker focused site done in conjunction with Adam Savage and Jamie Hyneman from the Mythbusters.
 
 #### Kris
 
 #### Julian
 
+* [Bento](http://opscode.github.io/bento/)
+* [FreeBSD](http://www.freebsd.org/)
+* [NYU ITP Winter Show](http://itp.nyu.edu/shows/winter2013/category/projects)
+
 #### Tom
 
 #### Bryan
+
+* [Foodfight Future of DevOps](http://foodfightshow.org/2013/10/the-future-of-devops.html)
+* Bob Lee's presentation [Engineering Excellence](http://www.infoq.com/presentations/Square) on Square's technology stack
+* [Eclipse Moonrise](https://github.com/guari/eclipse-ui-theme)
+
 
 #### Nathen
 
