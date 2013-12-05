@@ -12,22 +12,18 @@ categories:
 ---
 # Join Us!
 
-Join us on [today at 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1) for episode 69, Best Practices with Chef.
-
-We've started [an outline of the show](https://github.com/foodfight/showz/blob/master/scripts/episode69-bestpractices.md) and would love to see your pull requests for additional topics to discuss.
-
 Join the conversation in Freenode IRC:  #foodfightshow
 
 # Watch Now
 
-The show will begin at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1).
+<iframe width="420" height="315" src="http://www.youtube.com/embed/6mpZLEIzx-c" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/12/best-practices-with-chef.html#panel)
 * [Outline](http://foodfightshow.org/2013/12/best-practices-with-chef.html#outline)
 * [Picks](http://foodfightshow.org/2013/12/best-practices-with-chef.html#picks)
 * Download
   * Audio - Coming soon!
-  * Video - Begins at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
+  * [Video](http://youtu.be/6mpZLEIzx-c)
 
 Panel<a name="panel"></a>
 -----
@@ -42,8 +38,6 @@ Panel<a name="panel"></a>
 
 Outline<a name="outline"></a>
 -------
-
-See the [show outline on github](https://github.com/foodfight/showz/blob/master/scripts/episode69-bestpractices.md).  Pull requests appreciated!
 
 #### FOSDEM &amp; Configuration Management Camp EU
 
@@ -75,7 +69,7 @@ Download
 --------
 
 * Audio - Coming soon!
-* Video - Begins at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
+* [Video](http://youtu.be/6mpZLEIzx-c)
 
 <hr />
 
