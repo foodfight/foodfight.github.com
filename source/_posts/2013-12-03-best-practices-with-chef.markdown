@@ -12,20 +12,20 @@ categories:
 ---
 # Join Us!
 
-Join us on [Thursday, December 5, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1) for episode 69, Best Practices with Chef.
+Join us on [today at 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1) for episode 69, Best Practices with Chef.
 
 We've started [an outline of the show](https://github.com/foodfight/showz/blob/master/scripts/episode69-bestpractices.md) and would love to see your pull requests for additional topics to discuss.
 
 # Watch Now
 
-The show will begin on [Thursday, December 5, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1).
+The show will begin at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1).
 
 * [Panel](http://foodfightshow.org/2013/12/best-practices-with-chef.html#panel)
 * [Outline](http://foodfightshow.org/2013/12/best-practices-with-chef.html#outline)
 * [Picks](http://foodfightshow.org/2013/12/best-practices-with-chef.html#picks)
 * Download
   * Audio - Coming soon!
-  * Video - Begins [Thursday, December 5, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
+  * Video - Begins at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
 
 Panel<a name="panel"></a>
 -----
@@ -73,7 +73,7 @@ Download
 --------
 
 * Audio - Coming soon!
-* Video - Begins [Thursday, December 5, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
+* Video - Begins at [19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+69+-+Best+Practices&iso=20131205T14&p1=419&ah=1)
 
 <hr />
 
