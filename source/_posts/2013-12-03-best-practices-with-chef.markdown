@@ -19,7 +19,7 @@ categories:
 * [Outline](http://foodfightshow.org/2013/12/best-practices-with-chef.html#outline)
 * [Picks](http://foodfightshow.org/2013/12/best-practices-with-chef.html#picks)
 * Download
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow69-Chef-Best-Practices.mp3)
   * [Video](http://youtu.be/6mpZLEIzx-c)
 
 Panel<a name="panel"></a>
@@ -147,7 +147,7 @@ Picks<a name="picks"></a>
 Download
 --------
 
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow69-Chef-Best-Practices.mp3)
 * [Video](http://youtu.be/6mpZLEIzx-c)
 
 <hr />
