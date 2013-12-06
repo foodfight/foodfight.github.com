@@ -40,29 +40,46 @@ Outline<a name="outline"></a>
 
 Kris joins us to discuss FOSDEM and the Configuration Management Camp conferences.  CFP for the FOSDEM [Configuration Management Dev Room closes on 8 Dec](https://penta.fosdem.org/submission/FOSDEM14) and the [CFP for Configuration Management Camp](http://cfgmgmtcamp.eu/) closes on 15 December.  Submit your talks today!
 
-* [What is GIF? Jeopardy GIF](http://i.imgur.com/41mGmuu.gif)
-* [Article Index: The Gopher Academy Blog](http://blog.gopheracademy.com/index)
-* [SysAdvent Calendar](http://sysadvent.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=5)
-* [Food Fight Show: The Future of DevOps](http://foodfightshow.org/2013/10/the-future-of-devops.html)
-* [Engineering Elegance: The Secrets of Square's Stack](http://www.infoq.com/presentations/Square)
-* [eclipse-ui-theme](https://github.com/guari/eclipse-ui-theme)
-* [Hex TCG](http://hextcg.com/)
-* [Tested](http://www.tested.com/)
-* [Test Kitchen Getting Started Guide](http://kitchen.ci/docs/getting-started/)
-* [serverspec](http://serverspec.org)
-* [DevOps Cafe Episode 44](http://devopscafe.org/show/2013/11/19/devops-cafe-episode-44.html)
-* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business](http://itrevolution.com/books/phoenix-project-devops-book/)
-also [Food Fight Show: The Phoenix Project](http://foodfightshow.org/2013/03/the-phoenix-project.html)! =D
-* [Omnibus](https://github.com/opscode/omnibus-ruby/blob/master/README.md)
-* [OpenResty](http://openresty.org/)
-* [Bento](http://opscode.github.io/bento/)
-* [FreeBSD](http://www.freebsd.org/)
-* [ITP Winter Show 2013](http://itp.nyu.edu/shows/winter2013/category/projects)
-* [Duvel](http://www.duvel.com/)
-* [In Search of Certainty - The Science of Our Information Infrastructure by Mark Burgess](http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO)
-* [De Gekroonde Hoofden](http://www.degekroondehoofden.be/)
-* [chef-rbenv](https://github.com/fnichol/chef-rbenv)
-* [chef-sugar](https://github.com/sethvargo/chef-sugar)
+Fletcher Nichol and [Test Kitchen 1.0](http://www.opscode.com/blog/2013/12/03/announcing-the-release-of-test-kitchen-1-0-0/)! Check out the [Getting Started Guide](http://kitchen.ci/docs/getting-started/)!
+
+* Introductions
+* Best Practices
+  * Whipuptitude! i.e. the aptitude for whipping things up
+  * Reasonability
+  * Sane Defaults
+  * Flexibility
+  * Manipulexity - Manipulation of Complex Things
+* [Shuhari](http://en.wikipedia.org/wiki/Shuhari)
+  * shu - "obey" - traditional wisdom
+  * ha - "detach" - break with tradition
+  * ri - "separate" - transcend
+  * first learn, then detach, and finally transcend
+* Ruby DSL or JSON DSL?
+  * Roles
+  * Environments
+  * Metadata
+* Use Roles or not?
+  * [Julian Dunn: Chef Roles Aren’t Evil](http://www.opscode.com/blog/2013/11/19/chef-roles-arent-evil/)
+* Should an individual node have more than one item in its run-list?
+* Nesting Roles
+* Environment Specific Run-lists
+* Getting Help
+* Source Code Management
+  * is git THE answer?
+* Attirbute precedence levels - there are 15. Which should be used / avoided?
+  * Scalar Values, Arrays & Hashes
+* Databags & Sensitive Data
+  * Use or not?
+  * Encrypted Data Bags - when, where, and how is it appropriate to use them?
+  * Encrypted Data Bags, [Chef Vault](https://github.com/Nordstrom/chef-vault) - how to decide best solution?
+  * [Food Fight Show on Chef Vault](http://foodfightshow.org/2013/07/secret-chef.html)
+* Community / Reusable Cookbooks
+  * Are reusable cookbooks a myth?
+  * Cross-platform cookbooks?
+  * Cookbooks without recipes
+  * [Community Cookbooks blog post](http://www.opscode.com/blog/2013/11/26/community-cookbooks/)
+* Ruby!
+  * [rbenv](https://github.com/sstephenson/rbenv), [chruby](https://github.com/postmodern/chruby), [rvm](https://rvm.io/) or [omnibus ruby](https://github.com/opscode/omnibus-ruby)?
 
 Picks<a name="picks"></a>
 -----
@@ -81,6 +98,10 @@ Picks<a name="picks"></a>
 
 #### Kris
 
+* [Duvel](http://www.duvel.com/)
+* [In Search of Certainty - The Science of Our Information Infrastructure by Mark Burgess](http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO)
+* [De Gekroonde Hoofden](http://www.degekroondehoofden.be/)
+
 #### Julian
 
 * [Bento](http://opscode.github.io/bento/)
@@ -88,6 +109,9 @@ Picks<a name="picks"></a>
 * [NYU ITP Winter Show](http://itp.nyu.edu/shows/winter2013/category/projects)
 
 #### Tom
+
+* [The poise Cookbook](https://github.com/poise/poise)
+* [Boulevard Wheat Beer](http://www.ratebeer.com/beer/boulevard-unfiltered-wheat-beer/114/)
 
 #### Bryan
 
@@ -102,6 +126,22 @@ Picks<a name="picks"></a>
 * [#ChefConf 2014](http://chefconf.com) - CFP closes in mid-January.  Ticket prices go up at the end of the calendar year so lock-in the best rate now.
 * [Community Cookbooks blog post](http://www.opscode.com/blog/2013/11/26/community-cookbooks/)
 
+#### Fletcher 
+
+* [The Test Kitchen Getting Started Guide](http://kitchen.ci/docs/getting-started/)
+* [serverspec](http://serverspec.org)
+* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business](http://itrevolution.com/books/phoenix-project-devops-book/) also [Food Fight Show: The Phoenix Project](http://foodfightshow.org/2013/03/the-phoenix-project.html)! =D
+
+### Lusis
+
+* [Omnibus](https://github.com/opscode/omnibus-ruby/blob/master/README.md)
+* [Lua](http://www.lua.org/)
+ 
+### John
+
+* [chef-sugar](https://github.com/sethvargo/chef-sugar)
+* [chef-rbenv](https://github.com/fnichol/chef-rbenv)
+* Customizing Chef! 
 
 
 Download
