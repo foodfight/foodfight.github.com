@@ -148,30 +148,83 @@ John Vincent, aka &hellip;">
 
 <p>Kris joins us to discuss FOSDEM and the Configuration Management Camp conferences.  CFP for the FOSDEM <a href="https://penta.fosdem.org/submission/FOSDEM14">Configuration Management Dev Room closes on 8 Dec</a> and the <a href="http://cfgmgmtcamp.eu/">CFP for Configuration Management Camp</a> closes on 15 December.  Submit your talks today!</p>
 
+<p>Fletcher Nichol and <a href="http://www.opscode.com/blog/2013/12/03/announcing-the-release-of-test-kitchen-1-0-0/">Test Kitchen 1.0</a>! Check out the <a href="http://kitchen.ci/docs/getting-started/">Getting Started Guide</a>!</p>
+
 <ul>
-<li><a href="http://i.imgur.com/41mGmuu.gif">What is GIF? Jeopardy GIF</a></li>
-<li><a href="http://blog.gopheracademy.com/index">Article Index: The Gopher Academy Blog</a></li>
-<li><a href="http://sysadvent.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&amp;updated-max=2014-01-01T00:00:00-05:00&amp;max-results=5">SysAdvent Calendar</a></li>
-<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html">Food Fight Show: The Future of DevOps</a></li>
-<li><a href="http://www.infoq.com/presentations/Square">Engineering Elegance: The Secrets of Square&#8217;s Stack</a></li>
-<li><a href="https://github.com/guari/eclipse-ui-theme">eclipse-ui-theme</a></li>
-<li><a href="http://hextcg.com/">Hex TCG</a></li>
-<li><a href="http://www.tested.com/">Tested</a></li>
-<li><a href="http://kitchen.ci/docs/getting-started/">Test Kitchen Getting Started Guide</a></li>
-<li><a href="http://serverspec.org">serverspec</a></li>
-<li><a href="http://devopscafe.org/show/2013/11/19/devops-cafe-episode-44.html">DevOps Cafe Episode 44</a></li>
-<li><a href="http://itrevolution.com/books/phoenix-project-devops-book/">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business</a>
-also <a href="http://foodfightshow.org/2013/03/the-phoenix-project.html">Food Fight Show: The Phoenix Project</a>! =D</li>
-<li><a href="https://github.com/opscode/omnibus-ruby/blob/master/README.md">Omnibus</a></li>
-<li><a href="http://openresty.org/">OpenResty</a></li>
-<li><a href="http://opscode.github.io/bento/">Bento</a></li>
-<li><a href="http://www.freebsd.org/">FreeBSD</a></li>
-<li><a href="http://itp.nyu.edu/shows/winter2013/category/projects">ITP Winter Show 2013</a></li>
-<li><a href="http://www.duvel.com/">Duvel</a></li>
-<li><a href="http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO">In Search of Certainty - The Science of Our Information Infrastructure by Mark Burgess</a></li>
-<li><a href="http://www.degekroondehoofden.be/">De Gekroonde Hoofden</a></li>
-<li><a href="https://github.com/fnichol/chef-rbenv">chef-rbenv</a></li>
-<li><a href="https://github.com/sethvargo/chef-sugar">chef-sugar</a></li>
+<li>Introductions</li>
+<li>Best Practices
+
+<ul>
+<li>Whipuptitude! i.e. the aptitude for whipping things up</li>
+<li>Reasonability</li>
+<li>Sane Defaults</li>
+<li>Flexibility</li>
+<li>Manipulexity - Manipulation of Complex Things</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Shuhari">Shuhari</a>
+
+<ul>
+<li>shu - &#8220;obey&#8221; - traditional wisdom</li>
+<li>ha - &#8220;detach&#8221; - break with tradition</li>
+<li>ri - &#8220;separate&#8221; - transcend</li>
+<li>first learn, then detach, and finally transcend</li>
+</ul>
+</li>
+<li>Ruby DSL or JSON DSL?
+
+<ul>
+<li>Roles</li>
+<li>Environments</li>
+<li>Metadata</li>
+</ul>
+</li>
+<li>Use Roles or not?
+
+<ul>
+<li><a href="http://www.opscode.com/blog/2013/11/19/chef-roles-arent-evil/">Julian Dunn: Chef Roles Aren’t Evil</a></li>
+</ul>
+</li>
+<li>Should an individual node have more than one item in its run-list?</li>
+<li>Nesting Roles</li>
+<li>Environment Specific Run-lists</li>
+<li>Getting Help</li>
+<li>Source Code Management
+
+<ul>
+<li>is git THE answer?</li>
+</ul>
+</li>
+<li>Attirbute precedence levels - there are 15. Which should be used / avoided?
+
+<ul>
+<li>Scalar Values, Arrays &amp; Hashes</li>
+</ul>
+</li>
+<li>Databags &amp; Sensitive Data
+
+<ul>
+<li>Use or not?</li>
+<li>Encrypted Data Bags - when, where, and how is it appropriate to use them?</li>
+<li>Encrypted Data Bags, <a href="https://github.com/Nordstrom/chef-vault">Chef Vault</a> - how to decide best solution?</li>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html">Food Fight Show on Chef Vault</a></li>
+</ul>
+</li>
+<li>Community / Reusable Cookbooks
+
+<ul>
+<li>Are reusable cookbooks a myth?</li>
+<li>Cross-platform cookbooks?</li>
+<li>Cookbooks without recipes</li>
+<li><a href="http://www.opscode.com/blog/2013/11/26/community-cookbooks/">Community Cookbooks blog post</a></li>
+</ul>
+</li>
+<li>Ruby!
+
+<ul>
+<li><a href="https://github.com/sstephenson/rbenv">rbenv</a>, <a href="https://github.com/postmodern/chruby">chruby</a>, <a href="https://rvm.io/">rvm</a> or <a href="https://github.com/opscode/omnibus-ruby">omnibus ruby</a>?</li>
+</ul>
+</li>
 </ul>
 
 
@@ -196,6 +249,13 @@ also <a href="http://foodfightshow.org/2013/03/the-phoenix-project.html">Food Fi
 
 <h4>Kris</h4>
 
+<ul>
+<li><a href="http://www.duvel.com/">Duvel</a></li>
+<li><a href="http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO">In Search of Certainty - The Science of Our Information Infrastructure by Mark Burgess</a></li>
+<li><a href="http://www.degekroondehoofden.be/">De Gekroonde Hoofden</a></li>
+</ul>
+
+
 <h4>Julian</h4>
 
 <ul>
@@ -206,6 +266,12 @@ also <a href="http://foodfightshow.org/2013/03/the-phoenix-project.html">Food Fi
 
 
 <h4>Tom</h4>
+
+<ul>
+<li><a href="https://github.com/poise/poise">The poise Cookbook</a></li>
+<li><a href="http://www.ratebeer.com/beer/boulevard-unfiltered-wheat-beer/114/">Boulevard Wheat Beer</a></li>
+</ul>
+
 
 <h4>Bryan</h4>
 
@@ -222,6 +288,32 @@ also <a href="http://foodfightshow.org/2013/03/the-phoenix-project.html">Food Fi
 <li><a href="https://www.socallinuxexpo.org/scale12x/">SCaLE 12x</a> - CFP is closing on 15 December.</li>
 <li><a href="http://chefconf.com">#ChefConf 2014</a> - CFP closes in mid-January.  Ticket prices go up at the end of the calendar year so lock-in the best rate now.</li>
 <li><a href="http://www.opscode.com/blog/2013/11/26/community-cookbooks/">Community Cookbooks blog post</a></li>
+</ul>
+
+
+<h4>Fletcher</h4>
+
+<ul>
+<li><a href="http://kitchen.ci/docs/getting-started/">The Test Kitchen Getting Started Guide</a></li>
+<li><a href="http://serverspec.org">serverspec</a></li>
+<li><a href="http://itrevolution.com/books/phoenix-project-devops-book/">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business</a> also <a href="http://foodfightshow.org/2013/03/the-phoenix-project.html">Food Fight Show: The Phoenix Project</a>! =D</li>
+</ul>
+
+
+<h3>Lusis</h3>
+
+<ul>
+<li><a href="https://github.com/opscode/omnibus-ruby/blob/master/README.md">Omnibus</a></li>
+<li><a href="http://www.lua.org/">Lua</a></li>
+</ul>
+
+
+<h3>John</h3>
+
+<ul>
+<li><a href="https://github.com/sethvargo/chef-sugar">chef-sugar</a></li>
+<li><a href="https://github.com/fnichol/chef-rbenv">chef-rbenv</a></li>
+<li>Customizing Chef!</li>
 </ul>
 
 
