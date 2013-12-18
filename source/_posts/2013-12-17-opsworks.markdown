@@ -53,6 +53,8 @@ Picks<a name="picks"></a>
 -----
 #### Jonathan
 
+* [Glances](http://nicolargo.github.io/glances/)
+
 #### Brandon
 
 #### Mike
