@@ -4,7 +4,7 @@
   <title><![CDATA[Category: aws | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/aws/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-12-06T14:45:21-05:00</updated>
+  <updated>2013-12-17T21:25:45-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Opsworks]]></title>
+    <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
+    <updated>2013-12-17T21:16:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/12/opsworks</id>
+    <content type="html"><![CDATA[<p>Join us on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+Opsworks&amp;iso=20131218T15&amp;p1=419&amp;ah=1">Wednesday, December 18, 2013 at 20:00 UTC</a> as we discuss Amazon's <a href="http://aws.amazon.com/opsworks/">Opsworks</a>.</p>
+
+<p>Join the conversation is #foodfightshow on Freenode IRC.</p>
+
+<h1>Watch Now</h1>
+
+<p>The show will begin on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+Opsworks&amp;iso=20131218T15&amp;p1=419&amp;ah=1">Wednesday, December 18, 2013 at 20:00 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon</li>
+<li>Video - Starts <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+Opsworks&amp;iso=20131218T15&amp;p1=419&amp;ah=1">Wednesday, December 18, 2013 at 20:00 UTC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jonathan Weiss <a href="https://github.com/jweiss">github</a>, <a href="https://twitter.com/jweiss">twitter</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Tom Duffield <a href="http://github.com/tduffield">github</a>, <a href="http://twitter.com/tomduffield">twitter</a>, <a href="http://tomduffield.com">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>[#ChefConf 2014] ultra-early-bird pricing ends on 31 December.  Get your tickets now!</p>
+
+<h2>cks<a name="picks"></a></h2>
+
+<h4>Jonathan</h4>
+
+<h4>Brandon</h4>
+
+<h4>Mike</h4>
+
+<h4>Tom</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon</li>
+<li>Video - Starts <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+Opsworks&amp;iso=20131218T15&amp;p1=419&amp;ah=1">Wednesday, December 18, 2013 at 20:00 UTC</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Amazon Web Services]]></title>
