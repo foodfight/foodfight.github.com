@@ -18,12 +18,14 @@ Join the conversation is #foodfightshow on Freenode IRC.
 
 The show will begin on at [20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1).
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cJjvLZXpOxg" frameborder="0" allowfullscreen></iframe>
+
 * [Panel](http://foodfightshow.org/2013/12/opsworks.html#panel)
 * [Outline](http://foodfightshow.org/2013/12/opsworks.html#outline)
 * [Picks](http://foodfightshow.org/2013/12/opsworks.html#picks)
 * Download
   * Audio - Coming Soon
-  * Video - Starts at [20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1)
+  * [Video](http://youtu.be/cJjvLZXpOxg)
 
 Panel<a name="panel"></a>
 -----
@@ -62,7 +64,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon
-* Video - Starts at [20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1)
+* [Video](http://youtu.be/cJjvLZXpOxg)
 
 <hr />
 
