@@ -4,7 +4,7 @@
   <title><![CDATA[Category: jweiss | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/jweiss/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-12-18T16:22:41-05:00</updated>
+  <updated>2013-12-18T16:29:06-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -75,6 +75,7 @@
 <h3>Show Notes</h3>
 
 <ul>
+<li><a href="https://twitter.com/jeffbarr/status/413398665219149824">OpsWorks in iOS and Android</a></li>
 <li>How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - <a href="http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=fZ8HmekZabo">Video</a></li>
 <li>AWS OpsWorks Under the Hood - <a href="http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=913oT6xV-Qk">Video</a></li>
 </ul>
