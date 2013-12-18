@@ -10,13 +10,10 @@ categories:
   - opsworks
 ---
 
-Join us on [Today at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1) as we discuss Amazon's [OpsWorks](http://aws.amazon.com/opsworks/).
+Watch and listen to our discussion of Amazon's [OpsWorks](http://aws.amazon.com/opsworks/).
 
-Join the conversation is #foodfightshow on Freenode IRC.
 
 # Watch Now
-
-The show will begin on at [20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1).
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/cJjvLZXpOxg" frameborder="0" allowfullscreen></iframe>
 
@@ -39,6 +36,8 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+### Chef News
+
 * [Opscode is now Chef](http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/)
 * [#ChefConf 2014](http://chefconf.com) ultra-early-bird pricing ends on 31 December.  Get your tickets now!
 * Upcoming Chef Training Events
@@ -50,6 +49,11 @@ Outline<a name="outline"></a>
   * [Phoenix](http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix/)
   * [London](http://www.getchef.com/blog/event/2-day-chef-fundamentals-london/)
 
+### Show Notes
+
+* How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - [Slides](http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=fZ8HmekZabo)
+* AWS OpsWorks Under the Hood - [Slides](http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=913oT6xV-Qk)
+
 Picks<a name="picks"></a>
 -----
 #### Jonathan
@@ -58,12 +62,27 @@ Picks<a name="picks"></a>
 
 #### Brandon
 
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [Sys Advent:  omnibus'ing your way to happines](http://sysadvent.blogspot.com/2013/12/day-16-omnibusing-your-way-to-happiness.html)
+
 #### Mike
+
+* [my fridge food](http://myfridgefood.com/)
+* [RuboCop](https://github.com/bbatsov/rubocop)
+* [Pylint](http://www.pylint.org/)
+* [JSON Lint](https://github.com/zaach/jsonlint)
+* [Best Pun Ever?!](https://twitter.com/wizonesolutions/status/413364827143540736)
 
 #### Tom
 
+* [spf13-vim](http://vim.spf13.com/)
+* [Project For Awesome](http://www.projectforawesome.com/)
+
 #### Nathen
-  
+
+* [FOSDEM](https://fosdem.org/)
+* [cfgmgmtcamp](http://cfgmgmtcamp.eu/)  
+
 Download
 --------
 * Audio - Coming Soon
