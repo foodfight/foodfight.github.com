@@ -4,7 +4,7 @@
   <title><![CDATA[Category: opsworks | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/opsworks/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-12-18T14:35:35-05:00</updated>
+  <updated>2013-12-18T14:46:03-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -57,6 +57,7 @@
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
+<li><a href="http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/">Opscode is now Chef</a></li>
 <li><a href="http://chefconf.com">#ChefConf 2014</a> ultra-early-bird pricing ends on 31 December.  Get your tickets now!</li>
 <li>Upcoming Chef Training Events
 
