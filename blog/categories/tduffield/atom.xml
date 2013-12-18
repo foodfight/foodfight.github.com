@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tduffield | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/tduffield/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2013-12-18T14:46:03-05:00</updated>
+  <updated>2013-12-18T16:20:36-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,13 +18,9 @@
     <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
     <updated>2013-12-17T21:16:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/opsworks</id>
-    <content type="html"><![CDATA[<p>Join us on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&amp;iso=20131218T15&amp;p1=419&amp;ah=1">Today at 20:00 UTC</a> as we discuss Amazon's <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
-
-<p>Join the conversation is #foodfightshow on Freenode IRC.</p>
+    <content type="html"><![CDATA[<p>Watch and listen to our discussion of Amazon's <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
 
 <h1>Watch Now</h1>
-
-<p>The show will begin on at <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&amp;iso=20131218T15&amp;p1=419&amp;ah=1">20:00 UTC</a>.</p>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/cJjvLZXpOxg" frameborder="0" allowfullscreen></iframe>
 
@@ -56,6 +52,8 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
+<h3>Chef News</h3>
+
 <ul>
 <li><a href="http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/">Opscode is now Chef</a></li>
 <li><a href="http://chefconf.com">#ChefConf 2014</a> ultra-early-bird pricing ends on 31 December.  Get your tickets now!</li>
@@ -74,6 +72,14 @@
 </ul>
 
 
+<h3>Show Notes</h3>
+
+<ul>
+<li>How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - <a href="http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=fZ8HmekZabo">Video</a></li>
+<li>AWS OpsWorks Under the Hood - <a href="http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=913oT6xV-Qk">Video</a></li>
+</ul>
+
+
 <h2>Picks<a name="picks"></a></h2>
 
 <h4>Jonathan</h4>
@@ -85,11 +91,38 @@
 
 <h4>Brandon</h4>
 
+<ul>
+<li><a href="http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying">The Log: What every software engineer should know about real-time data's unifying abstraction</a></li>
+<li><a href="http://sysadvent.blogspot.com/2013/12/day-16-omnibusing-your-way-to-happiness.html">Sys Advent:  omnibus'ing your way to happines</a></li>
+</ul>
+
+
 <h4>Mike</h4>
+
+<ul>
+<li><a href="http://myfridgefood.com/">my fridge food</a></li>
+<li><a href="https://github.com/bbatsov/rubocop">RuboCop</a></li>
+<li><a href="http://www.pylint.org/">Pylint</a></li>
+<li><a href="https://github.com/zaach/jsonlint">JSON Lint</a></li>
+<li><a href="https://twitter.com/wizonesolutions/status/413364827143540736">Best Pun Ever?!</a></li>
+</ul>
+
 
 <h4>Tom</h4>
 
+<ul>
+<li><a href="http://vim.spf13.com/">spf13-vim</a></li>
+<li><a href="http://www.projectforawesome.com/">Project For Awesome</a></li>
+</ul>
+
+
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="https://fosdem.org/">FOSDEM</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">cfgmgmtcamp</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
