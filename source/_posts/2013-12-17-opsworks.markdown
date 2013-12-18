@@ -39,6 +39,7 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+* [Opscode is now Chef](http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/)
 * [#ChefConf 2014](http://chefconf.com) ultra-early-bird pricing ends on 31 December.  Get your tickets now!
 * Upcoming Chef Training Events
   * [Philadelphia](http://www.getchef.com/blog/event/2-day-chef-fundamentals-philadelphia-area/)
