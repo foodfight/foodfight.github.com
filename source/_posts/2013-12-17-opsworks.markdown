@@ -51,6 +51,7 @@ Outline<a name="outline"></a>
 
 ### Show Notes
 
+* [OpsWorks in iOS and Android](https://twitter.com/jeffbarr/status/413398665219149824)
 * How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - [Slides](http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=fZ8HmekZabo)
 * AWS OpsWorks Under the Hood - [Slides](http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=913oT6xV-Qk)
 
