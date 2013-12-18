@@ -10,20 +10,20 @@ categories:
   - opsworks
 ---
 
-Join us on [Wednesday, December 18, 2013 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1) as we discuss Amazon's [OpsWorks](http://aws.amazon.com/opsworks/).
+Join us on [Today at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1) as we discuss Amazon's [OpsWorks](http://aws.amazon.com/opsworks/).
 
 Join the conversation is #foodfightshow on Freenode IRC.
 
 # Watch Now
 
-The show will begin on [Wednesday, December 18, 2013 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1).
+The show will begin on at [20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1).
 
 * [Panel](http://foodfightshow.org/2013/12/opsworks.html#panel)
 * [Outline](http://foodfightshow.org/2013/12/opsworks.html#outline)
 * [Picks](http://foodfightshow.org/2013/12/opsworks.html#picks)
 * Download
   * Audio - Coming Soon
-  * Video - Starts [Wednesday, December 18, 2013 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1)
+  * Video - Starts at [20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1)
 
 Panel<a name="panel"></a>
 -----
@@ -37,9 +37,17 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
-[#ChefConf 2014] ultra-early-bird pricing ends on 31 December.  Get your tickets now!
+* [#ChefConf 2014] ultra-early-bird pricing ends on 31 December.  Get your tickets now!
+* Upcoming Chef Training Events
+  * [Philadelphia](http://www.getchef.com/blog/event/2-day-chef-fundamentals-philadelphia-area/)
+  * [San Francisco](http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-4/)
+  * [Chicago](http://www.getchef.com/blog/event/2-day-chef-fundamentals-chicago-2/)
+  * [Boston](http://www.getchef.com/blog/event/2-day-chef-fundamentals-boston-area/)
+  * [Amsterdam](http://www.getchef.com/blog/event/2-day-chef-fundamentals-amsterdam/)
+  * [Phoenix](http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix/)
+  * [London](http://www.getchef.com/blog/event/2-day-chef-fundamentals-london/)
 
-cks<a name="picks"></a>
+Picks<a name="picks"></a>
 -----
 #### Jonathan
 
@@ -54,7 +62,7 @@ cks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon
-* Video - Starts [Wednesday, December 18, 2013 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1)
+* Video - Starts at [20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+OpsWorks&iso=20131218T15&p1=419&ah=1)
 
 <hr />
 
