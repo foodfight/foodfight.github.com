@@ -21,7 +21,7 @@ Watch and listen to our discussion of Amazon's [OpsWorks](http://aws.amazon.com/
 * [Outline](http://foodfightshow.org/2013/12/opsworks.html#outline)
 * [Picks](http://foodfightshow.org/2013/12/opsworks.html#picks)
 * Download
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3)
   * [Video](http://youtu.be/cJjvLZXpOxg)
 
 Panel<a name="panel"></a>
@@ -86,7 +86,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming Soon
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3)
 * [Video](http://youtu.be/cJjvLZXpOxg)
 
 <hr />
