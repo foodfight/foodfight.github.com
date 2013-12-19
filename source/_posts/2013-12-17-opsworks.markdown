@@ -51,9 +51,31 @@ Outline<a name="outline"></a>
 
 ### Show Notes
 
+* Chef News
+* Introductions
+* [AWS OpsWorks](http://aws.amazon.com/opsworks/)
+* [Amazon Web Services](http://aws.amazon.com/)
+* [Amazon EC2](http://aws.amazon.com/ec2/)
+* [scalarium](https://github.com/scalarium)
+* [AWS CloudFormation](http://aws.amazon.com/cloudformation/)
+* AWS OpsWorks Under the Hood - [Slides](http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=913oT6xV-Qk)
+* Wrapping Solutions Around Chef vs Inside Chef
+* [chef-server](https://github.com/opscode-cookbooks/chef-server) and search
+* [Databags](http://docs.opscode.com/essentials_data_bags.html)
+* [Use Custom JSON to Modify the Stack Configuration JSON](http://docs.aws.amazon.com/opsworks/latest/userguide/workingstacks-json.html)
+* Attaching Opsworks stacks to an existing Chef server
+* Lifecycle Stages
+* [Amazon Web Services on Github](https://github.com/amazonwebservices)
+* Operating Systems
+* Versioning Schemes
+* Metric Monitoring
+* The Configuration Drift
+* [AWS CloudTrail](http://aws.amazon.com/cloudtrail/faqs/)
+* [Chef Logs](http://docs.aws.amazon.com/opsworks/latest/userguide/troubleshoot-debug-log.html)
+* [Using the AWS OpsWorks CLI](http://docs.aws.amazon.com/opsworks/latest/userguide/cli-examples.html)
 * [OpsWorks in iOS and Android](https://twitter.com/jeffbarr/status/413398665219149824)
 * How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - [Slides](http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=fZ8HmekZabo)
-* AWS OpsWorks Under the Hood - [Slides](http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=913oT6xV-Qk)
+* Why Choose OpsWorks?
 
 Picks<a name="picks"></a>
 -----
