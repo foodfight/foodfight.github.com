@@ -28,11 +28,17 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
-### Links
-
-* [ZooKeeper](http://zookeeper.apache.org)
-* [Etcd](https://github.com/coreos/etcd)
+* Using a general key value store for storing configuration data
+* [Etcd](https://github.com/coreos/etcd) vs [ZooKeeper](http://zookeeper.apache.org)
 * [Kelsey Hightower's SysAdvent post on etcd](http://sysadvent.blogspot.it/2013/12/day-20-distributed-configuration-data.html)
+* Latency
+* [chef-server](https://github.com/opscode-cookbooks/chef-server)
+* Configuration Management
+* [cassandra](https://github.com/apache/cassandra)
+* [Hazelcast](http://www.hazelcast.com/)
+* Use cases
+* Pre-baking images
+* [omnibus](https://github.com/opscode/omnibus)
 
 Picks<a name="picks"></a>
 -----
@@ -56,7 +62,7 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
-* [gh](https://github.com/jingweno/gh), command-line tool for interacting githubA
+* [gh](https://github.com/jingweno/gh), command-line tool for interacting github
 
 Download
 --------
