@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-01-10T11:57:34-05:00</updated>
+  <updated>2014-01-12T11:35:01-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -49,12 +49,18 @@
 
 <h2>Outline<a name="outline"></a></h2>
 
-<h3>Links</h3>
-
 <ul>
-<li><a href="http://zookeeper.apache.org">ZooKeeper</a></li>
-<li><a href="https://github.com/coreos/etcd">Etcd</a></li>
+<li>Using a general key value store for storing configuration data</li>
+<li><a href="https://github.com/coreos/etcd">Etcd</a> vs <a href="http://zookeeper.apache.org">ZooKeeper</a></li>
 <li><a href="http://sysadvent.blogspot.it/2013/12/day-20-distributed-configuration-data.html">Kelsey Hightower&#8217;s SysAdvent post on etcd</a></li>
+<li>Latency</li>
+<li><a href="https://github.com/opscode-cookbooks/chef-server">chef-server</a></li>
+<li>Configuration Management</li>
+<li><a href="https://github.com/apache/cassandra">cassandra</a></li>
+<li><a href="http://www.hazelcast.com/">Hazelcast</a></li>
+<li>Use cases</li>
+<li>Pre-baking images</li>
+<li><a href="https://github.com/opscode/omnibus">omnibus</a></li>
 </ul>
 
 
@@ -89,7 +95,7 @@
 <h4>Bryan</h4>
 
 <ul>
-<li><a href="https://github.com/jingweno/gh">gh</a>, command-line tool for interacting githubA</li>
+<li><a href="https://github.com/jingweno/gh">gh</a>, command-line tool for interacting github</li>
 </ul>
 
 
