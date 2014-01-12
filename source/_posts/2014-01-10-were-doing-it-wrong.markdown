@@ -14,7 +14,7 @@ categories:
 * [Outline](http://foodfightshow.org/2014/01/were-doing-it-wrong.html#outline)
 * [Picks](http://foodfightshow.org/2014/01/were-doing-it-wrong.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow71-We_Are_Doing_It_Wrong.mp3)
   * [Video](http://youtu.be/iDcpSbAvyHw)
 
 Panel<a name="panel"></a>
@@ -67,7 +67,7 @@ Picks<a name="picks"></a>
 Download
 --------
 
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow71-We_Are_Doing_It_Wrong.mp3)
 * [Video](http://youtu.be/iDcpSbAvyHw)
 
 <hr />
