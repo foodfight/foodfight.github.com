@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: patterns | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/patterns/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2014-04-29T18:51:23-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cookbook Patterns]]></title>
+    <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
+    <updated>2014-04-29T18:05:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
+    <content type="html"><![CDATA[<p>Join us on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&amp;iso=20140430T1130&amp;p1=419&amp;ah=1">Wednesday, April 30, 2014 at 15:30:00 UTC</a> for our discussion with <a href="https://twitter.com/resetexistence">Jamie Winsor</a> and <a href="https://twitter.com/tomduffield">Tom Duffield</a> as we discuss cookbook patterns.</p>
+
+<h1>Watch Now</h1>
+
+<p>The show will start on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&amp;iso=20140430T1130&amp;p1=419&amp;ah=1">Wednesday, April 30, 2014 at 15:30:00 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/04/cookbook-patterns.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/04/cookbook-patterns.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/04/cookbook-patterns.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon</li>
+<li>Video - will start on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&amp;iso=20140430T1130&amp;p1=419&amp;ah=1">Wednesday, April 30, 2014 at 15:30:00 UTC</a>.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jamie Winsor - <a href="https://github.com/reset">github</a>, <a href="https://twitter.com/resetexistence">twitter</a>, <a href="http://vialstudios.com/">blog</a></li>
+<li>Tom Duffield - <a href="http://github.com/tduffield">github</a>, <a href="http://twitter.com/tomduffield">twitter</a>, <a href="http://tomduffield.com">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<ul>
+<li>#ChefConf 2014 - <a href="http://www.youtube.com/watch?v=g-BF0z7eFoU&amp;list=PL11cZfNdwNyMmx0msapJfuGsLV43C7XsA">Watch all the videos on YouTube!</a></li>
+<li>Awesome Community Chefs</li>
+<li><a href="http://www.getchef.com/blog/2014/04/29/chefdk-0-1-0-released/">ChefDK 0.1.0 Released</a></li>
+<li>Upcoming Conferences
+
+<ul>
+<li><a href="http://lopsa-east.org/2014/">LOPSA-East</a> - Featuring talks from five Chef employees!  Jennifer Davis, Mandi Walls, Michael Goetz, Mark Harrison, and Nathen Harvey</li>
+<li><a href="http://devopsdays.org/events/2014-austin/">DevOps Days Austin</a> - including a talk from Matt Ray</li>
+<li><a href="http://devopsdays.org/events/2014-pittsburgh/">devopsdays Pittsburgh</a> - Featuring talks from Kevin Behr, Pete Cheslock, Jennifer Davis, and Nathen Harvey</li>
+</ul>
+</li>
+<li>Upcoming Training
+
+<ul>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chicago-3/">Chicago</a> - May 6 &amp; 7</li>
+<li><a href="http://www.getchef.com/blog/event/intermediateadvanced-chef-london-uk/">London</a> - May 13 &amp; 14 - Intermediate Chef</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamental-san-francisco/">San Francisco</a> - May 21 &amp; 22</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-dallas-2/">Dallas</a> - May 27 &amp; 28</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li><a href="http://blog.vialstudios.com/the-environment-cookbook-pattern/">Jamie's blog post on the subject</a></li>
+<li><a href="http://www.youtube.com/watch?v=Dq_vGxd-jps">Jamie's #ChefConf 2014 talk:  "The Berkshelf Vision"</a></li>
+<li><a href="http://www.youtube.com/watch?v=bzmxKwWrLCM">Tom's #ChefConf 2014 talk:  "Everything As A Cookbook: Service Oriented Thinking for Your Code"</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Jamie</h4>
+
+<h4>Tom</h4>
+
+<h4>Brandon</h4>
+
+<h4>Mike</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon</li>
+<li>Video - will start on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&amp;iso=20140430T1130&amp;p1=419&amp;ah=1">Wednesday, April 30, 2014 at 15:30:00 UTC</a>.</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
