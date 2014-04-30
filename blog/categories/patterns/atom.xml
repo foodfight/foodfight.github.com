@@ -4,7 +4,7 @@
   <title><![CDATA[Category: patterns | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/patterns/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-04-30T11:27:46-04:00</updated>
+  <updated>2014-04-30T13:22:12-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,7 @@
     <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
     <updated>2014-04-29T18:05:00-04:00</updated>
     <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
-    <content type="html"><![CDATA[<p>Join us for our discussion with <a href="https://twitter.com/resetexistence">Jamie Winsor</a> and <a href="https://twitter.com/tomduffield">Tom Duffield</a> as we discuss cookbook patterns.</p>
-
-<h1>Watch Now</h1>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/B7PXdl4jYGQ" frameborder="0" allowfullscreen></iframe>
 
@@ -91,19 +89,47 @@
 
 <h4>Jamie</h4>
 
+<ul>
+<li><a href="http://www.getchef.com/downloads/chef-dk/">ChefDK</a></li>
+<li><a href="http://www.consul.io/">Consul</a></li>
+</ul>
+
+
 <h4>Tom</h4>
 
 <ul>
 <li><a href="http://www.bbcamerica.com/orphan-black/">Orphan Black</a></li>
 <li><a href="https://www.youtube.com/user/emergencyawesome">Emergency Awesome</a></li>
+<li><a href="http://devopsdays.org/events/2014-minneapolis/">DevOps Days Minneapolis</a></li>
 </ul>
 
 
 <h4>Brandon</h4>
 
+<ul>
+<li><a href="https://www.youtube.com/watch?v=XiXZOF6dZuE&amp;feature=youtu.be">jepsen II</a></li>
+<li><a href="http://seedlingsshow.com/">seedlings</a></li>
+<li><a href="http://blog.travis-ci.com/2014-04-28-changing-some-code-instrument-it/">Changing Some Code? Instrument It!</a></li>
+</ul>
+
+
 <h4>Mike</h4>
 
+<ul>
+<li>Take a vacation, at least a week!</li>
+<li><a href="https://vimeo.com/26330100">Less - The Path to Better Design</a></li>
+<li><a href="http://www.farawayfoods.com/hotsesameoil.html">House of Tsang Hot Chili Sesame Oil</a></li>
+</ul>
+
+
 <h4>Nathen</h4>
+
+<ul>
+<li>Working at Chef means unlimited paid time off!  Checkout our <a href="http://www.getchef.com/careers/">job openings</a></li>
+<li><a href="http://getchef.com/summit">Chef Summit</a> - Save the date!  October 2-3 in Seattle, WA.</li>
+<li><a href="https://github.com/opscode/chef-metal">Chef Metal</a> and <a href="http://www.youtube.com/watch?v=Fo4dtt6fXNc">Mandi's demo from #ChefConf</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
