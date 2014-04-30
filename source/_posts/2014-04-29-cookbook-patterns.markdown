@@ -15,20 +15,22 @@ Join us on [Wednesday, April 30, 2014 at 15:30:00 UTC](http://www.timeanddate.co
 
 # Watch Now
 
-The show will start on [Wednesday, April 30, 2014 at 15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
+The show will start at [15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/B7PXdl4jYGQ" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/04/cookbook-patterns.html#panel)
 * [Outline](http://foodfightshow.org/2014/04/cookbook-patterns.html#outline)
 * [Picks](http://foodfightshow.org/2014/04/cookbook-patterns.html#picks)
 * Download
   * Audio - Coming Soon
-  * Video - will start on [Wednesday, April 30, 2014 at 15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
+  * [Video](http://youtu.be/B7PXdl4jYGQ) - will start at [15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
 
 Panel<a name="panel"></a>
 -----
 
 * Jamie Winsor - [github](https://github.com/reset), [twitter](https://twitter.com/resetexistence), [blog](http://vialstudios.com/)
-* Tom Duffield - [github](http://github.com/tduffield), [twitter](http://twitter.com/tomduffield), [blog](http://tomduffield.com)
+* Tom Duffield - [github](http://github.com/tduffield), [twitter](http://twitter.com/tomduffield), [blog](http://tomduffield.com), irc:  tduffield
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
@@ -63,6 +65,8 @@ Picks<a name="picks"></a>
 #### Jamie
 
 #### Tom
+* [Orphan Black](http://www.bbcamerica.com/orphan-black/)
+* [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
 
 #### Brandon
 
@@ -73,7 +77,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon
-* Video - will start on [Wednesday, April 30, 2014 at 15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
+* [Video](http://youtu.be/B7PXdl4jYGQ) - will start at [15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
 
 <hr />
 
