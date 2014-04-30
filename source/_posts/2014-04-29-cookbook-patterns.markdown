@@ -11,8 +11,6 @@ categories:
   - tomduffield
 ---
 
-Join us for our discussion with [Jamie Winsor](https://twitter.com/resetexistence) and [Tom Duffield](https://twitter.com/tomduffield) as we discuss cookbook patterns.
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/B7PXdl4jYGQ" frameborder="0" allowfullscreen></iframe>
@@ -61,16 +59,28 @@ Outline<a name="outline"></a>
 Picks<a name="picks"></a>
 -----
 #### Jamie
+* [ChefDK](http://www.getchef.com/downloads/chef-dk/)
+* [Consul](http://www.consul.io/)
 
 #### Tom
 * [Orphan Black](http://www.bbcamerica.com/orphan-black/)
 * [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
+* [DevOps Days Minneapolis](http://devopsdays.org/events/2014-minneapolis/)
 
 #### Brandon
+* [jepsen II](https://www.youtube.com/watch?v=XiXZOF6dZuE&feature=youtu.be)
+* [seedlings](http://seedlingsshow.com/)
+* [Changing Some Code? Instrument It!](http://blog.travis-ci.com/2014-04-28-changing-some-code-instrument-it/)
 
 #### Mike
+* Take a vacation, at least a week!
+* [Less - The Path to Better Design](https://vimeo.com/26330100)
+* [House of Tsang Hot Chili Sesame Oil](http://www.farawayfoods.com/hotsesameoil.html)
 
 #### Nathen
+* Working at Chef means unlimited paid time off!  Checkout our [job openings](http://www.getchef.com/careers/)
+* [Chef Summit](http://getchef.com/summit) - Save the date!  October 2-3 in Seattle, WA.
+* [Chef Metal](https://github.com/opscode/chef-metal) and [Mandi's demo from \#ChefConf](http://www.youtube.com/watch?v=Fo4dtt6fXNc)
 
 Download
 --------
