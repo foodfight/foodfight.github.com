@@ -30,7 +30,7 @@ Panel<a name="panel"></a>
 -----
 
 * Jamie Winsor - [github](https://github.com/reset), [twitter](https://twitter.com/resetexistence), [blog](http://vialstudios.com/)
-* Tom Duffield - [github](http://github.com/tduffield), [twitter](http://twitter.com/tomduffield), [blog](http://tomduffield.com), irc:  tduffield
+* Tom Duffield - [github](http://github.com/tduffield), [twitter](http://twitter.com/tomduffield), [blog](http://tomduffield.com), irc:  tomduffield
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
