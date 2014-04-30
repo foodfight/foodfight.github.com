@@ -68,9 +68,9 @@ Picks<a name="picks"></a>
 * [DevOps Days Minneapolis](http://devopsdays.org/events/2014-minneapolis/)
 
 #### Brandon
-* [jepsen II](https://www.youtube.com/watch?v=XiXZOF6dZuE&feature=youtu.be)
-* [seedlings](http://seedlingsshow.com/)
+* [Seedlings Show](http://seedlingsshow.com/)
 * [Changing Some Code? Instrument It!](http://blog.travis-ci.com/2014-04-28-changing-some-code-instrument-it/)
+* [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=XiXZOF6dZuE&feature=youtu.be)
 
 #### Mike
 * Take a vacation, at least a week!
