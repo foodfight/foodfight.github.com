@@ -11,11 +11,9 @@ categories:
   - tomduffield
 ---
 
-Join us on [Wednesday, April 30, 2014 at 15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1) for our discussion with [Jamie Winsor](https://twitter.com/resetexistence) and [Tom Duffield](https://twitter.com/tomduffield) as we discuss cookbook patterns.
+Join us for our discussion with [Jamie Winsor](https://twitter.com/resetexistence) and [Tom Duffield](https://twitter.com/tomduffield) as we discuss cookbook patterns.
 
 # Watch Now
-
-The show will start at [15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/B7PXdl4jYGQ" frameborder="0" allowfullscreen></iframe>
 
@@ -24,7 +22,7 @@ The show will start at [15:30:00 UTC](http://www.timeanddate.com/worldclock/fixe
 * [Picks](http://foodfightshow.org/2014/04/cookbook-patterns.html#picks)
 * Download
   * Audio - Coming Soon
-  * [Video](http://youtu.be/B7PXdl4jYGQ) - will start at [15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
+  * [Video](http://youtu.be/B7PXdl4jYGQ)
 
 Panel<a name="panel"></a>
 -----
@@ -77,7 +75,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * Audio - Coming Soon
-* [Video](http://youtu.be/B7PXdl4jYGQ) - will start at [15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1).
+* [Video](http://youtu.be/B7PXdl4jYGQ)
 
 <hr />
 
