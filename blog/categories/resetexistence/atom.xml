@@ -4,7 +4,7 @@
   <title><![CDATA[Category: resetexistence | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/resetexistence/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-04-30T13:26:20-04:00</updated>
+  <updated>2014-04-30T23:21:22-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -30,7 +30,7 @@
 <li>Download
 
 <ul>
-<li>Audio - Coming Soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow72-CookbookPatterns.mp3">Audio</a></li>
 <li><a href="http://youtu.be/B7PXdl4jYGQ">Video</a></li>
 </ul>
 </li>
@@ -79,9 +79,40 @@
 <h3>Show Notes</h3>
 
 <ul>
-<li><a href="http://blog.vialstudios.com/the-environment-cookbook-pattern/">Jamie's blog post on the subject</a></li>
-<li><a href="http://www.youtube.com/watch?v=Dq_vGxd-jps">Jamie's #ChefConf 2014 talk:  "The Berkshelf Vision"</a></li>
+<li><a href="http://blog.vialstudios.com/the-environment-cookbook-pattern/">Jamie's blog post on the subject</a>
+
+<ul>
+<li><a href="https://github.com/RiotGames/motherbrain">motherbrain</a></li>
+</ul>
+</li>
 <li><a href="http://www.youtube.com/watch?v=bzmxKwWrLCM">Tom's #ChefConf 2014 talk:  "Everything As A Cookbook: Service Oriented Thinking for Your Code"</a></li>
+<li>Modularity &amp; Reusability</li>
+<li>Adoption of Patterns</li>
+<li>Patterns
+
+<ul>
+<li>Library</li>
+<li>Application</li>
+<li>Environment</li>
+<li>Base</li>
+<li>Wrapper</li>
+</ul>
+</li>
+<li>Wrapping Community Cookbooks</li>
+<li><a href="https://github.com/reset/berkflow">berkflow</a>
+
+<ul>
+<li><a href="https://github.com/berkshelf/berkshelf">berkshelf</a></li>
+</ul>
+</li>
+<li>Roles</li>
+<li>Learning Chef
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=Dq_vGxd-jps">Jamie's #ChefConf 2014 talk:  "The Berkshelf Vision"</a></li>
+</ul>
+</li>
+<li>Bringing Chef Into an Organization</li>
 </ul>
 
 
@@ -134,7 +165,7 @@
 <h2>Download</h2>
 
 <ul>
-<li>Audio - Coming Soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow72-CookbookPatterns.mp3">Audio</a></li>
 <li><a href="http://youtu.be/B7PXdl4jYGQ">Video</a></li>
 </ul>
 
