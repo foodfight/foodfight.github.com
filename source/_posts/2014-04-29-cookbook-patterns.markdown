@@ -53,8 +53,23 @@ Outline<a name="outline"></a>
 ### Show Notes
 
 * [Jamie's blog post on the subject](http://blog.vialstudios.com/the-environment-cookbook-pattern/)
-* [Jamie's \#ChefConf 2014 talk:  "The Berkshelf Vision"](http://www.youtube.com/watch?v=Dq_vGxd-jps)
+ * [motherbrain](https://github.com/RiotGames/motherbrain)
 * [Tom's \#ChefConf 2014 talk:  "Everything As A Cookbook: Service Oriented Thinking for Your Code"](http://www.youtube.com/watch?v=bzmxKwWrLCM)
+* Modularity & Reusability
+* Adoption of Patterns
+* Patterns
+ * Library
+ * Application
+ * Environment
+ * Base
+ * Wrapper
+* Wrapping Community Cookbooks
+* [berkflow](https://github.com/reset/berkflow)
+ * [berkshelf](https://github.com/berkshelf/berkshelf)
+* Rolls
+* Learning Chef
+ * [Jamie's \#ChefConf 2014 talk:  "The Berkshelf Vision"](http://www.youtube.com/watch?v=Dq_vGxd-jps)
+* Bringing Chef Into an Organization
 
 Picks<a name="picks"></a>
 -----
