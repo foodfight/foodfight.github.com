@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-04-30T23:21:22-04:00</updated>
+  <updated>2014-06-03T09:09:57-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps Days Pittsburgh]]></title>
+    <link href="http://foodfightshow.org//2014/06/devops-days-pittsburgh.html"/>
+    <updated>2014-06-03T08:59:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/06/devops-days-pittsburgh</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2014/04/devops-days-pittsburgh.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/04/devops-days-pittsburgh.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow74-DevOpsDaysPittsburgh.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Andrew Clay Shafer <a href="http:twitter.com/littleidea">twitter</a>,</li>
+<li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Management in Operations]]></title>
+    <link href="http://foodfightshow.org//2014/06/management-in-operations.html"/>
+    <updated>2014-06-03T05:59:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/06/management-in-operations</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2014/04/management-in-operations.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/04/management-in-operations.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow73-ManagementInOperations.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Kevin Behr <a href="https://twitter.com/kevinbehr">twitter</a></li>
+<li>Mark Imbriaco <a href="https://twitter.com/markimbriaco">twitter</a></li>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cookbook Patterns]]></title>
@@ -2480,301 +2542,6 @@
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Continuous Delivery]]></title>
-    <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
-    <updated>2013-06-17T12:48:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
-    <content type="html"><![CDATA[<p>Show Date:   June 17, 2013</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/h78cMy63XF8" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#news">Chef News</a></li>
-<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3">Audio</a></li>
-<li><a href="http://youtu.be/h78cMy63XF8">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Jez Humble <a href="https://twitter.com/jezhumble">twitter</a>, <a href="https://github.com/Jezhumble">github</a>, <a href="http://continuousdelivery.com/">blog</a></li>
-<li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a>, <a href="https://github.com/adamhjk">github</a></li>
-<li>Mike McGarr <a href="https://twitter.com/jmichaelmcgarr">twitter</a>, <a href="http://earlyandoften.wordpress.com/">blog</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Chef News<a name="news"></a></h2>
-
-<ul>
-<li><a href="https://www.dropbox.com/s/ps4icmboani9wpn/SAP%20Continuous%20Delivery%20-%20JFokus%202013.pdf">Continuous Delivery at SAP</a></li>
-<li><a href="http://www.kickflop.net/blog/2013/06/11/jenkins-running-test-kitchen-via-vagrant-on-windows/">Jenkins running Test-Kitchen via Vagrant. On Windows.</a></li>
-<li><a href="https://www.bluebox.net/about/blog/2013/06/using-opscode-chef-on-blue-box-with-knife-bluebox/">Using Opscode Chef on Blue Box with Knife Bluebox</a></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Chef News</li>
-<li>Introductions</li>
-<li>Continuous Delivery definition</li>
-<li>Evolution</li>
-<li>Getting started with Continuous Delivery</li>
-<li>Continuous Integration</li>
-<li>Version Control</li>
-<li>Continuous Delivery vs Continuous Deployment vs Continuous Integration</li>
-<li>Continuous Integration vs Continuous Delivery</li>
-<li>Shipment Automation</li>
-<li>Never introducing regressions</li>
-<li>The Deployment Pipeline</li>
-<li>Changing the state of a system</li>
-<li>Gates and Phases</li>
-<li>Expand</li>
-<li>Releasing changes</li>
-<li>Frequency</li>
-<li>User Confusion</li>
-<li>Value</li>
-<li>Sales &amp; Marketing</li>
-<li>Feedback</li>
-<li>Business Value</li>
-<li>Technology Decisions</li>
-<li>Tooling</li>
-<li>Growing people within an organization</li>
-<li>Competency</li>
-<li>Continuous Delivery for infrastructure</li>
-<li>DNS</li>
-<li>What is right for the business?</li>
-<li>Customer Service</li>
-<li>AB Testing and Continuous Delivery</li>
-<li>Continuous Delivery in DevOps</li>
-<li><a href="http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/">DevOps - The Title Match: John Vincent</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=bmGQVo7UHbU&amp;feature=share&amp;list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ">Mike Fiedler&#8217;s &#8220;What&#8217;s in this Cookbook&#8221; talk</a> from a recent meetup group.</li>
-<li><a href="https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf">The Magic Tricks of Testing</a> - A talk from Sandi Metz given at <a href="http://rubynation.org">RubyNation</a></li>
-<li><a href="http://www.opscode.com/blog/chefconf-talks/chefconf-2013-keynote-session-opscode-adam-jacob/">Adam&#8217;s #ChefConf Keynote</a></li>
-</ul>
-
-
-<h4>Mike McGarr</h4>
-
-<ul>
-<li><a href="http://beeradvocate.com/beer/profile/1416/67046/?ba=russj117">Dubhe Imperial Black IPA</a></li>
-<li><a href="https://github.com/jenkinsci/job-dsl-plugin">jenkinsci/job-dsl-plugin</a></li>
-<li><a href="http://www.amazon.com/Pandoras-Star-Peter-F-Hamilton/dp/0345479211/ref=sr_1_1?ie=UTF8&amp;qid=1371581952&amp;sr=8-1&amp;keywords=pandora+star">Pandora&#8217;s Star by Peter F. Hamilton</a></li>
-<li><a href="http://www.amazon.com/Putting-Out-Your-Mind-Rotella/dp/0743212134/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1371582033&amp;sr=1-1&amp;keywords=putting+out+of+your+mind">Putting Out of Your Mind by Bob Rotella</a></li>
-<li><a href="http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1371582084&amp;sr=1-1&amp;keywords=growing+object-oriented+software+guided+by+tests">Growing Object-Oriented Software, Guided by Tests by Steve Freeman and Nat Pryce</a></li>
-</ul>
-
-
-<h4>Mike Fiedler</h4>
-
-<ul>
-<li><a href="http://corner.squareup.com/2012/02/cane.html">cane</a></li>
-<li>Skydiving</li>
-</ul>
-
-
-<h4>Jez</h4>
-
-<ul>
-<li><a href="http://www.fjords.com/">The Fjords</a></li>
-<li><a href="http://www.amazon.com/Implementing-Beyond-Budgeting-Unlocking-Performance/dp/0470405163">Implementing Beyond Budgeting: Unlocking the Performance Potential by Bjarte Bogsnes</a></li>
-</ul>
-
-
-<h4>Adam</h4>
-
-<ul>
-<li><a href="https://itunes.apple.com/us/album/the-devil-put-dinosaurs-here/id622941441">The Devil Put Dinosaurs Here by Alice in Chains</a></li>
-<li><a href="https://itunes.apple.com/us/album/...like-clockwork/id630719740?ign-mpt=uo%3D4">&#8230;Like Clockwork by Queens of the Stone Age</a></li>
-<li><a href="https://github.com/opscode/test-kitchen">test-kitchen</a></li>
-<li><a href="http://www.norcalpiratefestival.com/">piratefest</a></li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://elixir-lang.org/getting_started/1.html">The Getting Started Guide for Elixir</a></li>
-<li><a href="https://github.com/basho/riak_core">riak-core</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3">Audio</a></li>
-<li><a href="http://youtu.be/h78cMy63XF8">Video</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
-    <link href="http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html"/>
-    <updated>2013-06-13T09:47:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo</id>
-    <content type="html"><![CDATA[<p>Show Date: June 12, 2013</p>
-
-<p>In today&#8217;s show we discuss the internals of the chef client code.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/1ulVUl_O47g" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#news">Chef News</a></li>
-<li><a href="http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=1ulVUl_O47g">Video Stream</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
-<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
-<li>Daniel DeLeo <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>News<a name="news"></a></h2>
-
-<p><a href="http://rampconf.com/">RAMP</a> will be held July 11-12 in Budapest, Hungary.  Theo Schlossnagle (<a href="http://twitter.com/postwait">@postwait</a>) will be the keynote speaker and speakers from Netflix, Yahoo, Dropbox, Percona and other great companies will present their experiences in building scalable systems.  Budapest is beautiful in July and listeners of the Food Fight Show can register with discount code <a href="http://rampconf.eventbrite.com/?discount=FOODFIGHTSHOW">FOODFIGHTSHOW</a> to save $50.</p>
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li><a href="http://rampconf.com/">RAMP Conf</a> July 11-12 in Budapest, Hungary (Discount Code: FOODFIGHTSHOW for $50 off)</li>
-<li>Introductions</li>
-<li>The idea of the episode</li>
-<li>Hierarchy</li>
-<li>Pry</li>
-<li><a href="https://github.com/rdp/ruby-prof">ruby-prof</a></li>
-<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/client.rb">Chef::Client</a></li>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb">Chef::RunContext</a></li>
-<li>God Objects</li>
-<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb">Chef::CookbookLoader</a></li>
-<li>Converge</li>
-<li>Resources</li>
-<li>Notifications</li>
-<li>Immediate</li>
-<li>Delayed</li>
-<li>Events</li>
-<li>Documentation</li>
-<li>Converge by</li>
-<li>Resources vs Providers</li>
-<li><a href="http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html">File Provider changes in 11.6</a></li>
-<li>Knife</li>
-<li>The Node Object</li>
-<li>Extending Resources and Providers</li>
-<li>Private Methods</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://kexp.org">KEXP</a></li>
-<li><a href="https://github.com/celluloid/celluloid/wiki/futures">Celluloid::Future.new</a></li>
-<li><a href="http://elixir-lang.org">Elixir</a></li>
-</ul>
-
-
-<h4>Dan</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/Inverting-Pyramid-History-Football-Tactics/dp/1409102041">Inverting the Pyramid</a></li>
-</ul>
-
-
-<h4>Joshua</h4>
-
-<ul>
-<li>Check out and participate in Chef internals conversations at
-#chef-hacking IRC and chef-dev mailing list</li>
-<li>Shameless self-promotion: my &#8220;5 things you didn&#8217;t know about Chef&#8221;
-<a href="http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef">talk from Big Ruby 2013</a>.</li>
-<li>Geeky pick:
-<a href="http://paizo.com/products/btpy8x64/">Pathfinder RPG: Ultimate Campaign</a>.
-This is a great resource for GMs, and the fact that it collects all
-the character traits in one place is great for players.</li>
-<li>Tech pick: <a href="http://omnios.omniti.com">OmniOS</a>! I&#8217;ve been playing
-with this a bit, and it&#8217;s great. OmniOS is an IllumOS distribution
-by OmniTI, and is built for enterprise class stability and use.</li>
-<li>New Belgium Abbey ale, it&#8217;s a Belgian Dubbel style. Delicious and
-refreshing, even on a hot summer day</li>
-</ul>
-
-
-<h4>Ranjib</h4>
-
-<ul>
-<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
-<li><a href="https://github.com/rdp/ruby-prof">ruby-prof</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=1ulVUl_O47g">Video Stream</a></li>
-</ul>
-
-
-<p>Make sure to subscribe to the <a href="http://bit.ly/ffsmail">Foodfight Weekly Newsletter</a> and send your cookbook
-news to info@foodfightshow.org</p>
-
-<p>Follow <a href="http://twitter.com/foodfightshow">@foodfightshow</a> on twitter.</p>
-
-<p>Also, you can submit show ideas to our <a href="https://github.com/foodfight/showz">github repo</a></p>
 ]]></content>
   </entry>
   
