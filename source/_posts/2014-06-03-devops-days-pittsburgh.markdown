@@ -17,6 +17,7 @@ Panel<a name="panel"></a>
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Jake Champlin [github](http://github.com/grubernaut), [twitter](https://twitter.com/grubernaut), irc: grubernaut, [blog](https://grubernaut.github.io)jk
 
 
 Outline<a name="outline"></a>
