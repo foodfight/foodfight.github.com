@@ -21,3 +21,21 @@ Panel<a name="panel"></a>
 
 Outline<a name="outline"></a>
 -------
+* [The Phonenix Project by Kevin Behr, George Spafford, and Gene Kim](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592)
+* Kevin's DevOpsDays Opening Keynote (TL;DR)
+ * Prioritization
+ * Command Narative 
+ * Strategic Intent
+* Mission Statements
+* Operations
+ * Context
+* Embedding Ops
+* Interface
+* Middle Management
+* [Cynefin](http://en.wikipedia.org/wiki/Cynefin)
+* Processes
+ * Scaling Teams
+ * Feedback
+ * [Kanban](http://en.wikipedia.org/wiki/Kanban)
+* Working in IT
+* Context Switching
