@@ -21,7 +21,7 @@ Panel<a name="panel"></a>
 
 Outline<a name="outline"></a>
 -------
-* [DevOpsDays: Pittsburgh](http://devopsdays.org/events/2014-pittsburgh/]
+* [DevOpsDays: Pittsburgh](http://devopsdays.org/events/2014-pittsburgh/)
  * [DevOpsDays Pittsburgh Talks](http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934)
 * Jake Templin's First DevOpsDays Experience
  * [@grubernaut](https://twitter.com/grubernaut)
@@ -51,3 +51,4 @@ Outline<a name="outline"></a>
  * [Coda](http://www.coda.cs.cmu.edu/)
 * Nivia H
  * [@Lanooba](https://twitter.com/Lanooba)
+* Dan on Organizing DevOpsDays
