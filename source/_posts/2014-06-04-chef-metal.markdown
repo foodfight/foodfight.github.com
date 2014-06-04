@@ -20,6 +20,7 @@ Join us on [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/worldc
 Panel<a name="panel"></a>
 -----
 * John Keiser [github](https://github.com/jkeiser), [twitter](https://twitter.com/jkeiser2)
+* Dafydd Crosby [github](https://github.com/dafyddcrosby), [twitter](https://twitter.com/dafyddcrosby), [blog](http://dafyddcrosby.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
@@ -27,6 +28,7 @@ Outline<a name="outline"></a>
 -------
 
 ### Chef News
+* [Managing Windows Servers with Chef](https://www.packtpub.com/managing-windows-servers-with-chef/book) - A new book by John Ewart
 * [DocerkCon](http://www.getchef.com/blog/event/dockercon-san-francisco/)
 * [Chef Fundamentals Webinar Series](https://learnchef.opscode.com/additional-resources/)
 * [Austin Chef Meetup](http://www.meetup.com/austin-devops/events/184388262/?a=ea1_grp&rv=ea1&_af_eid=184388262&_af=event) - June 18
