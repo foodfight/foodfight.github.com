@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-06-03T17:28:50-04:00</updated>
+  <updated>2014-06-04T14:39:25-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,103 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chef Metal]]></title>
+    <link href="http://foodfightshow.org//2014/06/chef-metal.html"/>
+    <updated>2014-06-04T14:07:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/06/chef-metal</id>
+    <content type="html"><![CDATA[<p>Join us on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&amp;iso=20140606T16&amp;p1=419&amp;ah=1">Friday, June 6, 2014 at 20:00 UTC</a> as we discuss <a href="https://github.com/opscode/chef-metal">chef-metal</a> with it&#8217;s creator, <a href="https://twitter.com/jkeiser2">John Keiser</a></p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/B7PXdl4jYGQ" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Show airs <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&amp;iso=20140606T16&amp;p1=419&amp;ah=1">Friday, June 6, 2014 at 20:00 UTC</a>, audio will follow.</li>
+<li>Video - Show airs <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&amp;iso=20140606T16&amp;p1=419&amp;ah=1">Friday, June 6, 2014 at 20:00 UTC</a>.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>John Keiser <a href="https://github.com/jkeiser">github</a>, <a href="https://twitter.com/jkeiser2">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/event/dockercon-san-francisco/">DocerkCon</a></li>
+<li><a href="https://learnchef.opscode.com/additional-resources/">Chef Fundamentals Webinar Series</a></li>
+<li><a href="http://www.meetup.com/austin-devops/events/184388262/?a=ea1_grp&amp;rv=ea1&amp;_af_eid=184388262&amp;_af=event">Austin Chef Meetup</a> - June 18</li>
+<li><a href="http://velocityconf.com/velocity2014">Velocity</a> - June 24-26
+
+<ul>
+<li><a href="http://velocityconf.com/velocity2014/public/schedule/detail/36962">Chef hack day at Velocity</a></li>
+</ul>
+</li>
+<li><a href="http://devopsdays.org/events/2014-siliconvalley/">DevOpsDays Silicon Valley</a> - June 27-28</li>
+<li>Upcoming Training
+
+<ul>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-boston-4/">Boston</a> - June 16-17</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-washington-dc-2/">DC</a> - June 18-19</li>
+<li><a href="http://www.getchef.com/blog/event/3-day-chef-fundamentals-windows-online/">Online - Windows class</a> - June 23-25</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-8/">San Francicso</a> - June 25-26</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-london-uk-2/">London</a> - June 26-27</li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-metal">chef-metal</a></li>
+<li><a href="https://github.com/mattray/spiceweasel">spiceweasel</a></li>
+<li><a href="https://www.youtube.com/watch?v=Yb8QdL30WgM">Chef Metal: Automate Your Whole Cluster In Chef</a> - #ChefConf 2014 Presentation on Chef Metal</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>John</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Show airs <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&amp;iso=20140606T16&amp;p1=419&amp;ah=1">Friday, June 6, 2014 at 20:00 UTC</a>, audio will follow.</li>
+<li>Video - Show airs <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&amp;iso=20140606T16&amp;p1=419&amp;ah=1">Friday, June 6, 2014 at 20:00 UTC</a>.</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOps Days Pittsburgh]]></title>
@@ -2538,65 +2635,6 @@
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3">Audio</a></li>
 <li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOpsDays - Silicon Valley]]></title>
-    <link href="http://foodfightshow.org//2013/06/devopsdays-silicon-valley.html"/>
-    <updated>2013-06-28T15:24:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/06/devopsdays-silicon-valley</id>
-    <content type="html"><![CDATA[<p>Show Date:  June 21, 2013</p>
-
-<p>Join this episode where we re-cap <a href="http://devopsdays.org/events/2013-mountainview/">DevOpsDays Silicon Valley</a>.  We were lucky enough to have members from <a href="http://theshipshow.com/2013/06/devopsdays-silicon-valley-2013-super-panel/">The Ship Show</a> and <a href="http://devopscafe.org/">DevOps Cafe</a>.</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#picks">Picks</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
-<li>J. Paul Reed <a href="https://twitter.com/SoberBuildEng">twitter</a></li>
-<li>Sascha Bates <a href="https://github.com/sbates">github</a>, <a href="https://twitter.com/sascha_d">twitter</a></li>
-<li>Patrick Debois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a></li>
-<li>Damon Edwards <a href="https://github.com/damonedwards">github</a>, <a href="https://twitter.com/damonedwards">twitter</a></li>
-<li>Robert Berger <a href="http://twitter.com/rberger">github</a>, <a href="https://github.com/rberger">github</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li><a href="http://cdn.oreillystatic.com/en/assets/1/event/94/Operations%20Level%20Up%20Presentation.pdf">Operations Level Up</a> - Presentation from Mandi Walls ([@lnxchk])(https://twitter.com/lnxchk)</li>
-<li><a href="https://speakerdeck.com/sethvargo/test-driven-infrastructure-with-chef">Test-driven Infrastructure with Chef</a></li>
-<li><a href="http://www.slideshare.net/danmil30/how-to-run-a-postmortem-with-humans-not-robots-velocity-2013">How To Run a Post-mortem with Humans (Not Robots)</a></li>
-<li><a href="http://twitter.com/mrhinkle">@mrhinkle</a> and <a href="http://buildacloud.org">buildacloud.org</a></li>
-<li><a href="http://vimeo.com/69081899">Is your Team Instrument Rated (or: Deploying 89.000 times a day)</a></li>
-<li><a href="https://speakerdeck.com/nathenharvey/devop-with-me">DevOp with Me</a> - Nathen&#8217;s Lightning talk.</li>
-<li><a href="http://vimeo.com/69084514">Leveling Up a New Engineer in a Devops Culture; Healthy Sustainability</a></li>
-<li><a href="http://vimeo.com/69092627">DevOps and the CIA</a></li>
-<li><a href="http://vimeo.com/69100789">Beer Pinapples and Bottlenecks</a></li>
-<li><a href="http://vimeo.com/album/2435220">All the talks are now available!</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
 </ul>
 
 ]]></content>
