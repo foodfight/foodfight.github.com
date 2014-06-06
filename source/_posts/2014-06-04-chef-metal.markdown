@@ -10,6 +10,10 @@ categories:
 
 Join us on [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&iso=20140606T16&p1=419&ah=1) as we discuss [chef-metal](https://github.com/opscode/chef-metal) with it's creator, [John Keiser](https://twitter.com/jkeiser2)
 
+## Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/oiMh0RNtR08" frameborder="0" allowfullscreen></iframe>
+
 * [Panel](http://foodfightshow.org/2014/04/chef-metal.html#panel)
 * [Outline](http://foodfightshow.org/2014/04/chef-metal.html#outline)
 * [Picks](http://foodfightshow.org/2014/04/chef-metal.html#picks)
