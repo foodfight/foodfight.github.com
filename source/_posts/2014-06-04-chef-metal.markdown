@@ -36,7 +36,7 @@ Outline<a name="outline"></a>
 
 ### Chef News
 * [Managing Windows Servers with Chef](https://www.packtpub.com/managing-windows-servers-with-chef/book) - A new book by John Ewart
-* [DocerkCon](http://www.getchef.com/blog/event/dockercon-san-francisco/)
+* [DockerCon](http://www.getchef.com/blog/event/dockercon-san-francisco/)
 * [Chef Fundamentals Webinar Series](https://learnchef.opscode.com/additional-resources/)
 * [Austin Chef Meetup](http://www.meetup.com/austin-devops/events/184388262/?a=ea1_grp&rv=ea1&_af_eid=184388262&_af=event) - June 18
 * [Velocity](http://velocityconf.com/velocity2014) - June 24-26
