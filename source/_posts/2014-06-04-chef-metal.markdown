@@ -21,6 +21,8 @@ Panel<a name="panel"></a>
 -----
 * John Keiser [github](https://github.com/jkeiser), [twitter](https://twitter.com/jkeiser2)
 * Dafydd Crosby [github](https://github.com/dafyddcrosby), [twitter](https://twitter.com/dafyddcrosby), [blog](http://dafyddcrosby.com)
+* Matt Wrock [github](https://github.com/mwrock), [twitter](https://twitter.com/mwrockx), [blog](http://www.mattwrock.com/)
+* Scott Smith [github](https://github.com/ohlol), [twitter](https://twitter.com/ohlol), irc: ohlol
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
