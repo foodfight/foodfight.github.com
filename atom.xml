@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-06-06T15:55:46-04:00</updated>
+  <updated>2014-06-06T16:23:23-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -57,7 +57,7 @@
 
 <ul>
 <li><a href="https://www.packtpub.com/managing-windows-servers-with-chef/book">Managing Windows Servers with Chef</a> - A new book by John Ewart</li>
-<li><a href="http://www.getchef.com/blog/event/dockercon-san-francisco/">DocerkCon</a></li>
+<li><a href="http://www.getchef.com/blog/event/dockercon-san-francisco/">DockerCon</a></li>
 <li><a href="https://learnchef.opscode.com/additional-resources/">Chef Fundamentals Webinar Series</a></li>
 <li><a href="http://www.meetup.com/austin-devops/events/184388262/?a=ea1_grp&amp;rv=ea1&amp;_af_eid=184388262&amp;_af=event">Austin Chef Meetup</a> - June 18</li>
 <li><a href="http://velocityconf.com/velocity2014">Velocity</a> - June 24-26
