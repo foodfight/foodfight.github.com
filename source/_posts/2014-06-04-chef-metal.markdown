@@ -6,6 +6,10 @@ comments: true
 categories: 
  - chef-metal
  - jkeiser2
+ - dafyddcrosby
+ - mwrockx
+ - ranjibdey
+ - spiceweasel
 ---
 
 Join us as we discuss [chef-metal](https://github.com/opscode/chef-metal) with it's creator, [John Keiser](https://twitter.com/jkeiser2)
@@ -18,8 +22,8 @@ Join us as we discuss [chef-metal](https://github.com/opscode/chef-metal) with i
 * [Outline](http://foodfightshow.org/2014/04/chef-metal.html#outline)
 * [Picks](http://foodfightshow.org/2014/04/chef-metal.html#picks)
 * Download
-  * Audio - Show airs [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&iso=20140606T16&p1=419&ah=1), audio will follow.
-  * Video - Show airs [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&iso=20140606T16&p1=419&ah=1).
+  * Audio - Coming Soon
+  * [Video](https://www.youtube.com/watch?v=oiMh0RNtR08)
 
 Panel<a name="panel"></a>
 -----
@@ -84,13 +88,13 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Show airs [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&iso=20140606T16&p1=419&ah=1), audio will follow.
-* Video - Show airs [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&iso=20140606T16&p1=419&ah=1).
+  * Audio - Coming Soon
+  * [Video](https://www.youtube.com/watch?v=oiMh0RNtR08)
 
 <hr />
 
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
 
-The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Chef](http://www.getchef.com).
+The show is sponsored, in part, by [Chef](http://www.getchef.com).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
