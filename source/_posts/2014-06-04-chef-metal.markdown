@@ -8,7 +8,7 @@ categories:
  - jkeiser2
 ---
 
-Join us on [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Metal%21&iso=20140606T16&p1=419&ah=1) as we discuss [chef-metal](https://github.com/opscode/chef-metal) with it's creator, [John Keiser](https://twitter.com/jkeiser2)
+Join us as we discuss [chef-metal](https://github.com/opscode/chef-metal) with it's creator, [John Keiser](https://twitter.com/jkeiser2)
 
 ## Watch Now
 
@@ -26,7 +26,8 @@ Panel<a name="panel"></a>
 * John Keiser [github](https://github.com/jkeiser), [twitter](https://twitter.com/jkeiser2)
 * Dafydd Crosby [github](https://github.com/dafyddcrosby), [twitter](https://twitter.com/dafyddcrosby), [blog](http://dafyddcrosby.com)
 * Matt Wrock [github](https://github.com/mwrock), [twitter](https://twitter.com/mwrockx), [blog](http://www.mattwrock.com/)
-* Scott Smith [github](https://github.com/ohlol), [twitter](https://twitter.com/ohlol), irc: ohlol
+* Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
+* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -36,8 +37,10 @@ Outline<a name="outline"></a>
 
 ### Chef News
 * [Managing Windows Servers with Chef](https://www.packtpub.com/managing-windows-servers-with-chef/book) - A new book by John Ewart
-* [DockerCon](http://www.getchef.com/blog/event/dockercon-san-francisco/)
+* [DockerCon](http://www.getchef.com/blog/event/dockercon-san-francisco/) - June 9-10
 * [Chef Fundamentals Webinar Series](https://learnchef.opscode.com/additional-resources/)
+* [Texas Linux Fest](http://texaslinuxfest.org/) - June 13-14
+  * [Chef Workshop](http://texaslinuxfest.org/content/chef-workshop) - June 13
 * [Austin Chef Meetup](http://www.meetup.com/austin-devops/events/184388262/?a=ea1_grp&rv=ea1&_af_eid=184388262&_af=event) - June 18
 * [Velocity](http://velocityconf.com/velocity2014) - June 24-26
   * [Chef hack day at Velocity](http://velocityconf.com/velocity2014/public/schedule/detail/36962)
@@ -60,8 +63,24 @@ Picks<a name="picks"></a>
 -----
 #### John
 
+#### Dafydd
+
+#### Matt Wrock
+
+* [ThinkPad X1 Carbon Ultrabook](http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/)
+* [Ubuntu on Lenovo ThinkPad X1 Carbon 2nd](http://www.ubuntu.com/certification/hardware/201403-14827/)
+
+#### Matt Ray
+
+#### Brandon
+
+* [Chef](http://www.imdb.com/title/tt2883512/?ref_=fn_al_tt_1) - The Movie
+* [The Riftwar Cycle](http://en.wikipedia.org/wiki/The_Riftwar_Cycle)
+* [Rebuilding a Brid in Flight](https://vimeo.com/55503728)
 
 #### Nathen
+
+* [From Hero to Zero](http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934)
 
 Download
 --------
