@@ -40,6 +40,7 @@ Outline<a name="outline"></a>
 -------
 
 ### Chef News
+
 * [Managing Windows Servers with Chef](https://www.packtpub.com/managing-windows-servers-with-chef/book) - A new book by John Ewart
 * [DockerCon](http://www.getchef.com/blog/event/dockercon-san-francisco/) - June 9-10
 * [Chef Fundamentals Webinar Series](https://learnchef.opscode.com/additional-resources/)
@@ -58,16 +59,34 @@ Outline<a name="outline"></a>
   * 
 
 ### Show Notes
-* [chef-metal](https://github.com/opscode/chef-metal)
-* [spiceweasel](https://github.com/mattray/spiceweasel)
-* [Chef Metal: Automate Your Whole Cluster In Chef](https://www.youtube.com/watch?v=Yb8QdL30WgM) - #ChefConf 2014 Presentation on Chef Metal
+
+* [chef-metal](https://github.com/opscode/chef-metal) - A library for creating machines and infrastructures idempotently in Chef.
+  * Drivers
+  * * [Chef Metal: Automate Your Whole Cluster In Chef](https://www.youtube.com/watch?v=Yb8QdL30WgM) - #ChefConf 2014 Presentation on Chef Metal
+* [spiceweasel](https://github.com/mattray/spiceweasel) - Generates Chef knife commands from a simple JSON or YAML file.
+  * Clusters
+  * Code Smell
+* Running Recipes (Provisioning)
+* Using chef-metal in action (Use cases)
+  * chef-mental and [test-kitchen](https://github.com/test-kitchen/test-kitchen)
+  * Orchestration
+* Getting Started with chef-metal
+* Autoscaling
+* [chef-metal-fog](https://github.com/opscode/chef-metal-fog) - a Fog provisioner for chef-metal
 
 
 Picks<a name="picks"></a>
 -----
-#### John
+#### John Keiser
 
-#### Dafydd
+* The [Berkshelf](http://berkshelf.com/) Internal API
+* [Harry Potter and the Methods of Rationality by Less Wrong](http://hpmor.com/)
+
+#### Dafydd Crosby
+
+* [chef-metal](https://github.com/opscode/chef-metal)
+* [OpenBSD](http://www.openbsd.org/)
+* [Test-Driven Infrastructure with Chef: Bring behaviour-driven development to infrastructure as code by Stephen Nelson-Smith](http://shop.oreilly.com/product/0636920020042.do)
 
 #### Matt Wrock
 
@@ -76,15 +95,21 @@ Picks<a name="picks"></a>
 
 #### Matt Ray
 
-#### Brandon
+* [Pete Cheslock: 17th Century Shipbuilding and Your Failed Software Project](http://vimeo.com/95284690)
+* [James Mickens: Say "Word Count" One More Time](http://vimeo.com/95066828)
+* [SoftwareDefinedTalk Podcast](http://softwaredefinedtalk.com/), [@SoftwareDefTalk](https://twitter.com/SoftwareDefTalk)
+* [EmacsATX](http://www.meetup.com/EmacsATX/)
 
-* [Chef](http://www.imdb.com/title/tt2883512/?ref_=fn_al_tt_1) - The Movie
+#### Brandon Burton
+
+* [Rebuilding a Bird in Flight](https://vimeo.com/55503728)
 * [The Riftwar Cycle](http://en.wikipedia.org/wiki/The_Riftwar_Cycle)
-* [Rebuilding a Brid in Flight](https://vimeo.com/55503728)
 
-#### Nathen
+#### Nathen Harvey
 
+* [Pittsburgh!](http://pittsburghpa.gov/)
 * [From Hero to Zero](http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934)
+* [chef-metal](https://github.com/opscode/chef-metal)
 
 Download
 --------
