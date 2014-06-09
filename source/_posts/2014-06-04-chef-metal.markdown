@@ -22,7 +22,7 @@ Join us as we discuss [chef-metal](https://github.com/opscode/chef-metal) with i
 * [Outline](http://foodfightshow.org/2014/04/chef-metal.html#outline)
 * [Picks](http://foodfightshow.org/2014/04/chef-metal.html#picks)
 * Download
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow75-Chef-Metal.mp3)
   * [Video](https://www.youtube.com/watch?v=oiMh0RNtR08)
 
 Panel<a name="panel"></a>
@@ -88,7 +88,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow75-Chef-Metal.mp3)
   * [Video](https://www.youtube.com/watch?v=oiMh0RNtR08)
 
 <hr />
