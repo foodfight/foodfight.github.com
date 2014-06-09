@@ -49,6 +49,8 @@ Outline<a name="outline"></a>
  * [@benr](https://twitter.com/benr)
  * [Joyent](http://www.joyent.com/)
  * [Coda](http://www.coda.cs.cmu.edu/)
+* Anthony Mastrean
+ * [@AnthonyMastrean](https://twitter.com/AnthonyMastrean)
 * Nivia H
  * [@Lanooba](https://twitter.com/Lanooba)
 * Dan on Organizing DevOpsDays
