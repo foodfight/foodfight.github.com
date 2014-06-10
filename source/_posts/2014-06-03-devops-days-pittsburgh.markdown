@@ -18,6 +18,7 @@ Panel<a name="panel"></a>
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------

@@ -19,6 +19,8 @@ Panel<a name="panel"></a>
 * Ben Rockwood [twitter](https://twitter.com/benr)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more --> 
+
 Outline<a name="outline"></a>
 -------
 * [The Phonenix Project by Kevin Behr, George Spafford, and Gene Kim](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592)
