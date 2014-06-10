@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mwrockx | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mwrockx/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-06-09T07:28:03-04:00</updated>
+  <updated>2014-06-10T06:30:28-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -91,17 +91,55 @@
 <h3>Show Notes</h3>
 
 <ul>
-<li><a href="https://github.com/opscode/chef-metal">chef-metal</a></li>
-<li><a href="https://github.com/mattray/spiceweasel">spiceweasel</a></li>
+<li><a href="https://github.com/opscode/chef-metal">chef-metal</a> - A library for creating machines and infrastructures idempotently in Chef.
+
+<ul>
+<li>Drivers</li>
+<li><ul>
 <li><a href="https://www.youtube.com/watch?v=Yb8QdL30WgM">Chef Metal: Automate Your Whole Cluster In Chef</a> - #ChefConf 2014 Presentation on Chef Metal</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://github.com/mattray/spiceweasel">spiceweasel</a> - Generates Chef knife commands from a simple JSON or YAML file.
+
+<ul>
+<li>Clusters</li>
+<li>Code Smell</li>
+</ul>
+</li>
+<li>Running Recipes (Provisioning)</li>
+<li>Using chef-metal in action (Use cases)
+
+<ul>
+<li>chef-mental and <a href="https://github.com/test-kitchen/test-kitchen">test-kitchen</a></li>
+<li>Orchestration</li>
+</ul>
+</li>
+<li>Getting Started with chef-metal</li>
+<li>Autoscaling</li>
+<li><a href="https://github.com/opscode/chef-metal-fog">chef-metal-fog</a> - a Fog provisioner for chef-metal</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
 
-<h4>John</h4>
+<h4>John Keiser</h4>
 
-<h4>Dafydd</h4>
+<ul>
+<li>The <a href="http://berkshelf.com/">Berkshelf</a> Internal API</li>
+<li><a href="http://hpmor.com/">Harry Potter and the Methods of Rationality by Less Wrong</a></li>
+</ul>
+
+
+<h4>Dafydd Crosby</h4>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-metal">chef-metal</a></li>
+<li><a href="http://www.openbsd.org/">OpenBSD</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920020042.do">Test-Driven Infrastructure with Chef: Bring behaviour-driven development to infrastructure as code by Stephen Nelson-Smith</a></li>
+</ul>
+
 
 <h4>Matt Wrock</h4>
 
@@ -113,19 +151,28 @@
 
 <h4>Matt Ray</h4>
 
-<h4>Brandon</h4>
-
 <ul>
-<li><a href="http://www.imdb.com/title/tt2883512/?ref_=fn_al_tt_1">Chef</a> - The Movie</li>
-<li><a href="http://en.wikipedia.org/wiki/The_Riftwar_Cycle">The Riftwar Cycle</a></li>
-<li><a href="https://vimeo.com/55503728">Rebuilding a Brid in Flight</a></li>
+<li><a href="http://vimeo.com/95284690">Pete Cheslock: 17th Century Shipbuilding and Your Failed Software Project</a></li>
+<li><a href="http://vimeo.com/95066828">James Mickens: Say "Word Count" One More Time</a></li>
+<li><a href="http://softwaredefinedtalk.com/">SoftwareDefinedTalk Podcast</a>, <a href="https://twitter.com/SoftwareDefTalk">@SoftwareDefTalk</a></li>
+<li><a href="http://www.meetup.com/EmacsATX/">EmacsATX</a></li>
 </ul>
 
 
-<h4>Nathen</h4>
+<h4>Brandon Burton</h4>
 
 <ul>
+<li><a href="https://vimeo.com/55503728">Rebuilding a Bird in Flight</a></li>
+<li><a href="http://en.wikipedia.org/wiki/The_Riftwar_Cycle">The Riftwar Cycle</a></li>
+</ul>
+
+
+<h4>Nathen Harvey</h4>
+
+<ul>
+<li><a href="http://pittsburghpa.gov/">Pittsburgh!</a></li>
 <li><a href="http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934">From Hero to Zero</a></li>
+<li><a href="https://github.com/opscode/chef-metal">chef-metal</a></li>
 </ul>
 
 
