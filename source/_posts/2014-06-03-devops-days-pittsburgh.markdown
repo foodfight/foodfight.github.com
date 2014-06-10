@@ -25,7 +25,7 @@ Outline<a name="outline"></a>
   * [Talks (Videos)](http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934)
 * Jake Templin's First DevOpsDays Experience
   * [@grubernaut](https://twitter.com/grubernaut)
-  * [Werewolf](http://www.brenbarn.net/werewolf/rules.html]
+  * [Werewolf](http://www.brenbarn.net/werewolf/rules.html)
 * Jennifer Davis' Talk [From Zero to Hero](http://devopsdays.org/events/2014-pittsburgh/proposals/From%20Hero%20to%20Zero/)
   * [@sigje](https://twitter.com/sigje)
   * [#ChefConf 2014: Adam Jacob, "Keynote Session"](https://www.youtube.com/watch?v=TV7XnD7TM2A)
