@@ -13,11 +13,13 @@ categories:
 
 Panel<a name="panel"></a>
 -----
+* Jake Champlin [github](http://github.com/grubernaut), [twitter](https://twitter.com/grubernaut), irc: grubernaut, [blog](https://grubernaut.github.io)
+* Pete Cheslock [twitter](http://twitter.com/petecheslock), [blog](http://blog.pete.io), [github](https://github.com/petecheslock), irc: petecheslock
+
 * Andrew Clay Shafer [twitter](http:twitter.com/littleidea)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-* Jake Champlin [github](http://github.com/grubernaut), [twitter](https://twitter.com/grubernaut), irc: grubernaut, [blog](https://grubernaut.github.io)jk
 
 <!-- more -->
 
@@ -25,7 +27,7 @@ Outline<a name="outline"></a>
 -------
 * [DevOpsDays: Pittsburgh](http://devopsdays.org/events/2014-pittsburgh/)
   * [Talks (Videos)](http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934)
-* Jake Templin's First DevOpsDays Experience
+* Jake Cham;lin's First DevOpsDays Experience
   * [@grubernaut](https://twitter.com/grubernaut)
   * [Werewolf](http://www.brenbarn.net/werewolf/rules.html)
 * Jennifer Davis' Talk [From Zero to Hero](http://devopsdays.org/events/2014-pittsburgh/proposals/From%20Hero%20to%20Zero/)
@@ -51,6 +53,8 @@ Outline<a name="outline"></a>
   * [@benr](https://twitter.com/benr)
   * [Joyent](http://www.joyent.com/)
   * [Coda](http://www.coda.cs.cmu.edu/)
+* Anthony Mastrean
+  * [@AnthonyMastrean](https://twitter.com/AnthonyMastrean)
 * Nivia H
   * [@Lanooba](https://twitter.com/Lanooba)
 * Dan on Organizing DevOpsDays
