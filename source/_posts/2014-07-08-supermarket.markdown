@@ -21,7 +21,9 @@ This episode will air on
 Panel<a name="panel"></a>
 -----
 * You?!  Send a pull request for our [show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-76-supermarket.md)
+* Jeff Carapetyan [twitter](https://twitter.com/DevopsJeff)
 * Chris Webber [github](http://github.com/cwebberops), [twitter](http://twitter.com/cwebber), [blog](http://cwebber.net/)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
