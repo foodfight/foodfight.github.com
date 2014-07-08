@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mwrockx | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mwrockx/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-06-28T15:21:06-07:00</updated>
+  <updated>2014-07-08T15:01:59-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Chef Metal]]></title>
     <link href="http://foodfightshow.org//2014/06/chef-metal.html"/>
-    <updated>2014-06-04T14:07:00-07:00</updated>
+    <updated>2014-06-04T14:07:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/chef-metal</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="https://github.com/opscode/chef-metal">chef-metal</a> with it's creator, <a href="https://twitter.com/jkeiser2">John Keiser</a></p>
 
@@ -26,9 +26,9 @@
 
 
 <ul>
-<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#picks">Picks</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#picks">Picks</a></li>
 <li>Download
 
 <ul>
@@ -51,6 +51,11 @@
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
 
+
+<!-- more -->
+
+
+<p></p>
 
 <h2>Outline<a name="outline"></a></h2>
 

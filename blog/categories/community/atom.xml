@@ -4,7 +4,7 @@
   <title><![CDATA[Category: community | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/community/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-06-28T15:21:06-07:00</updated>
+  <updated>2014-07-08T15:01:59-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,54 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Supermarket]]></title>
+    <link href="http://foodfightshow.org//2014/07/supermarket.html"/>
+    <updated>2014-07-08T13:26:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/07/supermarket</id>
+    <content type="html"><![CDATA[<p>Join us for a discussion about the new community site:  <a href="https://supermarket.getchef.com">Chef Supermarket</a>.</p>
+
+<h2>Watch Now</h2>
+
+<p>This episode will air on
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Supermarket&amp;iso=20140710T1330&amp;p1=419&amp;ah=1">Thursday, July 10, 2014 at 17:30 UTC</a></p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/07/supermarket.html#panel">Panel</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>You?!  Send a pull request for our <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-76-supermarket.md">show notes</a></li>
+<li>Chris Webber <a href="http://github.com/cwebberops">github</a>, <a href="http://twitter.com/cwebber">twitter</a>, <a href="http://cwebber.net/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Supermarket&amp;iso=20140710T1330&amp;p1=419&amp;ah=1">Thursday, July 10, 2014 at 17:30 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Changing Culture &amp; Being a Force for Awesome]]></title>
     <link href="http://foodfightshow.org//2012/07/changing-culture-and-being-a-force-for-awesome.html"/>
-    <updated>2012-07-20T06:56:00-07:00</updated>
+    <updated>2012-07-20T06:56:00-04:00</updated>
     <id>http://foodfightshow.org//2012/07/changing-culture-and-being-a-force-for-awesome</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, 19 July 2012</p>
 
@@ -157,7 +202,7 @@
   <entry>
     <title type="html"><![CDATA[Interview with Joshua Timberman, King of Sysadmins]]></title>
     <link href="http://foodfightshow.org//2012/07/interview-with-joshua-timberman.html"/>
-    <updated>2012-07-10T12:36:00-07:00</updated>
+    <updated>2012-07-10T12:36:00-04:00</updated>
     <id>http://foodfightshow.org//2012/07/interview-with-joshua-timberman</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 10 July 2012</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-06-28T15:21:06-07:00</updated>
+  <updated>2014-07-08T15:01:59-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,54 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Supermarket]]></title>
+    <link href="http://foodfightshow.org//2014/07/supermarket.html"/>
+    <updated>2014-07-08T13:26:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/07/supermarket</id>
+    <content type="html"><![CDATA[<p>Join us for a discussion about the new community site:  <a href="https://supermarket.getchef.com">Chef Supermarket</a>.</p>
+
+<h2>Watch Now</h2>
+
+<p>This episode will air on
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Supermarket&amp;iso=20140710T1330&amp;p1=419&amp;ah=1">Thursday, July 10, 2014 at 17:30 UTC</a></p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/07/supermarket.html#panel">Panel</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>You?!  Send a pull request for our <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-76-supermarket.md">show notes</a></li>
+<li>Chris Webber <a href="http://github.com/cwebberops">github</a>, <a href="http://twitter.com/cwebber">twitter</a>, <a href="http://cwebber.net/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Supermarket&amp;iso=20140710T1330&amp;p1=419&amp;ah=1">Thursday, July 10, 2014 at 17:30 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Chef Metal]]></title>
     <link href="http://foodfightshow.org//2014/06/chef-metal.html"/>
-    <updated>2014-06-04T14:07:00-07:00</updated>
+    <updated>2014-06-04T14:07:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/chef-metal</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="https://github.com/opscode/chef-metal">chef-metal</a> with it&#8217;s creator, <a href="https://twitter.com/jkeiser2">John Keiser</a></p>
 
@@ -26,9 +71,9 @@
 
 
 <ul>
-<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2014/04/chef-metal.html#picks">Picks</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#picks">Picks</a></li>
 <li>Download
 
 <ul>
@@ -51,6 +96,11 @@
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
 
+
+<!-- more -->
+
+
+<p></p>
 
 <h2>Outline<a name="outline"></a></h2>
 
@@ -198,7 +248,7 @@
   <entry>
     <title type="html"><![CDATA[DevOps Days Pittsburgh]]></title>
     <link href="http://foodfightshow.org//2014/06/devops-days-pittsburgh.html"/>
-    <updated>2014-06-03T08:59:00-07:00</updated>
+    <updated>2014-06-03T08:59:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/devops-days-pittsburgh</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/04/devops-days-pittsburgh.html#panel">Panel</a></li>
@@ -324,7 +374,7 @@
   <entry>
     <title type="html"><![CDATA[Management in Operations]]></title>
     <link href="http://foodfightshow.org//2014/06/management-in-operations.html"/>
-    <updated>2014-06-03T05:59:00-07:00</updated>
+    <updated>2014-06-03T05:59:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/management-in-operations</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/04/management-in-operations.html#panel">Panel</a></li>
@@ -382,7 +432,7 @@
   <entry>
     <title type="html"><![CDATA[Cookbook Patterns]]></title>
     <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
-    <updated>2014-04-29T18:05:00-07:00</updated>
+    <updated>2014-04-29T18:05:00-04:00</updated>
     <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -553,7 +603,7 @@
   <entry>
     <title type="html"><![CDATA[We're Doing It Wrong]]></title>
     <link href="http://foodfightshow.org//2014/01/were-doing-it-wrong.html"/>
-    <updated>2014-01-10T11:50:00-08:00</updated>
+    <updated>2014-01-10T11:50:00-05:00</updated>
     <id>http://foodfightshow.org//2014/01/were-doing-it-wrong</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -663,7 +713,7 @@
   <entry>
     <title type="html"><![CDATA[OpsWorks]]></title>
     <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
-    <updated>2013-12-17T21:16:00-08:00</updated>
+    <updated>2013-12-17T21:16:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/opsworks</id>
     <content type="html"><![CDATA[<p>Watch and listen to our discussion of Amazon&#8217;s <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
 
@@ -819,7 +869,7 @@
   <entry>
     <title type="html"><![CDATA[Best Practices with Chef]]></title>
     <link href="http://foodfightshow.org//2013/12/best-practices-with-chef.html"/>
-    <updated>2013-12-03T11:22:00-08:00</updated>
+    <updated>2013-12-03T11:22:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/best-practices-with-chef</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -1053,7 +1103,7 @@
   <entry>
     <title type="html"><![CDATA[Docker in Practice]]></title>
     <link href="http://foodfightshow.org//2013/11/docker-in-practice.html"/>
-    <updated>2013-11-27T10:35:00-08:00</updated>
+    <updated>2013-11-27T10:35:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/docker-in-practice</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -1168,7 +1218,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Recap]]></title>
     <link href="http://foodfightshow.org//2013/11/community-summit-recap.html"/>
-    <updated>2013-11-19T21:42:00-08:00</updated>
+    <updated>2013-11-19T21:42:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/community-summit-recap</id>
     <content type="html"><![CDATA[<p>Join us as we recap the <a href="https://github.com/opscode/opscode-summit-2013/wiki">Opscode Community Summit</a>.</p>
 
@@ -1266,7 +1316,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day 1]]></title>
     <link href="http://foodfightshow.org//2013/11/community-summit-day-1.html"/>
-    <updated>2013-11-19T10:35:00-08:00</updated>
+    <updated>2013-11-19T10:35:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/community-summit-day-1</id>
     <content type="html"><![CDATA[<p>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.</p>
 
@@ -1344,7 +1394,7 @@
   <entry>
     <title type="html"><![CDATA[Livin' on the Edge with Al Tobey]]></title>
     <link href="http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey.html"/>
-    <updated>2013-11-05T09:20:00-08:00</updated>
+    <updated>2013-11-05T09:20:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey</id>
     <content type="html"><![CDATA[<p>Join us as we discuss how to test your distributed system in production with Al Tobey</p>
 
@@ -1451,7 +1501,7 @@
   <entry>
     <title type="html"><![CDATA[The Future of DevOps]]></title>
     <link href="http://foodfightshow.org//2013/10/the-future-of-devops.html"/>
-    <updated>2013-10-01T08:07:00-07:00</updated>
+    <updated>2013-10-01T08:07:00-04:00</updated>
     <id>http://foodfightshow.org//2013/10/the-future-of-devops</id>
     <content type="html"><![CDATA[<p>Andrew Clay Shafer (<a href="http://twitter.com/littleidea">@littleidea</a>) joins us to discuss the future of DevOps.</p>
 
@@ -1588,7 +1638,7 @@
   <entry>
     <title type="html"><![CDATA[Chef and HPC]]></title>
     <link href="http://foodfightshow.org//2013/09/chef-and-hpc.html"/>
-    <updated>2013-09-27T10:08:00-07:00</updated>
+    <updated>2013-09-27T10:08:00-04:00</updated>
     <id>http://foodfightshow.org//2013/09/chef-and-hpc</id>
     <content type="html"><![CDATA[<p>Bryan and Nathen are joined by <a href="http://www.rce-cast.com/about/about-the-hosts.html#brockp">Brock Palen</a> and <a href="http://www.rce-cast.com/about/about-the-hosts.html#jsquyres">Jeff Squyers</a>,  the co-hosts of the <a href="http://www.rce-cast.com/">RCE Cast</a>, a podcast about High Performance Computing.</p>
 
@@ -1724,7 +1774,7 @@
   <entry>
     <title type="html"><![CDATA[Ohai]]></title>
     <link href="http://foodfightshow.org//2013/09/ohai.html"/>
-    <updated>2013-09-17T11:22:00-07:00</updated>
+    <updated>2013-09-17T11:22:00-04:00</updated>
     <id>http://foodfightshow.org//2013/09/ohai</id>
     <content type="html"><![CDATA[<p>Join our discussion about Ohai and Ohai Plugins.</p>
 
@@ -1846,7 +1896,7 @@
   <entry>
     <title type="html"><![CDATA[OpenStack]]></title>
     <link href="http://foodfightshow.org//2013/09/openstack.html"/>
-    <updated>2013-09-16T10:31:00-07:00</updated>
+    <updated>2013-09-16T10:31:00-04:00</updated>
     <id>http://foodfightshow.org//2013/09/openstack</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2002,7 +2052,7 @@
   <entry>
     <title type="html"><![CDATA[DevOps Riot]]></title>
     <link href="http://foodfightshow.org//2013/08/devops-riot.html"/>
-    <updated>2013-08-20T08:52:00-07:00</updated>
+    <updated>2013-08-20T08:52:00-04:00</updated>
     <id>http://foodfightshow.org//2013/08/devops-riot</id>
     <content type="html"><![CDATA[<p>Join us as we discuss DevOps at Riot Games.</p>
 
@@ -2160,7 +2210,7 @@
   <entry>
     <title type="html"><![CDATA[Packer]]></title>
     <link href="http://foodfightshow.org//2013/08/packer.html"/>
-    <updated>2013-08-14T09:03:00-07:00</updated>
+    <updated>2013-08-14T09:03:00-04:00</updated>
     <id>http://foodfightshow.org//2013/08/packer</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="http://packer.io">Packer</a> with <a href="https://twitter.com/mitchellh">Mitchell Hashimoto</a></p>
 
@@ -2337,7 +2387,7 @@
   <entry>
     <title type="html"><![CDATA[Immutable Infrastructure]]></title>
     <link href="http://foodfightshow.org//2013/07/immutable-infrastructure.html"/>
-    <updated>2013-07-22T10:20:00-07:00</updated>
+    <updated>2013-07-22T10:20:00-04:00</updated>
     <id>http://foodfightshow.org//2013/07/immutable-infrastructure</id>
     <content type="html"><![CDATA[<p>Show Date:  July 22, 2013</p>
 
@@ -2506,7 +2556,7 @@
   <entry>
     <title type="html"><![CDATA[Secret Chef]]></title>
     <link href="http://foodfightshow.org//2013/07/secret-chef.html"/>
-    <updated>2013-07-09T10:48:00-07:00</updated>
+    <updated>2013-07-09T10:48:00-04:00</updated>
     <id>http://foodfightshow.org//2013/07/secret-chef</id>
     <content type="html"><![CDATA[<p>Show Date:  July 9, 2013</p>
 
@@ -2641,158 +2691,6 @@
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-57-SecretChef.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=HL59_dot9zw">Video</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Erlang Eye for the DevOps Guy and Gal]]></title>
-    <link href="http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal.html"/>
-    <updated>2013-07-01T15:52:00-07:00</updated>
-    <id>http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal</id>
-    <content type="html"><![CDATA[<p>Show Date: Monday, July 1, 2013</p>
-
-<p>An introduction to Erlang and OTP for operations professionals.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/7WqczWKwWOU" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3">Audio</a></li>
-<li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
-<li>Hector Castro  <a href="https://twitter.com/hectcastro">twitter</a>, <a href="https://github.com/hectcastro">github</a>, <a href="http://hectcastro.me/">blog</a></li>
-<li>Chris Meiklejohn <a href="https://twitter.com/cmeik">twitter</a>, <a href="https://github.com/cmeiklejohn/">github</a>, <a href="http://christophermeiklejohn.com/">blog</a></li>
-<li>Panos Papadomitsos (PJ) - <a href="https://twitter.com/priestjim">twitter</a>, <a href="https://github.com/priestjim">github</a>, <a href="http://ezgr.net/">blog</a></li>
-<li>Steve Vinoksi <a href="https://github.com/vinoski">github</a>, <a href="https://twitter.com/stevevinoski">twitter</a>, <a href="http://steve.vinoski.net/blog/">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Introductions</li>
-<li><a href="http://www.erlang.org/">Erlang</a></li>
-<li><a href="http://www.youtube.com/watch?v=xrIjfIjssLE">Erlang: The Movie</a></li>
-<li>Why Erlang is a good choice for operations</li>
-<li>Erlang Processes</li>
-<li>CPU caches</li>
-<li>Garbage Collection/Heap Sizes and Allocation</li>
-<li>The Memory Supervisor</li>
-<li>Heap Per Process</li>
-<li>NUMA Awareness</li>
-<li>Writing an Application in Erlang vs <a href="http://golang.org/">Go</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Open_Telecom_Platform">Open Telecom Platform (OTP)</a></li>
-<li>What is Erlang?</li>
-<li><a href="http://en.wikipedia.org/wiki/Prolog">Prolog</a></li>
-<li>Functional Programming Principals</li>
-<li>External Integration</li>
-<li>Getting Started with Erlang</li>
-<li><a href="http://learnyousomeerlang.com/">Learn You Some Erlang for Great Good</a></li>
-<li><a href="http://elixir-lang.org/">Elixir</a></li>
-<li><a href="http://www.erlang.org/doc/man/erl.html">erl</a></li>
-<li><a href="http://elixir-lang.org/">Elixir</a></li>
-<li>The Erlang Syntax</li>
-<li>Deploying Static Binaries</li>
-<li><a href="https://github.com/basho/node_package">node_package</a></li>
-<li>Code Reloading</li>
-<li>Tracing</li>
-<li>Exploring Statistics</li>
-<li><a href="https://github.com/basho/riak_core">riak_core</a></li>
-<li>Cluster Management</li>
-<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project Fifo</a></li>
-<li><a href="https://github.com/basho/riak_kv">riak_kv</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Finite-state_machine">Finite-state Machine</a></li>
-<li><a href="https://github.com/basho/riak_pipe">riak_pipe</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://mostlyerlang.com">Mostly Erlang podcast</a></li>
-<li><a href="http://learnyousomeerlang.com">Learn You Some Erlang</a></li>
-<li><a href="http://www.youtube.com/watch?v=GyHXLIHtPDM">All your Cores are Belong to us: Turbo-Charging for the Many-Core World</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://theshipshow.com">The Ship Show Podcast</a></li>
-</ul>
-
-
-<h4>Seth</h4>
-
-<ul>
-<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project Fifo</a></li>
-</ul>
-
-
-<h4>Chris</h4>
-
-<ul>
-<li>All Things Distributed Podcast coming soon! join the <a href="http://eepurl.com/BK2Ff">Mailing List</a> for updates on it</li>
-<li><a href="http://www.youtube.com/watch?v=owCu5rveBYI">Hitchhiker&#8217;s Guide to the Erlang VM</a></li>
-<li><a href="http://coq.inria.fr/">The Coq Proof Assistant</a></li>
-</ul>
-
-
-<h4>PJ</h4>
-
-<ul>
-<li><a href="https://github.com/Shopify/dashing">dashing</a></li>
-<li><a href="https://github.com/extend/cowboy">cowboy</a></li>
-<li><a href="http://www.randomaccessmemories.com/">Daft Punk: Random Access Memories</a></li>
-</ul>
-
-
-<h4>Steve</h4>
-
-<ul>
-<li><a href="http://www.youtube.com/user/ErlangSolutions">Erlang Solutions YouTube Channel</a></li>
-<li><a href="http://steve.vinoski.net/blog/2008/04/21/father-of-corba-not/">The Kid is not my son</a></li>
-<li><a href="https://itunes.apple.com/us/album/the-devil-put-dinosaurs-here/id622941441">Alice in Chaings: The Devil Put Dinosaurs Here</a></li>
-</ul>
-
-
-<h4>Hector</h4>
-
-<ul>
-<li><a href="http://www.packer.io/">Packer</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3">Audio</a></li>
-<li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
 </ul>
 
 ]]></content>
