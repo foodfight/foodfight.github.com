@@ -13,8 +13,7 @@ Join us for a discussion about the new community site:  [Chef Supermarket](https
 
 ## Watch Now
 
-This episode will air on 
-[Thursday, July 10, 2014 at 17:30 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Supermarket&iso=20140710T1330&p1=419&ah=1)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4qfIJY0DgGo" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/07/supermarket.html#panel)
 
@@ -29,7 +28,7 @@ Panel<a name="panel"></a>
 
 Download
 --------
-* Video - This episode will air [Thursday, July 10, 2014 at 17:30 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Supermarket&iso=20140710T1330&p1=419&ah=1)
+* [Video](http://youtu.be/4qfIJY0DgGo)
 * Audio - Coming soon
 
 <hr />
