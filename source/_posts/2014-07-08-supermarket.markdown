@@ -24,11 +24,26 @@ Join us for a discussion about the new community site:  [Chef Supermarket](https
 
 Panel<a name="panel"></a>
 -----
-* You?!  Send a pull request for our [show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-76-supermarket.md)
-* Jeff Carapetyan [twitter](https://twitter.com/DevopsJeff)
+* Jeff Carapetyan [twitter](https://twitter.com/DevopsJeff), [blog](http://datafundamentals.com/jeff-on-ops-blog), [github](http://github.com/datafundamentals), irc:jcarapet
+* Brett Chalupa [github](https://github.com/brettchalupa), [twitter](https://twitter.com/brettchalupa), [blog](http://brettchalupa.com)
 * Chris Webber [github](http://github.com/cwebberops), [twitter](http://twitter.com/cwebber), [blog](http://cwebber.net/)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Outline<a name="outline"></a>
+-------
+
+Picks<a name="picks"></a>
+-----
+
+#### Jeff
+
+#### Brett
+* [How I Start](http://howistart.org)
+* [Burlington Ruby Conference](http://burlingtonrubyconference.com)
+
+#### Chris
+
+#### Nathen
 
 
 Download
