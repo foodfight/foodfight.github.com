@@ -13,7 +13,12 @@ Join us for a discussion about the new community site:  [Chef Supermarket](https
 
 ## Watch Now
 
+*Part 1*
+
 <iframe width="420" height="315" src="http://www.youtube.com/embed/4qfIJY0DgGo" frameborder="0" allowfullscreen></iframe>
+
+*Part 2*
+<iframe width="560" height="315" src="//www.youtube.com/embed/n-E86izCZ3I" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/07/supermarket.html#panel)
 
@@ -28,7 +33,8 @@ Panel<a name="panel"></a>
 
 Download
 --------
-* [Video](http://youtu.be/4qfIJY0DgGo)
+* [Video - Part 1](http://youtu.be/4qfIJY0DgGo)
+* [Video - Part 2](http://youtu.be/n-E86izCZ3I)
 * Audio - Coming soon
 
 <hr />
