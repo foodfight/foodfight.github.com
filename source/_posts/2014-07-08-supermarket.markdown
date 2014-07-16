@@ -7,6 +7,8 @@ categories:
   - cwebber
   - supermarket
   - community
+  - brettchalupa
+  - mbiang
 ---
 
 Join us for a discussion about the new community site:  [Chef Supermarket](https://supermarket.getchef.com).
@@ -26,6 +28,7 @@ Panel<a name="panel"></a>
 -----
 * Jeff Carapetyan [twitter](https://twitter.com/DevopsJeff), [blog](http://datafundamentals.com/jeff-on-ops-blog), [github](http://github.com/datafundamentals), irc:jcarapet
 * Brett Chalupa [github](https://github.com/brettchalupa), [twitter](https://twitter.com/brettchalupa), [blog](http://brettchalupa.com)
+* Mike Biang [github](https://github.com/mbiang), [twitter](https://twitter.com/mbiang)
 * Chris Webber [github](http://github.com/cwebberops), [twitter](http://twitter.com/cwebber), [blog](http://cwebber.net/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -36,16 +39,17 @@ Outline<a name="outline"></a>
 * Managing Systems
   * Future Intentions
 * Contribution Process & Licenses
-	* [Contributor License Agreement (CLA)](http://en.wikipedia.org/wiki/Contributor_License_Agreement)
+  * [Become a Contributor](https://supermarket.getchef.com/become-a-contributor)
+	* [Contributor License Agreement (CLA)](https://supermarket.getchef.com/icla-signatures/Agreement)
 	* [Apache 2.0 License Project](http://www.apache.org/licenses/LICENSE-2.0.html)
-	*	[Corporate Contributor License Agreement (CCLA)](http://www.apache.org/licenses/cla-corporate.txt)
-  * [Full Stack](http://www.fullstackoptimization.com/)
+	*	[Corporate Contributor License Agreement (CCLA)](https://supermarket.getchef.com/ccla-signatures/agreement)
+  * [FullStack](http://gofullstack.com/)
 * Development Challenges
-	* [Individual Contributor License Agreement (ICLA)](http://www.apache.org/licenses/icla.txt)
+	* [Individual Contributor License Agreement (ICLA)](https://supermarket.getchef.com/icla-signatures/Agreement)
 	* [botbot.me](https://botbot.me/)
 * Signing License Agreements
 * Supermarket’s Development
-	* [Supermarket App](https://github.com/kevincanning/supermarket_app)
+	* [Supermarket App](https://github.com/opscode/supermarket)
 * CLA Migration and Imports
 * Future of Supermarket
 * Input from [Chef Community](http://www.getchef.com/community/)
@@ -53,22 +57,23 @@ Outline<a name="outline"></a>
 	* [Community Guidelines](http://docs.opscode.com/community_guidelines.html)
 	* [Community Contributions](http://docs.opscode.com/community_contributions.html)
 * Venues and Tools for Collaboration
-	* [invision](http://www.invisionapp.com/)
-  * [Trello](https://trello.com/)
-  * [Gitter](https://gitter.im/)
+	* [invision](https://projects.invisionapp.com/d/#/projects/668453)
+  * [Trello](https://trello.com/b/IGLbkBWL/supermarket)
+  * [Gitter](https://gitter.im/opscode/supermarket)
+  * [Mailing List](https://groups.google.com/d/forum/chef-supermarket)
 * Namespacing for Cookbooks
 	* [Puppet](http://puppetlabs.com/)
 	* [Puppet Forge](https://forge.puppetlabs.com/)
 	* [Docker](http://www.docker.com/)
 	* [Vagrant](http://www.vagrantup.com/)
-	* [berkshelf](https://github.com/berkshelf/berkshelf) 
-  * [Librarian](http://librarian-pro-win.en.softonic.com/)
+	* [berkshelf](http://berkshelf.com/) 
+  * [Librarian](https://github.com/applicationsonline/librarian-chef)
   * [MySQL](http://www.mysql.com/)
   * [Cybersquatting](http://en.wikipedia.org/wiki/Cybersquatting)
 * Installing and Running Supermarket
 * Architecture
-	* [Ruby on Rails 4.1.x](http://railsapps.github.io/installrubyonrails-mac.html)
-	* [Sidekick Software](http://sidekick-software.net/)
+	* [Ruby on Rails 4.1.x](http://rubyonrails.org/)
+	* [Sidekiq](http://sidekiq.org/)
 
 -------
 
@@ -85,13 +90,13 @@ Picks<a name="picks"></a>
 
 #### Chris
 
-* Survey on [Supermarket](https://supermarket.getchef.com/) Site
+* [Survey on Supermarket Site](http://evocalize.com/consumer/rs/chef/supermarket)
 * Barbeque
 * Wifi on airplanes
 
 #### Nathen
 
-* [Toaster](http://code.msdn.microsoft.com/windowshardware/Toaster-7d256224)
+* [Toaster](http://dsg.tuwien.ac.at/staff/hummer/slides/toaster/#/)
 * [Chef Community Summit](http://www.getchef.com/blog/event/chef-community-summit/)(Seattle in October)
 
 #### Mike
