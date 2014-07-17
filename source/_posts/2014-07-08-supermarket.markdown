@@ -23,6 +23,14 @@ Join us for a discussion about the new community site:  [Chef Supermarket](https
 <iframe width="560" height="315" src="//www.youtube.com/embed/n-E86izCZ3I" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/07/supermarket.html#panel)
+* [Outline](http://foodfightshow.org/2014/06/supermarket.html#outline)
+* [Picks](http://foodfightshow.org/2014/06/supermarket.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-76-Supermarket.mp3)
+  * Video
+    * [Part 1](http://youtu.be/4qfIJY0DgGo)
+    * [Part 2](http://youtu.be/n-E86izCZ3I)
+
 
 Panel<a name="panel"></a>
 -----
@@ -108,7 +116,7 @@ Download
 --------
 * [Video - Part 1](http://youtu.be/4qfIJY0DgGo)
 * [Video - Part 2](http://youtu.be/n-E86izCZ3I)
-* Audio - Coming soon
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-76-Supermarket.mp3)
 
 <hr />
 
