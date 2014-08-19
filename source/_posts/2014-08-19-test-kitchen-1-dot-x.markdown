@@ -28,6 +28,7 @@ Panel<a name="panel"></a>
 -----
 * **YOU** - Request to join by [submitting a pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md).
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
@@ -101,6 +102,8 @@ Picks<a name="picks"></a>
 -----
 
 #### Fletcher
+
+#### Mike
 
 #### Nathen
 
