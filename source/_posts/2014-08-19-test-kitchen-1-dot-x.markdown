@@ -73,9 +73,7 @@ Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being 
 * [San Francisco](http://www.getchef.com/blog/events/category/training-events/)
 * [Seattle](http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/)
 
-There are also a number of classes being offerred online:
-* [Online](http://www.getchef.com/blog/events/category/training-events/)
-
+There are also a number of classes being offerred [online](http://www.getchef.com/blog/events/category/training-events/).
 
 ### Show Notes
 
