@@ -4,7 +4,7 @@
   <title><![CDATA[Category: testing | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-07-17T12:19:55-04:00</updated>
+  <updated>2014-08-19T08:31:40-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,149 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
+    <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
+    <updated>2014-08-22T07:27:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
+    <content type="html"><![CDATA[<p>Join us for a discussion about <a href="http://kitchen.ci">Test Kitchen</a> on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Test+Kitchen&amp;iso=20140822T13&amp;p1=419&amp;ah=1">Friday, August 22 at 17:00 UTC</a>.</p>
+
+<p>We are still looking for panelists.  If you are using Test Kitchen and would like to join us on the show, please <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">submit a pull request to the show notes</a>.</p>
+
+<p>Have a question or topic you'd like discussed?  <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">Submit a pull request to the show notes</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/08/test-kitchen.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/08/test-kitchen.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/08/test-kitchen.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Audio - Coming Soon!</li>
+<li>Video - Coming Soon!  This episode will stream to YouTube on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Test+Kitchen&amp;iso=20140822T13&amp;p1=419&amp;ah=1">Friday, August 22 at 17:00 UTC</a>.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li><strong>YOU</strong> - Request to join by <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">submitting a pull request to the show notes</a>.</li>
+<li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="http://getchef.com/summit">Chef Community Summit</a> - October 2 &amp; 3 - FOODFIGHT saves 10%</li>
+<li><p><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</p></li>
+<li><p><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a> - October 7 &amp; 8 - The Food Fight Show is a Media Sponsor</p></li>
+<li><p><a href="http://www.getchef.com/blog/event/vmworld-san-francisco-ca/">VMWorld</a> - August 24 - 28</p></li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-azure-awesome-episode-2-windows-server-automation/">Chef and Azure Webinar</a> - August 27</li>
+<li><a href="http://www.getchef.com/blog/event/flowcon-san-francisco-ca/">FlowCon</a> - September 3 &amp; 4</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/">Managing Containers with Chef - Webinar</a> - September 10</li>
+<li><a href="http://fossetcon.org/2014/">Fossetcon</a> - September 11 - 13</li>
+<li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
+<li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
+<li><p><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-toronto/">Toronto</a> - September 12 &amp; 13</li>
+<li><a href="http://devopsdays.org/events/2014-newyork/">New York City</a> - September 19</li>
+<li><a href="http://devopsdays.org/events/2014-warsaw/">Warsaw</a> - September 25 &amp; 26</li>
+<li><a href="http://devopsdays.org/events/2014-telaviv/">Tel Aviv</a> - September 29 &amp; 30</li>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28</li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Austin</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/">Bangalore</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/">Chennai</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/">Denver</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/">Raleigh</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/">Seattle</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offerred <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Here's a brief outline of some of the things we'd like to discuss.  <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">Add your ideas to the show notes</a>.</p>
+
+<ul>
+<li><a href="http://kitchen.ci">kitchen.ci</a>
+
+<ul>
+<li>What is Test Kitchen?</li>
+<li>Why Test Kitchen?</li>
+<li>Walk us through a <code>.kitchen.yml</code> file</li>
+<li>How does one get started with Test Kitchen?</li>
+<li>How does one extend Test Kitchen?</li>
+<li>Terms
+
+<ul>
+<li>driver</li>
+<li>provisioner</li>
+<li>platforms</li>
+<li>suites</li>
+<li>bussers</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://github.com/test-kitchen">KitchenCI Repositories on GitHub</a></li>
+<li>How are <a href="http://berkshelf.com/">Berkshelf</a> and Test Kitchen related?</li>
+<li>How are the <a href="http://downloads.getchef.com/chef-dk/">Chef Development Kit</a> and Test Kitchen related?</li>
+<li>Does Test Kitchen help run pre-convergance tests like linting an unit testing?</li>
+<li>What does the future hold for Test Kitchen?</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Fletcher</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Coming Soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
@@ -684,182 +827,6 @@ news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
 <h2>Download</h2>
 
 <p>Jamie Winsor and Michael Ivey Skool us on Berkshelf:  <a href="http://traffic.libsyn.com/foodfight/ffs24_3.mp3">Download here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interview with Joshua Timberman, King of Sysadmins]]></title>
-    <link href="http://foodfightshow.org//2012/07/interview-with-joshua-timberman.html"/>
-    <updated>2012-07-10T12:36:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/07/interview-with-joshua-timberman</id>
-    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 10 July 2012</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#panel">Panel</a></li>
-<li>What's Cookin'
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#news">In the News</a></li>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#cookbooks">Cookbook News</a></li>
-</ul>
-</li>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#picks">Picks</a></li>
-<li><a href="http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html#outline">Outline</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/ffs20_4.mp3">Download</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Joshua Timberman <a href="https://twitter.com/#!/jtimberman">twitter</a>, <a href="http://github.com/jtimberman">github</a>, <a href="mailto:joshua@opscode.com">email</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Matt Ray <a href="https://twitter.com/#!/mattray">twitter</a>, <a href="https://github.com/mattray">github</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a>, <a href="http://blog.lusis.org/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>In the News<a name="news"></a></h2>
-
-<ul>
-<li><p>Jon Cowie's presentation at Velocity 2012, <a href="http://www.slideshare.net/jonlives/michelin-starred-cooking-with-chef">Michelin Starred Cooking with Chef</a></p></li>
-<li><p><a href="http://www.mynameiskate.com/visual-guide-to-chef/">Visual guide to Chef</a> from Kate Leroux</p></li>
-<li><p><a href="https://github.com/cjs226/git_to_chef">git_to_chef</a> will compare the
-cookbooks in Git to those in a Chef Environment If there are new and/or
-updated cookbooks in Git, it'll either log it or upload/freeze the
-affected cookbooks, update the stated environment, upload databags,
-upload roles then send an email notification.</p></li>
-<li><p><a href="http://fnichol.github.com/knife-server/">Knife::Server</a> - An Opscode
-Chef knife plugin to manage Chef Servers.  Bootstrap a new Chef Server
-on Amazon's EC2 or a standalone server. Backup and restore your Chef
-Server or Hosted Chef's node, role, data bag, and environment JSON data.</p></li>
-<li><p><a href="http://www.devopsdays.org/events/2012-india/registration/">DevOpsDays Delhi</a> - July 21 &amp; 22</p></li>
-<li><p>chefspec and rspec-chef are great tools for unit-testing your chef cookbooks, but it's often cumbersome to mock out all your node's ohai data. Even a clean operating system yields a few thousand lines of ohai data, so it's easy to quickly pollute your tests with more mock and less test. This not only increases the time required to write tests, but it's not extensible and isn't sustainable across large projects. That's why <a href="hhttp://twitter.com/sethvargo">Seth Vargo</a> at <a href="http://www.customink.com">CustomInk</a> cooked up <a href="https://github.com/customink/fauxhai">fauxhai</a> - a community supported gem for easily mocking ohai data.</p>
-
-<ul>
-<li>command line tool for generating and contributing fauxhai data</li>
-<li>easily override any attributes</li>
-<li>specify default versions</li>
-<li>fetch remote server data (coming soon!)</li>
-</ul>
-</li>
-<li><p><a href="http://nathenharvey.com/blog/2012/07/06/mvt-knife-test-and-travisci/">MVT:  knife test with Travis CI</a></p></li>
-<li><p><a href="http://blog.lusis.org/blog/2012/07/09/what-production-means/">What Production Means</a> - recent blog post by <a href="http://twitter.com//lusis">@lusis</a></p></li>
-<li><p>Opscode training - use discount code <strong>REDACTED, listen to get the code</strong> to save 10% on sessions.</p></li>
-<li><p><a href="http://foodfightshow.org">Food Fight Show</a> website.  You can now support us using <a href="http://flattr.com/thing/733271/foodfightshow-on-Flattr">Flattr</a>, the microdonation platform.</p></li>
-<li><p><a href="http://realityforge.org/presentations/cookbook-reusability/#1">Evolving towards cookbook reusability slides</a></p></li>
-</ul>
-
-
-<h2>Cookbook News<a name="cookbooks"></a></h2>
-
-<h3>New Cookbooks</h3>
-
-<ul>
-<li><p><a href="http://community.opscode.com/cookbooks/phantomjs">phantomjs</a> v0.0.2 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a>
-Installs the phantomjs cookbook and necessary packages. This repository also features a full test suite! (knife, foodcritic, chefspec, using fauxhai)</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/rails_rvm">rails_rvm</a> v0.1.0 - <a href="http://community.opscode.com/users/bwright">bwright</a> - First community cookbook!
-Installs System Wide RVM via the RVM recipe. RVM is configured for the specified user to work on boot.  Then Rails is installed</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/trac4r">trac4r</a> v1.0.3 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a>
-Oftentimes it is helpful for your servers to create and post their own documentation. In Operations, it is important that we focus on publishing information in a timely, organized, and appropriate fashion. Of necessity, a good Operations team has multiple tools. Unfortunately, the multiplicity of tools can result in information fragmentation and difficulty in providing a single location for Developers and collegues to go for answers to common questions. Additionally, it is often sub-optimal to give access to a particular toolset simply to provide log or status information.</p></li>
-</ul>
-
-
-<p>Tasks such as updating tickets when build artifacts have been generated, self-generated wikipages, or even posting drive fragmentation status are all basic tasks that servers should be able to do themselves. This is a basic attempt at enabling machines to interact with a <a href="http://trac.edgewall.org/">Trac</a> system for the specific purposes listed above... As well as others.</p>
-
-<ul>
-<li><p><a href="http://community.opscode.com/cookbooks/zpool">zpool</a> v0.0.1 - <a href="http://community.opscode.com/users/marthag">marthag</a>
-Lightweight resource and provider to create or destroy simple zpools in Solaris zpools.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/zfs">zfs</a> v0.0.2 - <a href="http://community.opscode.com/users/marthag">marthag</a>
-Lightweight resource and provider to manage Solaris zfs file systems. Currently, only a limited sub-set of options are supported.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/emailer">emailer</a> v1.0.1 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a> (steven c)
-Installs/Configures Mail gems and provides library for quick email messages from servers.  What you see is what you get. Steven has a gmail account that he use as an SMTP server; the example is currently setup for TLS with google.</p></li>
-</ul>
-
-
-<h3>Updated Cookbooks</h3>
-
-<ul>
-<li><a href="http://community.opscode.com/cookbooks/datadog">datadog</a> v0.0.12 - <a href="http://community.opscode.com/users/miketheman">miketheman</a></li>
-<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
-<li><a href="http://community.opscode.com/cookbooks/zncrypt">zncrypt</a> v0.1.2 - <a href="http://community.opscode.com/users/egarcia">egarcia</a></li>
-<li><a href="http://community.opscode.com/cookbooks/ruby_enterprise">ruby_enterprise</a> v0.2.6 - <a href="http://community.opscode.com/users/miketheman">miketheman</a> (Now with TravisCI - foodcritic, knife, and <a href="https://github.com/turboladen/tailor">tailor</a>)</li>
-<li><a href="http://community.opscode.com/cookbooks/sensu">sensu</a> v0.1.1 - <a href="http://community.opscode.com/users/portertech">portertech</a></li>
-<li><a href="http://community.opscode.com/cookbooks/zone">zone</a> v0.0.5 - <a href="http://community.opscode.com/users/marthag">marthag</a></li>
-<li><a href="http://community.opscode.com/cookbooks/pkgutil">pkgutil</a> v0.0.3 - <a href="http://community.opscode.com/users/marthag">marthag</a>
-Manages Solaris pkgutil packages</li>
-<li><a href="http://community.opscode.com/cookbooks/helios">helios</a> v1.0.1 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
-<li><a href="https://github.com/lusis/chef-logstash">logstash</a> v0.2.1 - <a href="https://github.com/lusis">lusis</a></li>
-<li><a href="https://github.com/karmi/cookbook-elasticsearch">elasticsearch</a>
-v0.0.2 - <a href="https://github.com/karmi">Karel Minarik</a></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<p>Great conversation with Joshua Timberman covering many topics including:</p>
-
-<ul>
-<li>Joshua's background and how he got started with Opscode</li>
-<li>Cookbook Development</li>
-<li>Community Cookbooks</li>
-<li>Shef</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Bryan</h4>
-
-<ul>
-<li>haproxy - I do all of my http routing w/ it</li>
-<li>Bon Iver - beautiful music but really depressing</li>
-<li>anti-pick - <a href="http://launchpad.net">Launchpad</a>, I don't like it</li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li>ldirectord - I do all of my http AND https routing with it!</li>
-<li>music pick - <a href="http://www.nekocase.com/">Neko Case</a></li>
-<li>beer pick - <a href="http://fordhambrewing.com/our-brews/">Fordham Copperhead Ale</a></li>
-</ul>
-
-
-<h4>Matt</h4>
-
-<ul>
-<li><a href="http://stephentobolowsky.wordpress.com/the-tobolowsky-files/">Tobolowsky files</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">The Mythical Man Month</a></li>
-</ul>
-
-
-<h4>Joshua</h4>
-
-<ul>
-<li>anti-pick - lawn maintenance</li>
-<li>listening to 80's synth pop and industrial music on <a href="http://rdio.com">rdio</a></li>
-<li>Instapaper</li>
-<li>Pathfinder - offshoot of dungeons and dragons</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<p>Interview with Joshua Timberman, King of Sysadmins:  <a href="http://traffic.libsyn.com/foodfight/ffs20_4.mp3">Download here</a></p>
-
-<h2>Website Credit</h2>
-
-<p>You may have noticed our site has a new look! We have migrated from Blogger to Github Pages using the Octopress framework.</p>
-
-<p>Thanks to Simon Griffee for migrating our site from Blogger to Octopress. Simon Griffee is a freelance <a href="http://hypertexthero.com/about/">graphic designer and web
-developer</a> and <a href="http://simongriffee.com">photographer</a>. <a href="http://hypertexthero.com/contact/">Contact</a> him at
-<a href="mailto:simon@hypertexthero.com">simon@hypertexthero.com</a></p>
 ]]></content>
   </entry>
   
