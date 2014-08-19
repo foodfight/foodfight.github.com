@@ -3,7 +3,7 @@ layout: post
 title: "Supermarket"
 date: 2014-07-08 13:26
 comments: true
-categories: 
+categories:
   - cwebber
   - supermarket
   - community
@@ -23,8 +23,8 @@ Join us for a discussion about the new community site:  [Chef Supermarket](https
 <iframe width="560" height="315" src="//www.youtube.com/embed/n-E86izCZ3I" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/07/supermarket.html#panel)
-* [Outline](http://foodfightshow.org/2014/06/supermarket.html#outline)
-* [Picks](http://foodfightshow.org/2014/06/supermarket.html#picks)
+* [Outline](http://foodfightshow.org/2014/07/supermarket.html#outline)
+* [Picks](http://foodfightshow.org/2014/07/supermarket.html#picks)
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-76-Supermarket.mp3)
   * Video
@@ -74,7 +74,7 @@ Outline<a name="outline"></a>
 	* [Puppet Forge](https://forge.puppetlabs.com/)
 	* [Docker](http://www.docker.com/)
 	* [Vagrant](http://www.vagrantup.com/)
-	* [berkshelf](http://berkshelf.com/) 
+	* [berkshelf](http://berkshelf.com/)
   * [Librarian](https://github.com/applicationsonline/librarian-chef)
   * [MySQL](http://www.mysql.com/)
   * [Cybersquatting](http://en.wikipedia.org/wiki/Cybersquatting)
