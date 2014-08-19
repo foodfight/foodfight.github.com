@@ -40,6 +40,8 @@ Panel<a name="panel"></a>
 * Chris Webber [github](http://github.com/cwebberops), [twitter](http://twitter.com/cwebber), [blog](http://cwebber.net/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 
 * [AWS Summit](https://reinvent.awsevents.com/?sc_channel=PS&sc_campaign=reinvent_2014&sc_publisher=Bing&sc_content=4961916134&sc_medium=Brand_Amazon_re:Invent_E-Brand_AWS_Summit_E&sc_category=events&sc_segment=reinvent&sc_detail=aws%20summit&trk=PS_reinvent2014_aws-summit_E)
