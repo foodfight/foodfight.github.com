@@ -9,6 +9,7 @@ categories:
   - jjasghar
   - jtimberman
   - afiune
+  - spustay
   - chefdk
   - testing
 ---
@@ -35,6 +36,7 @@ Panel<a name="panel"></a>
 * Joshua Timberman [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Salim Afiune [github](http://github.com/afiune), [twitter](https://twitter.com/afiune)
+* Scott Pustay [github](https://github.com/muskox), [twitter](https://twitter.com/spustay), [blog](http://scottpustay.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
@@ -57,6 +59,8 @@ Outline<a name="outline"></a>
 * [PowerShell DSC at Chef-NYC Meetup](http://www.meetup.com/Chef-NYC/events/197048342/) - September 17
 * [Chef Analytics Webinar](http://www.getchef.com/blog/event/webinar-chef-analytics/) - September 17
 * [Beyond the Code](http://beyondthecode.io/) - September 19 in Ottawa Canada
+* [PowerShell Summit EU](http://powershell.org/wp/community-events/summit/) - September 29 through October 1 in Amsterdam, The Netherlands
+
 
 * DevOpsDays
   * [Toronto](http://devopsdays.org/events/2014-toronto/) - September 12 & 13
@@ -105,6 +109,9 @@ Here's a brief outline of some of the things we'd like to discuss.  [Add your id
 * Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
 * What does the future hold for Test Kitchen?
 * Test Kitchen & Windows Guest? Uhmmm is that possible?
+* How do bussers work? Are they run from the host machine or on the machine under test?
+* Any recommendations on how to get started writing a busser (for someone new to the project)?
+
 
 Picks<a name="picks"></a>
 -----
@@ -119,6 +126,8 @@ Picks<a name="picks"></a>
 #### Joshua
 
 #### Salim
+
+#### Scott
 
 #### Mike
 
