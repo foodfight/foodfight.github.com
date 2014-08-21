@@ -4,7 +4,7 @@
   <title><![CDATA[Category: fnichol | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/fnichol/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-21T07:59:05-04:00</updated>
+  <updated>2014-08-21T17:23:06-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -47,6 +47,7 @@
 <li>Joshua Timberman <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Salim Afiune <a href="http://github.com/afiune">github</a>, <a href="https://twitter.com/afiune">twitter</a></li>
+<li>Scott Pustay <a href="https://github.com/muskox">github</a>, <a href="https://twitter.com/spustay">twitter</a>, <a href="http://scottpustay.com/">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
 
@@ -69,7 +70,8 @@
 <li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
 <li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
 <li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
-<li><p><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</p></li>
+<li><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</li>
+<li><p><a href="http://powershell.org/wp/community-events/summit/">PowerShell Summit EU</a> - September 29 through October 1 in Amsterdam, The Netherlands</p></li>
 <li><p>DevOpsDays</p>
 
 <ul>
@@ -135,6 +137,8 @@
 <li>Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.</li>
 <li>What does the future hold for Test Kitchen?</li>
 <li>Test Kitchen &amp; Windows Guest? Uhmmm is that possible?</li>
+<li>How do bussers work? Are they run from the host machine or on the machine under test?</li>
+<li>Any recommendations on how to get started writing a busser (for someone new to the project)?</li>
 </ul>
 
 
@@ -153,6 +157,8 @@
 <h4>Joshua</h4>
 
 <h4>Salim</h4>
+
+<h4>Scott</h4>
 
 <h4>Mike</h4>
 
