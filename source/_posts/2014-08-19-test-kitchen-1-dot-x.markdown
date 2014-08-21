@@ -6,6 +6,9 @@ comments: true
 categories:
   - test-kitchen
   - fnichol
+  - jjasghar
+  - jtimberman
+  - afiune
   - chefdk
   - testing
 ---
