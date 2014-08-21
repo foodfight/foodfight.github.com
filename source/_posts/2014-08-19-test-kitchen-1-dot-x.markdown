@@ -28,7 +28,10 @@ Panel<a name="panel"></a>
 -----
 * **YOU** - Request to join by [submitting a pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md).
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
+* JJ Asghar [github](https://github.com/jjasghar), [twitter](http://twitter.com/jjasghar), [blog](http://jjasghar.github.io), irc: j^2
+* Joshua Timberman [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Salim Afiune [github](http://github.com/afiune), [twitter](https://twitter.com/afiune)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
@@ -91,17 +94,28 @@ Here's a brief outline of some of the things we'd like to discuss.  [Add your id
     * provisioner
     * platforms
     * suites
-    * bussers
+    * bussers; and the magic behind them
 * [KitchenCI Repositories on GitHub](https://github.com/test-kitchen)
 * How are [Berkshelf](http://berkshelf.com/) and Test Kitchen related?
 * How are the [Chef Development Kit](http://downloads.getchef.com/chef-dk/) and Test Kitchen related?
 * Does Test Kitchen help run pre-convergance tests like linting an unit testing?
+* Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
 * What does the future hold for Test Kitchen?
+* Test Kitchen & Windows Guest? Uhmmm is that possible?
 
 Picks<a name="picks"></a>
 -----
 
 #### Fletcher
+
+#### JJ
+
+* [The Game of Thrones board game](http://www.amazon.com/Game-Thrones-The-Board-Second-Edition/dp/1589947207#)
+* Cold Brew Coffee.
+
+#### Joshua
+
+#### Salim
 
 #### Mike
 
