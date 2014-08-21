@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test-kitchen | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/test-kitchen/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-19T08:41:19-04:00</updated>
+  <updated>2014-08-21T07:59:05-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -43,7 +43,10 @@
 <ul>
 <li><strong>YOU</strong> - Request to join by <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">submitting a pull request to the show notes</a>.</li>
 <li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
+<li>JJ Asghar <a href="https://github.com/jjasghar">github</a>, <a href="http://twitter.com/jjasghar">twitter</a>, <a href="http://jjasghar.github.io">blog</a>, irc: j<sup>2</sup></li>
+<li>Joshua Timberman <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
 <li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Salim Afiune <a href="http://github.com/afiune">github</a>, <a href="https://twitter.com/afiune">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
 
@@ -120,7 +123,7 @@
 <li>provisioner</li>
 <li>platforms</li>
 <li>suites</li>
-<li>bussers</li>
+<li>bussers; and the magic behind them</li>
 </ul>
 </li>
 </ul>
@@ -129,13 +132,27 @@
 <li>How are <a href="http://berkshelf.com/">Berkshelf</a> and Test Kitchen related?</li>
 <li>How are the <a href="http://downloads.getchef.com/chef-dk/">Chef Development Kit</a> and Test Kitchen related?</li>
 <li>Does Test Kitchen help run pre-convergance tests like linting an unit testing?</li>
+<li>Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.</li>
 <li>What does the future hold for Test Kitchen?</li>
+<li>Test Kitchen &amp; Windows Guest? Uhmmm is that possible?</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
 
 <h4>Fletcher</h4>
+
+<h4>JJ</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Game-Thrones-The-Board-Second-Edition/dp/1589947207#">The Game of Thrones board game</a></li>
+<li>Cold Brew Coffee.</li>
+</ul>
+
+
+<h4>Joshua</h4>
+
+<h4>Salim</h4>
 
 <h4>Mike</h4>
 
