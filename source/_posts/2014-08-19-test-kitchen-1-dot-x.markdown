@@ -109,6 +109,7 @@ Here's a brief outline of some of the things we'd like to discuss.  [Add your id
   * [Testing Idempotence for Infrastructure as Code](http://dsg.tuwien.ac.at/staff/hummer/slides/toaster/#/)
 * Test Kitchen & Windows Guest? Uhmmm is that possible?
 * How do bussers work? Are they run from the host machine or on the machine under test?
+* [Chef Cookbook Development Workflow RFC](https://github.com/opscode/chef-rfc/pull/34)
 
 Picks<a name="picks"></a>
 -----
