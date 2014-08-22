@@ -17,9 +17,15 @@ categories:
 
 Join us for a discussion about [Test Kitchen](http://kitchen.ci) on [Friday, August 22 at 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Test+Kitchen&iso=20140822T13&p1=419&ah=1).
 
-We are still looking for panelists.  If you are using Test Kitchen and would like to join us on the show, please [submit a pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md).
+We'll stream the conversation live to YouTube and will be in #foodfightshow on freenode IRC.
+<!--
+Join the conversation in #foodfightshow on freenode IRC, too.
 
-Have a question or topic you'd like discussed?  [Submit a pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md).
+## Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4qfIJY0DgGo" frameborder="0" allowfullscreen></iframe>
+
+-->
 
 * [Panel](http://foodfightshow.org/2014/08/test-kitchen.html#panel)
 * [Outline](http://foodfightshow.org/2014/08/test-kitchen.html#outline)
@@ -31,7 +37,6 @@ Have a question or topic you'd like discussed?  [Submit a pull request to the sh
 
 Panel<a name="panel"></a>
 -----
-* **YOU** - Request to join by [submitting a pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md).
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * JJ Asghar [github](https://github.com/jjasghar), [twitter](http://twitter.com/jjasghar), [blog](http://jjasghar.github.io), irc: j^2
 * Jonathan Hartman [github](http://github.com/roboticcheese), [twitter](http://twitter.com/roboticcheese), irc: roboticcheese
@@ -130,6 +135,7 @@ Picks<a name="picks"></a>
 * Cold Brew Coffee.
 
 #### Jonathan
+
 * [The Wirecutter](http://thewirecutter.com)
 * [CircleCI](https://circleci.com)
 * [Tom Duffield's Chef-Container Talk](https://www.youtube.com/watch?v=S_-U949pcUA)
@@ -144,6 +150,9 @@ Picks<a name="picks"></a>
 
 #### Nathen
 
+* [Chef Developers' IRC Meetings](http://github.com/opscode/chef-community-irc-meetings)
+* Not being an asshole on social media or anywhere else, for that matter.
+* Taking a proper vacation
 
 Download
 --------
