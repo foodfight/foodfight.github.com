@@ -15,16 +15,18 @@ categories:
   - testing
 ---
 
-Join us for a discussion about [Test Kitchen](http://kitchen.ci) on [Friday, August 22 at 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Test+Kitchen&iso=20140822T13&p1=419&ah=1).
+Join the conversation in #foodfightshow on freenode IRC, too.
 
-We'll stream the conversation live to YouTube and will be in #foodfightshow on freenode IRC.
+## Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/5YnqVzESGR4" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/08/test-kitchen.html#panel)
 * [Outline](http://foodfightshow.org/2014/08/test-kitchen.html#outline)
 * [Picks](http://foodfightshow.org/2014/08/test-kitchen.html#picks)
 * Download
   * Audio - Coming Soon!
-  * Video - Coming Soon!  This episode will stream to YouTube on [Friday, August 22 at 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Test+Kitchen&iso=20140822T13&p1=419&ah=1).
+  * [Video](http://youtu.be/5YnqVzESGR4)
 
 
 Panel<a name="panel"></a>
@@ -47,7 +49,7 @@ Outline<a name="outline"></a>
 * [Chef Community Summit](http://getchef.com/summit) - October 2 & 3 - FOODFIGHT saves 10%
 * [Chef Community Summit London](http://getchef.com/summit-london) - October 15 & 16  - FOODFIGHT saves 10%
 
-* [DevOpsDays Chicago](http://devopsdays.org/events/2014-chicago/) - October 7 & 8 - The Food Fight Show is a Media Sponsor
+* [DevOpsDays Chicago](http://devopsdays.org/events/2014-chicago/) - October 7 & 8 - The Food Fight Show is a Media Sponsor and today is the last day for early bird registration!
 
 * [VMWorld](http://www.getchef.com/blog/event/vmworld-san-francisco-ca/) - August 24 - 28
 * [Chef and Azure Webinar](http://www.getchef.com/blog/event/webinar-chef-azure-awesome-episode-2-windows-server-automation/) - August 27
@@ -136,6 +138,8 @@ Picks<a name="picks"></a>
 
 #### Salim
 
+* [Moonwalking with Einstein](http://joshuafoer.com/moonwalking-with-einstein/)
+
 #### Scott
 
 #### Mike
@@ -148,7 +152,8 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Coming Soon!
+* Audio - Coming Soon!
+* [Video](http://youtu.be/5YnqVzESGR4)
 
 <hr />
 
