@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: jjasghar | Food Fight]]></title>
-  <link href="http://foodfightshow.org//blog/categories/jjasghar/atom.xml" rel="self"/>
+  <title><![CDATA[Category: roboticcheese | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/roboticcheese/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
   <updated>2014-08-22T10:23:12-04:00</updated>
   <id>http://foodfightshow.org//</id>
@@ -191,104 +191,6 @@
 <p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
 
 <p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Community Summit - Recap]]></title>
-    <link href="http://foodfightshow.org//2013/11/community-summit-recap.html"/>
-    <updated>2013-11-19T21:42:00-05:00</updated>
-    <id>http://foodfightshow.org//2013/11/community-summit-recap</id>
-    <content type="html"><![CDATA[<p>Join us as we recap the <a href="https://github.com/opscode/opscode-summit-2013/wiki">Opscode Community Summit</a>.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://foodfightshow.org///www.youtube.com/embed/cs3dPocJk7U" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/11/community-summit-recap.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/11/community-summit-recap.html#outline">Outline</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=cs3dPocJk7U">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>John Dyer <a href="https://twitter.com/thedyers">twitter</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>JJ Asghar <a href="https://twitter.com/jjasghar">twitter</a>, <a href="https://github.com/jjasghar">github</a></li>
-<li>Ian Meyer <a href="https://twitter.com/ianmeyer">twitter</a>, <a href="https://github.com/imeyer">github</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Show Note<a href="note"></a></h2>
-
-<p>During the original recording of the show we went a bit off topic and there was a brief discussion that was not in keeping with the spirit of this show.  We have removed about three minutes from the video on YouTube and from the audio recording.</p>
-
-<!-- more -->
-
-
-<h2>Outline<a href="outline"></a></h2>
-
-<ul>
-<li><a href="http://kernel.dk/blk-mq.pdf">Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems</a></li>
-<li>Introductions</li>
-<li><a href="http://github.com/jjasghar/chef-book">JJ's Chef Book</a></li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-D-1000">Diversity in Tech</a></li>
-<li>Mentoring</li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1000">Chef 12 Features</a></li>
-<li>Version Roles</li>
-<li><a href="http://www.opscode.com/blog/2013/11/19/chef-roles-arent-evil/">Julian Dunn: Chef Roles Aren’t Evil</a></li>
-<li><a href="https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1">Top #opschef issues discussion, ordered</a></li>
-<li>"Best Practices"</li>
-<li><a href="http://en.wikipedia.org/wiki/Shuhari">Shuhari</a></li>
-<li><a href="http://learnchef.com">Learn Chef</a></li>
-<li><a href="http://docs.opscode.com/api_omnitruck.html">Omnitruck API</a></li>
-<li><a href="https://github.com/adamhjk/metarepo">metarepo</a></li>
-<li><a href="https://github.com/sensu">sensu</a></li>
-<li><a href="https://github.com/portertech/chef-monitor">chef-monitor</a></li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1300">Multi-node testing &amp; Vagabond</a>
-
-<ul>
-<li><a href="https://github.com/chrisroberts/vagabond">vagabond</a></li>
-<li><a href="http://vimeo.com/74387133">BDDing your infrastructure with Vagabond: A Big Nerd Ranch Tech Talk</a></li>
-<li><a href="https://www.youtube.com/watch?v=FuarlNKs_FY">Matt Ray: Vagabond Overview</a></li>
-<li><a href="https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond">Valiently Validating Vagrant wit Vagabond by Will Farrington</a></li>
-</ul>
-</li>
-<li>Hallway Track</li>
-<li>Windows and Windows Support</li>
-<li><a href="http://reinvent.awsevents.com/">AWS re:Invent 2013</a></li>
-<li><a href="http://www.imdb.com/title/tt0218839/?ref_=nv_sr_1">Best in Show</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=cs3dPocJk7U">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
 
 <p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
 ]]></content>
