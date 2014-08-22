@@ -18,14 +18,6 @@ categories:
 Join us for a discussion about [Test Kitchen](http://kitchen.ci) on [Friday, August 22 at 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Test+Kitchen&iso=20140822T13&p1=419&ah=1).
 
 We'll stream the conversation live to YouTube and will be in #foodfightshow on freenode IRC.
-<!--
-Join the conversation in #foodfightshow on freenode IRC, too.
-
-## Watch Now
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/4qfIJY0DgGo" frameborder="0" allowfullscreen></iframe>
-
--->
 
 * [Panel](http://foodfightshow.org/2014/08/test-kitchen.html#panel)
 * [Outline](http://foodfightshow.org/2014/08/test-kitchen.html#outline)
