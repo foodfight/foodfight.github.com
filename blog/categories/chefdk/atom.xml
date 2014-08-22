@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chefdk | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chefdk/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-22T10:23:12-04:00</updated>
+  <updated>2014-08-22T10:41:01-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -20,9 +20,17 @@
     <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
     <content type="html"><![CDATA[<p>Join us for a discussion about <a href="http://kitchen.ci">Test Kitchen</a> on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Test+Kitchen&amp;iso=20140822T13&amp;p1=419&amp;ah=1">Friday, August 22 at 17:00 UTC</a>.</p>
 
-<p>We are still looking for panelists.  If you are using Test Kitchen and would like to join us on the show, please <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">submit a pull request to the show notes</a>.</p>
+<p>We'll stream the conversation live to YouTube and will be in #foodfightshow on freenode IRC.</p>
 
-<p>Have a question or topic you'd like discussed?  <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">Submit a pull request to the show notes</a>.</p>
+<!--
+Join the conversation in #foodfightshow on freenode IRC, too.
+
+## Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4qfIJY0DgGo" frameborder="0" allowfullscreen></iframe>
+
+-->
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2014/08/test-kitchen.html#panel">Panel</a></li>
@@ -41,7 +49,6 @@
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
-<li><strong>YOU</strong> - Request to join by <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">submitting a pull request to the show notes</a>.</li>
 <li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
 <li>JJ Asghar <a href="https://github.com/jjasghar">github</a>, <a href="http://twitter.com/jjasghar">twitter</a>, <a href="http://jjasghar.github.io">blog</a>, irc: j<sup>2</sup></li>
 <li>Jonathan Hartman <a href="http://github.com/roboticcheese">github</a>, <a href="http://twitter.com/roboticcheese">twitter</a>, irc: roboticcheese</li>
@@ -177,6 +184,13 @@
 <h4>Mike</h4>
 
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="http://github.com/opscode/chef-community-irc-meetings">Chef Developers' IRC Meetings</a></li>
+<li>Not being an asshole on social media or anywhere else, for that matter.</li>
+<li>Taking a proper vacation</li>
+</ul>
+
 
 <h2>Download</h2>
 
