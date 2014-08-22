@@ -10,6 +10,7 @@ categories:
   - jtimberman
   - afiune
   - spustay
+  - roboticcheese
   - chefdk
   - testing
 ---
@@ -33,6 +34,7 @@ Panel<a name="panel"></a>
 * **YOU** - Request to join by [submitting a pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md).
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * JJ Asghar [github](https://github.com/jjasghar), [twitter](http://twitter.com/jjasghar), [blog](http://jjasghar.github.io), irc: j^2
+* Jonathan Hartman [github](http://github.com/roboticcheese), [twitter](http://twitter.com/roboticcheese), irc: roboticcheese
 * Joshua Timberman [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Salim Afiune [github](http://github.com/afiune), [twitter](https://twitter.com/afiune)
@@ -107,6 +109,10 @@ Here's a brief outline of some of the things we'd like to discuss.  [Add your id
 * How are the [Chef Development Kit](http://downloads.getchef.com/chef-dk/) and Test Kitchen related?
 * Does Test Kitchen help run pre-convergance tests like linting an unit testing?
 * Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
+* How to test (encrypted) databags / secrets with test-kitchen? Best practices?
+* How to automate testing Travis-CI: Steps to integrate testing via AWS / DO?
+* Does TK have any support for evaluating idempotence and/or run performance?
+* Does TK have any support for evaluating idempotence and/or run performance?
 * What does the future hold for Test Kitchen?
 * Test Kitchen & Windows Guest? Uhmmm is that possible?
 * How do bussers work? Are they run from the host machine or on the machine under test?
@@ -122,6 +128,11 @@ Picks<a name="picks"></a>
 
 * [The Game of Thrones board game](http://www.amazon.com/Game-Thrones-The-Board-Second-Edition/dp/1589947207#)
 * Cold Brew Coffee.
+
+#### Jonathan
+* [The Wirecutter](http://thewirecutter.com)
+* [CircleCI](https://circleci.com)
+* [Tom Duffield's Chef-Container Talk](https://www.youtube.com/watch?v=S_-U949pcUA)
 
 #### Joshua
 
