@@ -15,7 +15,7 @@ categories:
   - testing
 ---
 
-Join the conversation in #foodfightshow on freenode IRC, too.
+Join our panelists as we discuss Test Kitchen!
 
 ## Watch Now
 
@@ -33,7 +33,7 @@ Panel<a name="panel"></a>
 -----
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * JJ Asghar [github](https://github.com/jjasghar), [twitter](http://twitter.com/jjasghar), [blog](http://jjasghar.github.io), irc: j^2
-* Jonathan Hartman [github](http://github.com/roboticcheese), [twitter](http://twitter.com/roboticcheese), irc: roboticcheese
+* Jonathan Hartman [github](http://github.com/roboticcheese), [twitter](http://twitter.com/roboticcheese), irc: roboticcheese - Jon was able to join us almost long enough to introduce himself ;(
 * Joshua Timberman [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Salim Afiune [github](http://github.com/afiune), [twitter](https://twitter.com/afiune)
@@ -49,7 +49,7 @@ Outline<a name="outline"></a>
 * [Chef Community Summit](http://getchef.com/summit) - October 2 & 3 - FOODFIGHT saves 10%
 * [Chef Community Summit London](http://getchef.com/summit-london) - October 15 & 16  - FOODFIGHT saves 10%
 
-* [DevOpsDays Chicago](http://devopsdays.org/events/2014-chicago/) - October 7 & 8 - The Food Fight Show is a Media Sponsor and today is the last day for early bird registration!
+* [DevOpsDays Chicago](http://devopsdays.org/events/2014-chicago/) - October 7 & 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!
 
 * [VMWorld](http://www.getchef.com/blog/event/vmworld-san-francisco-ca/) - August 24 - 28
 * [Chef and Azure Webinar](http://www.getchef.com/blog/event/webinar-chef-azure-awesome-episode-2-windows-server-automation/) - August 27
@@ -68,8 +68,8 @@ Outline<a name="outline"></a>
   * [New York City](http://devopsdays.org/events/2014-newyork/) - September 19
   * [Warsaw](http://devopsdays.org/events/2014-warsaw/) - September 25 & 26
   * [Tel Aviv](http://devopsdays.org/events/2014-telaviv/) - September 29 & 30
-  * [Berlin](http://devopsdays.org/events/2014-berlin/) - October 23 & 24 - **Five year anniversary**
-  * [Belgium](http://devopsdays.org/events/2014-belgium/) - October 27 & 28
+  * [Berlin](http://devopsdays.org/events/2014-berlin/) - October 23 & 24
+  * [Belgium](http://devopsdays.org/events/2014-belgium/) - October 27 & 28 - **Five year anniversary**
   * [Vancouver](http://devopsdays.org/events/2014-vancouver/) - November 14 & 15
 
 #### Upcoming Chef Training
@@ -103,30 +103,27 @@ Here's a brief outline of some of the things we'd like to discuss.  [Add your id
     * platforms
     * suites
     * bussers; and the magic behind them
-* [KitchenCI Repositories on GitHub](https://github.com/test-kitchen)
-* How are [Berkshelf](http://berkshelf.com/) and Test Kitchen related?
 * How are the [Chef Development Kit](http://downloads.getchef.com/chef-dk/) and Test Kitchen related?
-* Does Test Kitchen help run pre-convergance tests like linting an unit testing?
 * Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
-* How to test (encrypted) databags / secrets with test-kitchen? Best practices?
-* How to automate testing Travis-CI: Steps to integrate testing via AWS / DO?
 * Does TK have any support for evaluating idempotence and/or run performance?
-* Does TK have any support for evaluating idempotence and/or run performance?
-* What does the future hold for Test Kitchen?
+  * [Testing Idempotence for Infrastructure as Code](http://dsg.tuwien.ac.at/staff/hummer/slides/toaster/#/)
 * Test Kitchen & Windows Guest? Uhmmm is that possible?
 * How do bussers work? Are they run from the host machine or on the machine under test?
-* Any recommendations on how to get started writing a busser (for someone new to the project)?
-
 
 Picks<a name="picks"></a>
 -----
 
 #### Fletcher
 
+* [ChefSpec](http://sethvargo.github.io/chefspec/)
+* The Goal, especially the [audio book version](http://www.audible.com/pd/Business/The-Goal-Audiobook/B00IFG88SM)
+* Walking (the exercise, you know, get up from your desk)
+
 #### JJ
 
+* [Sean O'Meara:  Cookbook Unit and Acceptance Testing](http://vimeo.com/98938732)
 * [The Game of Thrones board game](http://www.amazon.com/Game-Thrones-The-Board-Second-Edition/dp/1589947207#)
-* Cold Brew Coffee.
+* Cold Brew Coffee
 
 #### Jonathan
 
@@ -136,19 +133,29 @@ Picks<a name="picks"></a>
 
 #### Joshua
 
+* [RFC - Homebrew As OS X Default Package Provider](https://github.com/opscode/chef-rfc/issues/28)
+* [Chef Issue - Homebrew As OS X Default Package Provider](https://github.com/opscode/chef/issues/1709)
+* [Homebrew Cask](http://caskroom.io/)
+* [The Complete Joy of Homebrewing](http://www.amazon.com/The-Complete-Homebrewing-Third-Edition/dp/0060531053)
+* Chef reporting API and the [knife-reporting gem](http://rubygems.org/gems/knife-reporting)
+
 #### Salim
 
 * [Moonwalking with Einstein](http://joshuafoer.com/moonwalking-with-einstein/)
 
 #### Scott
 
+* [Little sumpin' from Lagunitas](http://lagunitas.com/beers/little-sumpin-sumpin/)
+
 #### Mike
+
+* [Blue Apron](http://www.blueapron.com/)
 
 #### Nathen
 
 * [Chef Developers' IRC Meetings](http://github.com/opscode/chef-community-irc-meetings)
-* Not being an asshole on social media or anywhere else, for that matter.
-* Taking a proper vacation
+* Taking a proper vacation:  leave your phone and computer at home.
+* Not being an [asshole](http://www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202) on social media or anywhere else, for that matter.
 
 Download
 --------
