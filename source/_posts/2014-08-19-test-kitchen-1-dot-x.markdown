@@ -25,7 +25,7 @@ Join our panelists as we discuss Test Kitchen!
 * [Outline](http://foodfightshow.org/2014/08/test-kitchen.html#outline)
 * [Picks](http://foodfightshow.org/2014/08/test-kitchen.html#picks)
 * Download
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow77-Test_Kitchen.mp3)
   * [Video](http://youtu.be/5YnqVzESGR4)
 
 
@@ -160,7 +160,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow77-Test_Kitchen.mp3)
 * [Video](http://youtu.be/5YnqVzESGR4)
 
 <hr />
