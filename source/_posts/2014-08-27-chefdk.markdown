@@ -32,6 +32,9 @@ Panel<a name="panel"></a>
 * Serdar Sutay - [github](https://github.com/sersut), [twitter](https://twitter.com/serdarsutay)
 * Nathen Harvey - [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+[Add your ideas to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode78-chefdk.md).
+
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------
