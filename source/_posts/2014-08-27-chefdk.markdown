@@ -1,0 +1,143 @@
+---
+layout: post
+title: "ChefDK"
+date: 2014-08-27 12:10
+comments: true
+categories:
+  - chefdk
+  - chefdk
+  - chefspec
+  - berkshelf
+  - foodcritic
+  - chef-cli
+  - kallistec
+  - serdarsutay
+---
+
+Join our panelists as we discuss [ChefDK](https://github.com/opscode/chef-dk)!
+
+This episode will be broadcast on [Thursday, August 28 at 1630 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&iso=20140828T1230&p1=419&ah=1).  
+
+* [Panel](http://foodfightshow.org/2014/08/chefdk.html#panel)
+* [Outline](http://foodfightshow.org/2014/08/chefdk.html#outline)
+* [Picks](http://foodfightshow.org/2014/08/chefdk.html#picks)
+* Download
+  * Video - Coming soon - broadcasting on [Thursday, August 28 at 1630 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&iso=20140828T1230&p1=419&ah=1)
+  * Audio - Coming soon
+
+
+Panel<a name="panel"></a>
+-----
+* Daniel DeLeo - [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
+* Serdar Sutay - [github](https://github.com/sersut), [twitter](https://twitter.com/serdarsutay)
+* Nathen Harvey - [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+
+Outline<a name="outline"></a>
+-------
+
+### Chef News
+
+#### Upcoming Events
+* [Chef Community Summit](http://getchef.com/summit) - October 2 & 3 - FOODFIGHT saves 10%
+* [Chef Community Summit London](http://getchef.com/summit-london) - October 15 & 16  - FOODFIGHT saves 10%
+
+* [DevOpsDays Chicago](http://devopsdays.org/events/2014-chicago/) - October 7 & 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!
+
+* [FlowCon](http://www.getchef.com/blog/event/flowcon-san-francisco-ca/) - September 3 & 4
+* [Managing Containers with Chef - Webinar](http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/) - September 10
+* [Fossetcon](http://fossetcon.org/2014/) - September 11 - 13
+* [Velocity New York](http://www.getchef.com/blog/event/velocity-new-york/) - September 15-17
+* [PowerShell DSC at Chef-NYC Meetup](http://www.meetup.com/Chef-NYC/events/197048342/) - September 17
+* [Chef Analytics Webinar](http://www.getchef.com/blog/event/webinar-chef-analytics/) - September 17
+* [Beyond the Code](http://beyondthecode.io/) - September 19 in Ottawa Canada
+* [PowerShell Summit EU](http://powershell.org/wp/community-events/summit/) - September 29 through October 1 in Amsterdam, The Netherlands
+
+
+* DevOpsDays
+  * [Toronto](http://devopsdays.org/events/2014-toronto/) - September 12 & 13
+  * [New York City](http://devopsdays.org/events/2014-newyork/) - September 19
+  * [Warsaw](http://devopsdays.org/events/2014-warsaw/) - September 25 & 26
+  * [Tel Aviv](http://devopsdays.org/events/2014-telaviv/) - September 29 & 30
+  * [Berlin](http://devopsdays.org/events/2014-berlin/) - October 23 & 24
+  * [Belgium](http://devopsdays.org/events/2014-belgium/) - October 27 & 28 - **Five year anniversary**
+  * [Vancouver](http://devopsdays.org/events/2014-vancouver/) - November 14 & 15
+
+#### Upcoming Chef Training
+
+Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in
+
+* [Austin](http://www.getchef.com/blog/events/category/training-events/)
+* [Bangalore](http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/)
+* [Chennai](http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/)
+* [Denver](http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/)
+* [Phoenix](http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/)
+* [Raleigh](http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/)
+* [San Francisco](http://www.getchef.com/blog/events/category/training-events/)
+* [Seattle](http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/)
+
+There are also a number of classes being offered [online](http://www.getchef.com/blog/events/category/training-events/).
+
+### Show Notes
+
+Here's a brief outline of some of the things we'd like to discuss.  [Add your ideas to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode78-chefdk.md).
+
+* Intro to ChefDK
+  * The [Chef Development Kit (ChefDK)](http://downloads.getchef.com/ChefDK/)
+  * What's in the box?
+    * [Berkshelf 3.0](http://berkshelf.com/)
+    * [Test Kitchen](http://kitchen.ci/)
+    * [ChefSpec](https://github.com/sethvargo/chefspec)
+    * [Foodcritic](http://acrmp.github.io/foodcritic/)
+    * All the Chef tools you'd usually install on a workstation:  knife, ohai, chef-client, chef-zero
+    * New command-line tool called [chef](http://docs.getchef.com/ctl_chef.html)
+  * Supported operating systems?
+
+* Using ChefDK
+  * Do I have to use all the tools that come with ChefDK?
+  * Using the `chef` command
+    * `verify`
+    * Maybe touch on `exec`, `gem`, and `shell-init`
+    * `generate`
+      * `coobkook`
+      * `recipe`
+      * `attribute`
+      * `template`
+      * `file`
+      * `lwrp`
+      * `app`
+  * Generators
+    * what does each generator create?
+    * how do they work?
+    * how do I create my own?
+
+* Future of ChefDK
+  * [`Policyfile.rb`](https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md) - let's review this file!  It's where the future magic lies!
+  * How do I contribute ideas, code, etc?
+
+* Questions for the panelists:
+  * should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?
+  * Is ChefDK ready for me to start using today?  What edges am I likely to find?
+  * Should I consider migrating my knife plugin to a chef plugin?
+
+Picks<a name="picks"></a>
+-----
+
+#### Dan
+
+#### Serdar
+
+#### Nathen
+
+Download
+--------
+* Video - Coming soon - broadcasting on [Thursday, August 28 at 1630 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&iso=20140828T1230&p1=419&ah=1)
+* Audio - Coming soon
+
+<hr />
+
+The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.getchef.com).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
