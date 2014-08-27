@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-22T21:25:45-04:00</updated>
+  <updated>2014-08-27T12:19:08-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,190 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ChefDK]]></title>
+    <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
+    <updated>2014-08-27T12:10:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/08/chefdk</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
+
+<p>This episode will be broadcast on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - Coming soon - broadcasting on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="http://getchef.com/summit">Chef Community Summit</a> - October 2 &amp; 3 - FOODFIGHT saves 10%</li>
+<li><p><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</p></li>
+<li><p><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a> - October 7 &amp; 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!</p></li>
+<li><p><a href="http://www.getchef.com/blog/event/flowcon-san-francisco-ca/">FlowCon</a> - September 3 &amp; 4</p></li>
+<li><a href="http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/">Managing Containers with Chef - Webinar</a> - September 10</li>
+<li><a href="http://fossetcon.org/2014/">Fossetcon</a> - September 11 - 13</li>
+<li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
+<li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
+<li><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</li>
+<li><p><a href="http://powershell.org/wp/community-events/summit/">PowerShell Summit EU</a> - September 29 through October 1 in Amsterdam, The Netherlands</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-toronto/">Toronto</a> - September 12 &amp; 13</li>
+<li><a href="http://devopsdays.org/events/2014-newyork/">New York City</a> - September 19</li>
+<li><a href="http://devopsdays.org/events/2014-warsaw/">Warsaw</a> - September 25 &amp; 26</li>
+<li><a href="http://devopsdays.org/events/2014-telaviv/">Tel Aviv</a> - September 29 &amp; 30</li>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that&#8217;s being held in</p>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Austin</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/">Bangalore</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/">Chennai</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/">Denver</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/">Raleigh</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/">Seattle</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Here&#8217;s a brief outline of some of the things we&#8217;d like to discuss.  <a href="https://github.com/foodfight/showz/blob/master/scripts/episode78-chefdk.md">Add your ideas to the show notes</a>.</p>
+
+<ul>
+<li><p>Intro to ChefDK</p>
+
+<ul>
+<li>The <a href="http://downloads.getchef.com/ChefDK/">Chef Development Kit (ChefDK)</a></li>
+<li>What&#8217;s in the box?
+
+<ul>
+<li><a href="http://berkshelf.com/">Berkshelf 3.0</a></li>
+<li><a href="http://kitchen.ci/">Test Kitchen</a></li>
+<li><a href="https://github.com/sethvargo/chefspec">ChefSpec</a></li>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+<li>All the Chef tools you&#8217;d usually install on a workstation:  knife, ohai, chef-client, chef-zero</li>
+<li>New command-line tool called <a href="http://docs.getchef.com/ctl_chef.html">chef</a></li>
+</ul>
+</li>
+<li>Supported operating systems?</li>
+</ul>
+</li>
+<li><p>Using ChefDK</p>
+
+<ul>
+<li>Do I have to use all the tools that come with ChefDK?</li>
+<li>Using the <code>chef</code> command
+
+<ul>
+<li><code>verify</code></li>
+<li>Maybe touch on <code>exec</code>, <code>gem</code>, and <code>shell-init</code></li>
+<li><code>generate</code>
+
+<ul>
+<li><code>coobkook</code></li>
+<li><code>recipe</code></li>
+<li><code>attribute</code></li>
+<li><code>template</code></li>
+<li><code>file</code></li>
+<li><code>lwrp</code></li>
+<li><code>app</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Generators
+
+<ul>
+<li>what does each generator create?</li>
+<li>how do they work?</li>
+<li>how do I create my own?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Future of ChefDK</p>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md"><code>Policyfile.rb</code></a> - let&#8217;s review this file!  It&#8217;s where the future magic lies!</li>
+<li>How do I contribute ideas, code, etc?</li>
+</ul>
+</li>
+<li><p>Questions for the panelists:</p>
+
+<ul>
+<li>should the CI server use ChefDK or should the cookbook&#8217;s Gemfile specify the version of testing tools?</li>
+<li>Is ChefDK ready for me to start using today?  What edges am I likely to find?</li>
+<li>Should I consider migrating my knife plugin to a chef plugin?</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Dan</h4>
+
+<h4>Serdar</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - Coming soon - broadcasting on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
@@ -2756,175 +2940,6 @@
 <p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
 
 <p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Immutable Infrastructure]]></title>
-    <link href="http://foodfightshow.org//2013/07/immutable-infrastructure.html"/>
-    <updated>2013-07-22T10:20:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/07/immutable-infrastructure</id>
-    <content type="html"><![CDATA[<p>Show Date:  July 22, 2013</p>
-
-<p>Join us as we discuss <a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Immutable Infrastructure</a> with <a href="https://twitter.com/chadfowler">Chad Fowler</a>.</p>
-
-<p>This episode was inspired by Chad&#8217;s recent blog post on <a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Immutable Infrastructure</a>.  For some additional thoughts on the subject, check-out Mike Fiedler&#8217;s #ChefConf talk:  <a href="http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/">Treating Your Infrastructure Like Garbage</a>.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/G92dPaluEwo" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#news">Chef News</a></li>
-<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3">Audio</a></li>
-<li><a href="http://youtu.be/G92dPaluEwo">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Chad Fowler <a href="https://twitter.com/chadfowler">twitter</a>, <a href="https://github.com/chad">github</a>, <a href="http://chadfowler.com/">blog</a></li>
-<li>Craig Tracey <a href="https://twitter.com/craig_tracey">twitter</a>, <a href="https://github.com/craigtracey">github</a>, <a href="http://www.scalehorizontally.com/">blog</a></li>
-<li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Chef News<a name="news"></a></h2>
-
-<ul>
-<li><p><a href="http://chrislaco.com/devops-toolbox/introduction/">DevOps Toolbox: Introduction</a> - a series of blog posts from <a href="https://twitter.com/claco">Christopher Laco</a> that walks through many tools used with Chef.  The series starts with installing pre-requisites like XCode, Ruby, and VirtualBox.  Throughout the series, you&#8217;ll learn about Veewee, Vagrant, Chef Solo, Hosted Chef, and more!</p></li>
-<li><p><a href="http://gusteau.gs/">Gusteau</a> - a tasteful Chef Solo wrapper and configuration manager.  This is a gem that aims to provide chef solo users with a more efficent workflow.  It looks like an abstraction on top of Vagrant, Berkshelf, and Chef that makes it easier to get started with these various tools.</p></li>
-<li><p><a href="https://github.com/portertech/kitchen-docker">kitchen-docker</a></p></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Chef News</li>
-<li>Introductions</li>
-<li><a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Chad Fowler: Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components</a></li>
-<li>Article Summary</li>
-<li>Changing Servers (Process)</li>
-<li>Repackaging AMIs</li>
-<li>Garbage Collection</li>
-<li>Autoscaling</li>
-<li>Servers</li>
-<li><a href="http://aws.amazon.com/rds/">Amazon RDS</a></li>
-<li><a href="https://github.com/apache/cassandra">cassandra</a></li>
-<li><a href="https://github.com/apache/zookeeper">zookeeper</a></li>
-<li><a href="http://basho.com/riak/">Riak</a></li>
-<li>Classes of Servers</li>
-<li>RDS Performance</li>
-<li>Making Changes on the Server</li>
-<li>Termination Protection</li>
-<li><a href="http://www.6wunderkinder.com/wunderlist-pro">6Wunderkinder: Wunderlist</a></li>
-<li>Golden Image System</li>
-<li>Pulling from Code Repos</li>
-<li>AMI vs Configuration Management</li>
-<li>Rebuilding AMIS</li>
-<li>Optimization</li>
-<li>Immutable Properties</li>
-<li>Handling Infrastructure Emergencies</li>
-<li><a href="http://en.wikipedia.org/wiki/Homeostasis">Homeostasis</a></li>
-<li>Keeping Log Files</li>
-<li><a href="https://github.com/portertech/kitchen-docker">kitchen-docker</a></li>
-<li>Log Rotation</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="http://www.reddit.com/r/AskHistorians">AskHistorians Reddit</a></li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=ulBHarnnf3Y">Revolution in Storage - RICON East 2013</a></li>
-<li><a href="http://www.youtube.com/watch?v=FWM3bQ43WzE">Services Platform: Experiments in OTP-Compliant Dataflow Programming</a></li>
-</ul>
-
-
-<h4>Chad</h4>
-
-<ul>
-<li>#shitfire on Freenode IRC</li>
-</ul>
-
-
-<h4>Craig</h4>
-
-<ul>
-<li>Openstack bare metal provider with cloud init</li>
-<li>Opscode&#8217;s <a href="https://github.com/opscode/omnibus-software">Omnibus project</a></li>
-</ul>
-
-
-<h4>Fletcher</h4>
-
-<ul>
-<li>Mike&#8217;s <a href="http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/">#ChefConf talk</a></li>
-<li><a href="http://pragprog.com/book/cfcar2/the-passionate-programmer">The Passionate Programmer</a></li>
-<li>Alice in Chains latest album - <a href="http://www.rdio.com/artist/Alice_In_Chains/album/The_Devil_Put_Dinosaurs_Here/">The Devil Put Dinosaurs Here</a></li>
-</ul>
-
-
-<h4>Mike</h4>
-
-<ul>
-<li><a href="http://www.codeschool.com">code school</a></li>
-<li><a href="https://codeclimate.com/">Code Climate</a></li>
-<li><a href="http://sprout-talk.cfapps.io/">Sprout</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li>Vacation!</li>
-<li><a href="http://www.youtube.com/watch?v=aeEFMvPPx2U">Flight Carrier Landing Practice</a></li>
-<li>Ship Show Podcast with Sandi Metz - <a href="http://theshipshow.com/2013/07/practical-object-oo-and-cat-design-with-sandi-metz/">Practical Object OO (and Cat!) Design with Sandi Metz!</a></li>
-</ul>
-
-
-<h4>Ranjib</h4>
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Chomsky_hierarchy">Chomsky hierarchy</a></li>
-<li><a href="http://www.chimay.com/en/chimay-bleue.html?IDD=130&amp;IDC=287">Chimay Blue Cap</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3">Audio</a></li>
-<li><a href="http://youtu.be/G92dPaluEwo">Video</a></li>
-</ul>
-
 ]]></content>
   </entry>
   

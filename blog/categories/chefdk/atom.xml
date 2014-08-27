@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chefdk | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chefdk/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-22T21:25:45-04:00</updated>
+  <updated>2014-08-27T12:19:08-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,374 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ChefDK]]></title>
+    <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
+    <updated>2014-08-27T12:10:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/08/chefdk</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
+
+<p>This episode will be broadcast on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - Coming soon - broadcasting on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="http://getchef.com/summit">Chef Community Summit</a> - October 2 &amp; 3 - FOODFIGHT saves 10%</li>
+<li><p><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</p></li>
+<li><p><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a> - October 7 &amp; 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!</p></li>
+<li><p><a href="http://www.getchef.com/blog/event/flowcon-san-francisco-ca/">FlowCon</a> - September 3 &amp; 4</p></li>
+<li><a href="http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/">Managing Containers with Chef - Webinar</a> - September 10</li>
+<li><a href="http://fossetcon.org/2014/">Fossetcon</a> - September 11 - 13</li>
+<li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
+<li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
+<li><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</li>
+<li><p><a href="http://powershell.org/wp/community-events/summit/">PowerShell Summit EU</a> - September 29 through October 1 in Amsterdam, The Netherlands</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-toronto/">Toronto</a> - September 12 &amp; 13</li>
+<li><a href="http://devopsdays.org/events/2014-newyork/">New York City</a> - September 19</li>
+<li><a href="http://devopsdays.org/events/2014-warsaw/">Warsaw</a> - September 25 &amp; 26</li>
+<li><a href="http://devopsdays.org/events/2014-telaviv/">Tel Aviv</a> - September 29 &amp; 30</li>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Austin</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/">Bangalore</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/">Chennai</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/">Denver</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/">Raleigh</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/">Seattle</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Here's a brief outline of some of the things we'd like to discuss.  <a href="https://github.com/foodfight/showz/blob/master/scripts/episode78-chefdk.md">Add your ideas to the show notes</a>.</p>
+
+<ul>
+<li><p>Intro to ChefDK</p>
+
+<ul>
+<li>The <a href="http://downloads.getchef.com/ChefDK/">Chef Development Kit (ChefDK)</a></li>
+<li>What's in the box?
+
+<ul>
+<li><a href="http://berkshelf.com/">Berkshelf 3.0</a></li>
+<li><a href="http://kitchen.ci/">Test Kitchen</a></li>
+<li><a href="https://github.com/sethvargo/chefspec">ChefSpec</a></li>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+<li>All the Chef tools you'd usually install on a workstation:  knife, ohai, chef-client, chef-zero</li>
+<li>New command-line tool called <a href="http://docs.getchef.com/ctl_chef.html">chef</a></li>
+</ul>
+</li>
+<li>Supported operating systems?</li>
+</ul>
+</li>
+<li><p>Using ChefDK</p>
+
+<ul>
+<li>Do I have to use all the tools that come with ChefDK?</li>
+<li>Using the <code>chef</code> command
+
+<ul>
+<li><code>verify</code></li>
+<li>Maybe touch on <code>exec</code>, <code>gem</code>, and <code>shell-init</code></li>
+<li><code>generate</code>
+
+<ul>
+<li><code>coobkook</code></li>
+<li><code>recipe</code></li>
+<li><code>attribute</code></li>
+<li><code>template</code></li>
+<li><code>file</code></li>
+<li><code>lwrp</code></li>
+<li><code>app</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Generators
+
+<ul>
+<li>what does each generator create?</li>
+<li>how do they work?</li>
+<li>how do I create my own?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Future of ChefDK</p>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md"><code>Policyfile.rb</code></a> - let's review this file!  It's where the future magic lies!</li>
+<li>How do I contribute ideas, code, etc?</li>
+</ul>
+</li>
+<li><p>Questions for the panelists:</p>
+
+<ul>
+<li>should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?</li>
+<li>Is ChefDK ready for me to start using today?  What edges am I likely to find?</li>
+<li>Should I consider migrating my knife plugin to a chef plugin?</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Dan</h4>
+
+<h4>Serdar</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - Coming soon - broadcasting on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ChefDK]]></title>
+    <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
+    <updated>2014-08-27T12:10:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/08/chefdk</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
+
+<p>This episode will be broadcast on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - Coming soon - broadcasting on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="http://getchef.com/summit">Chef Community Summit</a> - October 2 &amp; 3 - FOODFIGHT saves 10%</li>
+<li><p><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</p></li>
+<li><p><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a> - October 7 &amp; 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!</p></li>
+<li><p><a href="http://www.getchef.com/blog/event/flowcon-san-francisco-ca/">FlowCon</a> - September 3 &amp; 4</p></li>
+<li><a href="http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/">Managing Containers with Chef - Webinar</a> - September 10</li>
+<li><a href="http://fossetcon.org/2014/">Fossetcon</a> - September 11 - 13</li>
+<li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
+<li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
+<li><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</li>
+<li><p><a href="http://powershell.org/wp/community-events/summit/">PowerShell Summit EU</a> - September 29 through October 1 in Amsterdam, The Netherlands</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-toronto/">Toronto</a> - September 12 &amp; 13</li>
+<li><a href="http://devopsdays.org/events/2014-newyork/">New York City</a> - September 19</li>
+<li><a href="http://devopsdays.org/events/2014-warsaw/">Warsaw</a> - September 25 &amp; 26</li>
+<li><a href="http://devopsdays.org/events/2014-telaviv/">Tel Aviv</a> - September 29 &amp; 30</li>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Austin</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/">Bangalore</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/">Chennai</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/">Denver</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/">Raleigh</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/">Seattle</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Here's a brief outline of some of the things we'd like to discuss.  <a href="https://github.com/foodfight/showz/blob/master/scripts/episode78-chefdk.md">Add your ideas to the show notes</a>.</p>
+
+<ul>
+<li><p>Intro to ChefDK</p>
+
+<ul>
+<li>The <a href="http://downloads.getchef.com/ChefDK/">Chef Development Kit (ChefDK)</a></li>
+<li>What's in the box?
+
+<ul>
+<li><a href="http://berkshelf.com/">Berkshelf 3.0</a></li>
+<li><a href="http://kitchen.ci/">Test Kitchen</a></li>
+<li><a href="https://github.com/sethvargo/chefspec">ChefSpec</a></li>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+<li>All the Chef tools you'd usually install on a workstation:  knife, ohai, chef-client, chef-zero</li>
+<li>New command-line tool called <a href="http://docs.getchef.com/ctl_chef.html">chef</a></li>
+</ul>
+</li>
+<li>Supported operating systems?</li>
+</ul>
+</li>
+<li><p>Using ChefDK</p>
+
+<ul>
+<li>Do I have to use all the tools that come with ChefDK?</li>
+<li>Using the <code>chef</code> command
+
+<ul>
+<li><code>verify</code></li>
+<li>Maybe touch on <code>exec</code>, <code>gem</code>, and <code>shell-init</code></li>
+<li><code>generate</code>
+
+<ul>
+<li><code>coobkook</code></li>
+<li><code>recipe</code></li>
+<li><code>attribute</code></li>
+<li><code>template</code></li>
+<li><code>file</code></li>
+<li><code>lwrp</code></li>
+<li><code>app</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Generators
+
+<ul>
+<li>what does each generator create?</li>
+<li>how do they work?</li>
+<li>how do I create my own?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Future of ChefDK</p>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md"><code>Policyfile.rb</code></a> - let's review this file!  It's where the future magic lies!</li>
+<li>How do I contribute ideas, code, etc?</li>
+</ul>
+</li>
+<li><p>Questions for the panelists:</p>
+
+<ul>
+<li>should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?</li>
+<li>Is ChefDK ready for me to start using today?  What edges am I likely to find?</li>
+<li>Should I consider migrating my knife plugin to a chef plugin?</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Dan</h4>
+
+<h4>Serdar</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - Coming soon - broadcasting on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a></li>
+<li>Audio - Coming soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
