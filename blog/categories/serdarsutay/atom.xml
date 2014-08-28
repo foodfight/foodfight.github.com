@@ -4,7 +4,7 @@
   <title><![CDATA[Category: serdarsutay | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/serdarsutay/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-27T12:24:50-04:00</updated>
+  <updated>2014-08-28T12:26:24-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,12 @@
     <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
     <updated>2014-08-27T12:10:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/chefdk</id>
-    <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!  You can also join the discussion in #foodfightshow on freenode irc.</p>
 
-<p>This episode will be broadcast on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a>.</p>
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Mm2lsAwd7yA" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://foodfightshow.org/2014/08/chefdk.html#panel">Panel</a></li>
@@ -29,7 +32,7 @@
 <li>Download
 
 <ul>
-<li>Video - Coming soon - broadcasting on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefDK&amp;iso=20140828T1230&amp;p1=419&amp;ah=1">Thursday, August 28 at 1630 UTC</a></li>
+<li><a href="http://youtu.be/Mm2lsAwd7yA">Video</a></li>
 <li>Audio - Coming soon</li>
 </ul>
 </li>
@@ -40,7 +43,12 @@
 
 <ul>
 <li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>John Deatherage - <a href="https://github.com/RouteLastResort">github</a>, <a href="https://twitter.com/RouteLastResort">twitter</a></li>
 <li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Tara Hernandez - <a href="https://twitter.com/tequilarista">twitter</a></li>
+<li>Jonathan Hartman <a href="http://github.com/roboticcheese">github</a>, <a href="http://twitter.com/roboticcheese">twitter</a>, irc: roboticcheese</li>
+<li>Jason Reslock - <a href="https://github.com/jreslock">github</a>, <a href="https://twitter.com/jreslock">twitter</a></li>
+<li>Joshua Timberman - <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
 <li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
 
@@ -170,6 +178,8 @@
 <li>should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?</li>
 <li>Is ChefDK ready for me to start using today?  What edges am I likely to find?</li>
 <li>Should I consider migrating my knife plugin to a chef plugin?</li>
+<li>When can I recommend ChefDK to Windows engineers?</li>
+<li>Is there any way to configure ChefDK, like <a href="https://github.com/opscode/chef-dk/blob/02fd3ff8715da5583907e135187ff9d52efab2f6/lib/chef-dk/command/generator_commands.rb#L36-L61">generator cookbook path</a></li>
 </ul>
 </li>
 </ul>
@@ -179,9 +189,17 @@
 
 <h4>Dan</h4>
 
+<h4>John</h4>
+
 <h4>Serdar</h4>
 
 <h4>Nathen</h4>
+
+<ul>
+<li>#feedsteven - What are your favorite Food Fight Show episodes?</li>
+<li>Seth Vargo</li>
+</ul>
+
 
 <h2>Download</h2>
 
