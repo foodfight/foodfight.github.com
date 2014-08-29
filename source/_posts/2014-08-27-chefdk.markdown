@@ -14,7 +14,7 @@ categories:
   - serdarsutay
 ---
 
-Join our panelists as we discuss [ChefDK](https://github.com/opscode/chef-dk)!  You can also join the discussion in #foodfightshow on freenode irc.
+Join our panelists as we discuss [ChefDK](https://github.com/opscode/chef-dk)!
 
 Watch Now
 ---------
