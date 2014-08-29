@@ -34,6 +34,7 @@ Panel<a name="panel"></a>
 * Daniel DeLeo - [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * Jason Reslock - [github](https://github.com/jreslock), [twitter](https://twitter.com/jreslock)
 * John Deatherage - [github](https://github.com/RouteLastResort), [twitter](https://twitter.com/RouteLastResort)
+* Jon Cowie [github](https://github.com/jonlives), [twitter](https://twitter.com/jonlives), [blog](http://jonliv.es/)
 * Serdar Sutay - [github](https://github.com/sersut), [twitter](https://twitter.com/serdarsutay)
 * Tara Hernandez - [github](https://github.com/tarahernandez, )[twitter](https://twitter.com/tequilarista), irc:  tequilarista
 * Joshua Timberman - [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
@@ -87,7 +88,7 @@ There are also a number of classes being offered [online](http://www.getchef.com
 
 ### Show Notes
 
-Here's a brief outline of some of the things we'd like to discuss.
+Here's a brief outline of some of the things we discussed:
 
 * Intro to ChefDK
   * The [Chef Development Kit (ChefDK)](http://downloads.getchef.com/chef-dk/)
@@ -98,49 +99,45 @@ Here's a brief outline of some of the things we'd like to discuss.
     * [Foodcritic](http://acrmp.github.io/foodcritic/)
     * All the Chef tools you'd usually install on a workstation:  knife, ohai, chef-client, chef-zero
     * New command-line tool called [chef](http://docs.getchef.com/ctl_chef.html)
-  * Supported operating systems - As of version 0.2.1 the following Operating Systems are supported
-    * Mac OS X 10.8, 10.9
-    * Windows 7, 8, 8.1 & Server 2008 R2, 2012, 2012 R2
-    * Ubuntu Linux 12.04, 13.10
-    * Red Hat Enterprise Linux 6
-
+* Working with Ruby Gemfiles
+    * Simplifying the tool chain
+* Why is it called "Chef"?
+* What does typing Chef actually do?
 * Using ChefDK
   * Using the `chef` command
     * `verify`
     * Some glue commands - `exec`, `gem`, and `shell-init`
-    * `generate`
-      * `coobkook`
-      * `recipe`
-      * `attribute`
-      * `template`
-      * `file`
-      * `lwrp`
-      * `app`
-  * Generators
-    * what does each generator create?
-    * how do they work?
-    * how do I create my own?
-
-* Future of ChefDK
+* Chef for Beginners and New Users
+* The Chef Generate Command
+  * What does it do?
+  * How does it work?
+  * `generate`
+    * `coobkook`
+    * `recipe`
+    * `attribute`
+    * `template`
+    * `file`
+    * `lwrp`
+    * `app`
+* The Future of ChefDK
+  * Implementing a Test Command in ChefDK
   * [Policyfile.rb](https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md)
-* Chef Docs Repo: [https://github.com/opscode/chef-docs](https://github.com/opscode/chef-docs)
-* Questions for the panelists:
-  * should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?
-  * Is ChefDK ready for me to start using today?  What edges am I likely to find?
-  * Should I consider migrating my knife plugin to a chef plugin?
-  * When can I recommend ChefDK to Windows engineers?
-  * Is there any way to configure ChefDK, like [generator cookbook path](https://github.com/opscode/chef-dk/blob/02fd3ff8715da5583907e135187ff9d52efab2f6/lib/chef-dk/command/generator_commands.rb#L36-L61)
-
-* Commands to install ChefDK from command line:
-  * Install latest released version - `curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk`
-  * Install nightly build - `curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n`
-
+  * Release Cycle, Upgrade Paths, etc. Expectancy
+  * ChefDK and Windows/Cross Platform Compatability
+    * Chef Docs Repo: [https://github.com/opscode/chef-docs](https://github.com/opscode/chef-docs)
+* Supported operating systems - As of version 0.2.1 the following Operating Systems are supported:
+    * Mac OS X 10.8, 10.9
+    * Windows 7, 8, 8.1 & Server 2008 R2, 2012, 2012 R2
+    * Ubuntu Linux 12.04, 13.10
+    * Red Hat Enterprise Linux 6
+* Upcoming: The Policy File
 
 Picks<a name="picks"></a>
 -----
 
 * Daniel DeLeo - [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * Jason Reslock - [github](https://github.com/jreslock), [twitter](https://twitter.com/jreslock)
+* Jon Cowie [github](https://github.com/jonlives), [twitter](https://twitter.com/jonlives), [blog](http://jonliv.es/)
 * John Deatherage - [github](https://github.com/RouteLastResort), [twitter](https://twitter.com/RouteLastResort)
 * Serdar Sutay - [github](https://github.com/sersut), [twitter](https://twitter.com/serdarsutay)
 * Tara Hernandez - [twitter](https://twitter.com/tequilarista)
@@ -156,11 +153,24 @@ Picks<a name="picks"></a>
 #### Jason
 
 * [Test Driven Infrastructure with Chef](http://shop.oreilly.com/product/0636920030973.do)
-* [Exercism](http://exercism.io/)
+* [Exercism.io](http://exercism.io/)
 
-#### John
+#### Jon
+
+* [Seth Vargo's cleanroom gem](https://github.com/sethvargo/cleanroom)
+* [Customizing Chef by Jon Cowie](http://www.amazon.com/Customizing-Chef-Jon-Cowie/dp/149194935X/ref=sr_1_1?ie=UTF8&qid=1409348329&sr=8-1&keywords=Customizing+Chef)
+
+#### Jonathan 
+
+* [Duren](?)
+* [vagrantcloud.com/juniper](http://www.vagrantcloud.com/juniper)
 
 #### Serdar
+
+* [The New Version of ChefDK](http://downloads.getchef.com/chef-dk/)
+* Commands to install ChefDK from command line:
+  * Install latest released version - `curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk`
+  * Install nightly build - `curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n`
 
 #### Tara
 
@@ -171,7 +181,7 @@ Picks<a name="picks"></a>
 * [ChefDK and Ruby](http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/)
 * [Tim Sutton's OS X templates for Packer and VeeWee](https://github.com/timsutton/osx-vm-templates)
 * [Bento packer definitions for os x](https://github.com/opscode/bento)
-* [Ruby Rogues podcast episode 169 - Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III](http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/)
+* [Ruby Rogues podcast Episode 169 - Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III](http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/)
 *
 
 #### Mike
