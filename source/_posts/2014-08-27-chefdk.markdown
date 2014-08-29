@@ -26,7 +26,7 @@ Watch Now
 * [Picks](http://foodfightshow.org/2014/08/chefdk.html#picks)
 * Download
   * [Video](http://youtu.be/Mm2lsAwd7yA)
-  * Audio - Coming soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3)
 
 
 Panel<a name="panel"></a>
@@ -108,7 +108,7 @@ Here's a brief outline of some of the things we discussed:
     * `verify`
     * Some glue commands - `exec`, `gem`, and `shell-init`
 * Chef for Beginners and New Users
-* The Chef Generate Command
+* The `chef generate` Command
   * What does it do?
   * How does it work?
   * `generate`
@@ -131,6 +131,10 @@ Here's a brief outline of some of the things we discussed:
     * Ubuntu Linux 12.04, 13.10
     * Red Hat Enterprise Linux 6
 * Upcoming: The Policy File
+
+**Commands to install ChefDK from command line:**
+  * Install latest released version - `curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk`
+  * Install nightly build - `curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n`
 
 Picks<a name="picks"></a>
 -----
@@ -160,9 +164,8 @@ Picks<a name="picks"></a>
 * [Seth Vargo's cleanroom gem](https://github.com/sethvargo/cleanroom)
 * [Customizing Chef by Jon Cowie](http://www.amazon.com/Customizing-Chef-Jon-Cowie/dp/149194935X/ref=sr_1_1?ie=UTF8&qid=1409348329&sr=8-1&keywords=Customizing+Chef)
 
-#### Jonathan 
+#### Jonathan
 
-* [Duren](?)
 * [vagrantcloud.com/juniper](http://www.vagrantcloud.com/juniper)
 
 #### Serdar
@@ -199,7 +202,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/Mm2lsAwd7yA)
-* Audio - Coming soon
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3)
 
 <hr />
 
