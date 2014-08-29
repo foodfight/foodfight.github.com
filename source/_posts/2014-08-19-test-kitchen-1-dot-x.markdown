@@ -40,6 +40,8 @@ Panel<a name="panel"></a>
 * Scott Pustay [github](https://github.com/muskox), [twitter](https://twitter.com/spustay), [blog](http://scottpustay.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 
