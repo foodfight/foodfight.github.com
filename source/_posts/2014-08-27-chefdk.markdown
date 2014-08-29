@@ -122,7 +122,7 @@ Here's a brief outline of some of the things we'd like to discuss.
     * how do I create my own?
 
 * Future of ChefDK
-  * [`Policyfile.rb`](https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md) - let's review this file!  It's where the future magic lies!
+  * [Policyfile.rb](https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md)
 * Chef Docs Repo: [https://github.com/opscode/chef-docs](https://github.com/opscode/chef-docs)
 * Questions for the panelists:
   * should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?
