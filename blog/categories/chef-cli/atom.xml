@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chef-cli | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chef-cli/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-29T08:42:44-04:00</updated>
+  <updated>2014-08-29T18:16:49-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -33,7 +33,7 @@
 
 <ul>
 <li><a href="http://youtu.be/Mm2lsAwd7yA">Video</a></li>
-<li>Audio - Coming soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -45,6 +45,7 @@
 <li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
 <li>Jason Reslock - <a href="https://github.com/jreslock">github</a>, <a href="https://twitter.com/jreslock">twitter</a></li>
 <li>John Deatherage - <a href="https://github.com/RouteLastResort">github</a>, <a href="https://twitter.com/RouteLastResort">twitter</a></li>
+<li>Jon Cowie <a href="https://github.com/jonlives">github</a>, <a href="https://twitter.com/jonlives">twitter</a>, <a href="http://jonliv.es/">blog</a></li>
 <li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
 <li>Tara Hernandez - <a href="https://github.com/tarahernandez,">github</a><a href="https://twitter.com/tequilarista">twitter</a>, irc:  tequilarista</li>
 <li>Joshua Timberman - <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
@@ -106,10 +107,10 @@
 
 <h3>Show Notes</h3>
 
-<p>Here's a brief outline of some of the things we'd like to discuss.</p>
+<p>Here's a brief outline of some of the things we discussed:</p>
 
 <ul>
-<li><p>Intro to ChefDK</p>
+<li>Intro to ChefDK
 
 <ul>
 <li>The <a href="http://downloads.getchef.com/chef-dk/">Chef Development Kit (ChefDK)</a></li>
@@ -124,18 +125,17 @@
 <li>New command-line tool called <a href="http://docs.getchef.com/ctl_chef.html">chef</a></li>
 </ul>
 </li>
-<li>Supported operating systems - As of version 0.2.1 the following Operating Systems are supported
+</ul>
+</li>
+<li>Working with Ruby Gemfiles
 
 <ul>
-<li>Mac OS X 10.8, 10.9</li>
-<li>Windows 7, 8, 8.1 &amp; Server 2008 R2, 2012, 2012 R2</li>
-<li>Ubuntu Linux 12.04, 13.10</li>
-<li>Red Hat Enterprise Linux 6</li>
+<li>Simplifying the tool chain</li>
 </ul>
 </li>
-</ul>
-</li>
-<li><p>Using ChefDK</p>
+<li>Why is it called "Chef"?</li>
+<li>What does typing Chef actually do?</li>
+<li>Using ChefDK
 
 <ul>
 <li>Using the <code>chef</code> command
@@ -143,6 +143,16 @@
 <ul>
 <li><code>verify</code></li>
 <li>Some glue commands - <code>exec</code>, <code>gem</code>, and <code>shell-init</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Chef for Beginners and New Users</li>
+<li>The <code>chef generate</code> Command
+
+<ul>
+<li>What does it do?</li>
+<li>How does it work?</li>
 <li><code>generate</code>
 
 <ul>
@@ -157,48 +167,43 @@
 </li>
 </ul>
 </li>
-<li>Generators
+<li>The Future of ChefDK
 
 <ul>
-<li>what does each generator create?</li>
-<li>how do they work?</li>
-<li>how do I create my own?</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>Future of ChefDK</p>
-
-<ul>
+<li>Implementing a Test Command in ChefDK</li>
 <li><a href="https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md">Policyfile.rb</a></li>
-</ul>
-</li>
+<li>Release Cycle, Upgrade Paths, etc. Expectancy</li>
+<li>ChefDK and Windows/Cross Platform Compatability
+
+<ul>
 <li>Chef Docs Repo: <a href="https://github.com/opscode/chef-docs">https://github.com/opscode/chef-docs</a></li>
-<li><p>Questions for the panelists:</p>
-
-<ul>
-<li>should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?</li>
-<li>Is ChefDK ready for me to start using today?  What edges am I likely to find?</li>
-<li>Should I consider migrating my knife plugin to a chef plugin?</li>
-<li>When can I recommend ChefDK to Windows engineers?</li>
-<li>Is there any way to configure ChefDK, like <a href="https://github.com/opscode/chef-dk/blob/02fd3ff8715da5583907e135187ff9d52efab2f6/lib/chef-dk/command/generator_commands.rb#L36-L61">generator cookbook path</a></li>
-</ul>
-</li>
-<li><p>Commands to install ChefDK from command line:</p>
-
-<ul>
-<li>Install latest released version - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk</code></li>
-<li>Install nightly build - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n</code></li>
 </ul>
 </li>
 </ul>
+</li>
+<li>Supported operating systems - As of version 0.2.1 the following Operating Systems are supported:
 
+<ul>
+<li>Mac OS X 10.8, 10.9</li>
+<li>Windows 7, 8, 8.1 &amp; Server 2008 R2, 2012, 2012 R2</li>
+<li>Ubuntu Linux 12.04, 13.10</li>
+<li>Red Hat Enterprise Linux 6</li>
+</ul>
+</li>
+<li>Upcoming: The Policy File</li>
+</ul>
+
+
+<p><strong>Commands to install ChefDK from command line:</strong>
+  * Install latest released version - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk</code>
+  * Install nightly build - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n</code></p>
 
 <h2>Picks<a name="picks"></a></h2>
 
 <ul>
 <li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
 <li>Jason Reslock - <a href="https://github.com/jreslock">github</a>, <a href="https://twitter.com/jreslock">twitter</a></li>
+<li>Jon Cowie <a href="https://github.com/jonlives">github</a>, <a href="https://twitter.com/jonlives">twitter</a>, <a href="http://jonliv.es/">blog</a></li>
 <li>John Deatherage - <a href="https://github.com/RouteLastResort">github</a>, <a href="https://twitter.com/RouteLastResort">twitter</a></li>
 <li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
 <li>Tara Hernandez - <a href="https://twitter.com/tequilarista">twitter</a></li>
@@ -220,13 +225,38 @@
 
 <ul>
 <li><a href="http://shop.oreilly.com/product/0636920030973.do">Test Driven Infrastructure with Chef</a></li>
-<li><a href="http://exercism.io/">Exercism</a></li>
+<li><a href="http://exercism.io/">Exercism.io</a></li>
 </ul>
 
 
-<h4>John</h4>
+<h4>Jon</h4>
+
+<ul>
+<li><a href="https://github.com/sethvargo/cleanroom">Seth Vargo's cleanroom gem</a></li>
+<li><a href="http://www.amazon.com/Customizing-Chef-Jon-Cowie/dp/149194935X/ref=sr_1_1?ie=UTF8&amp;qid=1409348329&amp;sr=8-1&amp;keywords=Customizing+Chef">Customizing Chef by Jon Cowie</a></li>
+</ul>
+
+
+<h4>Jonathan</h4>
+
+<ul>
+<li><a href="http://www.vagrantcloud.com/juniper">vagrantcloud.com/juniper</a></li>
+</ul>
+
 
 <h4>Serdar</h4>
+
+<ul>
+<li><a href="http://downloads.getchef.com/chef-dk/">The New Version of ChefDK</a></li>
+<li>Commands to install ChefDK from command line:
+
+<ul>
+<li>Install latest released version - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk</code></li>
+<li>Install nightly build - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n</code></li>
+</ul>
+</li>
+</ul>
+
 
 <h4>Tara</h4>
 
@@ -241,7 +271,7 @@
 <li><a href="http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/">ChefDK and Ruby</a></li>
 <li><a href="https://github.com/timsutton/osx-vm-templates">Tim Sutton's OS X templates for Packer and VeeWee</a></li>
 <li><a href="https://github.com/opscode/bento">Bento packer definitions for os x</a></li>
-<li><a href="http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/">Ruby Rogues podcast episode 169 - Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III</a>
+<li><a href="http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/">Ruby Rogues podcast Episode 169 - Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III</a>
 *</li>
 </ul>
 
@@ -267,7 +297,7 @@
 
 <ul>
 <li><a href="http://youtu.be/Mm2lsAwd7yA">Video</a></li>
-<li>Audio - Coming soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3">Audio</a></li>
 </ul>
 
 
