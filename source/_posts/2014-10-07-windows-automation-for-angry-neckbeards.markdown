@@ -46,7 +46,7 @@ Outline<a name="outline"></a>
 * [Erlang Camp](https://www.getchef.com/blog/event/erlangcamp-austin-tx/) - October 10 & 11 in Austin, Texas
 * [Silicon Valley Code Camp](https://www.getchef.com/blog/event/siliconvalley-codecamp/) - October 11 in Los Altos Hills, California
 * [Houston Texas DevOps](https://www.getchef.com/blog/event/houston-texas-devops-chef-jj-asghar-presenting-infrastructur%C2%ADe-as-code/) – October 14 - JJ Asghar will be presenting "Infrastructur­e as Code"
-* [Docker Santa Clara Meetup] - October 15 - Tom Duffield will be presenting "Managing Docker Containers"
+* [Docker Santa Clara Meetup](https://www.getchef.com/blog/event/docker-santa-clara-meetup-managing-docker-containers/) - October 15 - Tom Duffield will be presenting "Managing Docker Containers"
 * [CloudDevelop](https://www.getchef.com/blog/event/clouddevelop/) - October 17 in Columbus, Ohio - Julian Dunn will be presenting "Automating That Other OS: Cooking With Chef on Windows"
 * [London Hack Day](https://www.getchef.com/blog/event/hack-day-london-uk/) - October 17
 * [All Things Open](https://www.getchef.com/blog/event/all-things-open/) - October 22-23 in Raleigh, North Carolina - Nathen Harvey will present "Introduction to Infrastructure as Code & Automation / Introduction to Chef"
