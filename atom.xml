@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-10-06T23:28:25-04:00</updated>
+  <updated>2014-10-07T08:33:14-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,112 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Windows Automation for Angry Neckbeards]]></title>
+    <link href="http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards.html"/>
+    <updated>2014-10-07T06:36:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss automating Windows!  Have suggestions for topics?  Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
+
+<h2>Watch Now</h2>
+
+<p>This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</p>
+
+<!-- more -->
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</li>
+<li>Audio - Coming Soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Steven Murawski - <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
+<li>Matt Stratton - <a href="https://github.com/mattstratton">github</a>, <a href="https://twitter.com/mattstratton">twitter</a></li>
+<li>Stephen Nelson-Smith - <a href="http://twitter.com/lordcope">twitter</a>, irc: cope, <a href="http://agilesysadmin.net">blog</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Bryan Berry - <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="https://www.getchef.com/blog/event/chef-users-london-meetup/">Chef Users London Meetup</a> - October 9</li>
+<li><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</li>
+<li><a href="https://www.getchef.com/blog/event/a-gentle-introduction-to-chef-at-t-dose/">T-DOSE</a> - October 25 &amp; 26 in The Netherlands</li>
+<li><a href="https://www.getchef.com/blog/event/erlangcamp-austin-tx/">Erlang Camp</a> - October 10 &amp; 11 in Austin, Texas</li>
+<li><a href="https://www.getchef.com/blog/event/siliconvalley-codecamp/">Silicon Valley Code Camp</a> - October 11 in Los Altos Hills, California</li>
+<li><a href="https://www.getchef.com/blog/event/houston-texas-devops-chef-jj-asghar-presenting-infrastructur%C2%ADe-as-code/">Houston Texas DevOps</a> – October 14 - JJ Asghar will be presenting &#8220;Infrastructur­e as Code&#8221;</li>
+<li>[Docker Santa Clara Meetup] - October 15 - Tom Duffield will be presenting &#8220;Managing Docker Containers&#8221;</li>
+<li><a href="https://www.getchef.com/blog/event/clouddevelop/">CloudDevelop</a> - October 17 in Columbus, Ohio - Julian Dunn will be presenting &#8220;Automating That Other OS: Cooking With Chef on Windows&#8221;</li>
+<li><a href="https://www.getchef.com/blog/event/hack-day-london-uk/">London Hack Day</a> - October 17</li>
+<li><a href="https://www.getchef.com/blog/event/all-things-open/">All Things Open</a> - October 22-23 in Raleigh, North Carolina - Nathen Harvey will present &#8220;Introduction to Infrastructure as Code &amp; Automation / Introduction to Chef&#8221;</li>
+<li><a href="https://www.getchef.com/blog/event/rakuten-technology-conference/">Rakuten Technology Conference</a> - October 25 in Japan - Michael Ducy will be talking about Changing the Behavior of IT.</li>
+<li><a href="https://www.getchef.com/blog/event/ic3-san-francisco-ca/">IC3</a> - October 27-28 in San Francisco - George Miranda and a few other Chefs will be around.  George will be presenting &#8220;Successful Patterns of DevOps – Your To-Do List&#8221;</li>
+<li><a href="https://www.getchef.com/blog/event/introduction-to-chef-at-qcon-san-fancisco/">QCon San Francisco</a> - November 3-7 in San Francisco - Franklin Webber will be leading an Intro to Chef tutorial on the 7th.</li>
+<li><p><a href="https://www.getchef.com/blog/event/lisa14/">LISA</a> - LISA returns to Seattle this year.  Be sure to swing by and check out talks and tutorials from Jennifer Davis, Steven Murawski, Mandi Walls, Nathen Harvey, and more!</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that&#8217;s being held in</p>
+
+<ul>
+<li><a href="https://www.getchef.com/blog/event/chef-intermeditate-topics-london/">London</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-3/">Bangalore</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-dallas-3/">Dallas</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-atlanta-4/">Atlanta</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Washington, DC</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
+
+<h2>Download</h2>
+
+<p>Coming soon!  This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</p>
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Community Summit 2014]]></title>
@@ -2723,164 +2829,6 @@
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow61-OpenStack.mp3">Audio</a></li>
 <li><a href="http://youtu.be/dzbBxezbXko">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOps Riot]]></title>
-    <link href="http://foodfightshow.org//2013/08/devops-riot.html"/>
-    <updated>2013-08-20T08:52:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/08/devops-riot</id>
-    <content type="html"><![CDATA[<p>Join us as we discuss DevOps at Riot Games.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://foodfightshow.org///www.youtube.com/embed/--E0MzMH_FM" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/08/devops-riot.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/08/devops-riot.html#news">Chef News</a></li>
-<li><a href="http://foodfightshow.org/2013/08/devops-riot.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/08/devops-riot.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=--E0MzMH_FM">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Dominica DeGrandis <a href="https://twitter.com/dominicad">twitter</a></li>
-<li>Erik Black <a href="http://github.com/elebertus">github</a>, <a href="https://twitter.com/elebertus">twitter</a>, irc: eblack</li>
-<li>Jeff Hackert <a href="https://github.com/BarkingCow">github</a>, <a href="https://twitter.com/jchackert">twitter</a></li>
-<li>Josiah Kiehl <a href="http://github.com/bluepojo">github</a>, <a href="http://twitter.com/bluepojo">twitter</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Michael Ivey <a href="https://github.com/ivey">github</a>, <a href="https://twitter.com/ivey">twitter</a>, <a href="http://gweezlebur.com/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Chef News<a name="news"></a></h2>
-
-<ul>
-<li><a href="http://www.opscode.com/blog/2013/08/19/introducing-enterprise-chef/">Introducing Enterprise Chef</a> - Private and Hosted Chef have been renamed to Enterprise Chef&#124;.</li>
-<li><a href="http://www.opscode.com/blog/2013/08/19/opscode-and-arista-networks-extend-it-automation-to-networking/">Opscode and Arista Networks Extend IT Automation to Networking</a></li>
-<li><p><a href="http://www.opscode.com/blog/2013/08/19/opscode-chef-delivers-robust-open-source-automation-platform-for-windows-environments/">Opscode Chef Delivers Robust Open Source Automation Platform for Windows Environments</a> and a webinar with Julian Dunn:  <a href="http://pages.opscode.com/chef-on-windows-webinar.html">Cooking with Chef on Microsoft Windows</a> August 27 at 10AM PDT.</p></li>
-<li><p><a href="http://www.opscode.com/blog/event/visit-opscode-during-vmworld-august-25th-29th/">Visit Opscode During VMWorld</a> - Opscode will be on the exhibit floor during VMWorld, August 25th-28th.  If you’re at the show be sure to stop by grab a sticker and chat about your automation project, with Chef or otherwise.  You’ll find us in booth #1748.  See you at the conference!</p></li>
-<li><a href="http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Opscode Community Summit</a> - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so <a href="https://www.regonline.com/opscodesummit-2013">register today</a>!</li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Chef News</li>
-<li>Introductions</li>
-<li><a href="http://www.riotgames.com">Riot Games</a></li>
-<li><a href="http://beta.na.leagueoflegends.com">League of Legends</a></li>
-<li><a href="http://www.riotgames.com/about">The Riot Manifesto</a>
-
-<ul>
-<li>Player Experienece</li>
-<li>Challenge Convention</li>
-<li>Focus on the team and talent</li>
-<li>Take play seriously</li>
-<li>Stay hungry and humble</li>
-</ul>
-</li>
-<li>Riot&#8217;s Infrastucture and challenging convention</li>
-<li>Hardware</li>
-<li>Envoronment/Platform</li>
-<li><a href="https://github.com/Netflix/archaius">Archaius</a></li>
-<li><a href="http://netflix.github.io/#repo">Netflix Open Source Center</a></li>
-<li>Culture and how engineering teams work together at Riot</li>
-<li>How big are the teams?</li>
-<li>Challenges introducing new technology</li>
-<li>Common set of practices and proccesses</li>
-<li>Creating Automation</li>
-<li>Relational Databases</li>
-<li>Open Source Experimentation</li>
-<li>Deployment Automation</li>
-<li>Questions from IRC</li>
-<li>How do you support or do infrastructure testing in QA for operations?</li>
-<li>Do you use Archaius with Chef Search?</li>
-<li>What&#8217;s up with <a href="https://github.com/erikhuda/thor">Thor</a>?</li>
-<li>What do you do in terms of monitoring?</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="http://freeread.com.au/@RGLibrary/EEDocSmith/Lensmen/@Lensmen.html">Chronicles of the Lensmen</a></li>
-</ul>
-
-
-<h4>Erik</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/344245302X">Snow Crash</a></li>
-<li><a href="http://www.webcams.travel/">Go Outside</a> - Link courtesy of Brandon ;)</li>
-</ul>
-
-
-<h4>Jeff</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/Teaming-Organizations-Innovate-Compete-Knowledge/dp/078797093X/">Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy</a></li>
-</ul>
-
-
-<h4>Josiah</h4>
-
-<ul>
-<li>Snorkeling</li>
-</ul>
-
-
-<h4>Michael</h4>
-
-<ul>
-<li><a href="https://github.com/progrium/dokku/">dokku</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li>DevOpsDays - <a href="http://devopsdays.org/events/2013-tokyo/">Tokyo</a>, <a href="http://devopsdays.org/events/2013-telaviv/">Tel Aviv</a>, <a href="http://devopsdays.org/events/2013-atlanta/">Atlanta</a>.  You can still submit proposals for <a href="http://devopsdays.org/events/2013-newyork/">NYC</a>, <a href="http://devopsdays.org/events/2013-vancouver/">Vancouver</a>, <a href="http://devopsdays.org/events/2013-barcelona/propose/">Barcelona</a>, and <a href="http://devopsdays.org/events/2013-portland/">Portland</a>.</li>
-<li><a href="http://chef-community.github.io/about/">Chef Community</a> organization on github.  It&#8217;s where the <a href="http://chef-community.github.io/cvp/">Cookbook Versioning Policy</a> is stored and is meant as an organization that can &#8220;adopt&#8221; maintenance of repositories and cookbooks that have lost their maintainers.</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=--E0MzMH_FM">Video</a></li>
 </ul>
 
 

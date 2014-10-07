@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: stevenmurawski | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/stevenmurawski/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2014-10-07T08:33:14-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Windows Automation for Angry Neckbeards]]></title>
+    <link href="http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards.html"/>
+    <updated>2014-10-07T06:36:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss automating Windows!  Have suggestions for topics?  Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
+
+<h2>Watch Now</h2>
+
+<p>This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</p>
+
+<!-- more -->
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</li>
+<li>Audio - Coming Soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Steven Murawski - <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
+<li>Matt Stratton - <a href="https://github.com/mattstratton">github</a>, <a href="https://twitter.com/mattstratton">twitter</a></li>
+<li>Stephen Nelson-Smith - <a href="http://twitter.com/lordcope">twitter</a>, irc: cope, <a href="http://agilesysadmin.net">blog</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Bryan Berry - <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="https://www.getchef.com/blog/event/chef-users-london-meetup/">Chef Users London Meetup</a> - October 9</li>
+<li><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</li>
+<li><a href="https://www.getchef.com/blog/event/a-gentle-introduction-to-chef-at-t-dose/">T-DOSE</a> - October 25 &amp; 26 in The Netherlands</li>
+<li><a href="https://www.getchef.com/blog/event/erlangcamp-austin-tx/">Erlang Camp</a> - October 10 &amp; 11 in Austin, Texas</li>
+<li><a href="https://www.getchef.com/blog/event/siliconvalley-codecamp/">Silicon Valley Code Camp</a> - October 11 in Los Altos Hills, California</li>
+<li><a href="https://www.getchef.com/blog/event/houston-texas-devops-chef-jj-asghar-presenting-infrastructur%C2%ADe-as-code/">Houston Texas DevOps</a> – October 14 - JJ Asghar will be presenting "Infrastructur­e as Code"</li>
+<li>[Docker Santa Clara Meetup] - October 15 - Tom Duffield will be presenting "Managing Docker Containers"</li>
+<li><a href="https://www.getchef.com/blog/event/clouddevelop/">CloudDevelop</a> - October 17 in Columbus, Ohio - Julian Dunn will be presenting "Automating That Other OS: Cooking With Chef on Windows"</li>
+<li><a href="https://www.getchef.com/blog/event/hack-day-london-uk/">London Hack Day</a> - October 17</li>
+<li><a href="https://www.getchef.com/blog/event/all-things-open/">All Things Open</a> - October 22-23 in Raleigh, North Carolina - Nathen Harvey will present "Introduction to Infrastructure as Code &amp; Automation / Introduction to Chef"</li>
+<li><a href="https://www.getchef.com/blog/event/rakuten-technology-conference/">Rakuten Technology Conference</a> - October 25 in Japan - Michael Ducy will be talking about Changing the Behavior of IT.</li>
+<li><a href="https://www.getchef.com/blog/event/ic3-san-francisco-ca/">IC3</a> - October 27-28 in San Francisco - George Miranda and a few other Chefs will be around.  George will be presenting "Successful Patterns of DevOps – Your To-Do List"</li>
+<li><a href="https://www.getchef.com/blog/event/introduction-to-chef-at-qcon-san-fancisco/">QCon San Francisco</a> - November 3-7 in San Francisco - Franklin Webber will be leading an Intro to Chef tutorial on the 7th.</li>
+<li><p><a href="https://www.getchef.com/blog/event/lisa14/">LISA</a> - LISA returns to Seattle this year.  Be sure to swing by and check out talks and tutorials from Jennifer Davis, Steven Murawski, Mandi Walls, Nathen Harvey, and more!</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="https://www.getchef.com/blog/event/chef-intermeditate-topics-london/">London</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-3/">Bangalore</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-dallas-3/">Dallas</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-atlanta-4/">Atlanta</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Washington, DC</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
+
+<h2>Download</h2>
+
+<p>Coming soon!  This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</p>
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
