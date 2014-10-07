@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-08-29T18:17:53-04:00</updated>
+  <updated>2014-10-06T23:28:25-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Community Summit 2014]]></title>
+    <link href="http://foodfightshow.org//2014/10/community-summit-2014.html"/>
+    <updated>2014-10-06T23:25:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/10/community-summit-2014</id>
+    <content type="html"><![CDATA[<p>A recording from the end of the first day of the Chef Community Summit in Seattle, 2014.</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/FFS-ChefSummitDay1.mp3">Listen now</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ChefDK]]></title>
@@ -2870,183 +2881,6 @@
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=--E0MzMH_FM">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Packer]]></title>
-    <link href="http://foodfightshow.org//2013/08/packer.html"/>
-    <updated>2013-08-14T09:03:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/08/packer</id>
-    <content type="html"><![CDATA[<p>Join us as we discuss <a href="http://packer.io">Packer</a> with <a href="https://twitter.com/mitchellh">Mitchell Hashimoto</a></p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/MOCao3DeWSU" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/08/packer.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/08/packer.html#news">Chef News</a></li>
-<li><a href="http://foodfightshow.org/2013/08/packer.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/08/packer.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3">Audio</a></li>
-<li><a href="http://youtu.be/MOCao3DeWSU">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Mitchell Hashimoto <a href="https://github.com/mitchellh">github</a>, <a href="https://twitter.com/mitchellh">twitter</a></li>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Chef News<a name="news"></a></h2>
-
-<ul>
-<li><a href="http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/">Infrastructure upgrades with Chef</a> - A blog post from Etsy on how they roll-out minor changes to their infrastructure using knife-spork and knife-flip. The post also details how they roll-out larger changes with feature flags using <a href="https://github.com/etsy/chef-whitelist">chef-whitelist</a>, a library cookbook for implementing feature flags.</li>
-<li><a href="http://www.reddit.com/r/IAmA/comments/1k7tlu/we_are_the_operations_team_at_etsy_ask_us_anything/">We are the Operations team at Etsy. Ask us anything!</a> - A Q&amp;A session with the Operations team at Etsy run via reddit.</li>
-<li><a href="http://www.miketheman.net/2013/08/11/the-importance-of-dependency-testing/">The Importance of Dependency Testing</a></li>
-<li><p><a href="http://www.opscode.com/blog/2013/08/12/awesome-community-chef-mike-fiedler-roller-derbies-cookbook-versions/">Awesome Community Chef: Mike Fiedler – “Roller Derbies &amp; Cookbook Versions”</a></p></li>
-<li><p><a href="http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Opscode Community Summit</a> - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so <a href="https://www.regonline.com/opscodesummit-2013">register today</a>!</p></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Chef News</li>
-<li>Introductions</li>
-<li><a href="http://www.hashicorp.com">HashiCorp</a></li>
-<li>The State of <a href="http://www.vagrantup.com">Vagrant</a></li>
-<li>What is <a href="http://www.packer.io/intro/index.html">Packer</a></li>
-<li>Developing Packer</li>
-<li><a href="http://golang.org">The Go Programming Language</a></li>
-<li><a href="http://www.json.org">JSON</a></li>
-<li>Creating Images/Virtual Boxes</li>
-<li><a href="https://github.com/jedi4ever/veewee">veewee</a></li>
-<li><a href="https://github.com/mitchellh/veewee-to-packer">veewee-to-packer</a></li>
-<li>Packer Workflow:
-
-<ul>
-<li>Download Packer</li>
-<li>Write your template</li>
-<li>Builder brings up a machine</li>
-<li>Provisioner installs software (upload files, chef, puppet, etc.)</li>
-<li>Builder shuts thing down and packages things up</li>
-<li>With the template you run packer build</li>
-<li>Artifacts</li>
-<li>Builders produce artifact your template</li>
-<li>Post-processor takes an artifact and outputs a new artifact</li>
-<li>Builds</li>
-</ul>
-</li>
-<li>Mistakes made in Vagrant</li>
-<li>Work on Packer vs work on Vagrant</li>
-<li>Is Packer Stable?</li>
-<li>Is the Chef Provisioner Included with the Packer Distribution?</li>
-<li>Contributors</li>
-<li>Parallel Builds Feature</li>
-<li>Editing a configuration and building packer images workflow</li>
-<li><a href="http://golang.org/pkg/net/rpc/">rpc</a></li>
-<li>Box Versioning</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Mitchell</h4>
-
-<ul>
-<li>Mozilla
-
-<ul>
-<li><a href="http://www.rust-lang.org/">Rust</a>
-
-<ul>
-<li><a href="http://www.rustforrubyists.com/">Rust for Rubyists</a></li>
-</ul>
-</li>
-<li><a href="http://www.mozilla.org/en-US/firefox/os/">Firefox OS</a></li>
-<li><a href="https://github.com/mozilla/servo">Servo</a></li>
-</ul>
-</li>
-<li>Napa Valley</li>
-</ul>
-
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="https://twitter.com/botchagalupe">John Willis</a></li>
-<li><a href="https://twitter.com/realgenekim">Gene Kim</a></li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/">Go for System Administrators</a></li>
-<li><a href="http://elixir-lang.org/blog/2013/08/08/elixir-design-goals/">Elixir Design Goals</a></li>
-</ul>
-
-
-<h4>John</h4>
-
-<ul>
-<li><a href="http://soundfreaq.com/soundplatform2">Soundfreaq</a></li>
-<li><a href="http://devopsdays.org/events/2013-atlanta/">DevOpsDays Atlanta</a></li>
-<li><a href="http://games.disney.com/wheres-my-water-app">Where&#8217;s My Water</a></li>
-</ul>
-
-
-<h4>Mike</h4>
-
-<ul>
-<li><a href="http://devopsdays.org/events/2013-newyork/">DevOpsDays NYC</a></li>
-<li><a href="http://www.duolingo.com/">Duolingo</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://surge.omniti.com/2013">Surge</a></li>
-<li><a href="http://rockymtnruby.com/">Rocky Mountain Ruby Conference</a></li>
-<li><a href="http://flyingdogales.com/beers/raging-bitch/">Raging Bitch - Belgian-style IPA</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3">Audio</a></li>
-<li><a href="http://youtu.be/MOCao3DeWSU">Video</a></li>
 </ul>
 
 
