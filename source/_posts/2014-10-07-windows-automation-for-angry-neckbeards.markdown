@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Automation for Angry Neckbeards"
+title: "Windows Automation for Frustrated Sysadmins"
 date: 2014-10-07 06:36
 comments: true
 categories:
