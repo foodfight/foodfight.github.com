@@ -42,7 +42,6 @@ Outline<a name="outline"></a>
 #### Upcoming Events
 * [Chef Users London Meetup](https://www.getchef.com/blog/event/chef-users-london-meetup/) - October 9
 * [Chef Community Summit London](http://getchef.com/summit-london) - October 15 & 16  - FOODFIGHT saves 10%
-* [T-DOSE](https://www.getchef.com/blog/event/a-gentle-introduction-to-chef-at-t-dose/) - October 25 & 26 in The Netherlands
 * [Erlang Camp](https://www.getchef.com/blog/event/erlangcamp-austin-tx/) - October 10 & 11 in Austin, Texas
 * [Silicon Valley Code Camp](https://www.getchef.com/blog/event/siliconvalley-codecamp/) - October 11 in Los Altos Hills, California
 * [Houston Texas DevOps](https://www.getchef.com/blog/event/houston-texas-devops-chef-jj-asghar-presenting-infrastructur%C2%ADe-as-code/) – October 14 - JJ Asghar will be presenting "Infrastructur­e as Code"
@@ -51,9 +50,10 @@ Outline<a name="outline"></a>
 * [London Hack Day](https://www.getchef.com/blog/event/hack-day-london-uk/) - October 17
 * [All Things Open](https://www.getchef.com/blog/event/all-things-open/) - October 22-23 in Raleigh, North Carolina - Nathen Harvey will present "Introduction to Infrastructure as Code & Automation / Introduction to Chef"
 * [Rakuten Technology Conference](https://www.getchef.com/blog/event/rakuten-technology-conference/) - October 25 in Japan - Michael Ducy will be talking about Changing the Behavior of IT.
+* [T-DOSE](https://www.getchef.com/blog/event/a-gentle-introduction-to-chef-at-t-dose/) - October 25 & 26 in The Netherlands
 * [IC3](https://www.getchef.com/blog/event/ic3-san-francisco-ca/) - October 27-28 in San Francisco - George Miranda and a few other Chefs will be around.  George will be presenting "Successful Patterns of DevOps – Your To-Do List"
 * [QCon San Francisco](https://www.getchef.com/blog/event/introduction-to-chef-at-qcon-san-fancisco/) - November 3-7 in San Francisco - Franklin Webber will be leading an Intro to Chef tutorial on the 7th.
-* [LISA](https://www.getchef.com/blog/event/lisa14/) - LISA returns to Seattle this year.  Be sure to swing by and check out talks and tutorials from Jennifer Davis, Steven Murawski, Mandi Walls, Nathen Harvey, and more!
+* [LISA](https://www.getchef.com/blog/event/lisa14/) - LISA returns to Seattle (November 9-14) this year.  Be sure to swing by and check out talks and tutorials from Jennifer Davis, Steven Murawski, Mandi Walls, Nathen Harvey, and more!
 
 * DevOpsDays
   * [Berlin](http://devopsdays.org/events/2014-berlin/) - October 23 & 24
