@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-10-09T06:54:49-04:00</updated>
+  <updated>2014-10-09T09:09:27-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -56,6 +56,11 @@
 
 <h3>Chef News</h3>
 
+<ul>
+<li><a href="https://github.com/opscode/chef-summit-2014/wiki">Chef Community Summit Wiki</a></li>
+</ul>
+
+
 <h4>Upcoming Events</h4>
 
 <p>Chef Week London - <a href="https://www.getchef.com/blog/event/chef-intermeditate-topics-london/">Intermediate Training with Mandi Walls</a>, <a href="http://getchef.com/summit-london">Chef Community Summit London</a>, and a <a href="https://www.getchef.com/blog/event/hack-day-london-uk/">Chef Hack Day</a>.  October 13-17, 2014.  Use code CHEFWEEK to save!</p>
@@ -104,9 +109,108 @@
 
 <h3>Show Notes</h3>
 
+<ul>
+<li>API-driven, not document- or configuration file-driven</li>
+<li>Use Powershell to drive the API</li>
+<li>Common Engineering Criteria
+
+<ul>
+<li>All management functionality must be exposed to Powershell</li>
+</ul>
+</li>
+<li>Server 2012 has 2400+ Powershell commands covering Windows administration and functionality</li>
+<li>Powershell
+
+<ul>
+<li>Command line</li>
+<li>Remote shell</li>
+<li><a href="http://technet.microsoft.com/en-us/library/dd819514.aspx">Powershell ISE</a> - Integrated Scripting Editor
+
+<ul>
+<li><a href="http://www.powertheshell.com/isesteroids/">ISESteriods</a></li>
+</ul>
+</li>
+<li>Embedded</li>
+</ul>
+</li>
+<li>Command line parsing, pipeline semantics, debugging, etc.</li>
+<li>Powershell equalivent of <code>apt-get</code>
+
+<ul>
+<li>chocolatey - <code>choco install emacs</code> &#8230; <code>choco install vim</code>
+
+<ul>
+<li>uses NuGet packages</li>
+</ul>
+</li>
+<li><a href="https://github.com/OneGet/oneget">OneGet</a> is Microsoft&#8217;s unified interface to package management systems - available in Poweshell 5</li>
+<li><a href="http://psget.net/">PsGet</a></li>
+</ul>
+</li>
+<li>PSReadline</li>
+<li><a href="https://github.com/pester/Pester">Pester</a> - Powershell BDD style testing framework
+
+<ul>
+<li><a href="https://github.com/jdmundrawala/busser-pester">busser-pester</a></li>
+</ul>
+</li>
+<li>Text Editors
+
+<ul>
+<li>NOT notepad</li>
+<li>Powershell ISE - if nothing else is there</li>
+<li>Sublime Text</li>
+<li><a href="http://atom.io">Atom</a></li>
+<li>emacs, of course</li>
+</ul>
+</li>
+<li>Basic resources that Chef users should know about
+
+<ul>
+<li>Package-Service-Template paradigm doesn&#8217;t really work for Windows</li>
+<li>Powershell and DSC</li>
+<li>PowerShellDSC converts the document-oriented calls of Chef to API-oriented calls of Windows</li>
+<li>test target resource, set target resource, get target resource</li>
+<li>Identifying which registry keys have changed is painful</li>
+<li>Inspect MSIs with <a href="http://msdn.microsoft.com/en-us/library/aa370557(v=vs.85">Orca</a>.aspx)</li>
+<li><a href="https://github.com/opscode-cookbooks/windows">Windows Cookbook</a></li>
+</ul>
+</li>
+<li>Debugging Powershell is painful
+
+<ul>
+<li>Windows Management Framework 5 - might go back as far as 2008 R2.</li>
+<li>Powershell 5 has many updates and enhancements for debugging</li>
+</ul>
+</li>
+<li><a href="https://gist.github.com/mattstratton/5908c470a2fe125b79ce">Test Kitchen at ChefSummit</a></li>
+<li>Escaping from Powershell and using command.exe escaping - <code>knife winrm --% ....</code></li>
+<li>Adam Edwards, <a href="http://www.youtube.com/watch?v=BNV2jZUjKlc">PowerChef - Enhanced PowerShell Integration for Chef Recipes</a> from #ChefConf 2014</li>
+<li><a href="http://www.royaltsx.com/main/home/osx.aspx">royalTSX</a></li>
+<li><a href="http://msdn.microsoft.com/en-us/library/dd163506.aspx">WinRS</a></li>
+<li><a href="https://github.com/WinRb/WinRM">WinRM</a></li>
+</ul>
+
+
+<p>Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
 <h5>Steven</h5>
 
+<ul>
+<li><a href="http://www.corneredcat.com/">Cornered Cat</a></li>
+<li><a href="http://blogs.msdn.com/b/powershell/archive/2014/09/04/windows-management-framework-5-0-preview-september-2014-is-now-available.aspx">Windows Management Framework 5.0</a></li>
+</ul>
+
+
 <h5>Matt</h5>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BoJack_Horseman">BoJack Horseman</a></li>
+<li><a href="http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx">Scott Hanselman&#8217;s 2014 Ultimate Developer and Power Users Tool List for Windows</a></li>
+</ul>
+
 
 <h5>Stephen</h5>
 
@@ -119,18 +223,21 @@
 
 <h5>Nathen</h5>
 
+<ul>
+<li><a href="http://shop.oreilly.com/product/0636920032984.do">Customizing Chef</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Open_Space_Technology">Open Spaces</a></li>
+</ul>
+
+
 <h5>Bryan</h5>
 
 <ul>
 <li><a href="http://popupchinese.com/lessons/sinica">Sinica podcast</a></li>
 <li><a href="http://chinahistorypodcast.com/">China History Podcast</a></li>
 <li><a href="http://www.dependencywalker.com/">Dependency Walker</a></li>
+<li><a href="https://saucelabs.com/">Sauce Labs</a></li>
 </ul>
 
-
-<p>Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
-
-<h2>Picks<a name="picks"></a></h2>
 
 <h2>Download</h2>
 
