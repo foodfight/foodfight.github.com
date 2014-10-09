@@ -39,6 +39,8 @@ Outline<a name="outline"></a>
 
 ### Chef News
 
+* [Chef Community Summit Wiki](https://github.com/opscode/chef-summit-2014/wiki)
+
 #### Upcoming Events
 
 Chef Week London - [Intermediate Training with Mandi Walls](https://www.getchef.com/blog/event/chef-intermeditate-topics-london/), [Chef Community Summit London](http://getchef.com/summit-london), and a [Chef Hack Day](https://www.getchef.com/blog/event/hack-day-london-uk/).  October 13-17, 2014.  Use code CHEFWEEK to save!
@@ -77,9 +79,65 @@ Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being 
 There are also a number of classes being offered [online](http://www.getchef.com/blog/events/category/training-events/).
 
 ### Show Notes
+
+* API-driven, not document- or configuration file-driven
+* Use Powershell to drive the API
+* Common Engineering Criteria
+  * All management functionality must be exposed to Powershell
+* Server 2012 has 2400+ Powershell commands covering Windows administration and functionality
+* Powershell
+  * Command line
+  * Remote shell
+  * [Powershell ISE](http://technet.microsoft.com/en-us/library/dd819514.aspx) - Integrated Scripting Editor
+    * [ISESteriods](http://www.powertheshell.com/isesteroids/)
+  * Embedded
+* Command line parsing, pipeline semantics, debugging, etc.
+* Powershell equalivent of `apt-get`
+  * chocolatey - `choco install emacs` ... `choco install vim`
+    * uses NuGet packages
+  * [OneGet](https://github.com/OneGet/oneget) is Microsoft's unified interface to package management systems - available in Poweshell 5
+  * [PsGet](http://psget.net/)
+* PSReadline
+* [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework
+  * [busser-pester](https://github.com/jdmundrawala/busser-pester)
+* Text Editors
+  * NOT notepad
+  * Powershell ISE - if nothing else is there
+  * Sublime Text
+  * [Atom](http://atom.io)
+  * emacs, of course
+* Basic resources that Chef users should know about
+  * Package-Service-Template paradigm doesn't really work for Windows
+  * Powershell and DSC
+  * PowerShellDSC converts the document-oriented calls of Chef to API-oriented calls of Windows
+  * test target resource, set target resource, get target resource
+  * Identifying which registry keys have changed is painful
+  * Inspect MSIs with [Orca](http://msdn.microsoft.com/en-us/library/aa370557(v=vs.85).aspx)
+  * [Windows Cookbook](https://github.com/opscode-cookbooks/windows)
+* Debugging Powershell is painful
+  * Windows Management Framework 5 - might go back as far as 2008 R2.  
+  * Powershell 5 has many updates and enhancements for debugging
+* [Test Kitchen at ChefSummit](https://gist.github.com/mattstratton/5908c470a2fe125b79ce)
+* Escaping from Powershell and using command.exe escaping - `knife winrm --% ....`
+* Adam Edwards, [PowerChef - Enhanced PowerShell Integration for Chef Recipes](http://www.youtube.com/watch?v=BNV2jZUjKlc) from \#ChefConf 2014
+* [royalTSX](http://www.royaltsx.com/main/home/osx.aspx)
+* [WinRS](http://msdn.microsoft.com/en-us/library/dd163506.aspx)
+* [WinRM](https://github.com/WinRb/WinRM)
+
+
+Submit a [pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md).
+
+Picks<a name="picks"></a>
+-----
 ##### Steven
 
+* [Cornered Cat](http://www.corneredcat.com/)
+* [Windows Management Framework 5.0](http://blogs.msdn.com/b/powershell/archive/2014/09/04/windows-management-framework-5-0-preview-september-2014-is-now-available.aspx)
+
 ##### Matt
+
+* [BoJack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman)
+* [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
 ##### Stephen
 * [The Inner Game](http://theinnergame.com/)
@@ -88,17 +146,14 @@ There are also a number of classes being offered [online](http://www.getchef.com
 
 ##### Nathen
 
+* [Customizing Chef](http://shop.oreilly.com/product/0636920032984.do)
+* [Open Spaces](http://en.wikipedia.org/wiki/Open_Space_Technology)
+
 ##### Bryan
 * [Sinica podcast](http://popupchinese.com/lessons/sinica)
 * [China History Podcast](http://chinahistorypodcast.com/)
 * [Dependency Walker](http://www.dependencywalker.com/)
-
-
-Submit a [pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md).
-
-Picks<a name="picks"></a>
------
-
+* [Sauce Labs](https://saucelabs.com/)
 
 Download
 --------
