@@ -16,13 +16,13 @@ Watch Now
 
 This episode will air [Thursday, October 9, 2014 at 11:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&iso=20141009T07&p1=419&ah=1).
 
-<!-- more -->
+<iframe width="420" height="315" src="http://www.youtube.com/embed/d3MCJMkbiyo" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#panel)
 * [Outline](http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#outline)
 * [Picks](http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#picks)
 * Download
-  * Video - This episode will air [Thursday, October 9, 2014 at 11:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&iso=20141009T07&p1=419&ah=1).
+  * [Video](http://youtu.be/d3MCJMkbiyo)
   * Audio - Coming Soon
 
 
@@ -40,8 +40,11 @@ Outline<a name="outline"></a>
 ### Chef News
 
 #### Upcoming Events
+
+Chef Week London - [Intermediate Training with Mandi Walls](https://www.getchef.com/blog/event/chef-intermeditate-topics-london/), [Chef Community Summit London](http://getchef.com/summit-london), and a [Chef Hack Day](https://www.getchef.com/blog/event/hack-day-london-uk/).  October 13-17, 2014.  Use code CHEFWEEK to save!
+
 * [Chef Users London Meetup](https://www.getchef.com/blog/event/chef-users-london-meetup/) - October 9
-* [Chef Community Summit London](http://getchef.com/summit-london) - October 15 & 16  - FOODFIGHT saves 10%
+* [Chef Community Summit London](http://getchef.com/summit-london) - October 15 & 16  - FOODFIGHT saves 10%, CHEFWEEK saves more ;)
 * [Erlang Camp](https://www.getchef.com/blog/event/erlangcamp-austin-tx/) - October 10 & 11 in Austin, Texas
 * [Silicon Valley Code Camp](https://www.getchef.com/blog/event/siliconvalley-codecamp/) - October 11 in Los Altos Hills, California
 * [Houston Texas DevOps](https://www.getchef.com/blog/event/houston-texas-devops-chef-jj-asghar-presenting-infrastructur%C2%ADe-as-code/) – October 14 - JJ Asghar will be presenting "Infrastructur­e as Code"
@@ -74,8 +77,28 @@ Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being 
 There are also a number of classes being offered [online](http://www.getchef.com/blog/events/category/training-events/).
 
 ### Show Notes
+##### Steven
+
+##### Matt
+
+##### Stephen
+* [The Inner Game](http://theinnergame.com/)
+* [The Unfettered Mind](http://terebess.hu/zen/UnfetteredMind.pdf)
+* [Shinken](http://www.shinken-monitoring.org/)
+
+##### Nathen
+
+##### Bryan
+* [Sinica podcast](http://popupchinese.com/lessons/sinica)
+* [China History Podcast](http://chinahistorypodcast.com/)
+* [Dependency Walker](http://www.dependencywalker.com/)
+
 
 Submit a [pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md).
+
+Picks<a name="picks"></a>
+-----
+
 
 Download
 --------
