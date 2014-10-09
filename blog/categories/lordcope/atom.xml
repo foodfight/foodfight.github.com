@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lordcope | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/lordcope/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-10-07T10:04:51-04:00</updated>
+  <updated>2014-10-09T06:54:49-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -24,7 +24,7 @@
 
 <p>This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</p>
 
-<!-- more -->
+<iframe width="420" height="315" src="http://www.youtube.com/embed/d3MCJMkbiyo" frameborder="0" allowfullscreen></iframe>
 
 
 <ul>
@@ -34,7 +34,7 @@
 <li>Download
 
 <ul>
-<li>Video - This episode will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&amp;iso=20141009T07&amp;p1=419&amp;ah=1">Thursday, October 9, 2014 at 11:00:00 UTC</a>.</li>
+<li><a href="http://youtu.be/d3MCJMkbiyo">Video</a></li>
 <li>Audio - Coming Soon</li>
 </ul>
 </li>
@@ -58,9 +58,11 @@
 
 <h4>Upcoming Events</h4>
 
+<p>Chef Week London - <a href="https://www.getchef.com/blog/event/chef-intermeditate-topics-london/">Intermediate Training with Mandi Walls</a>, <a href="http://getchef.com/summit-london">Chef Community Summit London</a>, and a <a href="https://www.getchef.com/blog/event/hack-day-london-uk/">Chef Hack Day</a>.  October 13-17, 2014.  Use code CHEFWEEK to save!</p>
+
 <ul>
 <li><a href="https://www.getchef.com/blog/event/chef-users-london-meetup/">Chef Users London Meetup</a> - October 9</li>
-<li><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</li>
+<li><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%, CHEFWEEK saves more ;)</li>
 <li><a href="https://www.getchef.com/blog/event/erlangcamp-austin-tx/">Erlang Camp</a> - October 10 &amp; 11 in Austin, Texas</li>
 <li><a href="https://www.getchef.com/blog/event/siliconvalley-codecamp/">Silicon Valley Code Camp</a> - October 11 in Los Altos Hills, California</li>
 <li><a href="https://www.getchef.com/blog/event/houston-texas-devops-chef-jj-asghar-presenting-infrastructur%C2%ADe-as-code/">Houston Texas DevOps</a> – October 14 - JJ Asghar will be presenting "Infrastructur­e as Code"</li>
@@ -102,7 +104,33 @@
 
 <h3>Show Notes</h3>
 
+<h5>Steven</h5>
+
+<h5>Matt</h5>
+
+<h5>Stephen</h5>
+
+<ul>
+<li><a href="http://theinnergame.com/">The Inner Game</a></li>
+<li><a href="http://terebess.hu/zen/UnfetteredMind.pdf">The Unfettered Mind</a></li>
+<li><a href="http://www.shinken-monitoring.org/">Shinken</a></li>
+</ul>
+
+
+<h5>Nathen</h5>
+
+<h5>Bryan</h5>
+
+<ul>
+<li><a href="http://popupchinese.com/lessons/sinica">Sinica podcast</a></li>
+<li><a href="http://chinahistorypodcast.com/">China History Podcast</a></li>
+<li><a href="http://www.dependencywalker.com/">Dependency Walker</a></li>
+</ul>
+
+
 <p>Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
+
+<h2>Picks<a name="picks"></a></h2>
 
 <h2>Download</h2>
 
