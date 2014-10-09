@@ -9,12 +9,8 @@ categories:
   - lordcope
 ---
 
-Join our panelists as we discuss automating Windows!  Have suggestions for topics?  Submit a [pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md).
-
 Watch Now
 ---------
-
-This episode will air [Thursday, October 9, 2014 at 11:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&iso=20141009T07&p1=419&ah=1).
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/d3MCJMkbiyo" frameborder="0" allowfullscreen></iframe>
 
