@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-10-13T14:44:09-04:00</updated>
+  <updated>2014-10-13T18:25:00-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -188,9 +188,24 @@
 </ul>
 
 
-<p>Submit a <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md">pull request to the show notes</a>.</p>
-
 <h2>Picks<a name="picks"></a></h2>
+
+<h5>Stephen</h5>
+
+<ul>
+<li><a href="http://www.amazon.com/Inner-Game-Tennis-Classic-Performance-ebook/dp/B003T0G9E4/ref=sr_1_1?ie=UTF8&amp;qid=1413238495&amp;sr=8-1&amp;keywords=The+Inner+Game+of+Tennis">The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance by W. Timothy Gallwey</a></li>
+<li><a href="http://terebess.hu/zen/UnfetteredMind.pdf">The Unfettered Mind: Writings of the Zen Master to the Sword Master by Takuan Soho</a></li>
+<li><a href="http://www.shinken-monitoring.org/">Shinken</a></li>
+</ul>
+
+
+<h5>Matt</h5>
+
+<ul>
+<li><a href="http://www.imdb.com/title/tt3398228/">BoJack Horseman</a></li>
+<li><a href="http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx">Scott Hanselman&#8217;s 2014 Ultimate Developer and Power Users Tool List for Windows</a></li>
+</ul>
+
 
 <h5>Steven</h5>
 
@@ -200,27 +215,10 @@
 </ul>
 
 
-<h5>Matt</h5>
-
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BoJack_Horseman">BoJack Horseman</a></li>
-<li><a href="http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx">Scott Hanselman&#8217;s 2014 Ultimate Developer and Power Users Tool List for Windows</a></li>
-</ul>
-
-
-<h5>Stephen</h5>
-
-<ul>
-<li><a href="http://theinnergame.com/">The Inner Game</a></li>
-<li><a href="http://terebess.hu/zen/UnfetteredMind.pdf">The Unfettered Mind</a></li>
-<li><a href="http://www.shinken-monitoring.org/">Shinken</a></li>
-</ul>
-
-
 <h5>Nathen</h5>
 
 <ul>
-<li><a href="http://shop.oreilly.com/product/0636920032984.do">Customizing Chef</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920032984.do">Customizing Chef by Jon Cowie</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Open_Space_Technology">Open Spaces</a></li>
 </ul>
 
@@ -228,8 +226,8 @@
 <h5>Bryan</h5>
 
 <ul>
-<li><a href="http://popupchinese.com/lessons/sinica">Sinica podcast</a></li>
 <li><a href="http://chinahistorypodcast.com/">China History Podcast</a></li>
+<li><a href="http://popupchinese.com/lessons/sinica">Sinica Podcast</a></li>
 <li><a href="http://www.dependencywalker.com/">Dependency Walker</a></li>
 <li><a href="https://saucelabs.com/">Sauce Labs</a></li>
 </ul>
