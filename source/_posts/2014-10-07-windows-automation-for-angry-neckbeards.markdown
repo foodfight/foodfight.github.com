@@ -121,8 +121,6 @@ There are also a number of classes being offered [online](http://www.getchef.com
 * [WinRM](https://github.com/WinRb/WinRM)
 
 
-Submit a [pull request to the show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-79-windows.md).
-
 Picks<a name="picks"></a>
 -----
 ##### Stephen
