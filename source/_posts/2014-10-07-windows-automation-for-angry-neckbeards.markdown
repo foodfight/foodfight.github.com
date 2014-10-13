@@ -19,7 +19,7 @@ Watch Now
 * [Picks](http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#picks)
 * Download
   * [Video](http://youtu.be/d3MCJMkbiyo)
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS80.mp3)
 
 
 Panel<a name="panel"></a>
@@ -153,7 +153,8 @@ Picks<a name="picks"></a>
 
 Download
 --------
-Coming soon!  This episode will air [Thursday, October 9, 2014 at 11:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&iso=20141009T07&p1=419&ah=1).
+* [Video](http://youtu.be/d3MCJMkbiyo)
+* [Audio](http://traffic.libsyn.com/foodfight/FFS80.mp3)
 
 <hr />
 
