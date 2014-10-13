@@ -125,29 +125,29 @@ Submit a [pull request to the show notes](https://github.com/foodfight/showz/blo
 
 Picks<a name="picks"></a>
 -----
+##### Stephen
+* [The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance by W. Timothy Gallwey](http://www.amazon.com/Inner-Game-Tennis-Classic-Performance-ebook/dp/B003T0G9E4/ref=sr_1_1?ie=UTF8&qid=1413238495&sr=8-1&keywords=The+Inner+Game+of+Tennis)
+* [The Unfettered Mind: Writings of the Zen Master to the Sword Master by Takuan Soho](http://terebess.hu/zen/UnfetteredMind.pdf)
+* [Shinken](http://www.shinken-monitoring.org/)
+
+##### Matt
+
+* [BoJack Horseman](http://www.imdb.com/title/tt3398228/)
+* [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
+
 ##### Steven
 
 * [Cornered Cat](http://www.corneredcat.com/)
 * [Windows Management Framework 5.0](http://blogs.msdn.com/b/powershell/archive/2014/09/04/windows-management-framework-5-0-preview-september-2014-is-now-available.aspx)
 
-##### Matt
-
-* [BoJack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman)
-* [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
-
-##### Stephen
-* [The Inner Game](http://theinnergame.com/)
-* [The Unfettered Mind](http://terebess.hu/zen/UnfetteredMind.pdf)
-* [Shinken](http://www.shinken-monitoring.org/)
-
 ##### Nathen
 
-* [Customizing Chef](http://shop.oreilly.com/product/0636920032984.do)
+* [Customizing Chef by Jon Cowie](http://shop.oreilly.com/product/0636920032984.do)
 * [Open Spaces](http://en.wikipedia.org/wiki/Open_Space_Technology)
 
 ##### Bryan
-* [Sinica podcast](http://popupchinese.com/lessons/sinica)
 * [China History Podcast](http://chinahistorypodcast.com/)
+* [Sinica Podcast](http://popupchinese.com/lessons/sinica)
 * [Dependency Walker](http://www.dependencywalker.com/)
 * [Sauce Labs](https://saucelabs.com/)
 
