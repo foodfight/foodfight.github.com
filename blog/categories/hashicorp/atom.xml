@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hashicorp | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/hashicorp/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2014-11-04T22:15:14-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Consul Template]]></title>
+    <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
+    <updated>2014-11-04T21:54:00-05:00</updated>
+    <id>http://foodfightshow.org//2014/11/consul-template</id>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
+
+<p><strong>Part 1</strong></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_0tULKMoiCA" frameborder="0" allowfullscreen></iframe>
+
+
+<p><strong>Part 2</strong></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/1NWzF4TTQnU" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=_0tULKMoiCA">Part 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
+</ul>
+</li>
+<li>Audio - Coming Soon!</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Dan Phrawzty <a href="https://github.com/phrawzty">github</a>, <a href="https://twitter.com/phrawzty">twitter</a>, irc: phrawzty, <a href="https://www.dark.ca/">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Seth Vargo <a href="https://github.com/sethvargo">github</a>, <a href="https:/twitter.com/sethvargo">twitter</a>, irc: sethvargo, <a href="https://sethvargo.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community">Model View Culture: Q&amp;A: Making Tech Events Accessible to the Deaf Community</a></li>
+<li><a href="https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options">Model View Culture: Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options</a></li>
+<li><a href="https://www.youtube.com/watch?v=HtkGluLhnGU">Betraying The Martyrs - Let It Go (Official Music Video) \m/</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Not hotel wifi</li>
+</ul>
+
+
+<h4>Dan</h4>
+
+<ul>
+<li>A challenge to everyone involved in organising tech events: how can we leverage our many social gatherings for the greater social good?  For example, consider the <a href="http://www.salesforcefoundation.org/about-us/sharethemodel/">1:1:1 model</a> in the context of tech events, or even something as simple as donating some of the profits to charity (perhaps to <a href="http://mindweather.com/2014/09/18/how-devopsdays-nyc-built-a-well-for-a-village-in-cambodia-a-devopswater-update/">build a well</a>).</li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<ul>
+<li>Consul Template, <a href="https://www.hashicorp.com/blog/introducing-consul-template.html">announcement</a>, <a href="https://github.com/hashicorp/consul-template">github</a></li>
+<li><a href="http://cposc.org">CPOSC</a>, especially <a href="https://twitter.com/charlie3">Charlie Reisinger</a>'s <a href="http://lanyrd.com/2014/cposc/sdfpwm/">DevOps is Cool for Schools</a></li>
+<li><a href="https://www.youtube.com/watch?v=LJvEIjRBSDA">Write in Go</a> (song/video)</li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="https://stripe.com/blog/game-day-exercises-at-stripe">Game Day Exercises at Stripe:
+Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcprecipice">Marc Hedlund</a></li>
+<li><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/">OS X 10.10 Yosemite: The Ars Technica Review</a> by <a href="https://twitter.com/Siracusa">John Siracusa </a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Video
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=_0tULKMoiCA">Part 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
+</ul>
+</li>
+<li>Audio - Coming Soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

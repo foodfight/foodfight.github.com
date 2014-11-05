@@ -4,7 +4,7 @@
   <title><![CDATA[Category: devopsdays | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/devopsdays/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-10-13T18:25:00-04:00</updated>
+  <updated>2014-11-04T22:15:14-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
+    <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
+    <updated>2014-11-04T21:55:00-05:00</updated>
+    <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
+<li>Audio - Coming Soon!</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOpsDays - Silicon Valley]]></title>

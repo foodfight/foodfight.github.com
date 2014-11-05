@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-10-13T18:25:00-04:00</updated>
+  <updated>2014-11-04T22:15:14-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,273 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
+    <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
+    <updated>2014-11-04T21:55:00-05:00</updated>
+    <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
+<li>Audio - Coming Soon!</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Download</h2>
+
+<ul>
+<li>Audio - Coming Soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Consul Template]]></title>
+    <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
+    <updated>2014-11-04T21:54:00-05:00</updated>
+    <id>http://foodfightshow.org//2014/11/consul-template</id>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
+
+<p><strong>Part 1</strong></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_0tULKMoiCA" frameborder="0" allowfullscreen></iframe>
+
+
+<p><strong>Part 2</strong></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/1NWzF4TTQnU" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=_0tULKMoiCA">Part 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
+</ul>
+</li>
+<li>Audio - Coming Soon!</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Dan Phrawzty <a href="https://github.com/phrawzty">github</a>, <a href="https://twitter.com/phrawzty">twitter</a>, irc: phrawzty, <a href="https://www.dark.ca/">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Seth Vargo <a href="https://github.com/sethvargo">github</a>, <a href="https:/twitter.com/sethvargo">twitter</a>, irc: sethvargo, <a href="https://sethvargo.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community">Model View Culture: Q&amp;A: Making Tech Events Accessible to the Deaf Community</a></li>
+<li><a href="https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options">Model View Culture: Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options</a></li>
+<li><a href="https://www.youtube.com/watch?v=HtkGluLhnGU">Betraying The Martyrs - Let It Go (Official Music Video) \m/</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Not hotel wifi</li>
+</ul>
+
+
+<h4>Dan</h4>
+
+<ul>
+<li>A challenge to everyone involved in organising tech events: how can we leverage our many social gatherings for the greater social good?  For example, consider the <a href="http://www.salesforcefoundation.org/about-us/sharethemodel/">1:1:1 model</a> in the context of tech events, or even something as simple as donating some of the profits to charity (perhaps to <a href="http://mindweather.com/2014/09/18/how-devopsdays-nyc-built-a-well-for-a-village-in-cambodia-a-devopswater-update/">build a well</a>).</li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<ul>
+<li>Consul Template, <a href="https://www.hashicorp.com/blog/introducing-consul-template.html">announcement</a>, <a href="https://github.com/hashicorp/consul-template">github</a></li>
+<li><a href="http://cposc.org">CPOSC</a>, especially <a href="https://twitter.com/charlie3">Charlie Reisinger</a>&#8217;s <a href="http://lanyrd.com/2014/cposc/sdfpwm/">DevOps is Cool for Schools</a></li>
+<li><a href="https://www.youtube.com/watch?v=LJvEIjRBSDA">Write in Go</a> (song/video)</li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="https://stripe.com/blog/game-day-exercises-at-stripe">Game Day Exercises at Stripe:
+Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcprecipice">Marc Hedlund</a></li>
+<li><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/">OS X 10.10 Yosemite: The Ars Technica Review</a> by <a href="https://twitter.com/Siracusa">John Siracusa </a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Video
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=_0tULKMoiCA">Part 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
+</ul>
+</li>
+<li>Audio - Coming Soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Live from Chef Summit London 2014]]></title>
+    <link href="http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014.html"/>
+    <updated>2014-10-18T12:03:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014</id>
+    <content type="html"><![CDATA[<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Jon Cowie, Web Operations Engineer at Etsy <a href="http://github.com/jonlives">github</a>, <a href="http://twitter.com/jonlives">twitter</a>, <a href="http://blog.mycrot.ch">blog</a></li>
+<li>Aaron Kalin <a href="https://github.com/martinisoft">github</a>, <a href="https://twitter.com/martinisoft">twitter</a></li>
+<li>Zachary T. Stevens <a href="https://github.com/zts">github</a>, <a href="https://twitter.com/zts">twitter</a></li>
+</ul>
+
+
+<p><a href="http://traffic.libsyn.com/foodfight/FFS082.mp3">Listen now</a></p>
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li><a href="https://www.getchef.com/blog/2014/09/30/guest-post-introducing-chef-guard/">chef guard</a></li>
+<li><a href="http://myrepos.branchable.com/">myrepos</a> tool for managing a large # of git repos</li>
+<li><a href="https://github.com/bmarini/knife-inspect">knife-inspect</a></li>
+</ul>
+
+
+<p>A recording from the end of the first day of the Chef Community Summit in London, 2014.</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/FFS082.mp3">Listen now</a></p>
+
+<p>Session notes and more information captured during the Community Summit can be found in the <a href="https://github.com/opscode/chef-summit-2014/wiki">Chef Community Summit Wiki on GitHub</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Even MOAR Windows]]></title>
+    <link href="http://foodfightshow.org//2014/10/even-moar-windows.html"/>
+    <updated>2014-10-18T12:01:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/10/even-moar-windows</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS081.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Steven Murawski <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
+<li>Adam Edwards <a href="https://github.com/adamedx">github</a></li>
+<li>Daniel Mitchell</li>
+<li>Hans</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>How do I figure out how parameterize an MSI install?</li>
+<li>Key windows-specific resources you should know about: registry_key, env</li>
+<li>Creating and managing Windows services
+
+<ul>
+<li>What is a windows service?</li>
+<li>Tools, automating creation of services?</li>
+<li>nssm.cc, procrun</li>
+<li>How does a service resource relate to Windows services?</li>
+<li>Explaining &#8220;Get-Service&#8221;, &#8220;Start-Service&#8221;, &#8220;Stop-Service&#8221;</li>
+</ul>
+</li>
+<li>If run chef under the SYSTEM user and sometimes I get weird errors that I can&#8217;t reproduce while logged in
+ANSWER: <code>psexec -s some_command.exe</code></li>
+<li>What is the pstools suite? Which commands are of particular interest:
+ANSWER: All of them.</li>
+<li>Servercore - Can I run Powershell ISE or another editor with server core? Otherwise, how do I edit files?</li>
+<li>Servercore gotchas</li>
+<li>Building windows amis for EC2
+
+<ul>
+<li>Put code to generate SSL certificate in userdata</li>
+<li>Connect to instance over winrm</li>
+<li>Packer is your friend</li>
+</ul>
+</li>
+<li>There is a good example in the <a href="https://github.com/ansible/ansible/blob/devel/examples/scripts/ConfigureRemotingForAnsible.ps1">Ansible codebase</a>, example from knife bootstrap?</li>
+<li>Is using GNUWIN32 utilities on windows, a bad idea?
+YES Bryan: <code>less</code> can&#8217;t read unicode files on win2k12, <code>ls</code> has bizarre issues</li>
+<li>remote-file editing w/ ISE coming</li>
+<li>Powershell basics: Do both stdout and stderr return objects?
+There are actually 7, count &#8216;em 7 streams</li>
+<li>What is the equivalent of (strace)[http://en.wikipedia.org/wiki/Strace] in Windows?</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Windows Automation for Frustrated Sysadmins]]></title>
@@ -46,6 +313,9 @@
 <li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 <li>Bryan Berry - <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -304,6 +574,9 @@
 <li>Mike Fiedler - <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -2413,557 +2686,6 @@
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow65-LivingOnTheEdge.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=2Iz2ydIrPA8">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Future of DevOps]]></title>
-    <link href="http://foodfightshow.org//2013/10/the-future-of-devops.html"/>
-    <updated>2013-10-01T08:07:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/10/the-future-of-devops</id>
-    <content type="html"><![CDATA[<p>Andrew Clay Shafer (<a href="http://twitter.com/littleidea">@littleidea</a>) joins us to discuss the future of DevOps.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/jT6JdGHVbj0" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3">Audio</a></li>
-<li><a href="http://youtu.be/jT6JdGHVbj0">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Andrew Clay Shafer <a href="http:twitter.com/littleidea">twitter</a>,</li>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Upcoming DevOps Days</h2>
-
-<ul>
-<li><a href="http://devopsdays.org/events/2013-atlanta/">Atlanta</a> - October 3-4</li>
-<li><a href="http://devopsdays.org/events/2013-barcelona/">Barcelona</a> - October 10-11</li>
-<li><a href="http://devopsdays.org/events/2013-newyork/">New York</a> - October 17-18</li>
-<li><a href="http://devopsdays.org/events/2013-vancouver/">Vancouver</a> - October 25-26</li>
-<li><a href="http://devopsdays.org/events/2013-portland/">Portland</a> - November 4-5</li>
-<li><a href="http://devopsdays.org/events/2013-london/">London</a> - November 11-12</li>
-<li><a href="http://devopsdays.org/events/2013-india/">India</a> - November 16-17</li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>What is DevOps?</li>
-<li><a href="http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library">ITIL</a></li>
-<li>Learning Organizations</li>
-<li><a href="http://conservancy.umn.edu/bitstream/53624/1/Hsu_umn_0130E_10474.pdf">Organizational Learning Culture&#8217;s Influence on Job Satisfaction, Organizational Commitment, and Turnover Intention among R&amp;D Professionals in Taiwan during an Economic Downturn</a></li>
-<li>Dimensions of Organizational Learning
-
-<ul>
-<li>Continuous Learning</li>
-<li>Inquiry and Dialogue</li>
-<li>Team Learning</li>
-<li>Empowerment</li>
-<li>Embedded System</li>
-<li>System Connection</li>
-<li>Strategic Leadership</li>
-</ul>
-</li>
-<li><a href="http://www.partnersforlearning.com/instructions.html">Questionnaire</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Conway%27s_law">Conway&#8217;s Law</a></li>
-<li>Transforming Organizations into a Learning Organizations</li>
-<li>Culture</li>
-<li>Continuous Learning</li>
-<li>Understanding Political Processes</li>
-<li>Money</li>
-<li>Enterprise Transformation</li>
-<li><a href="http://en.wikipedia.org/wiki/Inattentional_blindness">Situational Blindness</a></li>
-<li>The Future of these Organizations</li>
-<li><a href="http://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553">Maverick</a></li>
-<li>Local Rationality</li>
-<li>Modern Management</li>
-<li>Leadership</li>
-<li><a href="http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342">The Fifth Discipline</a></li>
-<li>Make more awesome!</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Andrew</h4>
-
-<ul>
-<li>Volunteer Work</li>
-<li>Don&#8217;t take things for granted</li>
-</ul>
-
-
-<h4>Julian</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/Leading-Change-Preface-Author-ebook/dp/B00A07FPEO/ref=sr_1_1?ie=UTF8&amp;qid=1380676867&amp;sr=8-1&amp;keywords=john+kotter">Leading Change by John P. Kotter</a></li>
-<li><a href="http://www.amazon.com/Winning-Ultimate-Business-How--ebook/dp/B000FCK3GO/ref=sr_1_1?ie=UTF8&amp;qid=1380676945&amp;sr=8-1&amp;keywords=winning+jack+welch">Winning by Jack Welsh</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li>Rocky Mountain Ruby Conference &amp; the <a href="https://speakerdeck.com/nathenharvey/intro-to-chef-rocky-mountain-ruby">Introduction to Chef</a> workshop.</li>
-<li><a href="https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Opscode Community Summit</a></li>
-<li><a href="http://www.opscode.com/blog/2013/09/24/awesome-community-chefs-miah-johnson-game-for-cookbooking-awesome/">Miah Johnson</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3">Audio</a></li>
-<li><a href="http://youtu.be/jT6JdGHVbj0">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chef and HPC]]></title>
-    <link href="http://foodfightshow.org//2013/09/chef-and-hpc.html"/>
-    <updated>2013-09-27T10:08:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/09/chef-and-hpc</id>
-    <content type="html"><![CDATA[<p>Bryan and Nathen are joined by <a href="http://www.rce-cast.com/about/about-the-hosts.html#brockp">Brock Palen</a> and <a href="http://www.rce-cast.com/about/about-the-hosts.html#jsquyres">Jeff Squyers</a>,  the co-hosts of the <a href="http://www.rce-cast.com/">RCE Cast</a>, a podcast about High Performance Computing.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/P44L-7jLb6w" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/09/chef-and-hpc.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/09/chef-and-hpc.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/09/chef-and-hpc.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3">Audio</a></li>
-<li><a href="http://youtu.be/P44L-7jLb6w">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Brock Palen <a href="https://twitter.com/brockpalen">twitter</a>, <a href="https://github.com/brockpalen">github</a>, <a href="http://www.failureasaservice.com/">blog</a></li>
-<li>Jeff Squyres <a href="https://twitter.com/jsquyres">twitter</a>, <a href="https://github.com/jsquyres">github</a></li>
-<li>Ben Cotton <a href="https://twitter.com/funnelfiasco">twitter</a>, <a href="https://github.com/funnelfiasco">github</a>, <a href="http://www.funnelfiasco.com/">blog</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<p></p>
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li><a href="http://devopsdays.org/">Upcoming devopsdays</a></li>
-<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp</a></li>
-<li><a href="http://www.rce-cast.com/">RCE an HPC Podcast</a></li>
-<li>What is HPC? <a href="http://en.wikipedia.org/wiki/Supercomputer">High Performance Computing</a></li>
-<li>Traditional HPC vs <a href="http://en.wikipedia.org/wiki/Apache_Hadoop">Hadoop</a></li>
-<li>Infrastructure</li>
-<li>Virtualization and Performance</li>
-<li>Paying and Retaining SysAdmins</li>
-<li><a href="http://top500.org/">TOP500</a></li>
-<li>HPC and Chef</li>
-<li><a href="http://www.opscode.com/blog/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/">Facebook talk from ChefConf</a></li>
-<li><a href="http://www.opscode.com/blog/chefconf-talks/utility-hpc-right-systems-right-scale-right-science-jason-stowe/">Cycle Computing talk from ChefConf</a></li>
-<li>Resources</li>
-<li>Cookbooks</li>
-<li><a href="http://docs.opscode.com/resource_cron.html">cron</a></li>
-<li>Search</li>
-<li><a href="https://learnchef.opscode.com/">Learn Chef</a></li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Brock</h4>
-
-<ul>
-<li><a href="http://marginalrevolution.com/">Marginal Revolution</a></li>
-<li>Sitting on Yoga balls and Standing Desks</li>
-</ul>
-
-
-<h4>Matt</h4>
-
-<ul>
-<li><a href="http://www.treadmilldeskdiary.com/">The Treadmill Desk Diary</a></li>
-<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Sunshine (Music from the Motion Picture</a></li>
-</ul>
-
-
-<h4>Jeff</h4>
-
-<ul>
-<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
-<li><a href="https://github.com/jsquyres/pynest">pynest</a></li>
-<li><a href="https://github.com/jhermann/ruby-slippers">ruby-slippers</a></li>
-</ul>
-
-
-<h4>Ben</h4>
-
-<ul>
-<li><a href="https://www.usenix.org/conference/lisa13">LISA</a></li>
-<li><a href="https://www.google.com/?doodle=9019609">Today&#8217;s Doodle Google</a></li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="https://github.com/diranged">Matt Wise</a></li>
-<li><a href="https://soundcloud.com/chvrches">Chvrches</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://www.unlockingthetruthband.com/">Unlocking the Truth</a></li>
-<li><a href="https://itunes.apple.com/us/album/sunshine-music-from-motion/id297702863">Interview with Unlocking the Truth</a></li>
-<li>Happy 7th Birthday, Shannon!</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3">Audio</a></li>
-<li><a href="http://youtu.be/P44L-7jLb6w">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ohai]]></title>
-    <link href="http://foodfightshow.org//2013/09/ohai.html"/>
-    <updated>2013-09-17T11:22:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/09/ohai</id>
-    <content type="html"><![CDATA[<p>Join our discussion about Ohai and Ohai Plugins.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="560" height="315" src="http://foodfightshow.org///www.youtube.com/embed/g-q-P2z87zg?list=UUjcxay9M63Ci4CmFF9KO3jw" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/09/ohai.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/09/ohai.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/09/ohai.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-62-Ohai.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=g-q-P2z87zg">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Bryan McLellan - <a href="https://twitter.com/btmspox">twitter</a>, <a href="https://github.com/btm">github</a>, <a href="http://loftninjas.org/">blog</a></li>
-<li>Claire McQuin - <a href="https://github.com/mcquin">github</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>Seth Vargo - <a href="http://github.com/sethvargo">github</a>, <a href="https://twitter.com/sethvargo">twitter</a></li>
-<li>Warren &#8216;Wazza&#8217; Bain <a href="http://github.com/thoughtcroft">github</a>, <a href="https://twitter.com/thoughtcroft">twitter</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Introductions</li>
-<li><a href="http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us">Warren&#8217;s Blog Post: Cloud programming part four: how to write and install an Ohai plugin, the Fight Club way</a></li>
-<li>What Ohai does and what it&#8217;s used for</li>
-<li>Writing your own Ohai plugin</li>
-<li><a href="http://docs.opscode.com/community_plugin_ohai.html">Community Plugins: Ohai</a></li>
-<li><a href="http://docs.opscode.com/ohai.html">Ohai documentation</a></li>
-<li><a href="https://github.com/ninefold/chef-ninefold-ohai">ninefold_ohai cookbook</a></li>
-<li>The Hints System</li>
-<li>Testing</li>
-<li><a href="https://github.com/customink/fauxhai">fauxhai</a></li>
-<li>Running Ohai plugins</li>
-<li>What&#8217;s coming in Ohai 7</li>
-<li>Attributes</li>
-<li>More flexibility in plugin path organization</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Seth</h4>
-
-<ul>
-<li>Iced Tea</li>
-</ul>
-
-
-<h4>Warren</h4>
-
-<ul>
-<li><a href="http://gopro.com/">GoPro Camera</a></li>
-<li><a href="http://gogaruco.com/">GoGaRuCo</a></li>
-<li><a href="https://flood.io/">flood.io</a></li>
-<li><a href="http://www.imdb.com/title/tt0434409/">V for Vendetta</a></li>
-</ul>
-
-
-<h4>Claire</h4>
-
-<ul>
-<li><a href="http://baroness.bandcamp.com/album/yellow-green">Baroness &#8220;Yellow &amp; Green&#8221;</a></li>
-<li>Using a Tennis Ball</li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="https://plus.google.com/113194239234001586097/posts/MZna2qrTBfm">Disable typing mute in Google Hangouts on both OS X and Windows</a></li>
-<li><a href="https://www.beeminder.com/">Beeminder</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://rockymtnruby.com/">Rocky Mountain Ruby</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-62-Ohai.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=g-q-P2z87zg">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[OpenStack]]></title>
-    <link href="http://foodfightshow.org//2013/09/openstack.html"/>
-    <updated>2013-09-16T10:31:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/09/openstack</id>
-    <content type="html"><![CDATA[<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dzbBxezbXko" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/09/openstack.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/09/openstack.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/09/openstack.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow61-OpenStack.mp3">Audio</a></li>
-<li><a href="http://youtu.be/dzbBxezbXko">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Craig Tracey - <a href="https://twitter.com/craig_tracey">twitter</a>, <a href="https://github.com/craigtracey">github</a>, <a href="http://www.scalehorizontally.com/">blog</a></li>
-<li>Edmund Haselwanter - <a href="http://twitter.com/ehaselwanter">twitter</a>, <a href="http://github.com/ehaselwanter">github</a></li>
-<li>Hendrik Volkmer  <a href="http://github.com/hvolkmer">github</a>, <a href="http://www.twitter.com/hvolkmer">twitter</a>, blog: <a href="http://blog.hendrikvolkmer.de/">Refactoring life. Mercilessly.</a></li>
-<li>Judd Maltin - <a href="https://twitter.com/newgoliath">twitter</a>, <a href="https://github.com/newgoliath">github</a>, irc:  newgoliath, <a href="http://blog.newgoliath.com/">blog</a></li>
-<li>Matt Ray <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>Rob Hirschfeld - <a href="https://twitter.com/zehicle">twitter</a>, <a href="https://github.com/cloudedge">github</a>, <a href="http://robhirschfeld.com/">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Introductions</li>
-<li>What is OpenStack?</li>
-<li><a href="http://robhirschfeld.com/2013/07/22/kicking-off-core/">Rob Hirschfeld: Kicking off discussion about OpenStack Core</a></li>
-<li><a href="http://www.rackspace.com">Rackspace</a></li>
-<li>7 Core Components (Terms)</li>
-<li><a href="http://docs.openstack.org/developer/nova/">Compute (Nova)</a></li>
-<li><a href="http://docs.openstack.org/developer/swift/">Object Storage (Swift)</a></li>
-<li><a href="http://docs.openstack.org/developer/glance/">Image Service (Glance)</a></li>
-<li><a href="https://wiki.openstack.org/wiki/Keystone">Identity Service (Keystone)</a></li>
-<li><a href="http://docs.openstack.org/developer/horizon/">Dashboard (Horizon)</a></li>
-<li><a href="https://wiki.openstack.org/wiki/Neutron">Network Service (Neutron)</a></li>
-<li><a href="https://wiki.openstack.org/wiki/Cinder">Block Storage Service (Cinder)</a></li>
-<li>Metering Service (Salometer)</li>
-<li>Orchestration (Heat)</li>
-<li><a href="http://devstack.org/">DevStack</a></li>
-<li><a href="https://github.com/dotcloud/docker">docker</a></li>
-<li><a href="http://docs.opscode.com/openstack.html">Chef for OpenStack</a></li>
-<li><a href="https://github.com/opscode/knife-openstack">knife-openstack</a></li>
-<li><a href="http://www.python.org/">Python</a></li>
-<li><a href="https://wiki.openstack.org/wiki/How_To_Contribute">How To Contribute to OpenStack</a></li>
-<li><a href="https://review.openstack.org/#/q/status:open,n,z">review.openstack.org</a></li>
-<li>The Path to Openstack</li>
-<li>Transitioning from a public cloud to Openstack</li>
-<li>Complience</li>
-<li>Efficiency</li>
-<li>Tooling around APIs</li>
-<li>The Knife Commands</li>
-<li>Knife Cloud</li>
-<li><a href="https://github.com/opscode/knife-openstack">knife-openstack</a></li>
-<li><a href="http://www.openstack.org/summit/openstack-summit-hong-kong-2013/?source=o3">OpenStack Summit Hong Kong</a></li>
-<li><a href="https://github.com/craigtracey/omnibus-openstack">omnibus-openstack</a></li>
-<li>Grizly to Havannah and sequencing upgrades</li>
-<li><a href="http://docs.opscode.com/openstack.html">docs.opscode.com/openstack</a></li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Craig</h4>
-
-<ul>
-<li><a href="https://wiki.openstack.org/wiki/Ironic">Ironic</a></li>
-<li><a href="https://github.com/sensu">sensu</a></li>
-</ul>
-
-
-<h4>Edmund</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592">The Phoenix Project</a></li>
-<li><a href="http://www.amazon.com/Random-Access-Memories-Daft-Punk/dp/B00C061I3K">Daft Punk: Random Access Memories</a></li>
-</ul>
-
-
-<h4>Hendrik</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/ref=sr_1_cc_1?s=aps&amp;ie=UTF8&amp;qid=1379445344&amp;sr=1-1-catcorr&amp;keywords=antifragile">Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb</a></li>
-<li>Grilled Tuna</li>
-</ul>
-
-
-<h4>Judd</h4>
-
-<ul>
-<li><a href="http://coreos.com/">CoreOS</a></li>
-<li><a href="http://pemachodronfoundation.org/">Pema Chödrön</a></li>
-</ul>
-
-
-<h4>Matt</h4>
-
-<ul>
-<li><a href="http://www.joinfu.com/2013/05/working-with-the-openstack-code-review-and-ci-system-chef-edition/">Working with the OpenStack Code Review and CI system – Chef Edition</a></li>
-<li><a href="http://www.youtube.com/watch?v=FuarlNKs_FY">Vagabond multinode testing walkthrough with Chris Roberts</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://www.google.com/intl/en/chrome/devices/chromecast/">Chromecast</a></li>
-<li><a href="http://jtimberman.housepub.org/blog/2013/09/10/managing-secrets-with-chef-vault/">chef-vault</a></li>
-<li><a href="https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Community Summit</a></li>
-</ul>
-
-
-<h4>Rob</h4>
-
-<ul>
-<li><a href="http://www.rhapsody.com/artist/cloud-cult">Cloud Cult</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow61-OpenStack.mp3">Audio</a></li>
-<li><a href="http://youtu.be/dzbBxezbXko">Video</a></li>
 </ul>
 
 

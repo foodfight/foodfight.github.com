@@ -4,7 +4,7 @@
   <title><![CDATA[Category: windows | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/windows/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-10-13T18:25:00-04:00</updated>
+  <updated>2014-11-04T22:15:14-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Even MOAR Windows]]></title>
+    <link href="http://foodfightshow.org//2014/10/even-moar-windows.html"/>
+    <updated>2014-10-18T12:01:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/10/even-moar-windows</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS081.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Steven Murawski <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
+<li>Adam Edwards <a href="https://github.com/adamedx">github</a></li>
+<li>Daniel Mitchell</li>
+<li>Hans</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>How do I figure out how parameterize an MSI install?</li>
+<li>Key windows-specific resources you should know about: registry_key, env</li>
+<li>Creating and managing Windows services
+
+<ul>
+<li>What is a windows service?</li>
+<li>Tools, automating creation of services?</li>
+<li>nssm.cc, procrun</li>
+<li>How does a service resource relate to Windows services?</li>
+<li>Explaining "Get-Service", "Start-Service", "Stop-Service"</li>
+</ul>
+</li>
+<li>If run chef under the SYSTEM user and sometimes I get weird errors that I can't reproduce while logged in
+ANSWER: <code>psexec -s some_command.exe</code></li>
+<li>What is the pstools suite? Which commands are of particular interest:
+ANSWER: All of them.</li>
+<li>Servercore - Can I run Powershell ISE or another editor with server core? Otherwise, how do I edit files?</li>
+<li>Servercore gotchas</li>
+<li>Building windows amis for EC2
+
+<ul>
+<li>Put code to generate SSL certificate in userdata</li>
+<li>Connect to instance over winrm</li>
+<li>Packer is your friend</li>
+</ul>
+</li>
+<li>There is a good example in the <a href="https://github.com/ansible/ansible/blob/devel/examples/scripts/ConfigureRemotingForAnsible.ps1">Ansible codebase</a>, example from knife bootstrap?</li>
+<li>Is using GNUWIN32 utilities on windows, a bad idea?
+YES Bryan: <code>less</code> can't read unicode files on win2k12, <code>ls</code> has bizarre issues</li>
+<li>remote-file editing w/ ISE coming</li>
+<li>Powershell basics: Do both stdout and stderr return objects?
+There are actually 7, count 'em 7 streams</li>
+<li>What is the equivalent of (strace)[http://en.wikipedia.org/wiki/Strace] in Windows?</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Windows Roundtable]]></title>
