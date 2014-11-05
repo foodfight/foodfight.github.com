@@ -21,6 +21,8 @@ Panel<a name="panel"></a>
 * Daniel Mitchell
 * Hans
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 
@@ -34,7 +36,7 @@ Outline<a name="outline"></a>
   * Explaining "Get-Service", "Start-Service", "Stop-Service"
 * If run chef under the SYSTEM user and sometimes I get weird errors that I can't reproduce while logged in
   ANSWER: ```psexec -s some_command.exe```
-* What is the pstools suite? Which commands are of particular interest: 
+* What is the pstools suite? Which commands are of particular interest:
   ANSWER: All of them.
 * Servercore - Can I run Powershell ISE or another editor with server core? Otherwise, how do I edit files?
 * Servercore gotchas
@@ -43,10 +45,9 @@ Outline<a name="outline"></a>
   * Connect to instance over winrm
   * Packer is your friend
 * There is a good example in the [Ansible codebase](https://github.com/ansible/ansible/blob/devel/examples/scripts/ConfigureRemotingForAnsible.ps1), example from knife bootstrap?
-* Is using GNUWIN32 utilities on windows, a bad idea? 
+* Is using GNUWIN32 utilities on windows, a bad idea?
   YES Bryan: `less` can't read unicode files on win2k12, `ls` has bizarre issues
 * remote-file editing w/ ISE coming
-* Powershell basics: Do both stdout and stderr return objects? 
+* Powershell basics: Do both stdout and stderr return objects?
   There are actually 7, count 'em 7 streams
-* What is the equivalent of (strace)[http://en.wikipedia.org/wiki/Strace] in Windows? 
-
+* What is the equivalent of (strace)[http://en.wikipedia.org/wiki/Strace] in Windows?
