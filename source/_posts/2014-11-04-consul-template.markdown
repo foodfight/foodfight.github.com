@@ -42,6 +42,78 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+* Seth Vargo Introduction
+* [consul-template](https://www.hashicorp.com/) Introduction
+  * [Go!](http://go.aopphp.com)
+    * [go-template](https://github.com/blalor/go-template)
+	* Consul - [consul.io](https://consul.io)
+	* [JSON](http://json.org)
+	* [redis](http://json.org)
+	* [Ruby](http://www.ruby-lang.org)
+	* [WebNode15](http://us.webnode.com/)
+	* [Chef](https://www.getchef.com/chef/)
+    * [Chef Cookbook](https://supermarket.getchef.com/cookbooks-directory)
+      * [chef-template](https://supermarket.getchef.com/cookbooks-directory)
+	* [Puppet](http://puppetlabs.com/)
+	* [Ansible](http://www.ansible.com/home)
+	* [IRC](http://www.irc.org/)
+	* [Bash](http://www.gnu.org/software/bash/)
+    * [bash-template](https://github.com/thcipriani/bashtemplate)
+* [Quiescence](http://en.wikipedia.org/wiki/Quiesce)
+	* [Quiescence - Webster’s Dictionary](http://dictionary.reference.com/browse/quiescence?s=ts)
+	* [DryRun](https://github.com/dessolator/DryRun)
+	* [Verbosity](https://github.com/tlevine/verbosity)
+* Seth’s Background
+	* [HachiCorp](https://www.hashicorp.com/)
+	* [Vagrant](https://www.vagrantup.com/)	
+	* [Rails](http://rubyonrails.org/)
+	* [Go! for Rubyists](http://www.sitepoint.com/go-rubyists/)
+	* [C programming language](http://en.wikipedia.org/wiki/C_(programming_language)
+	* [“Write In Go!” - YouTube](https://www.youtube.com/watch?v=LJvEIjRBSDA)
+* HachiCorp Config Language [(HCL)](https://github.com/hashicorp/hcl)
+	* [Terraform](https://www.terraform.io/)
+	* [AtSite](http://atsiteinc.com/)
+	* [Yaml](http://yaml.org/)
+	* [nginx](http://nginx.org/)
+	* [JSON.dom](https://github.com/toddself/jsondom)
+	* [TOML](https://github.com/toml-lang/toml)
+    * [GitHub](https://github.com/)
+	* [Packer](https://www.packer.io/)
+  * [HAProxy](http://www.haproxy.org/)
+* consul-template and Future of Tools
+	* [@MPHOENIXX](https://twitter.com/MPHOENIXX)
+	* [conf.d](https://github.com/Atha/update-conf.d)
+	* [Adam Jacob](https://twitter.com/adamhjk)
+	* [Facebook](https://www.facebook.com/)
+	* [ChefConf](http://chefconf.opscode.com/chefconf/)
+    * [Mike Fiedler](https://twitter.com/mikefiedler)
+			* [Treating Your Infrastructure Like Garbage - Mike Fiedler at ChefConf](https://www.getchef.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/)
+	* [Retina Machine](http://www.fhmachinery.com/inspect/4469.htm)
+	* FS01
+* Future of HashiCorp and Projects
+	* [Vagrant Cloud](https://vagrantcloud.com/)
+		* [Vagrant Share](http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-share.html)
+		* [Rails App](http://railsapps.github.io/)
+	* [Serf](https://serfdom.io/)
+	* [SALT](http://saltsoftware.com/)
+	* [Kelsey Hightower’s confd](https://github.com/kelseyhightower/confd)
+		* [@kelseyhightower](https://twitter.com/kelseyhightower)
+* Future of consul-template
+	* [Lua](http://www.lua.org/)
+	* open REST C2
+	* [Dart](http://www.dartjs.com/)
+* consul-template and Multiple Services
+	* [Dash](https://github.com/Dash-Industry-Forum/dash.js/wiki)
+		* [dash.config](https://github.com/Dash-Industry-Forum/dash.js/search?utf8=%E2%9C%93&q=dash.config&type=Code)
+	* Pine Forest App
+	* [Elasticsearch](http://www.elasticsearch.org/)
+	* Glare Cluster
+	* [Ticonderoga](https://github.com/alanbsmith/big_t)
+* Authorization
+	* [Twitter](https://twitter.com/)
+	* [Apple](http://www.apple.com/)
+	* [consul 0.4](https://www.hashicorp.com/blog/consul-0-4.html)
+
 Picks<a name="picks"></a>
 -----
 
