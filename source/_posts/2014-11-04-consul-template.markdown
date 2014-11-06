@@ -68,7 +68,7 @@ Outline<a name="outline"></a>
 	* [Vagrant](https://www.vagrantup.com/)	
 	* [Rails](http://rubyonrails.org/)
 	* [Go! for Rubyists](http://www.sitepoint.com/go-rubyists/)
-	* [C programming language](http://en.wikipedia.org/wiki/C_(programming_language)
+	* [C programming language](http://en.wikipedia.org/wiki/C_(programming_language))
 	* [“Write In Go!” - YouTube](https://www.youtube.com/watch?v=LJvEIjRBSDA)
 * HachiCorp Config Language [(HCL)](https://github.com/hashicorp/hcl)
 	* [Terraform](https://www.terraform.io/)
