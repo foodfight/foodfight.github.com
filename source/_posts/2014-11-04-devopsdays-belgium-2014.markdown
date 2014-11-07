@@ -21,6 +21,31 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+* Five-Year Anniversary
+* [DevOps Days Conference](http://www.devopsdays.org/) 
+	* [Patrick Debois](https://twitter.com/patrickdebois)
+	* [DevOps](http://devops.com/)
+  * Open Spaces
+* What’s Special About DevOps - [J. Paul Reed](https://twitter.com/SoberBuildEng)	
+  * [The Ship Show](http://theshipshow.com/)
+		* [@ShipShowPodcast](https://twitter.com/ShipShowPodcast)
+  * Culture vs. Tools
+	* [Reddit Thread on DevOps](http://www.reddit.com/search?q=devops)
+	* [Thank You Patrick - YouTube](https://www.youtube.com/watch?v=f62xu5pDQaw)
+	* [The Ship Show - Five Years of DevOps (and Its Days)](http://theshipshow.com/2014/11/five-years-of-devops-and-its-days/)
+	* [DevOps Days Talks and Events](http://devopsdays.org/events/2014-belgium/)
+	* [Michael Ducy](https://twitter.com/mfdii)
+	* [Andi Mann](https://twitter.com/AndiMann)
+* Concepts of Talks
+	* [Inclusive Language and Actions](http://dictionary.reference.com/browse/inclusive+language)
+	* Gender Bias
+* Next DevOps Conferences
+  * [FOSDEM](https://fosdem.org/2015/): Brussels - January 2015
+  * [Config Management Camp](http://cfgmgmtcamp.eu/): Gent February 2-3, 2015
+  * DevOps Days Paris - April 2015
+* Social Contracts
+* Future of DevOps - Closing Thoughts
+
 Download
 --------
 * Audio - Coming Soon!
