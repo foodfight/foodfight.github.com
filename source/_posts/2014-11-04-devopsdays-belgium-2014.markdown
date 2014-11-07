@@ -8,15 +8,8 @@ categories:
 
 ---
 
-* [Panel](http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#panel)
 * [Outline](http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline)
 * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow83-DevOpsDaysBelgium.mp3)
-
-
-Panel<a name="panel"></a>
------
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
 
 Outline<a name="outline"></a>
 -------
