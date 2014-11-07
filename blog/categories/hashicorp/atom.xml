@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hashicorp | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/hashicorp/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-11-04T22:15:14-05:00</updated>
+  <updated>2014-11-07T06:11:45-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -44,7 +44,7 @@
 <li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
 </ul>
 </li>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -62,6 +62,141 @@
 
 
 <h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Seth Vargo Introduction</li>
+<li><a href="https://www.hashicorp.com/">consul-template</a> Introduction
+
+<ul>
+<li><a href="http://go.aopphp.com">Go!</a>
+
+<ul>
+<li><a href="https://github.com/blalor/go-template">go-template</a></li>
+<li>Consul - <a href="https://consul.io">consul.io</a></li>
+<li><a href="http://json.org">JSON</a></li>
+<li><a href="http://json.org">redis</a></li>
+<li><a href="http://www.ruby-lang.org">Ruby</a></li>
+<li><a href="http://us.webnode.com/">WebNode15</a></li>
+<li><a href="https://www.getchef.com/chef/">Chef</a></li>
+<li><a href="https://supermarket.getchef.com/cookbooks-directory">Chef Cookbook</a>
+
+<ul>
+<li><a href="https://supermarket.getchef.com/cookbooks-directory">chef-template</a></li>
+</ul>
+</li>
+<li><a href="http://puppetlabs.com/">Puppet</a></li>
+<li><a href="http://www.ansible.com/home">Ansible</a></li>
+<li><a href="http://www.irc.org/">IRC</a></li>
+<li><a href="http://www.gnu.org/software/bash/">Bash</a></li>
+<li><a href="https://github.com/thcipriani/bashtemplate">bash-template</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Quiesce">Quiescence</a>
+
+<ul>
+<li><a href="http://dictionary.reference.com/browse/quiescence?s=ts">Quiescence - Webster’s Dictionary</a></li>
+<li><a href="https://github.com/dessolator/DryRun">DryRun</a></li>
+<li><a href="https://github.com/tlevine/verbosity">Verbosity</a></li>
+</ul>
+</li>
+<li>Seth’s Background
+
+<ul>
+<li><a href="https://www.hashicorp.com/">HachiCorp</a></li>
+<li><a href="https://www.vagrantup.com/">Vagrant</a></li>
+<li><a href="http://rubyonrails.org/">Rails</a></li>
+<li><a href="http://www.sitepoint.com/go-rubyists/">Go! for Rubyists</a></li>
+<li><a href="http://en.wikipedia.org/wiki/C_(programming_language">C programming language</a>)</li>
+<li><a href="https://www.youtube.com/watch?v=LJvEIjRBSDA">“Write In Go!” - YouTube</a></li>
+</ul>
+</li>
+<li>HachiCorp Config Language <a href="https://github.com/hashicorp/hcl">(HCL)</a>
+
+<ul>
+<li><a href="https://www.terraform.io/">Terraform</a></li>
+<li><a href="http://atsiteinc.com/">AtSite</a></li>
+<li><a href="http://yaml.org/">Yaml</a></li>
+<li><a href="http://nginx.org/">nginx</a></li>
+<li><a href="https://github.com/toddself/jsondom">JSON.dom</a></li>
+<li><a href="https://github.com/toml-lang/toml">TOML</a></li>
+<li><a href="https://github.com/">GitHub</a></li>
+<li><a href="https://www.packer.io/">Packer</a></li>
+<li><a href="http://www.haproxy.org/">HAProxy</a></li>
+</ul>
+</li>
+<li>consul-template and Future of Tools
+
+<ul>
+<li><a href="https://twitter.com/MPHOENIXX">@MPHOENIXX</a></li>
+<li><a href="https://github.com/Atha/update-conf.d">conf.d</a></li>
+<li><a href="https://twitter.com/adamhjk">Adam Jacob</a></li>
+<li><a href="https://www.facebook.com/">Facebook</a></li>
+<li><a href="http://chefconf.opscode.com/chefconf/">ChefConf</a></li>
+<li><a href="https://twitter.com/mikefiedler">Mike Fiedler</a>
+
+<ul>
+<li> <a href="https://www.getchef.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/">Treating Your Infrastructure Like Garbage - Mike Fiedler at ChefConf</a></li>
+</ul>
+</li>
+<li><a href="http://www.fhmachinery.com/inspect/4469.htm">Retina Machine</a></li>
+<li>FS01</li>
+</ul>
+</li>
+<li>Future of HashiCorp and Projects
+
+<ul>
+<li><a href="https://vagrantcloud.com/">Vagrant Cloud</a>
+
+<ul>
+<li><a href="http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-share.html">Vagrant Share</a></li>
+<li><a href="http://railsapps.github.io/">Rails App</a></li>
+</ul>
+</li>
+<li><a href="https://serfdom.io/">Serf</a></li>
+<li><a href="http://saltsoftware.com/">SALT</a></li>
+<li><a href="https://github.com/kelseyhightower/confd">Kelsey Hightower’s confd</a>
+
+<ul>
+<li><a href="https://twitter.com/kelseyhightower">@kelseyhightower</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Future of consul-template
+
+<ul>
+<li><a href="http://www.lua.org/">Lua</a></li>
+<li>open REST C2</li>
+<li><a href="http://www.dartjs.com/">Dart</a></li>
+</ul>
+</li>
+<li>consul-template and Multiple Services
+
+<ul>
+<li><a href="https://github.com/Dash-Industry-Forum/dash.js/wiki">Dash</a>
+
+<ul>
+<li><a href="https://github.com/Dash-Industry-Forum/dash.js/search?utf8=%E2%9C%93&amp;q=dash.config&amp;type=Code">dash.config</a></li>
+</ul>
+</li>
+<li>Pine Forest App</li>
+<li><a href="http://www.elasticsearch.org/">Elasticsearch</a></li>
+<li>Glare Cluster</li>
+<li><a href="https://github.com/alanbsmith/big_t">Ticonderoga</a></li>
+</ul>
+</li>
+<li>Authorization
+
+<ul>
+<li><a href="https://twitter.com/">Twitter</a></li>
+<li><a href="http://www.apple.com/">Apple</a></li>
+<li><a href="https://www.hashicorp.com/blog/consul-0-4.html">consul 0.4</a></li>
+</ul>
+</li>
+</ul>
+
 
 <h2>Picks<a name="picks"></a></h2>
 
@@ -116,7 +251,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
 <li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
 </ul>
 </li>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3">Audio</a></li>
 </ul>
 
 
