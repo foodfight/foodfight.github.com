@@ -10,7 +10,7 @@ categories:
 
 * [Panel](http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#panel)
 * [Outline](http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline)
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow83-DevOpsDaysBelgium.mp3)
 
 
 Panel<a name="panel"></a>
@@ -22,13 +22,13 @@ Outline<a name="outline"></a>
 -------
 
 * Five-Year Anniversary
-* [DevOps Days Conference](http://www.devopsdays.org/) 
+* [DevOps Days Conference](http://www.devopsdays.org/)
 	* [Patrick Debois](https://twitter.com/patrickdebois)
 	* [DevOps](http://devops.com/)
   * Open Spaces
-* What’s Special About DevOps - [J. Paul Reed](https://twitter.com/SoberBuildEng)	
+* What’s Special About DevOps - [J. Paul Reed](https://twitter.com/SoberBuildEng)
   * [The Ship Show](http://theshipshow.com/)
-		* [@ShipShowPodcast](https://twitter.com/ShipShowPodcast)
+	*  [@ShipShowPodcast](https://twitter.com/ShipShowPodcast)
   * Culture vs. Tools
 	* [Reddit Thread on DevOps](http://www.reddit.com/search?q=devops)
 	* [Thank You Patrick - YouTube](https://www.youtube.com/watch?v=f62xu5pDQaw)
@@ -48,7 +48,7 @@ Outline<a name="outline"></a>
 
 Download
 --------
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow83-DevOpsDaysBelgium.mp3)
 
 <hr />
 

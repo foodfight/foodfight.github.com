@@ -27,7 +27,7 @@ Watch Now
   * Video
     * [Part 1](https://www.youtube.com/watch?v=_0tULKMoiCA)
     * [Part 2](https://www.youtube.com/watch?v=1NWzF4TTQnU)
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3)
 
 
 Panel<a name="panel"></a>
@@ -65,7 +65,7 @@ Outline<a name="outline"></a>
 	* [Verbosity](https://github.com/tlevine/verbosity)
 * Seth’s Background
 	* [HachiCorp](https://www.hashicorp.com/)
-	* [Vagrant](https://www.vagrantup.com/)	
+	* [Vagrant](https://www.vagrantup.com/)
 	* [Rails](http://rubyonrails.org/)
 	* [Go! for Rubyists](http://www.sitepoint.com/go-rubyists/)
 	* [C programming language](http://en.wikipedia.org/wiki/C_(programming_language))
@@ -87,7 +87,7 @@ Outline<a name="outline"></a>
 	* [Facebook](https://www.facebook.com/)
 	* [ChefConf](http://chefconf.opscode.com/chefconf/)
     * [Mike Fiedler](https://twitter.com/mikefiedler)
-			* [Treating Your Infrastructure Like Garbage - Mike Fiedler at ChefConf](https://www.getchef.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/)
+		 * [Treating Your Infrastructure Like Garbage - Mike Fiedler at ChefConf](https://www.getchef.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/)
 	* [Retina Machine](http://www.fhmachinery.com/inspect/4469.htm)
 	* FS01
 * Future of HashiCorp and Projects
@@ -144,7 +144,7 @@ Download
 * Video
   * [Part 1](https://www.youtube.com/watch?v=_0tULKMoiCA)
   * [Part 2](https://www.youtube.com/watch?v=1NWzF4TTQnU)
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3)
 
 <hr />
 
