@@ -17,7 +17,7 @@ Watch Now
 * [Picks](http://foodfightshow.org/2014/11/apache-kafka.html#picks)
 * Download
   * [Video](https://www.youtube.com/watch?v=3b-sjsVMgd0)
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow85-Apache-Kafka.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -72,7 +72,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](https://www.youtube.com/watch?v=3b-sjsVMgd0)
-* Audio - Coming Soon
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow85-Apache-Kafka.mp3)
 
 <hr />
 
