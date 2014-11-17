@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-11-07T06:13:51-05:00</updated>
+  <updated>2014-11-17T11:11:45-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,146 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apache Kafka]]></title>
+    <link href="http://foodfightshow.org//2014/11/apache-kafka.html"/>
+    <updated>2014-11-17T10:55:00-05:00</updated>
+    <id>http://foodfightshow.org//2014/11/apache-kafka</id>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/3b-sjsVMgd0" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/11/apache-kafka.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/11/apache-kafka.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/11/apache-kafka.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=3b-sjsVMgd0">Video</a></li>
+<li>Audio - Coming Soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Jay Kreps <a href="https://twitter.com/jaykreps">twitter</a> <a href="https://twitter.com/jaykreps">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>[LinkedIn]</li>
+<li>Apache Kafka
+
+<ul>
+<li><a href="http://twitter.com/apachekafka">@apachekafka</a></li>
+</ul>
+</li>
+<li><strong>Kafka Defined</strong>: Kafka is a distributed, partitioned, replicated commit log service. It provides the functionality of a messaging system, but with a unique design.
+
+<ul>
+<li><a href="http://kafka.apache.org/documentation.html#introduction">Getting Started: Introduction</a></li>
+<li><a href="https://cwiki.apache.org/confluence/display/KAFKA/FAQ">FAQ</a></li>
+<li><a href="https://kafka.apache.org/documentation.html">Documentation</a></li>
+<li><a href="https://kafka.apache.org/contact.html">Mailing Lists</a></li>
+<li>irc.freenode.net/#apache-kafka</li>
+</ul>
+</li>
+<li>Replication &amp; Use Cases
+
+<ul>
+<li>Partitions</li>
+</ul>
+</li>
+<li><a href="http://zookeeper.apache.org/">ZooKeeper</a> &amp; Kafka
+
+<ul>
+<li><a href="http://hadoop.apache.org/">Apache Hadoop</a></li>
+</ul>
+</li>
+<li><a href="http://confluent.io/">Confluent</a>
+
+<ul>
+<li><a href="http://twitter.com/ConfluentInc">@ConfluentInc</a></li>
+<li><a href="https://www.linkedin.com/pulse/article/20141106180403-2945786-announcing-confluent-a-company-for-apache-kafka-and-realtime-data">Confluent Launch</a></li>
+</ul>
+</li>
+<li>Building a Company Around Open Source Infrastructure
+
+<ul>
+<li>Support &amp; Services</li>
+<li><a href="http://www.docker.com/">Docker Inc.</a>, <a href="https://hashicorp.com/">HashiCorp</a></li>
+<li>&#8220;Hosted Open Source&#8221;</li>
+<li><a href="http://aws.amazon.com/kinesis/">Amazon Kinesis</a></li>
+<li>Opportunity &amp; Funding</li>
+</ul>
+</li>
+<li>Ecosystems and &#8220;The Stream&#8221;
+
+<ul>
+<li><a href="https://github.com/getsamsa/samsa">samsa</a> - Productizing Kafka</li>
+<li>[Blog Post] Jay Kreps -<a href="http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying"> The Log: What every software engineer should know about real-time data&#8217;s unifying abstraction</a></li>
+</ul>
+</li>
+<li>Distributing Data
+
+<ul>
+<li>Data Centers</li>
+<li>Abstractions
+
+<ul>
+<li>Topics and Queues</li>
+<li>Consumers and Partitions</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://blog.sanctum.geek.nz/zooming-tmux-panes/">tmux pane zooming</a></li>
+</ul>
+
+
+<h4>Jay</h4>
+
+<ul>
+<li><a href="https://reinvent.awsevents.com/pressroom.html">Amazon AWS RE:Invent 2014 Product Announcements</a></li>
+<li><a href="http://druid.io/druid.html">Druid.io Analytics Processing</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=3b-sjsVMgd0">Video</a></li>
+<li>Audio - Coming Soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
@@ -22,6 +162,9 @@
 <li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow83-DevOpsDaysBelgium.mp3">Audio</a></li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -132,6 +275,11 @@
 </li>
 </ul>
 
+
+<!-- more -->
+
+
+<p></p>
 
 <h2>Panel<a name="panel"></a></h2>
 
@@ -2758,113 +2906,6 @@ There are actually 7, count &#8216;em 7 streams</li>
 
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow66-CommunitySummit-DayOne.mp3">Audio</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Livin' on the Edge with Al Tobey]]></title>
-    <link href="http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey.html"/>
-    <updated>2013-11-05T09:20:00-05:00</updated>
-    <id>http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey</id>
-    <content type="html"><![CDATA[<p>Join us as we discuss how to test your distributed system in production with Al Tobey</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/2Iz2ydIrPA8" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#news">Chef News</a></li>
-<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/11/livin-on-the-edge-with-al-tobey.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow65-LivingOnTheEdge.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=2Iz2ydIrPA8">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Al Tobey, Open Source Mechanic at Datastax <a href="https://github.com/tobert">github</a>, <a href="https://twitter.com/AlTobey">twitter</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<p>Outline<a name="outline"></a></p>
-
-<ul>
-<li>Introductions</li>
-<li><a href="http://www.youtube.com/watch?v=_IL1u1IIRhc">Practice Makes Perfect: Extreme Cassandra Optimization</a></li>
-<li><a href="https://github.com/apache/cassandra">cassandra</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Apache_Cassandra">Apache Cassandra Wiki</a></li>
-<li>Cassandra vs <a href="http://basho.com/riak/">Riak</a></li>
-<li><a href="http://www.datastax.com/">DataStax</a> and Cassandra</li>
-<li><a href="http://www.redhat.com/">Red Hat</a></li>
-<li><a href="http://www.mongodb.org/">MongoDB</a></li>
-<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Oracle JDK</a> and <a href="http://openjdk.java.net/">OpenJDK</a></li>
-<li>Optimization</li>
-<li>Third-Party Integration</li>
-<li>Red Hat and <a href="http://www.twitter.com">Twitter</a></li>
-<li>How Cassandra Deals with the Heap Space Issue</li>
-<li>Read Ahead</li>
-<li>Starting Points</li>
-<li>System D</li>
-<li>File Systems</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Bryan</h4>
-
-<ul>
-<li>Remapping the right option key on the Macbook to be a Control key</li>
-<li>M-f, M-b, M-d, M-del shortcuts in the shell, see the <a href="http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf">Emacs Readline Cheatsheet</a></li>
-</ul>
-
-
-<h4>Al</h4>
-
-<ul>
-<li><a href="http://www.vibramfivefingers.com/index.htm">Vibram shoes</a></li>
-<li><a href="http://serfdom.io">Serfdom</a></li>
-</ul>
-
-
-<h4>Mike</h4>
-
-<ul>
-<li><a href="http://www.cuculinary.com/2013/03/basil-polenta-with-poached-egg-and-lemon-roasted-brussels-sprouts/">Basil Polenta with Poached egg and lemon roasted brussel sprouts</a></li>
-<li><a href="http://rubymonk.com/">Ruby Monk Ruby Tutorials</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow65-LivingOnTheEdge.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=2Iz2ydIrPA8">Video</a></li>
 </ul>
 
 
