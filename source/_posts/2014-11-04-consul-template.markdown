@@ -29,7 +29,7 @@ Watch Now
     * [Part 2](https://www.youtube.com/watch?v=1NWzF4TTQnU)
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3)
 
-
+<!-- more --> 
 Panel<a name="panel"></a>
 -----
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)

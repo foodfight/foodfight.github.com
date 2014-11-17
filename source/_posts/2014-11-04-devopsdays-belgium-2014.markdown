@@ -11,6 +11,8 @@ categories:
 * [Outline](http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline)
 * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow83-DevOpsDaysBelgium.mp3)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 
