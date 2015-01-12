@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2014-11-17T11:33:46-05:00</updated>
+  <updated>2015-01-12T11:09:41-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,74 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Three Year Retrospective]]></title>
+    <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
+    <updated>2015-01-12T10:59:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
+    <content type="html"><![CDATA[<p>Join us on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&amp;iso=20150116T10&amp;p1=1928&amp;ah=1">Friday, January 16, 2015 at 15:00:00</a> for a look back at three years of the Food Fight Show!</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/01/three-year-retropective.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/01/three-year-retropective.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/01/three-year-retropective.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>This show will air on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&amp;iso=20150116T10&amp;p1=1928&amp;ah=1">Friday, January 16, 2015 at 15:00:00</a>.</li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Matt Ray <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>We would welcome your feedback on the outline which is currently being generated on <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-86-three-years.md">GitHub</a>.</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<h4>Matt</h4>
+
+<h4>Bryan</h4>
+
+<h4>John</h4>
+
+<h4>Mike</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<p>This show will air on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&amp;iso=20150116T10&amp;p1=1928&amp;ah=1">Friday, January 16, 2015 at 15:00:00</a>.</p>
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apache Kafka]]></title>
@@ -43,6 +111,9 @@
 <li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
 <li>Jay Kreps <a href="https://twitter.com/jaykreps">twitter</a> <a href="https://twitter.com/jaykreps">blog</a></li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -2828,84 +2899,6 @@ There are actually 7, count &#8216;em 7 streams</li>
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=cs3dPocJk7U">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Community Summit - Day 1]]></title>
-    <link href="http://foodfightshow.org//2013/11/community-summit-day-1.html"/>
-    <updated>2013-11-19T10:35:00-05:00</updated>
-    <id>http://foodfightshow.org//2013/11/community-summit-day-1</id>
-    <content type="html"><![CDATA[<p>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.</p>
-
-<p>Check the <a href="https://github.com/opscode/opscode-summit-2013/wiki">github-based wiki</a> for notes from many of the sessions.</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/11/community-summit-day-1.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/11/community-summit-day-1.html#outline">Outline</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow66-CommunitySummit-DayOne.mp3">Download</a></li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>John Dyer <a href="https://twitter.com/thedyers">twitter</a></li>
-<li>Tom Duffield <a href="https://twitter.com/tomduffield">twitter</a>, <a href="https://github.com/tduffield">github</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<p></p>
-
-<h2>Outline<a href="outline"></a></h2>
-
-<ul>
-<li>Opscode Community Summit</li>
-<li>Introductions</li>
-<li><a href="http://www.killswitchengage.com/">Killswitch Engage</a></li>
-<li>Open Spaces</li>
-<li><a href="http://berkshelf.com/">Berkshelf</a></li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Cyan-1030">Chef without a git repo</a></li>
-<li><a href="http://community.opscode.com">The Community Site</a></li>
-<li>The <a href="http://en.wikipedia.org/wiki/Contributor_License_Agreement">CLA</a> Signing Process</li>
-<li><a href="https://www.echosign.adobe.com/en/home.html">EchoSign</a></li>
-<li><a href="http://www.vagrantup.com/">Vagrant</a> with <a href="http://docs.opscode.com/chef_solo.html">chef-solo</a> and <a href="https://github.com/opscode/chef-zero">chef-zero</a></li>
-<li><a href="https://github.com/jkeiser/knife-essentials">knife-essentials</a></li>
-<li><a href="https://docs.google.com/document/d/1RJ7jspmby5hQ3Ay_TUQJaX6aZxTUfo5k9mYBw_FsQgU/edit">The Education and Training Session</a></li>
-<li><a href="http://lists.opscode.com/sympa/arc/chef-dev/2013-11/msg00009.html">Attribute Validation</a></li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-D-1430">Cookbook as Library Gems</a></li>
-<li><a href="https://github.com/bryanwb/chef-rewind">chef-rewind</a></li>
-<li><a href="https://github.com/poise/poise">poise</a></li>
-<li>eclipse</li>
-<li><a href="http://www.riotgames.com/">Riot Games</a></li>
-<li>Versioning in Chef 12</li>
-<li><a href="https://github.com/test-kitchen/test-kitchen">test-kitchen</a></li>
-<li><a href="http://chefconf.opscode.com/chefconf/">#ChefConf 2014</a></li>
-<li><a href="http://pages.opscode.com/awesome-chefs.html">Awesome Chef Awards Nominations</a></li>
-<li><a href="http://hw-ops.com/">Heavy Water</a></li>
-<li><a href="http://dyn.com/">Dyn</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow66-CommunitySummit-DayOne.mp3">Audio</a></li>
 </ul>
 
 
