@@ -24,6 +24,8 @@ Panel<a name="panel"></a>
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Jay Kreps [twitter](https://twitter.com/jaykreps) [blog](https://twitter.com/jaykreps)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 * [LinkedIn](http://linkedin.com)

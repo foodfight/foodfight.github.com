@@ -14,6 +14,8 @@ Join us on [Friday, January 16, 2015 at 15:00:00](http://www.timeanddate.com/wor
 * Download
   * This show will air on [Friday, January 16, 2015 at 15:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&iso=20150116T10&p1=1928&ah=1).
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
