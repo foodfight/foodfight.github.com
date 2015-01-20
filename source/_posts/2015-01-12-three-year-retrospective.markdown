@@ -6,13 +6,17 @@ comments: true
 categories:
 ---
 
-Join us on [Tuesday, January 20, 2015 at 15:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&iso=20150120T10&p1=1928&ah=1) for a look back at three years of the Food Fight Show!
+Watch Now
+-----
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/o4Qz1mHTpE4" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/01/three-year-retropective.html#panel)
 * [Outline](http://foodfightshow.org/2015/01/three-year-retropective.html#outline)
 * [Picks](http://foodfightshow.org/2015/01/three-year-retropective.html#picks)
 * Download
-  * This show will air on [Tuesday, January 20, 2015 at 15:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&iso=20150120T10&p1=1928&ah=1).
+  * [Video](http://youtu.be/o4Qz1mHTpE4)
+  * Audio - Coming soon!
 
 <!-- more -->
 
@@ -46,7 +50,8 @@ Picks<a name="picks"></a>
 
 Download
 --------
-This show will air on [Tuesday, January 20, 2015 at 15:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&iso=20150120T10&p1=1928&ah=1).
+* [Video](http://youtu.be/o4Qz1mHTpE4)
+* Audio - Coming soon!
 
 <hr />
 
