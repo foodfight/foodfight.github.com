@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mitchellh | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mitchellh/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-01-20T11:25:46-05:00</updated>
+  <updated>2015-01-25T13:26:32-06:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Packer]]></title>
     <link href="http://foodfightshow.org//2013/08/packer.html"/>
-    <updated>2013-08-14T09:03:00-04:00</updated>
+    <updated>2013-08-14T09:03:00-05:00</updated>
     <id>http://foodfightshow.org//2013/08/packer</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="http://packer.io">Packer</a> with <a href="https://twitter.com/mitchellh">Mitchell Hashimoto</a></p>
 
@@ -193,7 +193,7 @@
   <entry>
     <title type="html"><![CDATA[Vagrant]]></title>
     <link href="http://foodfightshow.org//2012/09/vagrant.html"/>
-    <updated>2012-09-20T08:33:00-04:00</updated>
+    <updated>2012-09-20T08:33:00-05:00</updated>
     <id>http://foodfightshow.org//2012/09/vagrant</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 September 2012</p>
 
