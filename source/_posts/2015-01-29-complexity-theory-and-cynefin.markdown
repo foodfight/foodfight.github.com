@@ -77,13 +77,19 @@ Outline<a name="outline"></a>
 #### Show Notes
 
 * This [twitter thread](https://twitter.com/benr/status/555825719750565888) is the inspiration for this show.
-* Let's start with a couple of definitions:
-  * Complexity Theory
+* Let's start with a couple of definitions/background:
+  * Complexity (including difference between Systems Thinking and Complexity Science)
   * Cynefin
-* Best Practices - what are they good for?
-* How do these ideas to DevOps, IT Operations, etc.?
+  * How do we know which domain (obvious/complicated/complex/chaotic) we're in and how does that impact how we might act?
+  * (Linear) causality in the four domains
+  * Can complex, adaptive systems be part of ordered systems? (e.g., humans working in an ordered system)?
+* Best Practices - what are they good for? when can they be applied?
+* How do these ideas relate to DevOps, IT Operations, Agile, LEAN, ITIL, etc.?
+  * Is the understanding of complex, adaptive systems one of the reasons for the emergence of devops?
+  * Is devops itself a complex, adaptive system (including its pratitioners)?
+  * Why manufacturing metaphors may not work in describing IT Operations?
 * Training
-  * Help people learn by showing them success vs. introducing them failure?
+* Help people learn by showing them success vs. introducing them failure?
 
 Picks<a name="picks"></a>
 -----
@@ -95,6 +101,8 @@ Picks<a name="picks"></a>
 #### Dave Snowden
 
 #### Dave Zwieback
+
+* [Awesome Postmortems Workshop](https://ti.to/mindweather/awesome-postmortems-nyc-2015) - February 12, 2015, NYC.
 
 #### Mike
 
