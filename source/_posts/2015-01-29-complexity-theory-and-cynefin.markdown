@@ -19,13 +19,15 @@ Questions or comments for our panel?  Tweet them to us [@foodfightshow](http://t
 
 # Watch Now
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/volOVffj-nE" frameborder="0" allowfullscreen></iframe>
+
 This show will air on [Thursday, January 29, 2015 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&iso=20150129T12&p1=1928&ah=1).
 
 * [Panel](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#panel)
 * [Outline](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#outline)
 * [Picks](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#picks)
 * Download
-  * Video - This show will air on [Thursday, January 29, 2015 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&iso=20150129T12&p1=1928&ah=1).
+  * [Video](http://youtu.be/volOVffj-nE)
   * Audio - Coming Soon!
 
 Panel<a name="panel"></a>
@@ -79,7 +81,7 @@ Outline<a name="outline"></a>
 * This [twitter thread](https://twitter.com/benr/status/555825719750565888) is the inspiration for this show.
 * Let's start with a couple of definitions/background:
   * Complexity (including difference between Systems Thinking and Complexity Science)
-  * Cynefin
+  * [Cynefin](https://www.youtube.com/watch?v=N7oz366X0-8)
   * How do we know which domain (obvious/complicated/complex/chaotic) we're in and how does that impact how we might act?
   * (Linear) causality in the four domains
   * Can complex, adaptive systems be part of ordered systems? (e.g., humans working in an ordered system)?
@@ -114,7 +116,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Video - This show will air on [Thursday, January 29, 2015 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&iso=20150129T12&p1=1928&ah=1).
+* [Video](http://youtu.be/volOVffj-nE)
 * Audio - Coming Soon!
 
 <hr />
