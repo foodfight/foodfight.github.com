@@ -15,8 +15,6 @@ categories:
 
 Join us as we discuss Complexity Theory and Cynefin.  This [twitter thread](https://twitter.com/benr/status/555825719750565888) is the inspiration for this show.
 
-Questions or comments for our panel?  Tweet them to us [@foodfightshow](http://twitter.com/foodfightshow) or join us in IRC #foodfightshow on freenode.
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/volOVffj-nE" frameborder="0" allowfullscreen></iframe>
