@@ -93,20 +93,37 @@ Outline<a name="outline"></a>
 * Training
 * Help people learn by showing them success vs. introducing them failure?
 
+* [HBR article on Cynefin](https://hbr.org/2007/11/a-leaders-framework-for-decision-making/)
+* systems
+  * ordered
+  * obvious
+  * complicated
+  * chaotic
+
 Picks<a name="picks"></a>
 -----
 
 #### Ben
 
+* [anCnoc 12](http://ancnoc.com/)
+
 #### Courtney
 
+* [@EskoKilpi](https://twitter.com/EskoKilpi)
+
 #### Dave Snowden
+
+* Ritual Descent
+* [Penderyn](http://www.welsh-whisky.co.uk/)
+
 
 #### Dave Zwieback
 
 * [Awesome Postmortems Workshop](https://ti.to/mindweather/awesome-postmortems-nyc-2015) - February 12, 2015, NYC.
 
 #### Mike
+
+* Snow and the weather
 
 #### Nathen
 
