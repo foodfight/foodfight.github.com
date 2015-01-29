@@ -4,7 +4,7 @@
   <title><![CDATA[Category: miketheman | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/miketheman/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-01-29T10:39:31-05:00</updated>
+  <updated>2015-01-29T10:56:37-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -113,21 +113,27 @@
 
 <ul>
 <li>This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</li>
-<li>Let's start with a couple of definitions:
+<li>Let's start with a couple of definitions/background:
 
 <ul>
-<li>Complexity Theory</li>
+<li>Complexity (including difference between Systems Thinking and Complexity Science)</li>
 <li>Cynefin</li>
+<li>How do we know which domain (obvious/complicated/complex/chaotic) we're in and how does that impact how we might act?</li>
+<li>(Linear) causality in the four domains</li>
+<li>Can complex, adaptive systems be part of ordered systems? (e.g., humans working in an ordered system)?</li>
 </ul>
 </li>
-<li>Best Practices - what are they good for?</li>
-<li>How do these ideas to DevOps, IT Operations, etc.?</li>
-<li>Training
+<li>Best Practices - what are they good for? when can they be applied?</li>
+<li>How do these ideas relate to DevOps, IT Operations, Agile, LEAN, ITIL, etc.?
 
 <ul>
-<li>Help people learn by showing them success vs. introducing them failure?</li>
+<li>Is the understanding of complex, adaptive systems one of the reasons for the emergence of devops?</li>
+<li>Is devops itself a complex, adaptive system (including its pratitioners)?</li>
+<li>Why manufacturing metaphors may not work in describing IT Operations?</li>
 </ul>
 </li>
+<li>Training</li>
+<li>Help people learn by showing them success vs. introducing them failure?</li>
 </ul>
 
 
@@ -140,6 +146,11 @@
 <h4>Dave Snowden</h4>
 
 <h4>Dave Zwieback</h4>
+
+<ul>
+<li><a href="https://ti.to/mindweather/awesome-postmortems-nyc-2015">Awesome Postmortems Workshop</a> - February 12, 2015, NYC.</li>
+</ul>
+
 
 <h4>Mike</h4>
 
