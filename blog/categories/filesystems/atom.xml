@@ -4,7 +4,7 @@
   <title><![CDATA[Category: filesystems | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/filesystems/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-01-25T13:26:32-06:00</updated>
+  <updated>2015-01-29T10:35:45-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Livin' on the Edge with Al Tobey]]></title>
     <link href="http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey.html"/>
-    <updated>2013-11-05T09:20:00-06:00</updated>
+    <updated>2013-11-05T09:20:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey</id>
     <content type="html"><![CDATA[<p>Join us as we discuss how to test your distributed system in production with Al Tobey</p>
 

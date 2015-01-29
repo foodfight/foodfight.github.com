@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-01-25T13:26:32-06:00</updated>
+  <updated>2015-01-29T10:35:14-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,165 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
+    <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
+    <updated>2015-01-29T10:21:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
+    <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
+
+<h1>Watch Now</h1>
+
+<p>This show will air on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&amp;iso=20150129T12&amp;p1=1928&amp;ah=1">Thursday, January 29, 2015 at 17:00:00 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - This show will air on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&amp;iso=20150129T12&amp;p1=1928&amp;ah=1">Thursday, January 29, 2015 at 17:00:00 UTC</a>.</li>
+<li>Audio - Coming Soon!</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Courtney Nash <a href="https://twitter.com/courtneynash">twitter</a>, <a href="https://github.com/courtneynash">github</a></li>
+<li>Dave Snowden <a href="https://twitter.com/snowded">twitter</a>, <a href="http://cognitive-edge.com/blog/author/19/">blog</a></li>
+<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h4>Chef News</h4>
+
+<ul>
+<li>Upcoming Chef Training - Register with code FOODFIGHT to save 10%
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-bangalore-india-5/">Bangalore - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-san-francisco-15/">San Francisco - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-bangalore/">Bangalore - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-london/">London - Intermediate</a> with Nathen! - Feb 5-6</li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-nyc/">NYC - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-nyc-5/">NYC - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-windows-seattle/">Seattle / Windows</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-san-francisco-5/">San Francisco - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-london-4/">London - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-2/">Atlanta - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-atlanta-5/">Atlanta - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-minneapolis/">Minneapolis - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-minneapolis-2/">Minneapolis - Intermediate</a></li>
+<li>Online
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linux-online-5/">Feb 11-13</a></li>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linuxwindows-online-9/">Feb 18-20</a></li>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linuxwindows-online-10/">Feb 24-26</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Upcoming Conferences &amp; Events
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/fosdem-2/">FOSDEM</a></li>
+<li><a href="https://www.chef.io/blog/event/configmanagementcamp/">Configuration Management Camp</a></li>
+<li><a href="https://www.chef.io/blog/event/piedmont-triad-devops-inaugural-meetup/">Piedmont Triad DevOps Inaugural Meetup</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-users-london-meetup-3/">Chef Users London Meetup</a> with Nathen! - Feb 4</li>
+<li><a href="https://www.chef.io/blog/event/developerweek-san-francisco/">Developer Week San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/event/the-lean-enterprise-book-signing-and-qa-with-jez-humble/">The Lean Enterprise: Book Signing and Q&amp;A with Jez Humble</a> at the AWS Startup Loft in San Francisco</li>
+</ul>
+</li>
+<li><a href="http://chefconf.com">ChefConf</a>
+
+<ul>
+<li>March 31 - Community Summit &amp; Training Workshops</li>
+<li>April 1 &amp; 2 - Keynotes, session tracks, etc.</li>
+<li><a href="http://chefconf2015a.sched.org/">Schedule</a> - Still a bit of a work in progress</li>
+<li>Register with code FOODFIGHT to save 10%</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Show Notes</h4>
+
+<ul>
+<li>This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</li>
+<li>Let&#8217;s start with a couple of definitions:
+
+<ul>
+<li>Complexity Theory</li>
+<li>Cynefin</li>
+</ul>
+</li>
+<li>Best Practices - what are they good for?</li>
+<li>How do these ideas to DevOps, IT Operations, etc.?</li>
+<li>Training
+
+<ul>
+<li>Help people learn by showing them success vs. introducing them failure?</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Ben</h4>
+
+<h4>Courtney</h4>
+
+<h4>Dave Snowden</h4>
+
+<h4>Dave Zwieback</h4>
+
+<h4>Mike</h4>
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.stbaldricks.org/">St. Baldrick&#8217;s Foundation</a> - <a href="https://www.stbaldricks.org/teams/mypage/97448/2015">My son&#8217;s St. Baldrick&#8217;s team</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-users-london-meetup-3/">Chef Users London Meetup</a> - Wednesday, February 4, 2015</li>
+<li><a href="http://chefconf.com">ChefConf</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - This show will air on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&amp;iso=20150129T12&amp;p1=1928&amp;ah=1">Thursday, January 29, 2015 at 17:00:00 UTC</a>.</li>
+<li>Audio - Coming Soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
     <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
-    <updated>2015-01-20T10:59:00-06:00</updated>
+    <updated>2015-01-20T10:59:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -194,7 +350,7 @@
   <entry>
     <title type="html"><![CDATA[Apache Kafka]]></title>
     <link href="http://foodfightshow.org//2014/11/apache-kafka.html"/>
-    <updated>2014-11-17T10:55:00-06:00</updated>
+    <updated>2014-11-17T10:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/apache-kafka</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -337,7 +493,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
     <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
-    <updated>2014-11-04T21:55:00-06:00</updated>
+    <updated>2014-11-04T21:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
@@ -423,7 +579,7 @@
   <entry>
     <title type="html"><![CDATA[Consul Template]]></title>
     <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
-    <updated>2014-11-04T21:54:00-06:00</updated>
+    <updated>2014-11-04T21:54:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/consul-template</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -681,7 +837,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
   <entry>
     <title type="html"><![CDATA[Live from Chef Summit London 2014]]></title>
     <link href="http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014.html"/>
-    <updated>2014-10-18T12:03:00-05:00</updated>
+    <updated>2014-10-18T12:03:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014</id>
     <content type="html"><![CDATA[<h2>Panel<a name="panel"></a></h2>
 
@@ -719,7 +875,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
   <entry>
     <title type="html"><![CDATA[Even MOAR Windows]]></title>
     <link href="http://foodfightshow.org//2014/10/even-moar-windows.html"/>
-    <updated>2014-10-18T12:01:00-05:00</updated>
+    <updated>2014-10-18T12:01:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/even-moar-windows</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#panel">Panel</a></li>
@@ -791,7 +947,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Windows Automation for Frustrated Sysadmins]]></title>
     <link href="http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards.html"/>
-    <updated>2014-10-07T06:36:00-05:00</updated>
+    <updated>2014-10-07T06:36:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -1033,7 +1189,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Community Summit 2014]]></title>
     <link href="http://foodfightshow.org//2014/10/community-summit-2014.html"/>
-    <updated>2014-10-06T23:25:00-05:00</updated>
+    <updated>2014-10-06T23:25:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/community-summit-2014</id>
     <content type="html"><![CDATA[<p>A recording from the end of the first day of the Chef Community Summit in Seattle, 2014.</p>
 
@@ -1046,7 +1202,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[ChefDK]]></title>
     <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
-    <updated>2014-08-27T12:10:00-05:00</updated>
+    <updated>2014-08-27T12:10:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/chefdk</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
 
@@ -1348,7 +1504,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
     <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
-    <updated>2014-08-22T07:27:00-05:00</updated>
+    <updated>2014-08-22T07:27:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
 
@@ -1572,7 +1728,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Supermarket]]></title>
     <link href="http://foodfightshow.org//2014/07/supermarket.html"/>
-    <updated>2014-07-08T13:26:00-05:00</updated>
+    <updated>2014-07-08T13:26:00-04:00</updated>
     <id>http://foodfightshow.org//2014/07/supermarket</id>
     <content type="html"><![CDATA[<p>Join us for a discussion about the new community site:  <a href="https://supermarket.getchef.com">Chef Supermarket</a>.</p>
 
@@ -1771,7 +1927,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Chef Metal]]></title>
     <link href="http://foodfightshow.org//2014/06/chef-metal.html"/>
-    <updated>2014-06-04T14:07:00-05:00</updated>
+    <updated>2014-06-04T14:07:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/chef-metal</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="https://github.com/opscode/chef-metal">chef-metal</a> with it&#8217;s creator, <a href="https://twitter.com/jkeiser2">John Keiser</a></p>
 
@@ -1958,7 +2114,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[DevOps Days Pittsburgh]]></title>
     <link href="http://foodfightshow.org//2014/06/devops-days-pittsburgh.html"/>
-    <updated>2014-06-03T08:59:00-05:00</updated>
+    <updated>2014-06-03T08:59:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/devops-days-pittsburgh</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/04/devops-days-pittsburgh.html#panel">Panel</a></li>
@@ -2084,7 +2240,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Management in Operations]]></title>
     <link href="http://foodfightshow.org//2014/06/management-in-operations.html"/>
-    <updated>2014-06-03T05:59:00-05:00</updated>
+    <updated>2014-06-03T05:59:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/management-in-operations</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/04/management-in-operations.html#panel">Panel</a></li>
@@ -2142,7 +2298,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Cookbook Patterns]]></title>
     <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
-    <updated>2014-04-29T18:05:00-05:00</updated>
+    <updated>2014-04-29T18:05:00-04:00</updated>
     <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2313,7 +2469,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[We're Doing It Wrong]]></title>
     <link href="http://foodfightshow.org//2014/01/were-doing-it-wrong.html"/>
-    <updated>2014-01-10T11:50:00-06:00</updated>
+    <updated>2014-01-10T11:50:00-05:00</updated>
     <id>http://foodfightshow.org//2014/01/were-doing-it-wrong</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2423,7 +2579,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[OpsWorks]]></title>
     <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
-    <updated>2013-12-17T21:16:00-06:00</updated>
+    <updated>2013-12-17T21:16:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/opsworks</id>
     <content type="html"><![CDATA[<p>Watch and listen to our discussion of Amazon&#8217;s <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
 
@@ -2579,7 +2735,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Best Practices with Chef]]></title>
     <link href="http://foodfightshow.org//2013/12/best-practices-with-chef.html"/>
-    <updated>2013-12-03T11:22:00-06:00</updated>
+    <updated>2013-12-03T11:22:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/best-practices-with-chef</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2813,7 +2969,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Docker in Practice]]></title>
     <link href="http://foodfightshow.org//2013/11/docker-in-practice.html"/>
-    <updated>2013-11-27T10:35:00-06:00</updated>
+    <updated>2013-11-27T10:35:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/docker-in-practice</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2911,104 +3067,6 @@ There are actually 7, count &#8216;em 7 streams</li>
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/068DockerInPractice.mp3">Audio</a></li>
 <li><a href="http://www.youtube.com/watch?v=gEr7YFWc-8s">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Community Summit - Recap]]></title>
-    <link href="http://foodfightshow.org//2013/11/community-summit-recap.html"/>
-    <updated>2013-11-19T21:42:00-06:00</updated>
-    <id>http://foodfightshow.org//2013/11/community-summit-recap</id>
-    <content type="html"><![CDATA[<p>Join us as we recap the <a href="https://github.com/opscode/opscode-summit-2013/wiki">Opscode Community Summit</a>.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://foodfightshow.org///www.youtube.com/embed/cs3dPocJk7U" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/11/community-summit-recap.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/11/community-summit-recap.html#outline">Outline</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=cs3dPocJk7U">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>John Dyer <a href="https://twitter.com/thedyers">twitter</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>JJ Asghar <a href="https://twitter.com/jjasghar">twitter</a>, <a href="https://github.com/jjasghar">github</a></li>
-<li>Ian Meyer <a href="https://twitter.com/ianmeyer">twitter</a>, <a href="https://github.com/imeyer">github</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Show Note<a href="note"></a></h2>
-
-<p>During the original recording of the show we went a bit off topic and there was a brief discussion that was not in keeping with the spirit of this show.  We have removed about three minutes from the video on YouTube and from the audio recording.</p>
-
-<!-- more -->
-
-
-<h2>Outline<a href="outline"></a></h2>
-
-<ul>
-<li><a href="http://kernel.dk/blk-mq.pdf">Linux Block IO: Introducing Multi-queue SSD Access on Multi-core Systems</a></li>
-<li>Introductions</li>
-<li><a href="http://github.com/jjasghar/chef-book">JJ&#8217;s Chef Book</a></li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-D-1000">Diversity in Tech</a></li>
-<li>Mentoring</li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1000">Chef 12 Features</a></li>
-<li>Version Roles</li>
-<li><a href="http://www.opscode.com/blog/2013/11/19/chef-roles-arent-evil/">Julian Dunn: Chef Roles Aren’t Evil</a></li>
-<li><a href="https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1">Top #opschef issues discussion, ordered</a></li>
-<li>&#8220;Best Practices&#8221;</li>
-<li><a href="http://en.wikipedia.org/wiki/Shuhari">Shuhari</a></li>
-<li><a href="http://learnchef.com">Learn Chef</a></li>
-<li><a href="http://docs.opscode.com/api_omnitruck.html">Omnitruck API</a></li>
-<li><a href="https://github.com/adamhjk/metarepo">metarepo</a></li>
-<li><a href="https://github.com/sensu">sensu</a></li>
-<li><a href="https://github.com/portertech/chef-monitor">chef-monitor</a></li>
-<li><a href="https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1300">Multi-node testing &amp; Vagabond</a>
-
-<ul>
-<li><a href="https://github.com/chrisroberts/vagabond">vagabond</a></li>
-<li><a href="http://vimeo.com/74387133">BDDing your infrastructure with Vagabond: A Big Nerd Ranch Tech Talk</a></li>
-<li><a href="https://www.youtube.com/watch?v=FuarlNKs_FY">Matt Ray: Vagabond Overview</a></li>
-<li><a href="https://speakerdeck.com/wfarr/valiantly-validating-vagrant-with-vagabond">Valiently Validating Vagrant wit Vagabond by Will Farrington</a></li>
-</ul>
-</li>
-<li>Hallway Track</li>
-<li>Windows and Windows Support</li>
-<li><a href="http://reinvent.awsevents.com/">AWS re:Invent 2013</a></li>
-<li><a href="http://www.imdb.com/title/tt0218839/?ref_=nv_sr_1">Best in Show</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=cs3dPocJk7U">Video</a></li>
 </ul>
 
 
