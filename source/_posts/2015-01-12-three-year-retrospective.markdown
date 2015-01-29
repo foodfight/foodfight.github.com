@@ -4,6 +4,13 @@ title: "Three Year Retrospective"
 date: 2015-01-20 10:59
 comments: true
 categories:
+  - bryanwb
+  - solarce
+  - mattray
+  - mikefiedler
+  - lusis
+  - foodfight
+  - retrospective
 ---
 
 Watch Now
