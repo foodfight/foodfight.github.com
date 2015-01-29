@@ -15,6 +15,8 @@ categories:
 
 Join us as we discuss Complexity Theory and Cynefin.  This [twitter thread](https://twitter.com/benr/status/555825719750565888) is the inspiration for this show.
 
+Questions or comments for our panel?  Tweet them to us [@foodfightshow](http://twitter.com/foodfightshow) or join us in IRC #foodfightshow on freenode.
+
 # Watch Now
 
 This show will air on [Thursday, January 29, 2015 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&iso=20150129T12&p1=1928&ah=1).
