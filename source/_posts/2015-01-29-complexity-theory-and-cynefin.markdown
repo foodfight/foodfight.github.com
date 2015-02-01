@@ -19,8 +19,6 @@ Join us as we discuss Complexity Theory and Cynefin.  This [twitter thread](http
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/volOVffj-nE" frameborder="0" allowfullscreen></iframe>
 
-This show will air on [Thursday, January 29, 2015 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&iso=20150129T12&p1=1928&ah=1).
-
 * [Panel](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#panel)
 * [Outline](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#outline)
 * [Picks](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#picks)
