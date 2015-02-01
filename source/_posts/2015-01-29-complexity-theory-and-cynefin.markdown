@@ -26,7 +26,7 @@ This show will air on [Thursday, January 29, 2015 at 17:00:00 UTC](http://www.ti
 * [Picks](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#picks)
 * Download
   * [Video](http://youtu.be/volOVffj-nE)
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -132,7 +132,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/volOVffj-nE)
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3)
 
 <hr />
 
