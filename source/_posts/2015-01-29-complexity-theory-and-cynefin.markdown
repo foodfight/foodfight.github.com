@@ -28,12 +28,13 @@ Join us as we discuss Complexity Theory and Cynefin.  This [twitter thread](http
 
 Panel<a name="panel"></a>
 -----
-* Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
-* Courtney Nash [twitter](https://twitter.com/courtneynash), [github](https://github.com/courtneynash)
-* Dave Snowden [twitter](https://twitter.com/snowded), [blog](http://cognitive-edge.com/blog/author/19/)
-* Dave Zwieback [twitter](https://twitter.com/mindweather), [blog](http://mindweather.com/), [github](https://github.com/mindweather)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Dave Zwieback [twitter](https://twitter.com/mindweather), [blog](http://mindweather.com/), [github](https://github.com/mindweather)
+* Courtney Nash [twitter](https://twitter.com/courtneynash), [github](https://github.com/courtneynash)
+* Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
+* Dave Snowden [twitter](https://twitter.com/snowded), [blog](http://cognitive-edge.com/blog/author/19/)
 
 <!-- more -->
 
@@ -75,57 +76,65 @@ Outline<a name="outline"></a>
 #### Show Notes
 
 * This [twitter thread](https://twitter.com/benr/status/555825719750565888) is the inspiration for this show.
-* Let's start with a couple of definitions/background:
-  * Complexity (including difference between Systems Thinking and Complexity Science)
-  * [Cynefin](https://www.youtube.com/watch?v=N7oz366X0-8)
-  * How do we know which domain (obvious/complicated/complex/chaotic) we're in and how does that impact how we might act?
-  * (Linear) causality in the four domains
-  * Can complex, adaptive systems be part of ordered systems? (e.g., humans working in an ordered system)?
-* Best Practices - what are they good for? when can they be applied?
+* The HBR Article: [David J. Snowden and Mary E. Boone: A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making/)
+* [Cynefin](https://www.youtube.com/watch?v=N7oz366X0-8)
+* [Ben Rockwood's Keynote at LISA: [The DevOps Transformation](https://www.youtube.com/watch?v=3KpPBnEtRj4)
+* [Dave Snowden: Beyond Manufacturing Metaphors: Thinking Anew, Acting Anew](https://www.youtube.com/watch?v=KX2sSb-EP80)
+* Complexity Defined: [The Complexity Theory](http://en.wikipedia.org/wiki/Complexity_theory)
+   * Systems
+     * Ordered
+     * Obvious
+     * Complicated
+     * Chaotic
+* How do we know which domain (obvious/complicated/complex/chaotic) we're in, and how does that impact how we might act?
+* Disorder
+* Emergent Coherence
+* Constraints
+  * Scientific Management of Systems
+* [Six Sigma](http://en.wikipedia.org/wiki/Six_Sigma)
+* Consensus and Ritual Decent
+* Efficiency and Effectiveness
+* Requisite Diversity
+* [Conceptual Blending](http://en.wikipedia.org/wiki/Conceptual_blending)
+* [Cognitive Nueroscience](http://en.wikipedia.org/wiki/Cognitive_neuroscience)
+* Applying the theory to day to day activities and teams
 * How do these ideas relate to DevOps, IT Operations, Agile, LEAN, ITIL, etc.?
-  * Is the understanding of complex, adaptive systems one of the reasons for the emergence of devops?
-  * Is devops itself a complex, adaptive system (including its pratitioners)?
+  * Is the understanding of complex, adaptive systems one of the reasons for the emergence of DevOps?
+  * Is DevOps itself a complex, adaptive system (including its pratitioners)?
   * Why manufacturing metaphors may not work in describing IT Operations?
+* Safety => Breaking the Rules, Compliance
+* Testing, Anticipatory Awareness
 * Training
-* Help people learn by showing them success vs. introducing them failure?
-
-* [HBR article on Cynefin](https://hbr.org/2007/11/a-leaders-framework-for-decision-making/)
-* systems
-  * ordered
-  * obvious
-  * complicated
-  * chaotic
 
 Picks<a name="picks"></a>
 -----
 
-#### Ben
+#### Mike
 
-* [anCnoc 12](http://ancnoc.com/)
+* Snow and the weather
+
+#### Dave Zwieback
+
+* [Awesome Postmortems Workshop](https://ti.to/mindweather/awesome-postmortems-nyc-2015) - February 12, 2015, NYC.
 
 #### Courtney
 
 * [@EskoKilpi](https://twitter.com/EskoKilpi)
+
+#### Ben
+
+* [anCnoc 12](http://ancnoc.com/)
+* Go Beyond [Cynefin](https://www.youtube.com/watch?v=N7oz366X0-8)
+* Read Henry Ford's work and learn, learn, learn!
 
 #### Dave Snowden
 
 * Ritual Descent
 * [Penderyn](http://www.welsh-whisky.co.uk/)
 
-
-#### Dave Zwieback
-
-* [Awesome Postmortems Workshop](https://ti.to/mindweather/awesome-postmortems-nyc-2015) - February 12, 2015, NYC.
-
-#### Mike
-
-* Snow and the weather
-
 #### Nathen
 
   * [St. Baldrick's Foundation](http://www.stbaldricks.org/) - [My son's St. Baldrick's team](https://www.stbaldricks.org/teams/mypage/97448/2015)
-  * [Chef Users London Meetup](https://www.chef.io/blog/event/chef-users-london-meetup-3/) - Wednesday, February 4, 2015
-  * [ChefConf](http://chefconf.com)
 
 Download
 --------
