@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-02-01T17:41:48+01:00</updated>
+  <updated>2015-02-11T10:59:07-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,99 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Configuration Management Camp]]></title>
+    <link href="http://foodfightshow.org//2015/02/configuration-management-camp.html"/>
+    <updated>2015-02-11T10:34:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/02/configuration-management-camp</id>
+    <content type="html"><![CDATA[<p>Kara Sowles <a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#x6b;&#97;&#114;&#97;&#x40;&#112;&#x75;&#x70;&#112;&#101;&#x74;&#108;&#x61;&#x62;&#115;&#x2e;&#99;&#111;&#109;">&#x6b;&#x61;&#114;&#97;&#x40;&#x70;&#117;&#112;&#x70;&#x65;&#x74;&#x6c;&#97;&#x62;&#115;&#46;&#99;&#111;&#x6d;</a></p>
+
+<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2015</a> recorded live at the end of the conference.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Kara Sowles - <a href="https://twitter.com/feynudibranch">twitter</a></li>
+<li>Gareth Rushgrove - <a href="https://twitter.com/garethr">twitter</a></li>
+<li>James Shubin - <a href="https://twitter.com/purpleidea">twitter</a></li>
+<li>Andrew Clay Shafer - <a href="https://twitter.com/littleidea">twitter</a></li>
+<li>Kris Buytaert - <a href="https://twitter.com/krisbuytaert">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Panel Intros</li>
+<li><a href="https://itunes.apple.com/us/podcast/puppet-labs-podcast/id546792095">The Puppet Podcast</a></li>
+<li>The Genesis of ConfigManagementCamp</li>
+<li>8 Track Conference in <a href="http://www.visitgent.be/en/home">Gent, Belgium</a> from February 2-3 2015</li>
+<li><a href="https://fosdem.org/">FOSDEM Conference</a></li>
+<li>Differences between this year&#8217;s conference and last year&#8217;s</li>
+<li>Life of a Community Manager</li>
+<li>FOSDEM vs ConfigManagementCamp</li>
+<li><a href="http://monitorama.com/">Monitorama</a></li>
+<li>Containerization</li>
+<li>Virtualization</li>
+<li>Widespread Maturity</li>
+<li>Building Images in <a href="https://www.docker.com/">Docker</a></li>
+<li>Tools and Solving Higher Level Problems</li>
+<li>Controversial Topics:
+
+<ul>
+<li>Config management is a solved problem.</li>
+<li>Talks responding to talks.</li>
+<li>The future of configuration management.</li>
+<li>Distributed systems and ways to kill central orchestration.</li>
+<li>Orchestration is a smell.</li>
+<li>Dev and Ops hate each other.</li>
+</ul>
+</li>
+<li>Chef in Europe</li>
+<li>Getting good as being a distributed community => Should we do a North American ConfigManagementCamp??</li>
+<li>Does geography and culture impact adoption?</li>
+<li>Honesty, sharing, and vulnerability</li>
+<li>Keep it niche; keep pushing forward
+W* here does ZooKeeper fit in?</li>
+<li>Technology Transition</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
     <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
-    <updated>2015-01-29T10:21:00+01:00</updated>
+    <updated>2015-01-29T10:21:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
     <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
 
@@ -42,12 +132,12 @@
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
-<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
-<li>Courtney Nash <a href="https://twitter.com/courtneynash">twitter</a>, <a href="https://github.com/courtneynash">github</a></li>
-<li>Dave Snowden <a href="https://twitter.com/snowded">twitter</a>, <a href="http://cognitive-edge.com/blog/author/19/">blog</a></li>
-<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
+<li>Courtney Nash <a href="https://twitter.com/courtneynash">twitter</a>, <a href="https://github.com/courtneynash">github</a></li>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Dave Snowden <a href="https://twitter.com/snowded">twitter</a>, <a href="http://cognitive-edge.com/blog/author/19/">blog</a></li>
 </ul>
 
 
@@ -112,61 +202,60 @@
 
 <ul>
 <li>This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</li>
-<li>Let&#8217;s start with a couple of definitions/background:
+<li>The HBR Article: <a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making/">David J. Snowden and Mary E. Boone: A Leader’s Framework for Decision Making</a></li>
+<li><a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>[Ben Rockwood&#8217;s Keynote at LISA: <a href="https://www.youtube.com/watch?v=3KpPBnEtRj4">The DevOps Transformation</a></li>
+<li><a href="https://www.youtube.com/watch?v=KX2sSb-EP80">Dave Snowden: Beyond Manufacturing Metaphors: Thinking Anew, Acting Anew</a></li>
+<li>Complexity Defined: <a href="http://en.wikipedia.org/wiki/Complexity_theory">The Complexity Theory</a>
 
 <ul>
-<li>Complexity (including difference between Systems Thinking and Complexity Science)</li>
-<li><a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
-<li>How do we know which domain (obvious/complicated/complex/chaotic) we&#8217;re in and how does that impact how we might act?</li>
-<li>(Linear) causality in the four domains</li>
-<li>Can complex, adaptive systems be part of ordered systems? (e.g., humans working in an ordered system)?</li>
+<li>Systems
+
+<ul>
+<li>Ordered</li>
+<li>Obvious</li>
+<li>Complicated</li>
+<li>Chaotic</li>
 </ul>
 </li>
-<li>Best Practices - what are they good for? when can they be applied?</li>
+</ul>
+</li>
+<li>How do we know which domain (obvious/complicated/complex/chaotic) we&#8217;re in, and how does that impact how we might act?</li>
+<li>Disorder</li>
+<li>Emergent Coherence</li>
+<li>Constraints
+
+<ul>
+<li>Scientific Management of Systems</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Six_Sigma">Six Sigma</a></li>
+<li>Consensus and Ritual Decent</li>
+<li>Efficiency and Effectiveness</li>
+<li>Requisite Diversity</li>
+<li><a href="http://en.wikipedia.org/wiki/Conceptual_blending">Conceptual Blending</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cognitive_neuroscience">Cognitive Nueroscience</a></li>
+<li>Applying the theory to day to day activities and teams</li>
 <li>How do these ideas relate to DevOps, IT Operations, Agile, LEAN, ITIL, etc.?
 
 <ul>
-<li>Is the understanding of complex, adaptive systems one of the reasons for the emergence of devops?</li>
-<li>Is devops itself a complex, adaptive system (including its pratitioners)?</li>
+<li>Is the understanding of complex, adaptive systems one of the reasons for the emergence of DevOps?</li>
+<li>Is DevOps itself a complex, adaptive system (including its pratitioners)?</li>
 <li>Why manufacturing metaphors may not work in describing IT Operations?</li>
 </ul>
 </li>
+<li>Safety => Breaking the Rules, Compliance</li>
+<li>Testing, Anticipatory Awareness</li>
 <li>Training</li>
-<li><p>Help people learn by showing them success vs. introducing them failure?</p></li>
-<li><p><a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making/">HBR article on Cynefin</a></p></li>
-<li>systems
-
-<ul>
-<li>ordered</li>
-<li>obvious</li>
-<li>complicated</li>
-<li>chaotic</li>
-</ul>
-</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
 
-<h4>Ben</h4>
+<h4>Mike</h4>
 
 <ul>
-<li><a href="http://ancnoc.com/">anCnoc 12</a></li>
-</ul>
-
-
-<h4>Courtney</h4>
-
-<ul>
-<li><a href="https://twitter.com/EskoKilpi">@EskoKilpi</a></li>
-</ul>
-
-
-<h4>Dave Snowden</h4>
-
-<ul>
-<li>Ritual Descent</li>
-<li><a href="http://www.welsh-whisky.co.uk/">Penderyn</a></li>
+<li>Snow and the weather</li>
 </ul>
 
 
@@ -177,10 +266,27 @@
 </ul>
 
 
-<h4>Mike</h4>
+<h4>Courtney</h4>
 
 <ul>
-<li>Snow and the weather</li>
+<li><a href="https://twitter.com/EskoKilpi">@EskoKilpi</a></li>
+</ul>
+
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="http://ancnoc.com/">anCnoc 12</a></li>
+<li>Go Beyond <a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>Read Henry Ford&#8217;s work and learn, learn, learn!</li>
+</ul>
+
+
+<h4>Dave Snowden</h4>
+
+<ul>
+<li><a href="http://cognitive-edge.com/library/methods/ritual-dissent-basic/">Ritual Dissent</a></li>
+<li><a href="http://www.welsh-whisky.co.uk/">Penderyn</a></li>
 </ul>
 
 
@@ -188,8 +294,6 @@
 
 <ul>
 <li><a href="http://www.stbaldricks.org/">St. Baldrick&#8217;s Foundation</a> - <a href="https://www.stbaldricks.org/teams/mypage/97448/2015">My son&#8217;s St. Baldrick&#8217;s team</a></li>
-<li><a href="https://www.chef.io/blog/event/chef-users-london-meetup-3/">Chef Users London Meetup</a> - Wednesday, February 4, 2015</li>
-<li><a href="http://chefconf.com">ChefConf</a></li>
 </ul>
 
 
@@ -215,7 +319,7 @@
   <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
     <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
-    <updated>2015-01-20T10:59:00+01:00</updated>
+    <updated>2015-01-20T10:59:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -393,7 +497,7 @@
   <entry>
     <title type="html"><![CDATA[Apache Kafka]]></title>
     <link href="http://foodfightshow.org//2014/11/apache-kafka.html"/>
-    <updated>2014-11-17T10:55:00+01:00</updated>
+    <updated>2014-11-17T10:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/apache-kafka</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -536,7 +640,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
     <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
-    <updated>2014-11-04T21:55:00+01:00</updated>
+    <updated>2014-11-04T21:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
@@ -622,7 +726,7 @@
   <entry>
     <title type="html"><![CDATA[Consul Template]]></title>
     <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
-    <updated>2014-11-04T21:54:00+01:00</updated>
+    <updated>2014-11-04T21:54:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/consul-template</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -880,7 +984,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
   <entry>
     <title type="html"><![CDATA[Live from Chef Summit London 2014]]></title>
     <link href="http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014.html"/>
-    <updated>2014-10-18T12:03:00+02:00</updated>
+    <updated>2014-10-18T12:03:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014</id>
     <content type="html"><![CDATA[<h2>Panel<a name="panel"></a></h2>
 
@@ -918,7 +1022,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
   <entry>
     <title type="html"><![CDATA[Even MOAR Windows]]></title>
     <link href="http://foodfightshow.org//2014/10/even-moar-windows.html"/>
-    <updated>2014-10-18T12:01:00+02:00</updated>
+    <updated>2014-10-18T12:01:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/even-moar-windows</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#panel">Panel</a></li>
@@ -990,7 +1094,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Windows Automation for Frustrated Sysadmins]]></title>
     <link href="http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards.html"/>
-    <updated>2014-10-07T06:36:00+02:00</updated>
+    <updated>2014-10-07T06:36:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -1232,7 +1336,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Community Summit 2014]]></title>
     <link href="http://foodfightshow.org//2014/10/community-summit-2014.html"/>
-    <updated>2014-10-06T23:25:00+02:00</updated>
+    <updated>2014-10-06T23:25:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/community-summit-2014</id>
     <content type="html"><![CDATA[<p>A recording from the end of the first day of the Chef Community Summit in Seattle, 2014.</p>
 
@@ -1245,7 +1349,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[ChefDK]]></title>
     <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
-    <updated>2014-08-27T12:10:00+02:00</updated>
+    <updated>2014-08-27T12:10:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/chefdk</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
 
@@ -1547,7 +1651,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
     <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
-    <updated>2014-08-22T07:27:00+02:00</updated>
+    <updated>2014-08-22T07:27:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
 
@@ -1771,7 +1875,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Supermarket]]></title>
     <link href="http://foodfightshow.org//2014/07/supermarket.html"/>
-    <updated>2014-07-08T13:26:00+02:00</updated>
+    <updated>2014-07-08T13:26:00-04:00</updated>
     <id>http://foodfightshow.org//2014/07/supermarket</id>
     <content type="html"><![CDATA[<p>Join us for a discussion about the new community site:  <a href="https://supermarket.getchef.com">Chef Supermarket</a>.</p>
 
@@ -1970,7 +2074,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Chef Metal]]></title>
     <link href="http://foodfightshow.org//2014/06/chef-metal.html"/>
-    <updated>2014-06-04T14:07:00+02:00</updated>
+    <updated>2014-06-04T14:07:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/chef-metal</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="https://github.com/opscode/chef-metal">chef-metal</a> with it&#8217;s creator, <a href="https://twitter.com/jkeiser2">John Keiser</a></p>
 
@@ -2157,7 +2261,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[DevOps Days Pittsburgh]]></title>
     <link href="http://foodfightshow.org//2014/06/devops-days-pittsburgh.html"/>
-    <updated>2014-06-03T08:59:00+02:00</updated>
+    <updated>2014-06-03T08:59:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/devops-days-pittsburgh</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/04/devops-days-pittsburgh.html#panel">Panel</a></li>
@@ -2283,7 +2387,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Management in Operations]]></title>
     <link href="http://foodfightshow.org//2014/06/management-in-operations.html"/>
-    <updated>2014-06-03T05:59:00+02:00</updated>
+    <updated>2014-06-03T05:59:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/management-in-operations</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/04/management-in-operations.html#panel">Panel</a></li>
@@ -2341,7 +2445,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Cookbook Patterns]]></title>
     <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
-    <updated>2014-04-29T18:05:00+02:00</updated>
+    <updated>2014-04-29T18:05:00-04:00</updated>
     <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2512,7 +2616,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[We're Doing It Wrong]]></title>
     <link href="http://foodfightshow.org//2014/01/were-doing-it-wrong.html"/>
-    <updated>2014-01-10T11:50:00+01:00</updated>
+    <updated>2014-01-10T11:50:00-05:00</updated>
     <id>http://foodfightshow.org//2014/01/were-doing-it-wrong</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2622,7 +2726,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[OpsWorks]]></title>
     <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
-    <updated>2013-12-17T21:16:00+01:00</updated>
+    <updated>2013-12-17T21:16:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/opsworks</id>
     <content type="html"><![CDATA[<p>Watch and listen to our discussion of Amazon&#8217;s <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
 
@@ -2778,7 +2882,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Best Practices with Chef]]></title>
     <link href="http://foodfightshow.org//2013/12/best-practices-with-chef.html"/>
-    <updated>2013-12-03T11:22:00+01:00</updated>
+    <updated>2013-12-03T11:22:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/best-practices-with-chef</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -2995,121 +3099,6 @@ There are actually 7, count &#8216;em 7 streams</li>
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow69-Chef-Best-Practices.mp3">Audio</a></li>
 <li><a href="http://youtu.be/6mpZLEIzx-c">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Docker in Practice]]></title>
-    <link href="http://foodfightshow.org//2013/11/docker-in-practice.html"/>
-    <updated>2013-11-27T10:35:00+01:00</updated>
-    <id>http://foodfightshow.org//2013/11/docker-in-practice</id>
-    <content type="html"><![CDATA[<h1>Watch Now</h1>
-
-<iframe width="560" height="315" src="http://foodfightshow.org///www.youtube.com/embed/gEr7YFWc-8s" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/11/docker-in-practice.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/11/docker-in-practice.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/11/docker-in-practice.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/068DockerInPractice.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=gEr7YFWc-8s">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>James Turnbull <a href="https://twitter.com/kartar">twitter</a>, <a href="https://github.com/jamtur01">github</a></li>
-<li>Tim Dysinger <a href="https://twitter.com/dysinger">twitter</a>, <a href="https://github.com/dysinger">github</a>, <a href="http://tim.dysinger.net/">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<p></p>
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Introductions</li>
-<li><a href="https://www.docker.io/">Docker</a>
-
-<ul>
-<li>Docker in Practice</li>
-<li>Pre-1.0</li>
-</ul>
-</li>
-<li><a href="http://www.vagrantup.com/">Vagrant</a></li>
-<li><a href="https://github.com/test-kitchen/test-kitchen">test-kitchen</a></li>
-<li>Image Layering</li>
-<li><a href="http://en.wikipedia.org/wiki/Device_mapper">Device Mapper</a></li>
-<li>The Registry</li>
-<li>0.6.7</li>
-<li>Offline Image Transfer</li>
-<li>The Remote API Concept</li>
-<li>Use Cases</li>
-<li>Workflow Potentials</li>
-<li>Uber Vendoring</li>
-<li><a href="http://dockerbook.com/">James&#8217; Book</a></li>
-<li>Configuration Management</li>
-<li>Auditing</li>
-<li>Versioning</li>
-<li>The Tool Kit</li>
-<li><a href="http://coreos.com/">Core OS</a></li>
-<li><a href="http://zookeeper.apache.org/">ZooKeeper</a></li>
-<li>Testing</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="http://vimeo.com/79844109">Sean Porter&#8217;s Test-Kitchen Docker Driver Demo</a></li>
-</ul>
-
-
-<h4>Fabio</h4>
-
-<ul>
-<li><a href="http://progrium.viewdocs.io/viewdocs">viewdocs.io</a></li>
-<li><a href="https://github.com/philspitler/vagrant-docker">vagrant-docker</a></li>
-</ul>
-
-
-<h4>Tim</h4>
-
-<ul>
-<li><a href="http://launch.poise.io/">Poise Project</a></li>
-<li><a href="http://docs.docker.io/en/latest/api/docker_remote_api/">The Remote API</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/068DockerInPractice.mp3">Audio</a></li>
-<li><a href="http://www.youtube.com/watch?v=gEr7YFWc-8s">Video</a></li>
 </ul>
 
 

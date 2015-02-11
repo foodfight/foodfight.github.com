@@ -4,7 +4,7 @@
   <title><![CDATA[Category: snowded | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/snowded/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-02-01T17:41:48+01:00</updated>
+  <updated>2015-02-11T10:59:07-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
     <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
-    <updated>2015-01-29T10:21:00+01:00</updated>
+    <updated>2015-01-29T10:21:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
     <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
 
@@ -42,12 +42,12 @@
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
-<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
-<li>Courtney Nash <a href="https://twitter.com/courtneynash">twitter</a>, <a href="https://github.com/courtneynash">github</a></li>
-<li>Dave Snowden <a href="https://twitter.com/snowded">twitter</a>, <a href="http://cognitive-edge.com/blog/author/19/">blog</a></li>
-<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
+<li>Courtney Nash <a href="https://twitter.com/courtneynash">twitter</a>, <a href="https://github.com/courtneynash">github</a></li>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Dave Snowden <a href="https://twitter.com/snowded">twitter</a>, <a href="http://cognitive-edge.com/blog/author/19/">blog</a></li>
 </ul>
 
 
@@ -112,61 +112,60 @@
 
 <ul>
 <li>This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</li>
-<li>Let's start with a couple of definitions/background:
+<li>The HBR Article: <a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making/">David J. Snowden and Mary E. Boone: A Leader’s Framework for Decision Making</a></li>
+<li><a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>[Ben Rockwood's Keynote at LISA: <a href="https://www.youtube.com/watch?v=3KpPBnEtRj4">The DevOps Transformation</a></li>
+<li><a href="https://www.youtube.com/watch?v=KX2sSb-EP80">Dave Snowden: Beyond Manufacturing Metaphors: Thinking Anew, Acting Anew</a></li>
+<li>Complexity Defined: <a href="http://en.wikipedia.org/wiki/Complexity_theory">The Complexity Theory</a>
 
 <ul>
-<li>Complexity (including difference between Systems Thinking and Complexity Science)</li>
-<li><a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
-<li>How do we know which domain (obvious/complicated/complex/chaotic) we're in and how does that impact how we might act?</li>
-<li>(Linear) causality in the four domains</li>
-<li>Can complex, adaptive systems be part of ordered systems? (e.g., humans working in an ordered system)?</li>
+<li>Systems
+
+<ul>
+<li>Ordered</li>
+<li>Obvious</li>
+<li>Complicated</li>
+<li>Chaotic</li>
 </ul>
 </li>
-<li>Best Practices - what are they good for? when can they be applied?</li>
+</ul>
+</li>
+<li>How do we know which domain (obvious/complicated/complex/chaotic) we're in, and how does that impact how we might act?</li>
+<li>Disorder</li>
+<li>Emergent Coherence</li>
+<li>Constraints
+
+<ul>
+<li>Scientific Management of Systems</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Six_Sigma">Six Sigma</a></li>
+<li>Consensus and Ritual Decent</li>
+<li>Efficiency and Effectiveness</li>
+<li>Requisite Diversity</li>
+<li><a href="http://en.wikipedia.org/wiki/Conceptual_blending">Conceptual Blending</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cognitive_neuroscience">Cognitive Nueroscience</a></li>
+<li>Applying the theory to day to day activities and teams</li>
 <li>How do these ideas relate to DevOps, IT Operations, Agile, LEAN, ITIL, etc.?
 
 <ul>
-<li>Is the understanding of complex, adaptive systems one of the reasons for the emergence of devops?</li>
-<li>Is devops itself a complex, adaptive system (including its pratitioners)?</li>
+<li>Is the understanding of complex, adaptive systems one of the reasons for the emergence of DevOps?</li>
+<li>Is DevOps itself a complex, adaptive system (including its pratitioners)?</li>
 <li>Why manufacturing metaphors may not work in describing IT Operations?</li>
 </ul>
 </li>
+<li>Safety => Breaking the Rules, Compliance</li>
+<li>Testing, Anticipatory Awareness</li>
 <li>Training</li>
-<li><p>Help people learn by showing them success vs. introducing them failure?</p></li>
-<li><p><a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making/">HBR article on Cynefin</a></p></li>
-<li>systems
-
-<ul>
-<li>ordered</li>
-<li>obvious</li>
-<li>complicated</li>
-<li>chaotic</li>
-</ul>
-</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
 
-<h4>Ben</h4>
+<h4>Mike</h4>
 
 <ul>
-<li><a href="http://ancnoc.com/">anCnoc 12</a></li>
-</ul>
-
-
-<h4>Courtney</h4>
-
-<ul>
-<li><a href="https://twitter.com/EskoKilpi">@EskoKilpi</a></li>
-</ul>
-
-
-<h4>Dave Snowden</h4>
-
-<ul>
-<li>Ritual Descent</li>
-<li><a href="http://www.welsh-whisky.co.uk/">Penderyn</a></li>
+<li>Snow and the weather</li>
 </ul>
 
 
@@ -177,10 +176,27 @@
 </ul>
 
 
-<h4>Mike</h4>
+<h4>Courtney</h4>
 
 <ul>
-<li>Snow and the weather</li>
+<li><a href="https://twitter.com/EskoKilpi">@EskoKilpi</a></li>
+</ul>
+
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="http://ancnoc.com/">anCnoc 12</a></li>
+<li>Go Beyond <a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>Read Henry Ford's work and learn, learn, learn!</li>
+</ul>
+
+
+<h4>Dave Snowden</h4>
+
+<ul>
+<li><a href="http://cognitive-edge.com/library/methods/ritual-dissent-basic/">Ritual Dissent</a></li>
+<li><a href="http://www.welsh-whisky.co.uk/">Penderyn</a></li>
 </ul>
 
 
@@ -188,8 +204,6 @@
 
 <ul>
 <li><a href="http://www.stbaldricks.org/">St. Baldrick's Foundation</a> - <a href="https://www.stbaldricks.org/teams/mypage/97448/2015">My son's St. Baldrick's team</a></li>
-<li><a href="https://www.chef.io/blog/event/chef-users-london-meetup-3/">Chef Users London Meetup</a> - Wednesday, February 4, 2015</li>
-<li><a href="http://chefconf.com">ChefConf</a></li>
 </ul>
 
 

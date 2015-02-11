@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: fosdem | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/fosdem/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2015-02-11T10:59:07-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Configuration Management Camp]]></title>
+    <link href="http://foodfightshow.org//2015/02/configuration-management-camp.html"/>
+    <updated>2015-02-11T10:34:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/02/configuration-management-camp</id>
+    <content type="html"><![CDATA[<p>Kara Sowles <a href="&#109;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#x6b;&#x61;&#114;&#x61;&#64;&#112;&#117;&#112;&#x70;&#x65;&#x74;&#x6c;&#97;&#98;&#x73;&#46;&#x63;&#x6f;&#109;">&#x6b;&#x61;&#x72;&#x61;&#64;&#x70;&#117;&#x70;&#x70;&#x65;&#116;&#x6c;&#97;&#x62;&#x73;&#x2e;&#99;&#111;&#x6d;</a></p>
+
+<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2015</a> recorded live at the end of the conference.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Kara Sowles - <a href="https://twitter.com/feynudibranch">twitter</a></li>
+<li>Gareth Rushgrove - <a href="https://twitter.com/garethr">twitter</a></li>
+<li>James Shubin - <a href="https://twitter.com/purpleidea">twitter</a></li>
+<li>Andrew Clay Shafer - <a href="https://twitter.com/littleidea">twitter</a></li>
+<li>Kris Buytaert - <a href="https://twitter.com/krisbuytaert">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Panel Intros</li>
+<li><a href="https://itunes.apple.com/us/podcast/puppet-labs-podcast/id546792095">The Puppet Podcast</a></li>
+<li>The Genesis of ConfigManagementCamp</li>
+<li>8 Track Conference in <a href="http://www.visitgent.be/en/home">Gent, Belgium</a> from February 2-3 2015</li>
+<li><a href="https://fosdem.org/">FOSDEM Conference</a></li>
+<li>Differences between this year's conference and last year's</li>
+<li>Life of a Community Manager</li>
+<li>FOSDEM vs ConfigManagementCamp</li>
+<li><a href="http://monitorama.com/">Monitorama</a></li>
+<li>Containerization</li>
+<li>Virtualization</li>
+<li>Widespread Maturity</li>
+<li>Building Images in <a href="https://www.docker.com/">Docker</a></li>
+<li>Tools and Solving Higher Level Problems</li>
+<li>Controversial Topics:
+
+<ul>
+<li>Config management is a solved problem.</li>
+<li>Talks responding to talks.</li>
+<li>The future of configuration management.</li>
+<li>Distributed systems and ways to kill central orchestration.</li>
+<li>Orchestration is a smell.</li>
+<li>Dev and Ops hate each other.</li>
+</ul>
+</li>
+<li>Chef in Europe</li>
+<li>Getting good as being a distributed community => Should we do a North American ConfigManagementCamp??</li>
+<li>Does geography and culture impact adoption?</li>
+<li>Honesty, sharing, and vulnerability</li>
+<li>Keep it niche; keep pushing forward
+W* here does ZooKeeper fit in?</li>
+<li>Technology Transition</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

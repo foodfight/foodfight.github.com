@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lusis | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/lusis/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-02-01T17:41:48+01:00</updated>
+  <updated>2015-02-11T10:59:07-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
     <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
-    <updated>2015-01-20T10:59:00+01:00</updated>
+    <updated>2015-01-20T10:59:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -194,7 +194,7 @@
   <entry>
     <title type="html"><![CDATA[Consul Template]]></title>
     <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
-    <updated>2014-11-04T21:54:00+01:00</updated>
+    <updated>2014-11-04T21:54:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/consul-template</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -452,7 +452,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
   <entry>
     <title type="html"><![CDATA[Best Practices with Chef]]></title>
     <link href="http://foodfightshow.org//2013/12/best-practices-with-chef.html"/>
-    <updated>2013-12-03T11:22:00+01:00</updated>
+    <updated>2013-12-03T11:22:00-05:00</updated>
     <id>http://foodfightshow.org//2013/12/best-practices-with-chef</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
