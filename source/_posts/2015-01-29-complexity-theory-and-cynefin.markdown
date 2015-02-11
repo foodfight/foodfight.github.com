@@ -129,7 +129,7 @@ Picks<a name="picks"></a>
 
 #### Dave Snowden
 
-* Ritual Descent
+* [Ritual Dissent](http://cognitive-edge.com/library/methods/ritual-dissent-basic/)
 * [Penderyn](http://www.welsh-whisky.co.uk/)
 
 #### Nathen
