@@ -12,7 +12,6 @@ categories:
   - krisbuytaert
   - purpleidea
 ---
-Kara Sowles <kara@puppetlabs.com>
 
 A wrap-up of [Configuration Management Camp 2015](http://cfgmgmtcamp.eu) recorded live at the end of the conference.
 
