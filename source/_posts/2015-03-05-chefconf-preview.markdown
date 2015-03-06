@@ -5,10 +5,16 @@ date: 2015-03-05 15:15
 comments: true
 categories: 
   - chefconf
-  - mipsytipsy
+  - brainscott
+  - bridgetkromhout
   - cristinedraper
+  - jamfish728
+  - sigje
   - ubergeekgirl
+  - jonlives
   - karobeck
+  - mwrockx
+  - muktaa
 ---
 
 Join us as we preview [ChefConf](http://chefconf.com) 2015!
@@ -25,11 +31,22 @@ This episode will be broadcast on [Friday, March 6, 2015 at 20:00:00 UTC](http:/
 Panel<a name="panel"></a>
 -----
 
+* Brian Scott [twitter](http://twitter.com/brainscott), [github](https://github.com/bscott), [blog](http://blog.bscott.me/)
+* Bridget Kromhout [twitter](http://twitter.com/bridgetkromhout), [github](https://github.com/bridgetkromhout)
 * Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper)
+* Jamesha Fisher [twitter](http://twitter.com/jamfish728)
+* Jeff LaPlante 
+* Jennifer Burke 
+* Jennifer Davis [twitter](http://twitter.com/sigje), [github](https://github.com/iennae)
 * Jessica DeVita [twitter](http://twitter.com/ubergeekgirl)
+* Jon Cowie [twitter](http://twitter.com/jonlives), [github](http://github.com/jonlives)
 * Karolin Beck [twitter](http://twitter.com/karobeck)
+* Matt Wrock [twitter](http://twitter.com/mwrockx)
+* Mukta Aphale [twitter](http://twitter.com/muktaa)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+
 
 Outline<a name="outline"></a>
 -------
@@ -40,12 +57,29 @@ Outline<a name="outline"></a>
 
 Picks<a name="picks"></a>
 -----
+#### Brian
+
+#### Bridget
 
 #### Christine
 
+#### Jamesha
+
+#### Jeff
+
+#### Jennifer Burke 
+
+#### Jennifer Davis
+
 #### Jessica
 
+#### Jon
+
 #### Karolin
+
+#### Matt
+
+#### Mukta
 
 #### Brandon
 
