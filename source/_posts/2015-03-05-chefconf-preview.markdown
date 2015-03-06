@@ -17,10 +17,6 @@ categories:
   - muktaa
 ---
 
-Join us as we preview [ChefConf](http://chefconf.com) 2015!
-
-Join the conversation in IRC:  #foodfightshow on Freenode.
-
 # Watch now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/2adf-KAz7L8" frameborder="0" allowfullscreen></iframe>
@@ -50,46 +46,12 @@ Panel<a name="panel"></a>
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
-
-
 Outline<a name="outline"></a>
 -------
 * The when and where of ChefConf
 * Walk through the schedule, each participant should discuss their talk
 * Share past experiences with ChefConf
 * What are you most excited about?
-
-Picks<a name="picks"></a>
------
-#### Brian
-
-#### Bridget
-
-#### Christine
-
-#### Jamesha
-
-#### Jeff
-
-#### Jennifer Burke 
-
-#### Jennifer Davis
-
-#### Jessica
-
-#### Jon
-
-#### Karolin
-
-#### Matt
-
-#### Mukta
-
-#### Brandon
-
-#### Nathen  
-
-  * [St. Baldrick's Foundation](http://www.stbaldricks.org/) - [My son's St. Baldrick's team](https://www.stbaldricks.org/teams/mypage/97448/2015)
 
 Download
 --------
