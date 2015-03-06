@@ -33,7 +33,7 @@ Panel<a name="panel"></a>
 
 * Brian Scott [twitter](http://twitter.com/brainscott), [github](https://github.com/bscott), [blog](http://blog.bscott.me/)
 * Bridget Kromhout [twitter](http://twitter.com/bridgetkromhout), [github](https://github.com/bridgetkromhout)
-* Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper)
+* Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper), [blog] (https://christinemdraper.wordpress.com/), [website] (http://www.thirdwaveinsights.com/automate-insights/)
 * Jamesha Fisher [twitter](http://twitter.com/jamfish728)
 * Jeff LaPlante 
 * Jennifer Burke 
@@ -42,7 +42,7 @@ Panel<a name="panel"></a>
 * Jon Cowie [twitter](http://twitter.com/jonlives), [github](http://github.com/jonlives)
 * Karolin Beck [twitter](http://twitter.com/karobeck)
 * Matt Wrock [twitter](http://twitter.com/mwrockx)
-* Mukta Aphale [twitter](http://twitter.com/muktaa)
+* Mukta Aphale  [github](http://github.com/muktaa), [twitter](http://twitter.com/muktaa), [TechLinguist](http://muktaaa.wordpress.com)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
