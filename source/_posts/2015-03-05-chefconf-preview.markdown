@@ -19,13 +19,17 @@ categories:
 
 Join us as we preview [ChefConf](http://chefconf.com) 2015!
 
-This episode will be broadcast on [Friday, March 6, 2015 at 20:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefConf+Preview&iso=20150306T15&p1=1928&ah=1).
+Join the conversation in IRC:  #foodfightshow on Freenode.
+
+# Watch now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2adf-KAz7L8" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/03/chefconf-preview.html#panel)
 * [Outline](http://foodfightshow.org/2015/03/chefconf-preview.html#outline)
 * [Picks](http://foodfightshow.org/2015/03/chefconf-preview.html#picks)
 * Download
-  * Video - Tune in [Friday, March 6, 2015 at 20:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefConf+Preview&iso=20150306T15&p1=1928&ah=1)
+  * [Video](http://youtu.be/2adf-KAz7L8)
   * Audio - Coming Soon
 
 Panel<a name="panel"></a>
@@ -89,7 +93,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Video - Tune in [Friday, March 6, 2015 at 20:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+ChefConf+Preview&iso=20150306T15&p1=1928&ah=1)
+* [Video](http://youtu.be/2adf-KAz7L8)
 * Audio - Coming Soon
 
 <hr />
