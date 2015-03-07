@@ -48,10 +48,73 @@ Panel<a name="panel"></a>
 
 Outline<a name="outline"></a>
 -------
-* The when and where of ChefConf
-* Walk through the schedule, each participant should discuss their talk
-* Share past experiences with ChefConf
-* What are you most excited about?
+
+[Chef Conf 2015](https://www.chef.io/chefconf/): Game On! March 31 - April 2 at the [Santa Clara Convention Center](http://www.santaclara.org/conventioncenter/) in Santa Clara, CA.
+
+* Day 1: Tuesday, March 31st
+
+  * [Workshop - Introduction to Chef: Managing Linux](http://sched.co/2JIu)
+    * [Diversity Scholarship](https://www.chef.io/blog/2015/03/05/apply-for-a-chefconf-2015-diversity-scholarship-by-march-13/)
+    * Diversity in the Chef Community
+  * [Chef Community Summit](http://sched.co/2Ufm)
+    * [Open Space](http://en.wikipedia.org/wiki/Open_Space_Technology) Event
+  * [Welcome Reception](http://sched.co/2R0P) Beverages & Snacks provided.
+    * 5:30pm - 7:00pm in the Exhibit Hall
+  * [Chef Meetup @ Ooyala](http://sched.co/2R2Q)
+    * [Ooyala](https://www.google.com/maps?f=q&hl=en&geocode&q=4750+Patrick+Henry+Dr,+Santa+Clara,+CA&z=13&layer=t&iframe=yes&w=i:100;&sidebar=no&bg=no)
+
+* Day 2: Wednesday, April 1st
+
+  * 5K Run
+  * [Power Yoga with Marilyn Olson Timberman](http://sched.co/2P5P)
+    * Yoga is located on the 2nd floor foyer, just at the top of the escalator from the Conference Center's Main Foyer.
+  * Keynote Sessions
+    * Nathen Harvey
+    * Barry Crist and Justin Arbukle
+      * [Standard Bank: Our DevOps Journey (part 1)](https://www.chef.io/blog/2015/01/21/standard-bank-our-devops-journey-part-1/)
+      * [Standard Bank: Our DevOps Journey (part 2)](https://www.chef.io/blog/2015/02/02/standard-bank-our-devops-journey-part-2/)
+      * [Standard Bank: Our DevOps Journey (part 3)](https://www.chef.io/blog/2015/02/16/standard-bank-our-devops-journey-part-3/)
+      * [Standard Bank: Our DevOps Journey (part 4)](https://www.chef.io/blog/2015/03/02/standard-bank-our-devops-journey-pt-4/)
+    * Surprise Speaker!!
+  * Track Sessions
+    * Brian Scott and Jeff LaPlante: [Disney DevOps: Automating the Enterprise with Supermarket, Containers and BI](http://sched.co/2UfZ)
+    * Bridget Kromhout: [Cooking Up Drama](http://sched.co/2HaE)
+    * Jamesha Fisher: [Securing the Heart of Automated Infrastructure](http://sched.co/2HZQ)
+    * Matt Wrock: [Entering the Chef Ecosystem from a Windows Background](http://sched.co/2IAw)
+  * Panel: Have Your Bets On Open Paid Off? with Cade Metz
+  * [Sponsors' Happy Hour](http://sched.co/2P5Q)
+  * [After Party at Levi's Stadium](http://sched.co/2OuP)
+  * [Game Night](http://sched.co/2OuL)
+
+* Day 3: Thursday, April 2nd
+
+  * [Gentle and Slow Yoga with Marilyn Olson Timberman](http://sched.co/2OuT)
+    * Yoga is located on the 2nd floor foyer, just at the top of the escalator from the Conference Center's Main Foyer.
+  * Keynote Sessions
+    * Adam Jacob
+    * Jez Humble
+    * Nicole 
+  * Track Sessions
+    * Jessica DeVita: [Automate What You Can, Document What You Can't and Have the Wisdom to Know the Difference](http://sched.co/2Ha8)
+    * Christine Draper: [Serve Meals, Not Ingredients](http://sched.co/2HtH)
+    * Jon Cowie: [Workflow Design: [Extracting Signal from the Noise](http://sched.co/2HtI)
+    * Harold "Waldo" Grunenwald: [Chef Retrospective](http://sched.co/2HYx)
+    * Mukta Aphale: [Baking Docker Using Chef](http://sched.co/2HaN)
+
+Other Talks:
+  * [POSHChef](http://sched.co/2Pwm)
+  * [PowerShell from the Group Up](http://sched.co/2HUw)
+  * [Windows PowerShell Desired State Configuration (DSC) for Veteran Chefs](http://sched.co/2Iw8)
+  * [Networking SDD: Same Stuff, Different Department](http://sched.co/2HaF)
+  * [Managing Databases with Chef](http://sched.co/2HYh)
+  
+* [Awesome Chef Awards](http://sched.co/2OuK)
+* Friday Hack Day
+  * Mountain View
+* Chef as a Welcoming Community
+  * Reaching Out to Community Newbies (Upcoming Program!)
+* Thursday Lightning Talks: [DevLOLOps - How To Automate Your DevOps Hilarity](http://sched.co/2HaK)
+* Thank You Jennifer Burke!!
 
 Download
 --------
