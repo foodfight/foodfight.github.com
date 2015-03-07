@@ -33,7 +33,7 @@ Panel<a name="panel"></a>
 
 * Brian Scott [twitter](http://twitter.com/brainscott), [github](https://github.com/bscott), [blog](http://blog.bscott.me/)
 * Bridget Kromhout [twitter](http://twitter.com/bridgetkromhout), [github](https://github.com/bridgetkromhout)
-* Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper), [blog] (https://christinemdraper.wordpress.com/), [website] (http://www.thirdwaveinsights.com/automate-insights/)
+* Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper), [blog](https://christinemdraper.wordpress.com/), [website](http://www.thirdwaveinsights.com/automate-insights/)
 * Jamesha Fisher [twitter](http://twitter.com/jamfish728)
 * Jeff LaPlante 
 * Jennifer Burke 
