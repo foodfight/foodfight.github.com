@@ -26,7 +26,7 @@ categories:
 * [Picks](http://foodfightshow.org/2015/03/chefconf-preview.html#picks)
 * Download
   * [Video](http://youtu.be/2adf-KAz7L8)
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/Episode89-ChefConf-Preview.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -56,7 +56,7 @@ Outline<a name="outline"></a>
 Download
 --------
 * [Video](http://youtu.be/2adf-KAz7L8)
-* Audio - Coming Soon
+* [Audio](http://traffic.libsyn.com/foodfight/Episode89-ChefConf-Preview.mp3)
 
 <hr />
 
