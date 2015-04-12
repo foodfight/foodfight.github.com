@@ -37,6 +37,7 @@ Outline<a name="outline"></a>
 * [Opsmatic](https://opsmatic.com/)
   * [@optmatic](https://twitter.com/opsmatic)
 * Day 2 Keynotes and Sessions
+* [The Chef Community Cookbooks Survey](https://www.surveymonkey.com/s/chefconf2015-cookbook-survey)
 
 Download
 --------
