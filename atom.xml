@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-03-07T12:22:42-05:00</updated>
+  <updated>2015-04-12T10:07:09-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,98 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ChefConf Day 3 Recap]]></title>
+    <link href="http://foodfightshow.org//2015/04/chefconf-day-3-recap.html"/>
+    <updated>2015-04-12T09:51:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/04/chefconf-day-3-recap</id>
+    <content type="html"><![CDATA[<h1>Watch now</h1>
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=W_8JS7EvaOE" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/04/chefconf-day-3-recap.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/04/chefconf-day-3-recap.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/W_8JS7EvaOE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS091ChefConf2015Day3Recap.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/W_8JS7EvaOE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS091ChefConf2015Day3Recap.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://chef.io">Chef Software, Inc.</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ChefConf Day 2 Recap]]></title>
+    <link href="http://foodfightshow.org//2015/04/chefconf-day-2-recap.html"/>
+    <updated>2015-04-11T09:51:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/04/chefconf-day-2-recap</id>
+    <content type="html"><![CDATA[<h1>Watch now</h1>
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=VQlPIGurNP0" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/04/chefconf-day-2-recap.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/04/chefconf-day-2-recap.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/VQlPIGurNP0">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS090ChefConf2015Day2Recap.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/VQlPIGurNP0">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS090ChefConf2015Day2Recap.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://chef.io">Chef Software, Inc.</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ChefConf Preview]]></title>
@@ -2803,272 +2895,6 @@ There are actually 7, count &#8216;em 7 streams</li>
 <p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
 
 <p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[We're Doing It Wrong]]></title>
-    <link href="http://foodfightshow.org//2014/01/were-doing-it-wrong.html"/>
-    <updated>2014-01-10T11:50:00-05:00</updated>
-    <id>http://foodfightshow.org//2014/01/were-doing-it-wrong</id>
-    <content type="html"><![CDATA[<h1>Watch Now</h1>
-
-<iframe width="560" height="315" src="http://foodfightshow.org///www.youtube.com/embed/iDcpSbAvyHw" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2014/01/were-doing-it-wrong.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2014/01/were-doing-it-wrong.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2014/01/were-doing-it-wrong.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow71-We_Are_Doing_It_Wrong.mp3">Audio</a></li>
-<li><a href="http://youtu.be/iDcpSbAvyHw">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<p></p>
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>Using a general key value store for storing configuration data</li>
-<li><a href="https://github.com/coreos/etcd">Etcd</a> vs <a href="http://zookeeper.apache.org">ZooKeeper</a></li>
-<li><a href="http://sysadvent.blogspot.it/2013/12/day-20-distributed-configuration-data.html">Kelsey Hightower&#8217;s SysAdvent post on etcd</a></li>
-<li>Latency</li>
-<li><a href="https://github.com/opscode-cookbooks/chef-server">chef-server</a></li>
-<li>Configuration Management</li>
-<li><a href="https://github.com/apache/cassandra">cassandra</a></li>
-<li><a href="http://www.hazelcast.com/">Hazelcast</a></li>
-<li>Use cases</li>
-<li>Pre-baking images</li>
-<li><a href="https://github.com/opscode/omnibus">omnibus</a></li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Lusis</h4>
-
-<ul>
-<li><a href="http://www.gocontigo.com/mugs/16-oz-autoseal-west-loop-stainless-travel-mug.html">autoseal travel mug</a></li>
-<li><a href="http://influxdb.org/">influxdb</a></li>
-<li><a href="devopsanywhere.blogspot.com/2013/11/why-im-learning-java.html">Why I&#8217;m learning Java</a> Bryan&#8217;s blog post post on why he is learning a relatively boring programming language</li>
-</ul>
-
-
-<h4>Mike</h4>
-
-<ul>
-<li><a href="https://www.bountysource.com/">Bounty Source</a></li>
-<li><a href="http://codetriage.com">CodeTriage</a></li>
-</ul>
-
-
-<h4>Ranjib</h4>
-
-<ul>
-<li><a href="http://criu.org">Check Point Restore in Userspace</a></li>
-<li><a href="https://github.com/sosedoff/lxc-ruby">ruby-lxc</a> native binding to lxc for Ruby</li>
-<li><a href="https://github.com/ctdk/goiardi">Chef Server written in Go</a></li>
-</ul>
-
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="https://github.com/jingweno/gh">gh</a>, command-line tool for interacting github</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow71-We_Are_Doing_It_Wrong.mp3">Audio</a></li>
-<li><a href="http://youtu.be/iDcpSbAvyHw">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[OpsWorks]]></title>
-    <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
-    <updated>2013-12-17T21:16:00-05:00</updated>
-    <id>http://foodfightshow.org//2013/12/opsworks</id>
-    <content type="html"><![CDATA[<p>Watch and listen to our discussion of Amazon&#8217;s <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
-
-<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/cJjvLZXpOxg" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/12/opsworks.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/12/opsworks.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/12/opsworks.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3">Audio</a></li>
-<li><a href="http://youtu.be/cJjvLZXpOxg">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Jonathan Weiss <a href="https://github.com/jweiss">github</a>, <a href="https://twitter.com/jweiss">twitter</a></li>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Tom Duffield <a href="http://github.com/tduffield">github</a>, <a href="http://twitter.com/tomduffield">twitter</a>, <a href="http://tomduffield.com">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<h3>Chef News</h3>
-
-<ul>
-<li><a href="http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/">Opscode is now Chef</a></li>
-<li><a href="http://chefconf.com">#ChefConf 2014</a> ultra-early-bird pricing ends on 31 December.  Get your tickets now!</li>
-<li>Upcoming Chef Training Events
-
-<ul>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-philadelphia-area/">Philadelphia</a></li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-4/">San Francisco</a></li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chicago-2/">Chicago</a></li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-boston-area/">Boston</a></li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-amsterdam/">Amsterdam</a></li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix/">Phoenix</a></li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-london/">London</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h3>Show Notes</h3>
-
-<ul>
-<li>Chef News</li>
-<li>Introductions</li>
-<li><a href="http://aws.amazon.com/opsworks/">AWS OpsWorks</a></li>
-<li><a href="http://aws.amazon.com/">Amazon Web Services</a></li>
-<li><a href="http://aws.amazon.com/ec2/">Amazon EC2</a></li>
-<li><a href="https://github.com/scalarium">scalarium</a></li>
-<li><a href="http://aws.amazon.com/cloudformation/">AWS CloudFormation</a></li>
-<li>AWS OpsWorks Under the Hood - <a href="http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=913oT6xV-Qk">Video</a></li>
-<li>Wrapping Solutions Around Chef vs Inside Chef</li>
-<li><a href="https://github.com/opscode-cookbooks/chef-server">chef-server</a> and search</li>
-<li><a href="http://docs.opscode.com/essentials_data_bags.html">Databags</a></li>
-<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/workingstacks-json.html">Use Custom JSON to Modify the Stack Configuration JSON</a></li>
-<li>Attaching Opsworks stacks to an existing Chef server</li>
-<li>Lifecycle Stages</li>
-<li><a href="https://github.com/amazonwebservices">Amazon Web Services on Github</a></li>
-<li>Operating Systems</li>
-<li>Versioning Schemes</li>
-<li>Metric Monitoring</li>
-<li>The Configuration Drift</li>
-<li><a href="http://aws.amazon.com/cloudtrail/faqs/">AWS CloudTrail</a></li>
-<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/troubleshoot-debug-log.html">Chef Logs</a></li>
-<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/cli-examples.html">Using the AWS OpsWorks CLI</a></li>
-<li><a href="https://twitter.com/jeffbarr/status/413398665219149824">OpsWorks in iOS and Android</a></li>
-<li>How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - <a href="http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=fZ8HmekZabo">Video</a></li>
-<li>Why Choose OpsWorks?</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Jonathan</h4>
-
-<ul>
-<li><a href="http://nicolargo.github.io/glances/">Glances</a></li>
-</ul>
-
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying">The Log: What every software engineer should know about real-time data&#8217;s unifying abstraction</a></li>
-<li><a href="http://sysadvent.blogspot.com/2013/12/day-16-omnibusing-your-way-to-happiness.html">Sys Advent:  omnibus&#8217;ing your way to happines</a></li>
-</ul>
-
-
-<h4>Mike</h4>
-
-<ul>
-<li><a href="http://myfridgefood.com/">my fridge food</a></li>
-<li><a href="https://github.com/bbatsov/rubocop">RuboCop</a></li>
-<li><a href="http://www.pylint.org/">Pylint</a></li>
-<li><a href="https://github.com/zaach/jsonlint">JSON Lint</a></li>
-<li><a href="https://twitter.com/wizonesolutions/status/413364827143540736">Best Pun Ever?!</a></li>
-</ul>
-
-
-<h4>Tom</h4>
-
-<ul>
-<li><a href="http://vim.spf13.com/">spf13-vim</a></li>
-<li><a href="http://www.projectforawesome.com/">Project For Awesome</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="https://fosdem.org/">FOSDEM</a></li>
-<li><a href="http://cfgmgmtcamp.eu/">cfgmgmtcamp</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3">Audio</a></li>
-<li><a href="http://youtu.be/cJjvLZXpOxg">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
 
 <p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
 ]]></content>
