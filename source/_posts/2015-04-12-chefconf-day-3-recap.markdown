@@ -8,7 +8,7 @@ categories:
 ---
 # Watch now
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=W_8JS7EvaOE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_8JS7EvaOE" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/04/chefconf-day-3-recap.html#panel)
 * [Outline](http://foodfightshow.org/2015/04/chefconf-day-3-recap.html#outline)
