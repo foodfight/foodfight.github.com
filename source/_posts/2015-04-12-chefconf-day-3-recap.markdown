@@ -19,10 +19,19 @@ categories:
 Panel<a name="panel"></a>
 -----
 
+* Mary Thengvall [twitter](https://twitter.com/mary_grace) [github](https://github.com/mary-grace)
+* Adam Jacob [twitter](https://twitter.com/adamhjk) [github](https://github.com/adamhjk)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
 -------
 
+* Conference Themes: The Community and The People - "People First"
+* [The Santa Clara Convention Center](http://www.santaclara.org/conventioncenter/)
+* How Chef Has Grown and Changed the Past 4 Years
+* Technology Diversity
+* The Exhibit Hall
+* Favorite Parts of ChefConf 2015
 
 Download
 --------
