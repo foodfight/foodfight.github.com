@@ -19,11 +19,24 @@ categories:
 
 Panel<a name="panel"></a>
 -----
-
+* Mikhail Panchenko [Opsmatic](https://opsmatic.com/)
+* Nicole Forsgren [twitter](https://twitter.com/nicolefv)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
 -------
 
+* ChefConf 2015 Community Summit (Open Spaces)
+  * DevOps make things better and take care of each other; Better Code = Better Results.
+    * [Jennifer Davis: From Hero to Zero (DevOpsDays Boston 2014)](https://vimeo.com/104252736)
+    * [Burnout.io](http://burnout.io/)
+    * [John Willis: DevOps Culture (Part 1) (CAMS = Culture, Automation, Measurement and Sharing)](http://itrevolution.com/devops-culture-part-1/)
+    * [Adam Jacob: No Assholes Rules](https://www.youtube.com/watch?v=Ad_yUBslqzo)
+    * [Reward Firefighting And You'll Create A Culture Of Arsonists](http://www.forbes.com/sites/johnkotter/2013/07/29/reward-firefighting-and-youll-create-a-culture-of-arsonists/)
+* [Opsmatic](https://opsmatic.com/)
+  * [@optmatic](https://twitter.com/opsmatic)
+* Day 2 Keynotes and Sessions
 
 Download
 --------
