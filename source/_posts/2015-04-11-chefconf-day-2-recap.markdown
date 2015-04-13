@@ -19,8 +19,8 @@ categories:
 
 Panel<a name="panel"></a>
 -----
-* Mikhail Panchenko [Opsmatic](https://opsmatic.com/)
-* Nicole Forsgren [twitter](https://twitter.com/nicolefv)
+* Mikhail Panchenko [twitter](https://twitter.com/mihasya), [github](https://github.com/mihasya) [Opsmatic](https://opsmatic.com/)
+* Nicole Forsgren [twitter](https://twitter.com/nicolefv), [github](https://github.com/nicolefv)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
