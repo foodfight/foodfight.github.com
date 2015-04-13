@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-04-12T10:09:57-04:00</updated>
+  <updated>2015-04-12T20:41:31-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -38,7 +38,24 @@
 
 <h2>Panel<a name="panel"></a></h2>
 
+<ul>
+<li>Mary Thengvall <a href="https://twitter.com/mary_grace">twitter</a> <a href="https://github.com/mary-grace">github</a></li>
+<li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a> <a href="https://github.com/adamhjk">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
 <h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Conference Themes: The Community and The People - &#8220;People First&#8221;</li>
+<li><a href="http://www.santaclara.org/conventioncenter/">The Santa Clara Convention Center</a></li>
+<li>How Chef Has Grown and Changed the Past 4 Years</li>
+<li>Technology Diversity</li>
+<li>The Exhibit Hall</li>
+<li>Favorite Parts of ChefConf 2015</li>
+</ul>
+
 
 <h2>Download</h2>
 
@@ -84,7 +101,42 @@
 
 <h2>Panel<a name="panel"></a></h2>
 
+<ul>
+<li>Mikhail Panchenko <a href="https://twitter.com/mihasya">twitter</a>, <a href="https://github.com/mihasya">github</a> <a href="https://opsmatic.com/">Opsmatic</a></li>
+<li>Nicole Forsgren <a href="https://twitter.com/nicolefv">twitter</a>, <a href="https://github.com/nicolefv">github</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
 <h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>ChefConf 2015 Community Summit (Open Spaces)
+
+<ul>
+<li>DevOps make things better and take care of each other; Better Code = Better Results.
+
+<ul>
+<li><a href="https://vimeo.com/104252736">Jennifer Davis: From Hero to Zero (DevOpsDays Boston 2014)</a></li>
+<li><a href="http://burnout.io/">Burnout.io</a></li>
+<li><a href="http://itrevolution.com/devops-culture-part-1/">John Willis: DevOps Culture (Part 1) (CAMS = Culture, Automation, Measurement and Sharing)</a></li>
+<li><a href="https://www.youtube.com/watch?v=Ad_yUBslqzo">Adam Jacob: No Assholes Rules</a></li>
+<li><a href="http://www.forbes.com/sites/johnkotter/2013/07/29/reward-firefighting-and-youll-create-a-culture-of-arsonists/">Reward Firefighting And You&#8217;ll Create A Culture Of Arsonists</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://opsmatic.com/">Opsmatic</a>
+
+<ul>
+<li><a href="https://twitter.com/opsmatic">@optmatic</a></li>
+</ul>
+</li>
+<li>Day 2 Keynotes and Sessions</li>
+<li><a href="https://www.surveymonkey.com/s/chefconf2015-cookbook-survey">The Chef Community Cookbooks Survey</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
