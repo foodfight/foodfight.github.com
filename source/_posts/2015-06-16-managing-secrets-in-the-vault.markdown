@@ -95,8 +95,8 @@ Picks<a name="picks"></a>
 
 #### Milos
 * [The Dark Net](http://www.amazon.co.uk/The-Dark-Net-Jamie-Bartlett/dp/0434023159)
-* [Paradox of choice] (http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en)
-* [Polyconf] (http://polyconf.com/)
+* [Paradox of choice](http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en)
+* [Polyconf](http://polyconf.com/)
 
 #### Seth
 
