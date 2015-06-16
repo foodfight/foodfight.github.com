@@ -11,8 +11,6 @@ categories:
   - milosgajdos
 ---
 
-Join us as we discuss managing secrets with tools like [Vault](https://hashicorp.com/blog/vault.html).  Join the conversation in #foodfightshow on Freenode or watch the live stream.
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/mP53wWpqBNw" frameborder="0" allowfullscreen></iframe>
