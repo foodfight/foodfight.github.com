@@ -10,13 +10,13 @@ Join us as we discuss managing secrets with tools like [Vault](https://hashicorp
 
 # Watch Now
 
-The show will air [Tuesday, June 16, 2015 at 12:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+93+-+Vault&iso=20150616T08&p1=1928&ah=1).
+<iframe width="420" height="315" src="http://www.youtube.com/embed/mP53wWpqBNw" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#panel)
 * [Outline](http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#outline)
 * [Picks](http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#picks)
 * Download
-  * Video - Coming soon!
+  * [Video](http://youtu.be/mP53wWpqBNw)
   * Audio - Coming soon!
 
 Panel<a name="panel"></a>
@@ -92,7 +92,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Video - Coming soon!
+* [Video](http://youtu.be/mP53wWpqBNw)
 * Audio - Coming soon!
 
 <hr />
