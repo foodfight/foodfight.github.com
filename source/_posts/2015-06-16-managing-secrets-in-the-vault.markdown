@@ -36,6 +36,48 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+* What is a "secret"?
+* Protecting Secrets (Secret Management)
+  * [chef-vault](https://github.com/Nordstrom/chef-vault)
+* Decrypting Secrets
+  * [Personally Identifiable Information (PII)](https://en.wikipedia.org/wiki/Personally_identifiable_information)
+* Working with Vaults (Experience)
+  * [keywhiz](https://github.com/square/keywhiz)
+  * [Amazon KMS (Key Management Service)](http://aws.amazon.com/kms/)
+* [Vault](https://www.vaultproject.io/)
+  * [Vault Interactive Tutorial](https://www.vaultproject.io/#/demo/0)
+  * [Backends]
+    * Audit Backends
+    * Off Backends
+    * Secret Backends
+  * Postgres VALID UNTIL (Lease Expiration)
+  * Renewals
+  * [Transit Secret Backend](https://vaultproject.io/docs/secrets/transit/)
+    * Use Case: Using for Vault developers to share secrets back and forth?
+  * Policies
+   * Read Access
+   * Write
+   * Deny
+   * Pseudo
+  * User Authentication
+   * Token-based Auth
+   * [GitHub](https://github.com)
+   * Username and Password 
+   * [uauth](https://github.com/devster/uauth)
+   * TLS Certificates
+   * [LDAP](https://msdn.microsoft.com/en-us/library/aa367008(v=vs.85).aspx)
+  * AppID
+  * [Vault as Open Source](https://github.com/hashicorp/vault)
+  * The "Break Glass Procedure": How do you know your secrets have been leaked?
+  * Where do services like Vault fit in with containers?
+  * Vault with Console
+  * Leader Election
+  * [hologram](https://github.com/AdRoll/hologram)
+  * Security and Independent Security Audits 
+  * Key Rotation
+  * Chef/Vault Integration
+    * [chef-vault Cookbook](https://github.com/opscode-cookbooks/chef-vault)
+    * [vault-ruby](https://github.com/hashicorp/vault-ruby)
 
 Picks<a name="picks"></a>
 -----
