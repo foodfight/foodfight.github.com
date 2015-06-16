@@ -4,7 +4,7 @@
   <title><![CDATA[Category: sethvargo | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/sethvargo/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-06-16T09:09:40-04:00</updated>
+  <updated>2015-06-16T17:21:49-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -31,7 +31,7 @@
 
 <ul>
 <li><a href="http://youtu.be/mP53wWpqBNw">Video</a></li>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -52,6 +52,80 @@
 
 
 <h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What is a "secret"?</li>
+<li>Protecting Secrets (Secret Management)
+
+<ul>
+<li><a href="https://github.com/Nordstrom/chef-vault">chef-vault</a></li>
+</ul>
+</li>
+<li>Decrypting Secrets
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Personally_identifiable_information">Personally Identifiable Information (PII)</a></li>
+</ul>
+</li>
+<li>Working with Vaults (Experience)
+
+<ul>
+<li><a href="https://github.com/square/keywhiz">keywhiz</a></li>
+<li><a href="http://aws.amazon.com/kms/">Amazon KMS (Key Management Service)</a></li>
+</ul>
+</li>
+<li><a href="https://www.vaultproject.io/">Vault</a>
+
+<ul>
+<li><a href="https://www.vaultproject.io/#/demo/0">Vault Interactive Tutorial</a></li>
+<li>Backends
+
+<ul>
+<li>Audit Backends</li>
+<li>Auth Backends</li>
+<li>Secret Backends</li>
+</ul>
+</li>
+<li>Postgres VALID UNTIL (Lease Expiration)</li>
+<li>Renewals</li>
+<li><a href="https://vaultproject.io/docs/secrets/transit/">Transit Secret Backend</a>
+
+<ul>
+<li>Use Case: Using for Vault developers to share secrets back and forth?</li>
+</ul>
+</li>
+<li>Policies</li>
+<li>Read Access</li>
+<li>Write</li>
+<li>Deny</li>
+<li>Pseudo</li>
+<li>User Authentication</li>
+<li>Token-based Auth</li>
+<li><a href="https://github.com">GitHub</a></li>
+<li>Username and Password</li>
+<li><a href="https://github.com/devster/uauth">uauth</a></li>
+<li>TLS Certificates</li>
+<li>LDAP</li>
+<li>AppID</li>
+<li><a href="https://github.com/hashicorp/vault">Vault as Open Source</a></li>
+<li>The "Break Glass Procedure": How do you know your secrets have been leaked?</li>
+<li>Where do services like Vault fit in with containers?</li>
+<li>Vault with Console</li>
+<li>Leader Election</li>
+<li><a href="https://github.com/AdRoll/hologram">hologram</a></li>
+<li>Security and Independent Security Audits</li>
+<li>Key Rotation</li>
+<li>Chef/Vault Integration
+
+<ul>
+<li><a href="https://github.com/opscode-cookbooks/chef-vault">chef-vault Cookbook</a></li>
+<li><a href="https://github.com/hashicorp/vault-ruby">vault-ruby</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
 
 <h2>Picks<a name="picks"></a></h2>
 
@@ -102,7 +176,7 @@
 
 <ul>
 <li><a href="http://youtu.be/mP53wWpqBNw">Video</a></li>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3">Audio</a></li>
 </ul>
 
 
