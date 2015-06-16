@@ -20,7 +20,7 @@ categories:
 * [Picks](http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#picks)
 * Download
   * [Video](http://youtu.be/mP53wWpqBNw)
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -46,9 +46,9 @@ Outline<a name="outline"></a>
   * [Amazon KMS (Key Management Service)](http://aws.amazon.com/kms/)
 * [Vault](https://www.vaultproject.io/)
   * [Vault Interactive Tutorial](https://www.vaultproject.io/#/demo/0)
-  * [Backends]
+  * Backends
     * Audit Backends
-    * Off Backends
+    * Auth Backends
     * Secret Backends
   * Postgres VALID UNTIL (Lease Expiration)
   * Renewals
@@ -62,10 +62,10 @@ Outline<a name="outline"></a>
   * User Authentication
    * Token-based Auth
    * [GitHub](https://github.com)
-   * Username and Password 
+   * Username and Password
    * [uauth](https://github.com/devster/uauth)
    * TLS Certificates
-   * [LDAP](https://msdn.microsoft.com/en-us/library/aa367008(v=vs.85).aspx)
+   * LDAP
   * AppID
   * [Vault as Open Source](https://github.com/hashicorp/vault)
   * The "Break Glass Procedure": How do you know your secrets have been leaked?
@@ -73,7 +73,7 @@ Outline<a name="outline"></a>
   * Vault with Console
   * Leader Election
   * [hologram](https://github.com/AdRoll/hologram)
-  * Security and Independent Security Audits 
+  * Security and Independent Security Audits
   * Key Rotation
   * Chef/Vault Integration
     * [chef-vault Cookbook](https://github.com/opscode-cookbooks/chef-vault)
@@ -112,7 +112,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/mP53wWpqBNw)
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3)
 
 <hr />
 
