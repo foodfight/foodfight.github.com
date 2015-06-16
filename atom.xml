@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-04-12T20:41:31-04:00</updated>
+  <updated>2015-06-16T07:26:13-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,174 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Managing Secrets - In the Vault]]></title>
+    <link href="http://foodfightshow.org//2015/06/managing-secrets-in-the-vault.html"/>
+    <updated>2015-06-16T07:16:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/06/managing-secrets-in-the-vault</id>
+    <content type="html"><![CDATA[<p>Join us as we discuss managing secrets with tools like <a href="https://hashicorp.com/blog/vault.html">Vault</a>.  Join the conversation in #foodfightshow on Freenode or watch the live stream.</p>
+
+<h1>Watch Now</h1>
+
+<p>The show will air <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+93+-+Vault&amp;iso=20150616T08&amp;p1=1928&amp;ah=1">Tuesday, June 16, 2015 at 12:00:00</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - Coming soon!</li>
+<li>Audio - Coming soon!</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Jamie Dobson</li>
+<li>Seth Vargo <a href="http://github.com/sethvargo">github</a>, <a href="http://twitter.com/sethvargo">twitter</a></li>
+<li>Milos Gajdos <a href="https://github.com/milosgajdos83">github</a>, <a href="https://twitter.com/milosgajdos">twitter</a>, <a href="http://containerops.org/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h2>Outline / Questions</h2>
+
+<ul>
+<li>Secret Sharing
+
+<ul>
+<li>Sharing between people in a team</li>
+<li>Storage</li>
+<li>Sharing with machines in dev or production</li>
+</ul>
+</li>
+<li>How do people currently do this?
+
+<ul>
+<li>encrypted databags</li>
+<li><a href="https://github.com/Nordstrom/chef-vault">Chef Vault</a></li>
+<li><a href="https://square.github.io/keywhiz/">Keywhiz</a></li>
+<li>gpg keychains
+
+<ul>
+<li>personal keys (<a href="https://keybase.io/">keybase.io</a>) - sharing b/w devs</li>
+<li>ship encrypted text to machines that have gpg private keys</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>What&#8217;s wrong w/ these? Not really built for managing keys, they are hacks around the larger problem</li>
+<li>Requirements
+
+<ul>
+<li>Auditing, who accessed what and where</li>
+<li>Same system for developers and machines</li>
+<li>key rolling, expiration/revocation</li>
+<li>integration w/ identity mgt systems ldap, github auth</li>
+<li>remote [http] API for accessing secrets programmatically, only get secrets when u need them</li>
+<li>Usage in Auto Scale groups</li>
+</ul>
+</li>
+<li>Best way to integrate Vault w/ Chef, puppet, consul-template?
+
+<ul>
+<li>take the summon approach and populate chef w/ secrets as env vars?</li>
+<li>Specifically make calls to vault api when secrets needed inside manfest/recipe code?</li>
+<li><a href="http://xordataexchange.github.io/crypt/">crypt</a> for ecnrypting and storing env variables in etcd/consul</li>
+</ul>
+</li>
+<li>Advanced Use cases
+
+<ul>
+<li>using vault to share secrets b/w devs instead of using personal gpg keys</li>
+<li>One time passwords</li>
+<li>integration w/ iam/hologram</li>
+</ul>
+</li>
+<li>Roadmap
+
+<ul>
+<li>UI planned?</li>
+<li>explicit support for rotating keys</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="https://github.com/spf13/cobra">cobra</a></li>
+<li><a href="http://www.amazon.com/1493-Uncovering-World-Columbus-Created/dp/0307278247">1493 The World Columbus Made</a> by Charles C. Mann</li>
+<li><a href="https://www.youtube.com/watch?v=MV_3Dpw-BRY">Kavinsky</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://summit.chef.io">Chef Community Summit</a></li>
+<li><a href="http://devopsdaysdc.org">DevOpsDays DC</a></li>
+</ul>
+
+
+<h4>Milos</h4>
+
+<ul>
+<li><a href="http://www.amazon.co.uk/The-Dark-Net-Jamie-Bartlett/dp/0434023159">The Dark Net</a></li>
+<li>[Paradox of choice] (http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en)</li>
+<li>[Polyconf] (http://polyconf.com/)</li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<h4>Jamie</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - Coming soon!</li>
+<li>Audio - Coming soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays DC]]></title>
+    <link href="http://foodfightshow.org//2015/06/devopsdays-dc.html"/>
+    <updated>2015-06-12T17:14:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/06/devopsdays-dc</id>
+    <content type="html"><![CDATA[<p>A wrap-up of <a href="http://devopsdaysdc.org">DevOpsDays DC</a> recorded live at the end of the conference.</p>
+
+<iframe src="http://livestream.com/accounts/4828334/events/4104760/videos/90060473/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ChefConf Day 3 Recap]]></title>
@@ -2720,235 +2888,6 @@ There are actually 7, count &#8216;em 7 streams</li>
 </li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Management in Operations]]></title>
-    <link href="http://foodfightshow.org//2014/06/management-in-operations.html"/>
-    <updated>2014-06-03T05:59:00-04:00</updated>
-    <id>http://foodfightshow.org//2014/06/management-in-operations</id>
-    <content type="html"><![CDATA[<ul>
-<li><a href="http://foodfightshow.org/2014/04/management-in-operations.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2014/04/management-in-operations.html#outline">Outline</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow73-ManagementInOperations.mp3">Audio</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Kevin Behr <a href="https://twitter.com/kevinbehr">twitter</a></li>
-<li>Mark Imbriaco <a href="https://twitter.com/markimbriaco">twitter</a></li>
-<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<p></p>
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li><a href="http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592">The Phonenix Project by Kevin Behr, George Spafford, and Gene Kim</a></li>
-<li>Kevin&#8217;s DevOpsDays Opening Keynote (TL;DR)</li>
-<li>Prioritization</li>
-<li>Command Narative</li>
-<li>Strategic Intent</li>
-<li>Mission Statements</li>
-<li>Operations</li>
-<li>Context</li>
-<li>Embedding Ops</li>
-<li>Interface</li>
-<li>Middle Management</li>
-<li><a href="http://en.wikipedia.org/wiki/Cynefin">Cynefin</a></li>
-<li>Processes</li>
-<li>Scaling Teams</li>
-<li>Feedback</li>
-<li><a href="http://en.wikipedia.org/wiki/Kanban">Kanban</a></li>
-<li>Working in IT</li>
-<li>Context Switching</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cookbook Patterns]]></title>
-    <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
-    <updated>2014-04-29T18:05:00-04:00</updated>
-    <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
-    <content type="html"><![CDATA[<h1>Watch Now</h1>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/B7PXdl4jYGQ" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2014/04/cookbook-patterns.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2014/04/cookbook-patterns.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2014/04/cookbook-patterns.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow72-CookbookPatterns.mp3">Audio</a></li>
-<li><a href="http://youtu.be/B7PXdl4jYGQ">Video</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Jamie Winsor - <a href="https://github.com/reset">github</a>, <a href="https://twitter.com/resetexistence">twitter</a>, <a href="http://vialstudios.com/">blog</a></li>
-<li>Tom Duffield - <a href="http://github.com/tduffield">github</a>, <a href="http://twitter.com/tomduffield">twitter</a>, <a href="http://tomduffield.com">blog</a>, irc:  tomduffield</li>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<h3>Chef News</h3>
-
-<ul>
-<li>#ChefConf 2014 - <a href="http://www.youtube.com/watch?v=g-BF0z7eFoU&amp;list=PL11cZfNdwNyMmx0msapJfuGsLV43C7XsA">Watch all the videos on YouTube!</a></li>
-<li>Awesome Community Chefs</li>
-<li><a href="http://www.getchef.com/blog/2014/04/29/chefdk-0-1-0-released/">ChefDK 0.1.0 Released</a></li>
-<li>Upcoming Conferences
-
-<ul>
-<li><a href="http://lopsa-east.org/2014/">LOPSA-East</a> - Featuring talks from five Chef employees!  Jennifer Davis, Mandi Walls, Michael Goetz, Mark Harrison, and Nathen Harvey</li>
-<li><a href="http://devopsdays.org/events/2014-austin/">DevOps Days Austin</a> - including a talk from Matt Ray</li>
-<li><a href="http://devopsdays.org/events/2014-pittsburgh/">devopsdays Pittsburgh</a> - Featuring talks from Kevin Behr, Pete Cheslock, Jennifer Davis, and Nathen Harvey</li>
-</ul>
-</li>
-<li>Upcoming Training
-
-<ul>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chicago-3/">Chicago</a> - May 6 &amp; 7</li>
-<li><a href="http://www.getchef.com/blog/event/intermediateadvanced-chef-london-uk/">London</a> - May 13 &amp; 14 - Intermediate Chef</li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamental-san-francisco/">San Francisco</a> - May 21 &amp; 22</li>
-<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-dallas-2/">Dallas</a> - May 27 &amp; 28</li>
-</ul>
-</li>
-</ul>
-
-
-<h3>Show Notes</h3>
-
-<ul>
-<li><a href="http://blog.vialstudios.com/the-environment-cookbook-pattern/">Jamie&#8217;s blog post on the subject</a>
-
-<ul>
-<li><a href="https://github.com/RiotGames/motherbrain">motherbrain</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=bzmxKwWrLCM">Tom&#8217;s #ChefConf 2014 talk:  &#8220;Everything As A Cookbook: Service Oriented Thinking for Your Code&#8221;</a></li>
-<li>Modularity &amp; Reusability</li>
-<li>Adoption of Patterns</li>
-<li>Patterns
-
-<ul>
-<li>Library</li>
-<li>Application</li>
-<li>Environment</li>
-<li>Base</li>
-<li>Wrapper</li>
-</ul>
-</li>
-<li>Wrapping Community Cookbooks</li>
-<li><a href="https://github.com/reset/berkflow">berkflow</a>
-
-<ul>
-<li><a href="https://github.com/berkshelf/berkshelf">berkshelf</a></li>
-</ul>
-</li>
-<li>Roles</li>
-<li>Learning Chef
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=Dq_vGxd-jps">Jamie&#8217;s #ChefConf 2014 talk:  &#8220;The Berkshelf Vision&#8221;</a></li>
-</ul>
-</li>
-<li>Bringing Chef Into an Organization</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Jamie</h4>
-
-<ul>
-<li><a href="http://www.getchef.com/downloads/chef-dk/">ChefDK</a></li>
-<li><a href="http://www.consul.io/">Consul</a></li>
-</ul>
-
-
-<h4>Tom</h4>
-
-<ul>
-<li><a href="http://www.bbcamerica.com/orphan-black/">Orphan Black</a></li>
-<li><a href="https://www.youtube.com/user/emergencyawesome">Emergency Awesome</a></li>
-<li><a href="http://devopsdays.org/events/2014-minneapolis/">DevOps Days Minneapolis</a></li>
-</ul>
-
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="http://seedlingsshow.com/">Seedlings Show</a></li>
-<li><a href="http://blog.travis-ci.com/2014-04-28-changing-some-code-instrument-it/">Changing Some Code? Instrument It!</a></li>
-<li><a href="https://www.youtube.com/watch?v=XiXZOF6dZuE&amp;feature=youtu.be">Jepsen II: Linearizable Boogaloo</a></li>
-</ul>
-
-
-<h4>Mike</h4>
-
-<ul>
-<li>Take a vacation, at least a week!</li>
-<li><a href="https://vimeo.com/26330100">Less - The Path to Better Design</a></li>
-<li><a href="http://www.farawayfoods.com/hotsesameoil.html">House of Tsang Hot Chili Sesame Oil</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li>Working at Chef means unlimited paid time off!  Checkout our <a href="http://www.getchef.com/careers/">job openings</a></li>
-<li><a href="http://getchef.com/summit">Chef Summit</a> - Save the date!  October 2-3 in Seattle, WA.</li>
-<li><a href="https://github.com/opscode/chef-metal">Chef Metal</a> and <a href="http://www.youtube.com/watch?v=Fo4dtt6fXNc">Mandi&#8217;s demo from #ChefConf</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow72-CookbookPatterns.mp3">Audio</a></li>
-<li><a href="http://youtu.be/B7PXdl4jYGQ">Video</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
 ]]></content>
   </entry>
   

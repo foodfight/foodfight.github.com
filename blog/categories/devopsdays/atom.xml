@@ -4,7 +4,7 @@
   <title><![CDATA[Category: devopsdays | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/devopsdays/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-04-12T20:41:31-04:00</updated>
+  <updated>2015-06-16T07:26:13-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays DC]]></title>
+    <link href="http://foodfightshow.org//2015/06/devopsdays-dc.html"/>
+    <updated>2015-06-12T17:14:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/06/devopsdays-dc</id>
+    <content type="html"><![CDATA[<p>A wrap-up of <a href="http://devopsdaysdc.org">DevOpsDays DC</a> recorded live at the end of the conference.</p>
+
+<iframe src="http://livestream.com/accounts/4828334/events/4104760/videos/90060473/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
@@ -200,21 +212,6 @@
 <p>Here's the video of the <a href="https://www.youtube.com/watch?v=sA9Kato1CxA">Boeing 787 Dreamliner Wing Break Test</a> that was discussed in the episode.</p>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/sA9Kato1CxA" frameborder="0" allowfullscreen></iframe>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOps Days Italy]]></title>
-    <link href="http://foodfightshow.org//2012/10/devopsdays-rome.html"/>
-    <updated>2012-10-05T17:47:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/10/devopsdays-rome</id>
-    <content type="html"><![CDATA[<p>Some updates from DevOps Days Italy</p>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">Jason Dixon gets Graphy on Graphite at Devops Days Italy</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">John Willis on why Deming Matters</a></li>
-</ul>
 
 ]]></content>
   </entry>
