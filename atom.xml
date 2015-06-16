@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-06-16T17:21:49-04:00</updated>
+  <updated>2015-06-16T17:25:28-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -150,8 +150,8 @@
 
 <ul>
 <li><a href="http://www.amazon.co.uk/The-Dark-Net-Jamie-Bartlett/dp/0434023159">The Dark Net</a></li>
-<li>[Paradox of choice] (http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en)</li>
-<li>[Polyconf] (http://polyconf.com/)</li>
+<li><a href="http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en">Paradox of choice</a></li>
+<li><a href="http://polyconf.com/">Polyconf</a></li>
 </ul>
 
 
