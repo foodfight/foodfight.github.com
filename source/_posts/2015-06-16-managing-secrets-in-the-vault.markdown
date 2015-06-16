@@ -4,6 +4,11 @@ title: "Managing Secrets - In the Vault"
 date: 2015-06-16 07:16
 comments: true
 categories:
+  - hashicorp
+  - sethvargo
+  - vault
+  - secrets
+  - milosgajdos
 ---
 
 Join us as we discuss managing secrets with tools like [Vault](https://hashicorp.com/blog/vault.html).  Join the conversation in #foodfightshow on Freenode or watch the live stream.
@@ -23,9 +28,9 @@ Panel<a name="panel"></a>
 -----
 
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Jamie Dobson
 * Seth Vargo [github](http://github.com/sethvargo), [twitter](http://twitter.com/sethvargo)
 * Milos Gajdos [github](https://github.com/milosgajdos83), [twitter](https://twitter.com/milosgajdos), [blog](http://containerops.org/)
+* Mike Fiedler [github](https://github.com/miketheman), [twitter](https://twitter.com/mikefiedler)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 <!-- more -->
@@ -33,39 +38,6 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
-Outline / Questions
--------------------
-
-* Secret Sharing
-  - Sharing between people in a team
-  - Storage
-  - Sharing with machines in dev or production
-* How do people currently do this?
-  - encrypted databags
-  - [Chef Vault](https://github.com/Nordstrom/chef-vault)
-  - [Keywhiz](https://square.github.io/keywhiz/)
-  - gpg keychains
-    - personal keys ([keybase.io](https://keybase.io/)) - sharing b/w devs
-    - ship encrypted text to machines that have gpg private keys
-* What's wrong w/ these? Not really built for managing keys, they are hacks around the larger problem
-* Requirements
-  - Auditing, who accessed what and where
-  - Same system for developers and machines
-  - key rolling, expiration/revocation
-  - integration w/ identity mgt systems ldap, github auth
-  - remote [http] API for accessing secrets programmatically, only get secrets when u need them
-  - Usage in Auto Scale groups
-* Best way to integrate Vault w/ Chef, puppet, consul-template?
-  - take the summon approach and populate chef w/ secrets as env vars?
-  - Specifically make calls to vault api when secrets needed inside manfest/recipe code?
-  - [crypt](http://xordataexchange.github.io/crypt/) for ecnrypting and storing env variables in etcd/consul
-* Advanced Use cases
-  - using vault to share secrets b/w devs instead of using personal gpg keys
-  - One time passwords
-  - integration w/ iam/hologram
-* Roadmap
-  - UI planned?
-  - explicit support for rotating keys
 
 Picks<a name="picks"></a>
 -----
@@ -78,8 +50,8 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
-* [Chef Community Summit](http://summit.chef.io)
 * [DevOpsDays DC](http://devopsdaysdc.org)
+* [Chef Community Summit](http://summit.chef.io)
 
 #### Milos
 * [The Dark Net](http://www.amazon.co.uk/The-Dark-Net-Jamie-Bartlett/dp/0434023159)
@@ -88,7 +60,14 @@ Picks<a name="picks"></a>
 
 #### Seth
 
-#### Jamie
+* [DevOpsDays Pittsburgh](http://www.devopsdays.org/events/2015-pittsburgh/)
+* [Hashiconf](https://hashicorp.com/blog/hashiconf.html)
+* Bacon!
+
+#### Mike
+
+* Railsconf talk by Sandi Metz - [Nothing is Something](http://confreaks.tv/videos/railsconf2015-nothing-is-something)
+* [POP - Prototyping on Paper](https://popapp.in/)
 
 Download
 --------
