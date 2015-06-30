@@ -11,7 +11,7 @@ categories:
 ---
 A wrap-up of [DevOpsDays DC](http://devopsdaysdc.org) recorded live at the end of the conference.
 
-<iframe src="http://livestream.com/accounts/4828334/events/4104760/videos/90060473/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/3eyDoBkSy4w" frameborder="0" allowfullscreen></iframe>
 
 * Download
   * [Video](http://youtu.be/3eyDoBkSy4w)
