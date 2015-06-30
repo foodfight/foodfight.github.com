@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: soberbuildeng | Food Fight]]></title>
+  <title><![CDATA[Category: SoberBuildEng | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/soberbuildeng/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-06-30T15:33:29-04:00</updated>
+  <updated>2015-06-30T15:35:52-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,279 +14,43 @@
 
   
   <entry>
-    <title type="html"><![CDATA[DevOpsDays - Silicon Valley]]></title>
-    <link href="http://foodfightshow.org//2013/06/devopsdays-silicon-valley.html"/>
-    <updated>2013-06-28T15:24:00-04:00</updated>
-    <id>http://foodfightshow.org//2013/06/devopsdays-silicon-valley</id>
-    <content type="html"><![CDATA[<p>Show Date:  June 21, 2013</p>
+    <title type="html"><![CDATA[ChefConf:  Day Two Wrap-up]]></title>
+    <link href="http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up.html"/>
+    <updated>2013-04-30T13:46:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up</id>
+    <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
-<p>Join this episode where we re-cap <a href="http://devopsdays.org/events/2013-mountainview/">DevOpsDays Silicon Valley</a>.  We were lucky enough to have members from <a href="http://theshipshow.com/2013/06/devopsdays-silicon-valley-2013-super-panel/">The Ship Show</a> and <a href="http://devopscafe.org/">DevOps Cafe</a>.</p>
+<p>This is another FoodShipShow Joint Production!</p>
+
+<p>Join us as we wrap-up #ChefConf 2013.</p>
+
+<p>You can now <a href="http://bit.ly/ffsmail">subscribe to the Food Fight Show email newsletter</a>.</p>
 
 <ul>
-<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2013/06/devopsdays-silicon-valley.html#picks">Picks</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
+<li>Download <a href="http://traffic.libsyn.com/foodfight/ChefConf-2013-Wrap-Up.mp3">Audio</a></li>
 </ul>
 
 
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
+<li>Fletcher Nichol <a href="http://github.com/fnichol">github</a>, <a href="https://twitter.com/fnichol">twitter</a></li>
 <li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Sascha Bates <a href="http://twitter.com/sascha_d">@sascha_d</a></li>
+<li>J. Paul Reed <a href="http://twitter.com/SoberBuildEng">@SoberBuildEng</a></li>
+<li>Youssuf El-Kalay <a href="http://twitter.com/buildscientist">@buildscientist</a></li>
+<li>Seth Thomas <a href="http://twitter.com/cheeseplus">@cheeseplus</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
-<li>J. Paul Reed <a href="https://twitter.com/SoberBuildEng">twitter</a></li>
-<li>Sascha Bates <a href="https://github.com/sbates">github</a>, <a href="https://twitter.com/sascha_d">twitter</a></li>
-<li>Patrick Debois <a href="https://github.com/jedi4ever">github</a>, <a href="https://twitter.com/patrickdebois">twitter</a></li>
-<li>Damon Edwards <a href="https://github.com/damonedwards">github</a>, <a href="https://twitter.com/damonedwards">twitter</a></li>
-<li>Robert Berger <a href="http://twitter.com/rberger">github</a>, <a href="https://github.com/rberger">github</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li><a href="http://cdn.oreillystatic.com/en/assets/1/event/94/Operations%20Level%20Up%20Presentation.pdf">Operations Level Up</a> - Presentation from Mandi Walls ([@lnxchk])(https://twitter.com/lnxchk)</li>
-<li><a href="https://speakerdeck.com/sethvargo/test-driven-infrastructure-with-chef">Test-driven Infrastructure with Chef</a></li>
-<li><a href="http://www.slideshare.net/danmil30/how-to-run-a-postmortem-with-humans-not-robots-velocity-2013">How To Run a Post-mortem with Humans (Not Robots)</a></li>
-<li><a href="http://twitter.com/mrhinkle">@mrhinkle</a> and <a href="http://buildacloud.org">buildacloud.org</a></li>
-<li><a href="http://vimeo.com/69081899">Is your Team Instrument Rated (or: Deploying 89.000 times a day)</a></li>
-<li><a href="https://speakerdeck.com/nathenharvey/devop-with-me">DevOp with Me</a> - Nathen's Lightning talk.</li>
-<li><a href="http://vimeo.com/69084514">Leveling Up a New Engineer in a Devops Culture; Healthy Sustainability</a></li>
-<li><a href="http://vimeo.com/69092627">DevOps and the CIA</a></li>
-<li><a href="http://vimeo.com/69100789">Beer Pinapples and Bottlenecks</a></li>
-<li><a href="http://vimeo.com/album/2435220">All the talks are now available!</a></li>
 </ul>
 
 
 <h2>Download</h2>
 
 <ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3">Download Audio</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/ChefConf-2013-Wrap-Up.mp3">Download the Audio file</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Release Engineering]]></title>
-    <link href="http://foodfightshow.org//2012/10/release-engineering.html"/>
-    <updated>2012-10-31T09:58:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/10/release-engineering</id>
-    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 30 October 2012</p>
-
-<p>In this episode, <a href="https://twitter.com/bryanwb">Bryan</a> and <a href="https://twitter.com/nathenharvey">Nathen</a> sat down with <a href="https://twitter.com/soberbuildeng">J. Paul Reed</a> and <a href="http://twitter.com/cheeseplus">Seth Thomas</a> to talk about the practice, profession, and tools of Release Engineering.  We also talked a bit about their Podcast, <a href="http://theshipshow.com/">The Ship Show</a>.</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/10/release-engineering.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2012/10/release-engineering.html#outline">Outline</a></li>
-<li>What's Cookin'
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/10/release-engineering.html#news">In the News</a></li>
-<li><a href="http://foodfightshow.org/2012/10/release-engineering.html#cookbooks">Cookbook News</a></li>
-</ul>
-</li>
-<li><a href="http://foodfightshow.org/2012/10/release-engineering.html#picks">Picks</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-31-Release-Engineering.mp3">Download</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>J. Paul Reed <a href="https://github.com/preed">github</a>, <a href="https://twitter.com/soberbuildeng">twitter</a>, <a href="http://soberbuildengineer.com/blog/">blog</a></li>
-<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>The Ship Show <a href="http://theshipshow.com/">website</a>, <a href="https://twitter.com/ShipShowPodcast">twitter</a></li>
-</ul>
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>00:44 - In the News</li>
-<li>06:28 - New Cookbooks</li>
-<li>17:18 - Updated Cookbooks</li>
-<li>19:15 - Introductions</li>
-<li>19:40 - The Ship Show</li>
-<li>27:40 - Release Engineering - Continuous Integration</li>
-<li>36:20 - Release Engineering - Version Control
-
-<ul>
-<li>40:28 - "git...is the Ike Turner of version control systems"</li>
-<li>47:47 - Strengths of perforce</li>
-</ul>
-</li>
-<li>56:15 - Deployment Strategies</li>
-<li>1:02:00 - Build Tools</li>
-<li>1:12:05 - DevOps Culture
-
-<ul>
-<li>1:14:46 - "DevOps, as a movement, has made it OK to talk about the cultural stuff"</li>
-</ul>
-</li>
-<li>1:16:13 - Continuous Integration Systems</li>
-<li>1:19:35 - Packaging and artifact repositories</li>
-<li>1:26:59 - Summing up the episode</li>
-<li>1:29:20 - Picks</li>
-</ul>
-
-
-<h2>In the News<a name="news"></a></h2>
-
-<ul>
-<li><p>Last week was the Chef Community Summit.  We had two Food Fight Show updates from the Summit and you can find a <a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2">ton of notes from the sessions on the Opscode Wiki</a>.</p></li>
-<li><p>This videos from this year's <a href="http://www.youtube.com/user/OmniTISurge">Surge Conference are now available on YouTube</a></p></li>
-<li><p>During the Webexpo Prague, Karel Minarik and Vojtech Hyza presented <a href="http://webexpo.net/prague2012/talk/shells-kitchen/">Shell's Kitchen</a> a talk about server provisioning with Chef.  In addition to the talk, they've also released the code, a <a href="http://git.io/chef-hello-cloud">comprehensive example repository for deploying an application with Chef</a>.</p></li>
-<li><p><a href="https://peepcode.com/products/chef-ii">PeepCode - Meet Chef (Part 2 of 2)</a> is now available.</p></li>
-<li><p><a href="http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/">Monitoringlove: a True story</a> in this presentation
-given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme
-from monitoringsucks to monitoringlove. Hey kids, Ulf is right. monitoringsucks is dead, long live monitoringlove! There
-is now an active monitoringlove hashtag on twitter and an active #monitoringlove IRC channel. Join the Fun! Thanks
-to Ulf Mansson for making us realize that monitoring no longer has to suck and that if we put in just a bit of extra work,
-we can experience monitoringlove too.</p></li>
-<li><p>More goodness from the Shipshow Podcast, <a href="http://theshipshow.com/2012/10/bootstrapping-your-developer-environments/">bootstrapping developer environments</a>
-and discuss when to <a href="http://theshipshow.com/2012/10/rolling-your-own/">roll your own open-source project</a> rather than
-contribute to an existing one.</p></li>
-<li><p><a href="http://berkshelf.com/">Berkshelf</a> was a popular topic during last week's Chef Community Summit. Riot Games is moving towards an official 0.6.0 release</p></li>
-<li><p>Chef Openstack updates on <a href="http://leastresistance.wordpress.com/2012/10/23/chef-for-openstack-status-1022/">Matt Ray's blog</a>, <a href="http://www.slideshare.net/mattray/chef-for-openstack-openstack-fall-2012-summit">matt's presentation at openstack summit</a>
-There is a lot of development underway with numerous patches making their way into master for both Openstack release Essex and the newest release, Folsom.</p></li>
-<li><p>There is now a Chef for Openstack <a href="http://groups.google.com/group/opscode-chef-openstack">mailing list</a></p></li>
-<li><p><a href="http://fzaninotto.github.com/uptime/">Uptime</a> is a new simple HTTP remote monitoring utility using Node.js and MongoDB.  There's even a cookbook for managing your uptime application that we'll mention in cookbook news.</p></li>
-</ul>
-
-
-<h2>Cookbook News<a name="cookbooks"></a></h2>
-
-<h3>New Cookbooks</h3>
-
-<ul>
-<li><p><a href="http://community.opscode.com/cookbooks/auditd">auditd</a> v0.1.0 - from Sean Escriva - <a href="http://community.opscode.com/users/sme">sme</a><br/>
-A simple cookbook to install auditd and provided rulesets.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/subrosa">subrosa</a> v0.1.0 - from Sean Escriva - <a href="http://community.opscode.com/users/sme">sme</a><br/>
-Installs/Configures Subrosa, an IRC daemon written in Clojure.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/diamond">diamond</a> v0.0.1 - from Chad Barraford - <a href="http://community.opscode.com/users/cbarraford">cbarraford</a><br/>
-Installs/Configures diamond.  Diamond is a python daemon that collects system metrics and publishes them to Graphite. It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/diamond_lwrp">diamond_lwrp</a> v1.1.0 - from Scott Likens - <a href="http://community.opscode.com/users/scottmlikens">scottmlikens</a><br/>
-This cookbook provides providers and resources to configure and manage Diamond.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/fortune">fortune</a> v0.0.1 - from Gavin Montague - <a href="http://community.opscode.com/users/leftbrained">leftbrained</a><br/>
-Installs fortune utility, a silly little collection of <a href="https://www.google.com/search?q=define%3Abon+mot">bon mots</a></p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/groovy">groovy</a> v0.0.1 - from Kyle Allan - <a href="http://community.opscode.com/users/kallan">kallan</a><br/>
-Installs/Configures groovy</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/scala">scala</a> v0.0.1 - from Kyle Allan - <a href="http://community.opscode.com/users/kallan">kallan</a><br/>
-Installs/Configures scala</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/janitor">janitor</a> v0.0.1 - from Mark Pimentel <a href="http://community.opscode.com/users/xeon22">xeon22</a><br/>
-This cookbook is meant to keep order on a running node to purge files on the filesystem that are unwanted. You could also apply some criteria to the files that are targeted such as glob patterns, age, and size.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/rbac">rbac</a> v0.0.3 - from Eric Saxby - <a href="http://community.opscode.com/users/sax">sax</a><br/>
-An LWRP that allows delegation of service management to users with Solaris Role Based Access Control (RBAC)</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/ohai-private-ipaddress">ohai-private-ipaddress</a> v0.0.1 - from Eric Saxby - <a href="http://community.opscode.com/users/sax">sax</a><br/>
-Ohai plugin for getting a node's private IP address (RFC 1918)</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/rackconnect">rackconnect</a> v0.1.0 - from David Radcliffe -  <a href="http://community.opscode.com/users/dwradcliffe">dwradcliffe</a><br/>
-<a href="http://www.rackspace.com/cloud/hybrid/dedicated_cloud/rackconnect/">RackConnect</a> is a service from RackSpace that allows dedicated hardware and cloud servers to run on the same vlan. RackConnect automatically configures iptables on the servers based on your external firewall rules. A user named 'rackconnect' is used by the automation to do this. If you're managing you RackSpace servers with Chef, you need to be sure that the rackconnect setup doesn't get removed.  Enable /etc/sudoers.d/ and include the rackconnect recipe to allow the rackconnect user to do its thing.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/smf">smf</a> v0.6.4 - from Blake Irvin - <a href="http://community.opscode.com/users/bixu">bixu</a><br/>
-A light weight resource and provider (LWRP) for Service Management Facility (SMF).  SMF is a tool in many Illumos and Solaris-derived operating systems that treats services as first class objects of the system. It provides an XML syntax for declaring how the system can interact with an control a service.  This cookbook contains LWRPs for creating or modifying a service within the SMF framework.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/texlive">texlive</a> v0.1.0 - from Takeshi KOMIYA - <a href="http://community.opscode.com/users/tk0miya">tk0miya</a><br/>
-Installs TeXLive, a free software distribution for the TeX typesetting system that includes major TeX-related programs, macro packages, and fonts.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/reginjector">reginjector</a> v0.1.1 - from Steven C - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a><br/>
-Installs/Configures reginjector to push registry changes to Windows machines</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/ovirt-mom">ovirt-mom</a> v0.1.0 - from Guilhem Lettron -  <a href="http://community.opscode.com/users/guilhemfr">guilhemfr</a><br/>
-Installs/Configures ovirt-mom, the Memory Overcommitment Manager.  MOM is a policy-driven tool that can be used to manage overcommitment on KVM hosts.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/nginx_conf">nginx_conf</a> v0.0.4 - from Lloyd Philbrook -<a href="http://community.opscode.com/users/phoolish">phoolish</a><br/>
-A cookbook that can be used to Manage nginx server configuration files.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/ulimit">ulimit</a> v0.1.1 - from Brian Hatfield - <a href="http://community.opscode.com/users/bmhatfield">bmhatfield</a><br/>
-This is a short-and-simple cookbook to provide a user_ulimit resource for overriding various ulimit settings. It places configured templates into /etc/security/limits.d/, named for the user the ulimit applies to.  It also provides a helper recipe (default.rb) for allowing ulimit overrides with the 'su' command on Ubuntu.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/fog">fog</a> v0.0.2 - from Gerald Hevener - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a><br/>
-Installs/Configures FOG, a Linux-based, free and open source computer imaging solution for Windows XP, Vista and 7 that ties together a few open-source tools with a php-based web interface.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/sanitize">sanitize</a> v0.1.0 - from Maciej Pasternacki - <a href="http://community.opscode.com/users/mpasternacki">mpasternacki</a><br/>
-This cookbook aims to normalize setup of a fresh server and set sane defaults for global settings, and work with various initial environments (tested on EC2 images, Hetzner "minimal" installations, and debootstrap-created LXC images). At the moment it supports only Ubuntu, Debian support is planned.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/phpmyadmin">phpmyadmin</a> v1.0.1 - from Panagiotis Papadomitsos - <a href="http://community.opscode.com/users/priestjim">priestjim</a><br/>
-Installs/Configures PHPMyAdmin</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/nut">nut</a> v0.0.1 - from Ceaser Larry - <a href="http://community.opscode.com/users/clarry">clarry</a><br/>
-Installs/Configures <a href="http://www.networkupstools.org/">Network UPS Tools</a></p></li>
-<li><p><a href="https://github.com/hectcastro/chef-uptime/">uptime</a> v0.1.0 - from Hector Castro - <a href="https://github.com/hectcastro">hcastro</a><br/>
-A Chef cookbook to install <a href="http://fzaninotto.github.com/uptime/">Uptime</a>, a simple HTTP remote monitoring utility using Node.js and MongoDB.</p></li>
-</ul>
-
-
-<h3>Updated Cookbooks</h3>
-
-<ul>
-<li><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.10.10 - <a href="http://community.opscode.com/users/reset">reset</a></li>
-<li><a href="http://community.opscode.com/cookbooks/redis2">redis2</a> v0.4.5 - <a href="http://community.opscode.com/users/avishai">avishai</a></li>
-<li><a href="http://community.opscode.com/cookbooks/gitlab">gitlab</a> v0.3.3 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
-<li><a href="http://community.opscode.com/cookbooks/reboot-handler">reboot-handler</a> v0.2.0 - <a href="http://community.opscode.com/users/retr0h">retr0h</a></li>
-<li><a href="http://community.opscode.com/cookbooks/afw">afw</a> v0.0.4 - <a href="http://community.opscode.com/users/jvehent">jvehent</a></li>
-<li><a href="http://community.opscode.com/cookbooks/haproxy2">haproxy2</a> v0.5.7 - <a href="http://community.opscode.com/users/demonccc">demonccc</a></li>
-<li><a href="http://community.opscode.com/cookbooks/heartbeat3">heartbeat3</a> v0.4.3 - <a href="http://community.opscode.com/users/demonccc">demonccc</a></li>
-<li><a href="http://community.opscode.com/cookbooks/dpkg_packages">dpkg_packages</a> v0.1.2 - <a href="http://community.opscode.com/users/demonccc">demonccc</a></li>
-<li><a href="http://community.opscode.com/cookbooks/cpan">cpan</a> v0.0.24 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
-<li><a href="http://community.opscode.com/cookbooks/phantomjs">phantomjs</a> v0.0.10 - <a href="http://community.opscode.com/users/sethvargo">sethvargo</a></li>
-<li><a href="http://community.opscode.com/cookbooks/splunk_handler">splunk_handler</a> v1.2.0 - <a href="http://community.opscode.com/users/ampledata">ampledata</a></li>
-<li><a href="http://community.opscode.com/cookbooks/zabbix">zabbix</a> v0.0.39 - <a href="http://community.opscode.com/users/laradji">laradji</a></li>
-<li><a href="http://community.opscode.com/cookbooks/squid">squid</a> v0.2.2 - <a href="http://community.opscode.com/users/mray">mray</a></li>
-<li><a href="http://community.opscode.com/cookbooks/openvas">openvas</a> v0.0.52 - <a href="http://community.opscode.com/users/jackl0phty">jackl0phty</a></li>
-<li><a href="http://community.opscode.com/cookbooks/kronos">kronos</a> v0.1.4 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
-<li><a href="http://community.opscode.com/cookbooks/simple_iptables">simple_iptables</a> v0.2.2 - <a href="http://community.opscode.com/users/dcrosta">dcrosta</a></li>
-<li><a href="http://community.opscode.com/cookbooks/datadog">datadog</a> v0.1.2 - <a href="http://community.opscode.com/users/miketheman">miketheman</a></li>
-<li><a href="http://community.opscode.com/cookbooks/uwsgi">uwsgi</a> v0.0.5 - <a href="http://community.opscode.com/users/idyedov">idyedov</a></li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://www.crossfit.com/">CrossFit</a></li>
-<li><a href="http://en.wikipedia.org/wiki/W._Edwards_Deming">Deming</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><p><a href="http://www.diagrammr.com/">Diagrammr</a> a tool that allows you to easily create and share diagrams by writing sentences.
-Hat tip to <a href="https://twitter.com/mikefiedler">Mike Fiedler</a> for the introduction.</p></li>
-<li><p><a href="http://greatdivide.com/beer/year-round/titan-ipa/?verified=true">Titan IPA</a> from Great Divide Brewing Company.</p></li>
-</ul>
-
-
-<h4>Seth</h4>
-
-<ul>
-<li><a href="http://www.xoreax.com/slow_build_time_challenge.htm">IncrediBuild</a></li>
-</ul>
-
-
-<h4>Paul</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129">Normal Accidents</a></li>
-<li><a href="http://sanfrancisco.giants.mlb.com/index.jsp?c_id=sf&amp;sv=1">San Francisco Giants</a></li>
-</ul>
-
-
-<h2>Close</h2>
-
-<p>Please take the time to rate us on itunes and to send your cookbook
-news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
-
-<p>Follow <a href="http://twitter.com/foodfightshow">@foodfightshow</a> on twitter.</p>
-
-<p>Also, you can submit show ideas to our <a href="https://github.com/foodfight/showz">github repo</a></p>
-
-<h2>Download</h2>
-
-<p>Release Engineering - <a href="http://traffic.libsyn.com/foodfight/Food-Fight-31-Release-Engineering.mp3">Download here</a></p>
 ]]></content>
   </entry>
   
