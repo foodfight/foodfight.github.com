@@ -19,7 +19,7 @@ Outline<a name="outline"></a>
 -------
 
 * [DevOpsDays DC 2015](http://www.devopsdays.org/events/2015-washington-dc/)
-* [United States Pattern and Trademark Office](http://www.uspto.gov/)
+* [United States Pattern and Trademark Office](http://www.uspto.gov/)(USPTO)
 * [The Program](http://devopsdaysdc2015.busyconf.com/schedule/full)
 * [Videos of the Keynotes and Ignite Talks](http://livestream.com/uspto/DevOpsDay2015)
 * Some of what happened in [Open Spaces](https://en.wikipedia.org/wiki/Open_Space_Technology): [Areas 1-4](http://www.devopsdays.org/events/2015-washington-dc/openspaces-1234.jpg) and [Areas 5-8](http://www.devopsdays.org/events/2015-washington-dc/openspaces-5678.jpg)
