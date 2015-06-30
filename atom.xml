@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-06-16T17:25:28-04:00</updated>
+  <updated>2015-06-30T15:33:06-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -200,6 +200,48 @@
 
 <iframe src="http://livestream.com/accounts/4828334/events/4104760/videos/90060473/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
 
+
+<ul>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/3eyDoBkSy4w">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow92-DevOpsDaysDC.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li><a href="http://www.devopsdays.org/events/2015-washington-dc/">DevOpsDays DC 2015</a></li>
+<li><a href="http://www.uspto.gov/">United States Pattern and Trademark Office</a> (USPTO)</li>
+<li><a href="http://devopsdaysdc2015.busyconf.com/schedule/full">The Program</a></li>
+<li><a href="http://livestream.com/uspto/DevOpsDay2015">Videos of the Keynotes and Ignite Talks</a></li>
+<li>Some of what happened in <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">Open Spaces</a>: <a href="http://www.devopsdays.org/events/2015-washington-dc/openspaces-1234.jpg">Areas 1-4</a> and <a href="http://www.devopsdays.org/events/2015-washington-dc/openspaces-5678.jpg">Areas 5-8</a></li>
+<li>Some Twitter searches: <a href="https://twitter.com/hashtag/devopsdays?src=hash">#devopsdays</a>, <a href="https://twitter.com/hashtag/doddc?src=hash">#doddc</a>, <a href="https://twitter.com/search?q=%40devopsdaysdc&amp;src=savs&amp;vertical=default&amp;f=tweets">@devopsdaysdc mentions</a>, <a href="https://twitter.com/devopsdaysdc">the main @devopsdaysdc feed</a></li>
+<li><a href="http://e.devopsdaysdc.org/">Etherpad</a> for session notes, job postings, and banter</li>
+<li><a href="https://www.axelos.com/best-practice-solutions/itil/what-is-itil">ITIL</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/3eyDoBkSy4w">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow92-DevOpsDaysDC.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
 ]]></content>
   </entry>
   
