@@ -16,13 +16,20 @@ categories:
   - stevenmurawski
 ---
 
-Join us on [Friday, July 17, 2015 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&iso=20150717T12&p1=1928&ah=1) as we discuss Chef's Audit Mode and Compliance.  We are still seeking panelists and putting together our list of topics.  You can [contribute to the preparation on GitHub](https://github.com/foodfight/showz/blob/master/scripts/episode-94-audit-and-compliance.md).
+Join the conversation in #foodfightshow on Freenode IRC or tweet us [@foodfightshow](https://twitter.com/foodfightshow).
+
+We are discussing Chef's Audit Mode, Analytics, and compliance.  The broadcast will begin on [Friday, July 17, 2015 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&iso=20150717T12&p1=1928&ah=1).
+
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/zcguEmLJ5y8" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#panel)
 * [Outline](http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#outline)
 * [Picks](http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#picks)
 * Download
-  * This show will be broadcast and recorded on [Friday, July 17, 2015 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&iso=20150717T12&p1=1928&ah=1)
+  * [Video](http://youtu.be/zcguEmLJ5y8)
+  * Audio - Coming soon!
 
 Panel<a name="panel"></a>
 -----
@@ -39,11 +46,6 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
-* What questions can we answer for you?
-* Are you interested in joining the discussion?
-
-Please contribute to our [show notes on GitHub](https://github.com/foodfight/showz/blob/master/scripts/episode-94-audit-and-compliance.md)!
-
 Picks<a name="picks"></a>
 -----
 
@@ -51,7 +53,8 @@ Coming Soon!
 
 Download
 --------
-This show will be broadcast and recorded on [Friday, July 17, 2015 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&iso=20150717T12&p1=1928&ah=1)
+* [Video](http://youtu.be/zcguEmLJ5y8)
+* Audio - Coming soon!
 
 <hr />
 
