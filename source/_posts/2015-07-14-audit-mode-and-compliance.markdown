@@ -16,9 +16,7 @@ categories:
   - stevenmurawski
 ---
 
-Join the conversation in #foodfightshow on Freenode IRC or tweet us [@foodfightshow](https://twitter.com/foodfightshow).
-
-We are discussing Chef's Audit Mode, Analytics, and compliance.  The broadcast will begin on [Friday, July 17, 2015 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&iso=20150717T12&p1=1928&ah=1).
+Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.  
 
 # Watch Now
 
@@ -46,10 +44,55 @@ Panel<a name="panel"></a>
 Outline<a name="outline"></a>
 -------
 
+* Audit-CIS cookbook
+  * [github](https://github.com/chef-cookbooks/audit-cis)
+  * [supermarket](https://supermarket.chef.io/cookbooks/audit-cis)
+* Blog Posts
+  * [Overview of Test Driven Infrastructure with Chef](https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/)
+  * [Chef Audit Mode Introduction](https://www.chef.io/blog/2015/05/06/chef-audit-mode-introduction/)
+  * [Chef Audit Mode: CIS Benchmarks](https://www.chef.io/blog/2015/04/09/chef-audit-mode-cis-benchmarks/)
+  * [Towards Compliance as Code: A Real-World Example](https://www.chef.io/blog/2015/05/11/towards-compliance-as-code-a-real-world-example/)
+
 Picks<a name="picks"></a>
 -----
 
-Coming Soon!
+#### Elliott
+
+* [Resource Cookbook](https://github.com/chef-cookbooks/resource)
+* [RFCs for Resources](https://github.com/chef/chef-rfc/issues?utf8=%E2%9C%93&q=label%3A%22Resource+2.0%22+)
+
+#### Joshua Schipper
+
+* [@provenvelocity](https://twitter.com/provenvelocity)
+
+#### Joshua Timberman
+
+* [PC Part Picker](http://pcpartpicker.com/)
+* [Hyper-V and kitchen-hyperv](https://github.com/test-kitchen/kitchen-hyperv)
+* [Heroes of the Storm](http://us.battle.net/heroes/en/)
+
+
+#### Julian
+
+* [Liquidspace](https://liquidspace.com/)
+* [Amtrak](http://www.amtrak.com/home)
+* [Dogfish Head 90 Minute IPA](http://www.dogfish.com/brews-spirits/the-brews/year-round-brews/90-minute-ipa.htm)
+
+#### Kyleen
+
+* [Logicomix: An epic search for truth](http://www.goodreads.com/book/show/6493321-logicomix)
+
+#### Steven
+
+* [Registration is Now Open to Publish on PowerShell Gallery](http://blogs.msdn.com/b/powershell/archive/2015/07/07/powershell-gallery-registration-is-now-unrestricted.aspx)
+* [PowerShell Gallery](https://www.powershellgallery.com/)
+
+
+#### Nathen
+
+* [DevOpsDaysDC](http://devopsdaysdc.org)
+* [Zoom](http://zoom.us/) video conferencing
+* [Chef Community Summit](http://summit.chef.io)
 
 Download
 --------
