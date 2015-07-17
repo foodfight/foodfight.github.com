@@ -11,6 +11,7 @@ categories:
   - libsysguy
   - provenvelocity
   - jtimberman
+  - juliandunn
   - macgoogly
   - stevenmurawski
 ---
@@ -29,6 +30,7 @@ Panel<a name="panel"></a>
 * Elliott Davis [github](https://github.com/elliott-davis), [twitter](https://twitter.com/libsysguy)
 * Joshua Schipper [twitter](https://twitter.com/provenvelocity)
 * Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
+* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Kyleen MacGugan [github](https://github.com/kmacgugan), [twitter](https://twitter.com/MacGoogly)
 * Steven Murawski [github](https://github.com/smurawski), [twitter](https://twitter.com/stevenmurawski), [blog](http://stevenmurawski.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
