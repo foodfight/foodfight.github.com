@@ -4,7 +4,7 @@
   <title><![CDATA[Category: juliandunn | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/juliandunn/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-07-16T22:11:47-04:00</updated>
+  <updated>2015-07-16T22:19:08-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Audit Mode &amp; Compliance]]></title>
+    <link href="http://foodfightshow.org//2015/07/audit-mode-and-compliance.html"/>
+    <updated>2015-07-14T11:16:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/07/audit-mode-and-compliance</id>
+    <content type="html"><![CDATA[<p>Join us on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&amp;iso=20150717T12&amp;p1=1928&amp;ah=1">Friday, July 17, 2015 at 16:00:00 UTC</a> as we discuss Chef's Audit Mode and Compliance.  We are still seeking panelists and putting together our list of topics.  You can <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-94-audit-and-compliance.md">contribute to the preparation on GitHub</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>This show will be broadcast and recorded on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&amp;iso=20150717T12&amp;p1=1928&amp;ah=1">Friday, July 17, 2015 at 16:00:00 UTC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Elliott Davis <a href="https://github.com/elliott-davis">github</a>, <a href="https://twitter.com/libsysguy">twitter</a></li>
+<li>Joshua Schipper <a href="https://twitter.com/provenvelocity">twitter</a></li>
+<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
+<li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a></li>
+<li>Kyleen MacGugan <a href="https://github.com/kmacgugan">github</a>, <a href="https://twitter.com/MacGoogly">twitter</a></li>
+<li>Steven Murawski <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What questions can we answer for you?</li>
+<li>Are you interested in joining the discussion?</li>
+</ul>
+
+
+<p>Please contribute to our <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-94-audit-and-compliance.md">show notes on GitHub</a>!</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<p>Coming Soon!</p>
+
+<h2>Download</h2>
+
+<p>This show will be broadcast and recorded on <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+94+-+Chef+Audit+Mode+%26+Compliance&amp;iso=20150717T12&amp;p1=1928&amp;ah=1">Friday, July 17, 2015 at 16:00:00 UTC</a></p>
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Application Deployment]]></title>
