@@ -3,7 +3,7 @@ layout: post
 title: "ChefConf Day 2 Recap"
 date: 2015-04-11 09:51
 comments: true
-categories: 
+categories:
   - chefconf
 ---
 
@@ -23,6 +23,8 @@ Panel<a name="panel"></a>
 * Nicole Forsgren [twitter](https://twitter.com/nicolefv), [github](https://github.com/nicolefv)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------

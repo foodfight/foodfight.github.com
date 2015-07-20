@@ -17,6 +17,8 @@ A wrap-up of [DevOpsDays DC](http://devopsdaysdc.org) recorded live at the end o
   * [Video](http://youtu.be/3eyDoBkSy4w)
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow92-DevOpsDaysDC.mp3)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 

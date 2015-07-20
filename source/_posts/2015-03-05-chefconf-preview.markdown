@@ -3,7 +3,7 @@ layout: post
 title: "ChefConf Preview"
 date: 2015-03-05 15:15
 comments: true
-categories: 
+categories:
   - chefconf
   - brainscott
   - bridgetkromhout
@@ -34,7 +34,7 @@ Panel<a name="panel"></a>
 * Bridget Kromhout [twitter](http://twitter.com/bridgetkromhout), [github](https://github.com/bridgetkromhout)
 * Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper), [blog](https://christinemdraper.wordpress.com/), [website](http://www.thirdwaveinsights.com/automate-insights/)
 * Jamesha Fisher [twitter](http://twitter.com/jamfish728)
-* Jeff LaPlante 
+* Jeff LaPlante
 * Jennifer Burke [twitter](https://twitter.com/jennyraesea)
 * Jennifer Davis [twitter](http://twitter.com/sigje), [github](https://github.com/iennae)
 * Jessica DeVita [twitter](http://twitter.com/ubergeekgirl)
@@ -45,6 +45,8 @@ Panel<a name="panel"></a>
 * Harold "Waldo" Grunenwald [twitter](https://twitter.com/gwaldo), [github](https://github.com/gwaldo)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------
@@ -108,9 +110,9 @@ Outline<a name="outline"></a>
   * [Windows PowerShell Desired State Configuration (DSC) for Veteran Chefs](http://sched.co/2Iw8)
   * [Networking SDD: Same Stuff, Different Department](http://sched.co/2HaF)
   * [Managing Databases with Chef](http://sched.co/2HYh)
-  
+
   * [Twitter list of all ChefConf Speakers](https://twitter.com/chef/lists/chefconf-2015-speakers/members)
-  
+
 * [Awesome Chef Awards](http://sched.co/2OuK)
 * Friday Hack Day
   * Mountain View

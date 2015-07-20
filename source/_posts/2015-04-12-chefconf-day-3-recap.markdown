@@ -3,7 +3,7 @@ layout: post
 title: "ChefConf Day 3 Recap"
 date: 2015-04-12 09:51
 comments: true
-categories: 
+categories:
   - chefconf
 ---
 # Watch now
@@ -22,6 +22,8 @@ Panel<a name="panel"></a>
 * Mary Thengvall [twitter](https://twitter.com/mary_grace) [github](https://github.com/mary-grace)
 * Adam Jacob [twitter](https://twitter.com/adamhjk) [github](https://github.com/adamhjk)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------

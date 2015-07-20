@@ -3,7 +3,7 @@ layout: post
 title: "Configuration Management Camp"
 date: 2015-02-11 10:34
 comments: true
-categories: 
+categories:
   - cfgmgmtcamp
   - fosdem
   - feynudibranch
@@ -29,6 +29,8 @@ Panel<a name="panel"></a>
 * Andrew Clay Shafer - [twitter](https://twitter.com/littleidea)
 * Kris Buytaert - [twitter](https://twitter.com/krisbuytaert)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------
