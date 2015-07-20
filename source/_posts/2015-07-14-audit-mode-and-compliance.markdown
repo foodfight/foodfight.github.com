@@ -27,7 +27,7 @@ Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.
 * [Picks](http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#picks)
 * Download
   * [Video](http://youtu.be/zcguEmLJ5y8)
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -54,7 +54,7 @@ Outline<a name="outline"></a>
 * Crazy Policy Stories
 * Chef Audit Mode
   * [Chef Audit Mode: CIS Benchmarks](https://www.chef.io/blog/2015/04/09/chef-audit-mode-cis-benchmarks/)
-  * Settings
+  * SELinux Settings
     * Disabled
     * Enabled
     * Audit-Only
@@ -98,7 +98,7 @@ Picks<a name="picks"></a>
 #### Joshua Schipper
 
 * [@provenvelocity](https://twitter.com/provenvelocity)
- 
+
 #### Elliott
 
 * [Resource Cookbook](https://github.com/chef-cookbooks/resource)
@@ -118,7 +118,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/zcguEmLJ5y8)
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3)
 
 <hr />
 
