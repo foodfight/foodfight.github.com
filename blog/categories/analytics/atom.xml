@@ -4,7 +4,7 @@
   <title><![CDATA[Category: analytics | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/analytics/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-07-17T13:26:21-04:00</updated>
+  <updated>2015-07-20T07:35:24-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -33,7 +33,7 @@
 
 <ul>
 <li><a href="http://youtu.be/zcguEmLJ5y8">Video</a></li>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -55,41 +55,73 @@
 <h2>Outline<a name="outline"></a></h2>
 
 <ul>
-<li>Audit-CIS cookbook
+<li>What is compliance?</li>
+<li>Why is infrastructure as code not enough?</li>
+<li>Frameworks (PCI, SOX, HIPAA, etc.) and Regulations
 
 <ul>
-<li><a href="https://github.com/chef-cookbooks/audit-cis">github</a></li>
-<li><a href="https://supermarket.chef.io/cookbooks/audit-cis">supermarket</a></li>
+<li>Scope</li>
+<li>Sequence</li>
+<li>State Rules</li>
+<li>Audit Trail (Supervision)</li>
 </ul>
 </li>
-<li>Blog Posts
+<li>Crazy Policy Stories</li>
+<li>Chef Audit Mode
 
 <ul>
-<li><a href="https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/">Overview of Test Driven Infrastructure with Chef</a></li>
-<li><a href="https://www.chef.io/blog/2015/05/06/chef-audit-mode-introduction/">Chef Audit Mode Introduction</a></li>
 <li><a href="https://www.chef.io/blog/2015/04/09/chef-audit-mode-cis-benchmarks/">Chef Audit Mode: CIS Benchmarks</a></li>
+<li>SELinux Settings
+
+<ul>
+<li>Disabled</li>
+<li>Enabled</li>
+<li>Audit-Only</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://serverspec.org/">Serverspec</a>
+
+<ul>
+<li>Testing with Windows</li>
+<li>Why didn't audit just use Serverspec?
+
+<ul>
+<li><a href="https://github.com/pester/Pester">Pester</a></li>
+<li><a href="https://rubygems.org/gems/minitest-chef-handler/versions/1.0.3">minitest-chef-handler</a></li>
+<li><a href="https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/">Overview of Test Driven Infrastructure with Chef</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Bringing Audit Mode into <a href="https://github.com/test-kitchen/test-kitchen">test-kitchen</a>
+
+<ul>
+<li><a href="https://www.chef.io/blog/2015/05/06/chef-audit-mode-introduction/">Chef Audit Mode Introduction</a></li>
+</ul>
+</li>
+<li><a href="https://docs.chef.io/analytics.html">Chef Analytics</a>
+
+<ul>
+<li>Control Groups</li>
+<li>Actions</li>
+<li>Run Resources</li>
+<li>Run Converge</li>
+</ul>
+</li>
+<li><a href="https://github.com/chef-cookbooks/audit-cis">Audit-CIS cookbook</a>
+
+<ul>
+<li><a href="https://supermarket.chef.io/cookbooks/audit-cis">supermarket</a></li>
 <li><a href="https://www.chef.io/blog/2015/05/11/towards-compliance-as-code-a-real-world-example/">Towards Compliance as Code: A Real-World Example</a></li>
 </ul>
 </li>
+<li>What's next for Audit Mode?</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
-
-<h4>Elliott</h4>
-
-<ul>
-<li><a href="https://github.com/chef-cookbooks/resource">Resource Cookbook</a></li>
-<li><a href="https://github.com/chef/chef-rfc/issues?utf8=%E2%9C%93&amp;q=label%3A%22Resource+2.0%22+">RFCs for Resources</a></li>
-</ul>
-
-
-<h4>Joshua Schipper</h4>
-
-<ul>
-<li><a href="https://twitter.com/provenvelocity">@provenvelocity</a></li>
-</ul>
-
 
 <h4>Joshua Timberman</h4>
 
@@ -100,19 +132,34 @@
 </ul>
 
 
+<h4>Kyleen</h4>
+
+<ul>
+<li><a href="http://www.goodreads.com/book/show/6493321-logicomix">Logicomix: An Epic Search For Truth</a></li>
+</ul>
+
+
 <h4>Julian</h4>
 
 <ul>
 <li><a href="https://liquidspace.com/">Liquidspace</a></li>
-<li><a href="http://www.amtrak.com/home">Amtrak</a></li>
+<li><a href="http://www.amtrak.com/">Amtrak</a></li>
 <li><a href="http://www.dogfish.com/brews-spirits/the-brews/year-round-brews/90-minute-ipa.htm">Dogfish Head 90 Minute IPA</a></li>
 </ul>
 
 
-<h4>Kyleen</h4>
+<h4>Joshua Schipper</h4>
 
 <ul>
-<li><a href="http://www.goodreads.com/book/show/6493321-logicomix">Logicomix: An epic search for truth</a></li>
+<li><a href="https://twitter.com/provenvelocity">@provenvelocity</a></li>
+</ul>
+
+
+<h4>Elliott</h4>
+
+<ul>
+<li><a href="https://github.com/chef-cookbooks/resource">Resource Cookbook</a></li>
+<li><a href="https://github.com/chef/chef-rfc/issues?utf8=%E2%9C%93&amp;q=label%3A%22Resource+2.0%22+">RFCs for Resources</a></li>
 </ul>
 
 
@@ -137,7 +184,7 @@
 
 <ul>
 <li><a href="http://youtu.be/zcguEmLJ5y8">Video</a></li>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3">Audio</a></li>
 </ul>
 
 
