@@ -20,9 +20,9 @@ Join us for a discussion of Learning Reviews.  What and how can we learn from fa
 
 The episode will be broadcast live on [Thursday, October 29, 2015 at 13:00:00 UTC](http://everytimezone.com/#2015-10-29,60,cn3).  Want to join the panelists?  Reach out on twitter ([@foodfightshow](https://twitter.com/foodfightshow)) to let us know.
 
-* [Panel](http://foodfightshow.org/2015/10/learning-reviews.html.html#panel)
-* [Outline](http://foodfightshow.org/2015/10/learning-reviews.html.html#outline)
-* [Picks](http://foodfightshow.org/2015/10/learning-reviews.html.html#picks)
+* [Panel](http://foodfightshow.org/2015/10/learning-reviews.html#panel)
+* [Outline](http://foodfightshow.org/2015/10/learning-reviews.html#outline)
+* [Picks](http://foodfightshow.org/2015/10/learning-reviews.html#picks)
 * Download
   * Video - Coming soon!  The episode will be broadcast live on [Thursday, October 29, 2015 at 13:00:00 UTC](http://everytimezone.com/#2015-10-29,60,cn3).
   * Audio - Coming soon!
