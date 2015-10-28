@@ -13,6 +13,7 @@ categories:
   - mikefiedler
   - itscaitlin
   - lolasoto
+  - robbkidd
 ---
 
 Join us for a discussion of Learning Reviews.  What and how can we learn from failure?
@@ -34,6 +35,7 @@ Panel<a name="panel"></a>
 * Lola Soto [twitter](https://twitter.com/lolasoto)
 * Christopher Webber [github](https://github.com/cwebberops), [twitter](https://twitter.com/cwebber)
 * Yulia Sheynkman [about](https://about.me/yulias)
+* Robb Kidd [github](https://github.com/robbkidd), [twitter](https://twitter.com/robbkidd)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
