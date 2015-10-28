@@ -11,6 +11,8 @@ categories:
   - mindweather
   - cwebber
   - mikefiedler
+  - itscaitlin
+  - lolasoto
 ---
 
 Join us for a discussion of Learning Reviews.  What and how can we learn from failure?
@@ -31,6 +33,7 @@ Panel<a name="panel"></a>
 * Caitlin Milligan Sheaffer [twitter](https://twitter.com/itscaitlin)
 * Lola Soto [twitter](https://twitter.com/lolasoto)
 * Christopher Webber [github](https://github.com/cwebberops), [twitter](https://twitter.com/cwebber)
+* Yulia Sheynkman [about](https://about.me/yulias)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
