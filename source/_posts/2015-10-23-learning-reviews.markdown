@@ -20,6 +20,10 @@ Join us for a discussion of Learning Reviews.  What and how can we learn from fa
 
 The episode will be broadcast live on [Thursday, October 29, 2015 at 13:00:00 UTC](http://everytimezone.com/#2015-10-29,60,cn3).  Want to join the panelists?  Reach out on twitter ([@foodfightshow](https://twitter.com/foodfightshow)) to let us know.
 
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2z5zqY6398U" frameborder="0" allowfullscreen></iframe>
+
 * [Panel](http://foodfightshow.org/2015/10/learning-reviews.html#panel)
 * [Outline](http://foodfightshow.org/2015/10/learning-reviews.html#outline)
 * [Picks](http://foodfightshow.org/2015/10/learning-reviews.html#picks)
@@ -53,7 +57,30 @@ Outline<a name="outline"></a>
 Picks<a name="picks"></a>
 -----
 
-Coming soon
+### Dave
+Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from Failure and Success](http://bit.ly/beyondblame)
+
+### Nathen
+
+### Bryan
+
+### Mike
+
+### Robb
+
+### Christopher
+* [Silos, Politics, and Turf Wars](http://www.amazon.com/Silos-Politics-Turf-Wars-Competitors/dp/0787976385/ref=sr_1_1?ie=UTF8&qid=1446121927&sr=8-1&keywords=silos+politics+and+turf+wars)
+* [Enjoy By IPA by Stone Brewing](http://enjoyby.stonebrewing.com/stone-enjoy-103115-ipa)
+* [Chef Delivery](https://www.chef.io/delivery)
+
+### Yulia
+
+### Caitlin
+
+### Lola
+
+
+
 
 Download
 --------
