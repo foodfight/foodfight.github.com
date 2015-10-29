@@ -46,6 +46,9 @@ Outline & Show Notes<a name="outline"></a>
 
 * [A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)
 * [MINDWEATHER](http://www.mindweather.com/) - Follow Dave and learn about upcoming workshops
+* Postmortems reveal a lot of opportunities for organizational change. There is ideally a channel for directing this to the right team. (And someone empowered/able to manage that process)
+* maybe you'd have an executives-only learning review about, say, a recent board meeting
+* assess the degree of organizational maturity when figuring out how to set up learning reviews for success.
 
 
 Picks<a name="picks"></a>
