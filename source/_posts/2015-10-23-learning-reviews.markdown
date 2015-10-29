@@ -18,8 +18,6 @@ categories:
 
 Join us for a discussion of Learning Reviews.  What and how can we learn from failure?
 
-The episode will be broadcast live on [Thursday, October 29, 2015 at 13:00:00 UTC](http://everytimezone.com/#2015-10-29,60,cn3).  Want to join the panelists?  Reach out on twitter ([@foodfightshow](https://twitter.com/foodfightshow)) to let us know.
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/2z5zqY6398U" frameborder="0" allowfullscreen></iframe>
@@ -28,7 +26,7 @@ The episode will be broadcast live on [Thursday, October 29, 2015 at 13:00:00 UT
 * [Outline](http://foodfightshow.org/2015/10/learning-reviews.html#outline)
 * [Picks](http://foodfightshow.org/2015/10/learning-reviews.html#picks)
 * Download
-  * Video - Coming soon!  The episode will be broadcast live on [Thursday, October 29, 2015 at 13:00:00 UTC](http://everytimezone.com/#2015-10-29,60,cn3).
+  * [Video](http://youtu.be/2z5zqY6398U)
   * Audio - Coming soon!
 
 Panel<a name="panel"></a>
@@ -43,28 +41,28 @@ Panel<a name="panel"></a>
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
-Outline<a name="outline"></a>
+Outline & Show Notes<a name="outline"></a>
 -------
 
-* Post Mortem or Learning Review?
-* Root Cause Analysis (RCA)
-* If these are entirely blameless, where is personal responsibility? Accountability for your work? ([https://twitter.com/hyc_symas/status/656599316589641729](https://twitter.com/hyc_symas/status/656599316589641729))
-* Components of a Learning Review
-* Who is invited to the learning review?
+* [A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)
+* [MINDWEATHER](http://www.mindweather.com/) - Follow Dave and learn about upcoming workshops
 
-* [Submit a PR](https://github.com/foodfight/showz/blob/master/scripts/episode-95-learning-reviews.md) to add to our outline.
 
 Picks<a name="picks"></a>
 -----
 
 ### Dave
-Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from Failure and Success](http://bit.ly/beyondblame)
+* [Beyond Blame: Learning from Failure and Success](http://bit.ly/beyondblame)
 
 ### Nathen
 
-### Bryan
+* [Food Fight Show 14 - Live Post-Mortem With David Zwieback, John Allspaw, and Mike Rembetsy](http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
+* [Community Pulse podcast](https://itunes.apple.com/us/podcast/community-pulse/id1045213365?mt=2)
 
 ### Mike
+
+* [Blue Apron](https://www.blueapron.com/)
+* [Wüsthof Knives](http://www.wusthof.com/usa/index.jsp)
 
 ### Robb
 
@@ -79,16 +77,23 @@ Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from F
 
 ### Yulia
 
+* Bone broth
+* [Elephant in the Room: How Relationships Make or Break the Success of Leaders and Organizations, Diana MacLane Smith](http://www.amazon.com/gp/product/B005EHQAHG/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
+* [Thanks for the Feedback, Douglas Stone](http://www.amazon.com/gp/product/B00DMCV0XE/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
+
 ### Caitlin
+
+* [Hamilton:  An American Musical](http://www.hamiltonbroadway.com/)
 
 ### Lola
 
+* [The Power of Now, Eckhart Tolle](http://www.amazon.com/gp/product/B002361MLA/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
 
 
 
 Download
 --------
-* Video - Coming soon!  The episode will be broadcast live on [Thursday, October 29, 2015 at 13:00:00 UTC](http://everytimezone.com/#2015-10-29,60,cn3).
+* [Video](http://youtu.be/2z5zqY6398U)
 * Audio - Coming soon!
 
 <hr />
