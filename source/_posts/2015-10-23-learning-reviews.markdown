@@ -62,7 +62,7 @@ Outline & Show Notes<a name="outline"></a>
   * Assess the degree of organizational maturity when figuring out how to set up learning reviews for success.
 
 * Other Resources:
-  *[A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)
+  *[A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)<br>
   *[MINDWEATHER](http://www.mindweather.com/) - Follow Dave and learn about upcoming workshops
 
 Picks<a name="picks"></a>
