@@ -44,12 +44,26 @@ Panel<a name="panel"></a>
 Outline & Show Notes<a name="outline"></a>
 -------
 
-* [A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)
-* [MINDWEATHER](http://www.mindweather.com/) - Follow Dave and learn about upcoming workshops
-* Postmortems reveal a lot of opportunities for organizational change. There is ideally a channel for directing this to the right team. (And someone empowered/able to manage that process)
-* maybe you'd have an executives-only learning review about, say, a recent board meeting
-* assess the degree of organizational maturity when figuring out how to set up learning reviews for success.
+* [Beyond Blame: Learning From Failure and Success by Dave Zwieback](http://www.amazon.com/Beyond-Blame-Learning-Failure-Success/dp/1491906413/ref=sr_1_1?ie=UTF8&qid=1446471230&sr=8-1&keywords=Dave+Zwieback)
+* Learning Reviews vs Performance Reviews and Postmortems
+* Blameless Postmortems
+* The History of the Book and The Postmortems Workshops
+* Lola's Postmortem Workshop Experience
+* Identifying and Preventing Blame
+* Accountability
+* Prioritization
+* Tradeoffs
+* Understanding Risk
+* Discount Rank (Why is an executive in the room?)
+* Where do you start?
+* Closing Comments
+  * Postmortems reveal a lot of opportunities for organizational change. There is ideally a channel for directing this to the right team. (And someone empowered/able to manage that process)
+  * Maybe you'd have an executives-only learning review about, say, a recent board meeting
+  * Assess the degree of organizational maturity when figuring out how to set up learning reviews for success.
 
+* Other Resources:
+  *[A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)
+  *[MINDWEATHER](http://www.mindweather.com/) - Follow Dave and learn about upcoming workshops
 
 Picks<a name="picks"></a>
 -----
