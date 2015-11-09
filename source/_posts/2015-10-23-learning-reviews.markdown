@@ -27,7 +27,7 @@ Join us for a discussion of Learning Reviews.  What and how can we learn from fa
 * [Picks](http://foodfightshow.org/2015/10/learning-reviews.html#picks)
 * Download
   * [Video](http://youtu.be/2z5zqY6398U)
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/foodfight-95-learning-reviews.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -60,10 +60,9 @@ Outline & Show Notes<a name="outline"></a>
   * Postmortems reveal a lot of opportunities for organizational change. There is ideally a channel for directing this to the right team. (And someone empowered/able to manage that process)
   * Maybe you'd have an executives-only learning review about, say, a recent board meeting
   * Assess the degree of organizational maturity when figuring out how to set up learning reviews for success.
-
 * Other Resources:
-  *[A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)<br>
-  *[MINDWEATHER](http://www.mindweather.com/) - Follow Dave and learn about upcoming workshops
+  * [A Tough Day as Leaders](http://www.symantec.com/connect/blogs/tough-day-leaders)
+  * [MINDWEATHER](http://www.mindweather.com/) - Follow Dave and learn about upcoming workshops
 
 Picks<a name="picks"></a>
 -----
@@ -111,7 +110,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/2z5zqY6398U)
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/foodfight-95-learning-reviews.mp3)
 
 <hr />
 
