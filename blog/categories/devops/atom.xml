@@ -4,7 +4,7 @@
   <title><![CDATA[Category: devops | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/devops/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-11-09T14:40:00+00:00</updated>
+  <updated>2015-12-09T09:43:54-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[The Future of DevOps]]></title>
     <link href="http://foodfightshow.org//2013/10/the-future-of-devops.html"/>
-    <updated>2013-10-01T08:07:00+01:00</updated>
+    <updated>2013-10-01T08:07:00-04:00</updated>
     <id>http://foodfightshow.org//2013/10/the-future-of-devops</id>
     <content type="html"><![CDATA[<p>Andrew Clay Shafer (<a href="http://twitter.com/littleidea">@littleidea</a>) joins us to discuss the future of DevOps.</p>
 
@@ -153,7 +153,7 @@
   <entry>
     <title type="html"><![CDATA[DevOps Riot]]></title>
     <link href="http://foodfightshow.org//2013/08/devops-riot.html"/>
-    <updated>2013-08-20T08:52:00+01:00</updated>
+    <updated>2013-08-20T08:52:00-04:00</updated>
     <id>http://foodfightshow.org//2013/08/devops-riot</id>
     <content type="html"><![CDATA[<p>Join us as we discuss DevOps at Riot Games.</p>
 
@@ -311,7 +311,7 @@
   <entry>
     <title type="html"><![CDATA[Continuous Delivery]]></title>
     <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
-    <updated>2013-06-17T12:48:00+01:00</updated>
+    <updated>2013-06-17T12:48:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
     <content type="html"><![CDATA[<p>Show Date:   June 17, 2013</p>
 
@@ -467,7 +467,7 @@
   <entry>
     <title type="html"><![CDATA[The Phoenix Project]]></title>
     <link href="http://foodfightshow.org//2013/03/the-phoenix-project.html"/>
-    <updated>2013-03-25T17:45:00+00:00</updated>
+    <updated>2013-03-25T17:45:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/the-phoenix-project</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, March 25, 2013</p>
 
@@ -618,7 +618,7 @@
   <entry>
     <title type="html"><![CDATA[ChatOps at Github with Jesse Newland]]></title>
     <link href="http://foodfightshow.org//2012/08/chatops-at-github-with-jesse-newland.html"/>
-    <updated>2012-08-23T00:04:00+01:00</updated>
+    <updated>2012-08-23T00:04:00-04:00</updated>
     <id>http://foodfightshow.org//2012/08/chatops-at-github-with-jesse-newland</id>
     <content type="html"><![CDATA[<p>Show Date:  22 August 2012, 13:00 PST</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: juliandunn | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/juliandunn/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-11-09T14:40:00+00:00</updated>
+  <updated>2015-12-09T09:43:54-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Audit Mode &amp; Compliance]]></title>
     <link href="http://foodfightshow.org//2015/07/audit-mode-and-compliance.html"/>
-    <updated>2015-07-14T11:16:00+01:00</updated>
+    <updated>2015-07-14T11:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/07/audit-mode-and-compliance</id>
     <content type="html"><![CDATA[<p>Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.</p>
 
@@ -50,6 +50,9 @@
 <li>Steven Murawski <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -202,7 +205,7 @@
   <entry>
     <title type="html"><![CDATA[Application Deployment]]></title>
     <link href="http://foodfightshow.org//2013/01/application-deployment.html"/>
-    <updated>2013-01-28T10:45:00+00:00</updated>
+    <updated>2013-01-28T10:45:00-05:00</updated>
     <id>http://foodfightshow.org//2013/01/application-deployment</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, January 28, 2013</p>
 
