@@ -12,13 +12,13 @@ categories:
 
 Join us for a discussion about [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).
 
-This episode will be recorded and live streamed on [Wednesday, December 16, 20:00 UTC](http://everytimezone.com/#2015-12-16,480,cn3).
+This episode will be scheduled for early 2016.
 
 * [Panel](http://foodfightshow.org/2015/12/design-thinking.html#panel)
 * [Outline](http://foodfightshow.org/2015/12/design-thinking.html#outline)
 * [Picks](http://foodfightshow.org/2015/12/design-thinking.html#picks)
 * Download
-  * Video - This episode will be recorded and live streamed on [Wednesday, December 16, 20:00 UTC](http://everytimezone.com/#2015-12-16,480,cn3).
+  * Video - This episode will be scheduled for early 2016.
   * Audio - Coming Soon
 
 Panel<a name="panel"></a>
@@ -51,7 +51,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Video - This episode will be recorded and live streamed on [Wednesday, December 16, 20:00 UTC](http://everytimezone.com/#2015-12-16,480,cn3).
+* Video - This episode will be scheduled for early 2016.
 * Audio - Coming Soon
 
 <hr />
