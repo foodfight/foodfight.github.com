@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: scassiba | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/scassiba/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2015-12-28T20:57:15-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Chef and OpenStack]]></title>
+    <link href="http://foodfightshow.org//2015/12/chef-and-openstack.html"/>
+    <updated>2015-12-28T17:36:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/12/chef-and-openstack</id>
+    <content type="html"><![CDATA[<p>Join us for a discussion about OpenStack.</p>
+
+<p>This episode will be held <a href="http://everytimezone.com/#2015-12-29,600,cn3">Tuesday, December 29, 2015 at 22:00 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/12/chef-and-openstack.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/12/chef-and-openstack.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/12/chef-and-openstack.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - This episode will be held <a href="http://everytimezone.com/#2015-12-29,600,cn3">Tuesday, December 29, 2015 at 22:00 UTC</a>.</li>
+<li>Audio - Coming Soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>JJ Asghar <a href="https://github.com/jjasghar">github</a>, <a href="http://twitter.com/jjasghar">twitter</a>, <a href="http://jjasghar.github.io">blog</a>, irc: j<sup>2</sup></li>
+<li>Nick Silkey <a href="https://github.com/filler/">github</a>, <a href="https://twitter.com/filler/">twitter</a></li>
+<li>Samuel Cassiba <a href="https://github.com/scassiba">github</a>, <a href="https://twitter.com/scassiba">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>JJ</h4>
+
+<h4>Nick</h4>
+
+<h4>Samuel</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - This episode will be held <a href="http://everytimezone.com/#2015-12-29,600,cn3">Tuesday, December 29, 2015 at 22:00 UTC</a>.</li>
+<li>Audio - Coming Soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
