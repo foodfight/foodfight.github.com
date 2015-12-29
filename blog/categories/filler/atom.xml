@@ -4,7 +4,7 @@
   <title><![CDATA[Category: filler | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/filler/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2015-12-29T17:05:10-05:00</updated>
+  <updated>2015-12-29T18:15:45-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,7 @@
     <link href="http://foodfightshow.org//2015/12/chef-and-openstack.html"/>
     <updated>2015-12-28T17:36:00-05:00</updated>
     <id>http://foodfightshow.org//2015/12/chef-and-openstack</id>
-    <content type="html"><![CDATA[<p>Join us for a discussion about OpenStack.</p>
-
-<h1>Watch Now</h1>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/UOxsre69cPo" frameborder="0" allowfullscreen></iframe>
 
@@ -51,6 +49,53 @@
 
 <h2>Outline &amp; Show Notes<a name="outline"></a></h2>
 
+<ul>
+<li>Last OpenStack Episode - <a href="http://foodfightshow.org/2013/09/openstack.html">Episode 61 - Sept, 2013</a>
+
+<ul>
+<li>Grizzly to Havana timeframe</li>
+<li>Nova - Compute</li>
+<li>Swift - Object Storage</li>
+<li>Glance - Image Service</li>
+<li>Keystone - Identity Service</li>
+<li>Horizon - Dashboard</li>
+<li>Neutron - Network Service</li>
+<li>Cinder - Block Storage Service</li>
+<li>Ceilometer - Metering Service</li>
+<li>Heat - Orchestration</li>
+</ul>
+</li>
+<li><p>New services since then:</p>
+
+<ul>
+<li>Trove - Database as a Service</li>
+<li>Magnum - Container as a Service</li>
+<li>Designate - Control Plane for DNS as a Service</li>
+<li>Ironic - Bare Metal Provisioning</li>
+<li>https://www.openstack.org/software/project-navigator/</li>
+</ul>
+</li>
+<li><p>Is OpenStack still relevant?</p>
+
+<ul>
+<li>State of private cloud implementations?  Still relevant?</li>
+<li><a href="http://www.wired.com/2015/12/2015-was-the-year-the-cloud-defeated-techs-walking-dead">Nobody Knew How Big a Deal the Cloud Would Be—They Do Now</a></li>
+</ul>
+</li>
+<li><p>OSOps - The OpenStack Operators project - <a href="https://wiki.openstack.org/wiki/Osops">wiki</a></p></li>
+<li>OSOps is a project to help get shared Operators tools, experiences, and workflows in one location; they may range from useful scripts/configs to fully supported tools.</li>
+<li><a href="https://github.com/openstack/osops-tools-contrib">OSOps Contribution Tooling</a> - A place for scripts and tools can get pushed up for the greater OpenStack Operator community to use. There are no coding standards here, but every tool is at least visually checked via the core membership for anything that looks malicious. Use at your own risk.</li>
+<li><p><a href="https://github.com/openstack/osops-tools-generic">OSOps Generic Tooling</a> - A repo of curated tools and scripts. These have been verified that do what they say, pass our coding standards and have been found useful by the Operating Community.</p></li>
+<li><p>OpenStack with Chef - the OpenStack Chef cookbooks - <a href="https://wiki.openstack.org/wiki/Chef">wiki</a></p>
+
+<ul>
+<li>The OpenStack Chef cookbooks are the result of a collaborative project to provide building blocks for building out OpenStack-based cloud infrastructure.</li>
+<li><a href="https://wiki.openstack.org/wiki/Chef/GettingStarted">Contributing to the project</a> - how to introduce yourself to the OpenStack Chef cookbooks and the community</li>
+</ul>
+</li>
+</ul>
+
+
 <h2>Picks<a name="picks"></a></h2>
 
 <h4>JJ</h4>
@@ -74,6 +119,13 @@
 
 
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp EU</a> - Feb 1-2 in Gent</li>
+<li><a href="https://www.chef.io/chefconf/">ChefConf 2016</a> - July in Austin, CFP opens Feb 1</li>
+<li>Disconnect!</li>
+</ul>
+
 
 <h2>Download</h2>
 
