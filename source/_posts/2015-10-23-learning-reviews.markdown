@@ -99,7 +99,8 @@ Picks<a name="picks"></a>
 
 ### Caitlin
 
-* [Hamilton:  An American Musical](http://www.hamiltonbroadway.com/)
+* [Digital PM Summit from the Bureau of Digital](http://bureauofdigital.com/summits/digital-pm/)
+* [Hamilton](http://www.hamiltonbroadway.com/), a musical, and [the Broadway cast recording on Spotify](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc)
 
 ### Lola
 
