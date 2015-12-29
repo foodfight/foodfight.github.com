@@ -24,7 +24,7 @@ Panel<a name="panel"></a>
 -----
 
 * JJ Asghar [github](https://github.com/jjasghar), [twitter](http://twitter.com/jjasghar), [blog](http://jjasghar.github.io), irc: j^2
-* Nick Silkey [github](https://github.com/filler/), [twitter](https://twitter.com/filler/)
+* Nick Silkey [github](https://github.com/filler/), [twitter](https://twitter.com/filler/), irc: filler
 * Samuel Cassiba [github](https://github.com/scassiba), [twitter](https://twitter.com/scassiba)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -59,6 +59,7 @@ Outline & Show Notes<a name="outline"></a>
 * [OSOps Contribution Tooling](https://github.com/openstack/osops-tools-contrib) - A place for scripts and tools can get pushed up for the greater OpenStack Operator community to use. There are no coding standards here, but every tool is at least visually checked via the core membership for anything that looks malicious. Use at your own risk.
 * [OSOps Generic Tooling](https://github.com/openstack/osops-tools-generic) - A repo of curated tools and scripts. These have been verified that do what they say, pass our coding standards and have been found useful by the Operating Community.
 
+* [Community App Catalog](http://apps.openstack.org/)
 
 * OpenStack with Chef - the OpenStack Chef cookbooks - [wiki](https://wiki.openstack.org/wiki/Chef)
   * The OpenStack Chef cookbooks are the result of a collaborative project to provide building blocks for building out OpenStack-based cloud infrastructure.
@@ -75,6 +76,10 @@ Picks<a name="picks"></a>
 * [Vote for the OpenStack Board, ideally me!](https://www.openstack.org/community/members/profile/19802)
 
 #### Nick
+
+* [Jenkins Job Builder](http://docs.openstack.org/infra/jenkins-job-builder/)
+* [Munchkin](http://www.worldofmunchkin.com/game/)
+* [Good Ole `make`](http://www.gnu.org/software/make/manual/make.html)
 
 #### Samuel  
 
