@@ -9,8 +9,6 @@ categories:
   - scassiba
 ---
 
-Join us for a discussion about OpenStack.
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/UOxsre69cPo" frameborder="0" allowfullscreen></iframe>
@@ -32,6 +30,39 @@ Panel<a name="panel"></a>
 
 Outline & Show Notes<a name="outline"></a>
 -------
+* Last OpenStack Episode - [Episode 61 - Sept, 2013](http://foodfightshow.org/2013/09/openstack.html)
+  * Grizzly to Havana timeframe
+  * Nova - Compute
+  * Swift - Object Storage
+  * Glance - Image Service
+  * Keystone - Identity Service
+  * Horizon - Dashboard
+  * Neutron - Network Service
+  * Cinder - Block Storage Service
+  * Ceilometer - Metering Service
+  * Heat - Orchestration
+* New services since then:
+  * Trove - Database as a Service
+  * Magnum - Container as a Service
+  * Designate - Control Plane for DNS as a Service
+  * Ironic - Bare Metal Provisioning
+  * https://www.openstack.org/software/project-navigator/
+
+
+* Is OpenStack still relevant?
+  * State of private cloud implementations?  Still relevant?
+  * [Nobody Knew How Big a Deal the Cloud Would Be—They Do Now](http://www.wired.com/2015/12/2015-was-the-year-the-cloud-defeated-techs-walking-dead)
+
+
+* OSOps - The OpenStack Operators project - [wiki](https://wiki.openstack.org/wiki/Osops)
+* OSOps is a project to help get shared Operators tools, experiences, and workflows in one location; they may range from useful scripts/configs to fully supported tools.
+* [OSOps Contribution Tooling](https://github.com/openstack/osops-tools-contrib) - A place for scripts and tools can get pushed up for the greater OpenStack Operator community to use. There are no coding standards here, but every tool is at least visually checked via the core membership for anything that looks malicious. Use at your own risk.
+* [OSOps Generic Tooling](https://github.com/openstack/osops-tools-generic) - A repo of curated tools and scripts. These have been verified that do what they say, pass our coding standards and have been found useful by the Operating Community.
+
+
+* OpenStack with Chef - the OpenStack Chef cookbooks - [wiki](https://wiki.openstack.org/wiki/Chef)
+  * The OpenStack Chef cookbooks are the result of a collaborative project to provide building blocks for building out OpenStack-based cloud infrastructure.
+  * [Contributing to the project](https://wiki.openstack.org/wiki/Chef/GettingStarted) - how to introduce yourself to the OpenStack Chef cookbooks and the community
 
 
 Picks<a name="picks"></a>
@@ -52,6 +83,10 @@ Picks<a name="picks"></a>
 * [bhyve](http://bhyve.org/)
 
 #### Nathen  
+
+* [Config Management Camp EU](http://cfgmgmtcamp.eu/) - Feb 1-2 in Gent
+* [ChefConf 2016](https://www.chef.io/chefconf/) - July in Austin, CFP opens Feb 1
+* Disconnect!
 
 
 Download
