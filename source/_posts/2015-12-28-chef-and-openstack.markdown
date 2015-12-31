@@ -18,7 +18,7 @@ categories:
 * [Picks](http://foodfightshow.org/2015/12/chef-and-openstack.html#picks)
 * Download
   * [Video](http://youtu.be/UOxsre69cPo)
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/foodfight-96-chef-and-openstack.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -97,7 +97,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/UOxsre69cPo)
-* Audio - Coming Soon
+* [Audio](http://traffic.libsyn.com/foodfight/foodfight-96-chef-and-openstack.mp3)
 
 <hr />
 
