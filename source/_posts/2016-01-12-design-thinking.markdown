@@ -26,6 +26,7 @@ Panel<a name="panel"></a>
 
 * Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
 * Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline & Show Notes<a name="outline"></a>
@@ -42,6 +43,8 @@ Picks<a name="picks"></a>
 ### Ben Rockwoood
 
 ### Jeff Sussna
+
+### Mike
 
 ### Nathen
 
