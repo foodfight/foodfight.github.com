@@ -12,13 +12,14 @@ categories:
 
 Join us for a discussion about [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).
 
-This episode will air soon.  Exact timing still being finalized.
+This episode will be broadcast on [Tuesday, February 9, 18:00 UTC](http://everytimezone.com/#2016-02-09,360,cn3).
+
 
 * [Panel](http://foodfightshow.org/2016/01/design-thinking.html#panel)
 * [Outline](http://foodfightshow.org/2016/01/design-thinking.html#outline)
 * [Picks](http://foodfightshow.org/2016/01/design-thinking.html#picks)
 * Download
-  * Video - This episode will air soon.  Exact timing still being finalized.
+  * Video - This episode will be broadcast on [Tuesday, February 9, 18:00 UTC](http://everytimezone.com/#2016-02-09,360,cn3).
   * Audio - Coming Soon
 
 Panel<a name="panel"></a>
@@ -51,7 +52,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Video - This episode will air soon.  Exact timing still being finalized.
+* Video - This episode will be broadcast on [Tuesday, February 9, 18:00 UTC](http://everytimezone.com/#2016-02-09,360,cn3).
 * Audio - Coming Soon
 
 <hr />
