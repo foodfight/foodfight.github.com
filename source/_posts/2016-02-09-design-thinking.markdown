@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design Thinking"
-date: 2016-01-12 08:33
+date: 2016-02-09 08:33
 comments: true
 categories:
   - design-thinking
