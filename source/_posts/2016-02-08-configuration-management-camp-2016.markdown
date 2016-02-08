@@ -9,6 +9,7 @@ categories:
   - purpleidea
   - cheeseplus
   - dberkholz
+  - cr03
 ---
 
 A wrap-up of [Configuration Management Camp 2016](http://cfgmgmtcamp.eu) recorded live at the end of the conference.
@@ -25,6 +26,7 @@ Panel<a name="panel"></a>
 * Kris Buytaert - [twitter](https://twitter.com/krisbuytaert)
 * Seth Thomas [github](https://github.com/cheeseplus), [twitter](https://twitter.com/cheeseplus)
 * Donnie Berkholz [twitter](https://twitter.com/dberkholz)
+* Ian Penney [twitter](https://twitter.com/cr03)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
