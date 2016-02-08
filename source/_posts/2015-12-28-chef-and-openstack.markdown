@@ -28,6 +28,8 @@ Panel<a name="panel"></a>
 * Samuel Cassiba [github](https://github.com/scassiba), [twitter](https://twitter.com/scassiba)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more -->
+
 Outline & Show Notes<a name="outline"></a>
 -------
 * Last OpenStack Episode - [Episode 61 - Sept, 2013](http://foodfightshow.org/2013/09/openstack.html)
