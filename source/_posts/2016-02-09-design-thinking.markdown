@@ -11,8 +11,6 @@ categories:
   - mikefiedler
 ---
 
-Join us for a discussion about [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).
-
 # Watch Now
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Avx_fIezoFc" frameborder="0" allowfullscreen></iframe>
@@ -30,7 +28,6 @@ Panel<a name="panel"></a>
 
 * Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
 * Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -110,19 +107,30 @@ Outline & Show Notes<a name="outline"></a>
 * [We should do a @foodfightshow  about DevOps & Design Thinking with @jeffsussna; clearly several of us are thinking about it!](https://twitter.com/benr/status/646440096460242944)
 * [Design Thinking](http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html)
 
+* A bunch of links from the show
+  * [Japanese Terms For DevOps Practitioners](http://itrevolution.com/japanese-words-for-devops-practitioners/)
+  * [DevOps Demystified](http://cuddletech.com/slides/DevOps-Demystified.pdf)
+  * [A3 Template](http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png)
+  * [Developing a Learning Culture: Intro to the Personal A3 Template](http://lithespeed.com/developing-learning-culture-personal-a3-template/)
+  * [Designing Delivery: Rethinking IT in the Digital Service Economy](http://www.amazon.com/Designing-Delivery-Rethinking-Digital-Service/dp/1491949880)
+  * [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089)
+  * [This is Service Design Thinking](http://thisisservicedesignthinking.com/)
+
+
 Picks<a name="picks"></a>
 -----
 
-### Ben Rockwoood
-
 ### Jeff Sussna
-
-### Mike
+ * [Hippie Modernism: The Struggle for Utopia](http://www.walkerart.org/calendar/2015/hippie-modernism-struggle-utopia)
 
 ### Brandon
+* [Towards an understanding of technical debt](http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/)
+* [The Principles of Product Development Flow: Second Generation Lean Product Development](http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009)
 
 ### Nathen
 
+* [ChefConf](http://chefconf.com)
+* [DevOpsDays DC](http://devopsdaysdc.org)
 
 Download
 --------
