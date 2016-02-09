@@ -1,4 +1,4 @@
-h---
+---
 layout: post
 title: "Design Thinking"
 date: 2016-02-09 08:33
