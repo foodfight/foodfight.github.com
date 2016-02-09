@@ -67,6 +67,23 @@ Outline & Show Notes<a name="outline"></a>
   * [Notes from the Lab: What’s Keeping Marginalized Groups Out of Tech?](https://www.chef.io/blog/2016/02/04/notes-from-the-lab-whats-keeping-marginalized-groups-out-of-tech)
 * New on LearnChef
   * [Transformation at Gannett](https://learn.chef.io/skills/transformation-at-gannett) in the Skills Library
+* New on the supermarket
+  * Recent Cookbooks
+    * [nginx_server v1.0.1](https://supermarket.chef.io/cookbooks/nginx_server)
+    * [docker v2.4.12](https://supermarket.chef.io/cookbooks/docker)
+    * [artifactory-artifact v0.2.0](https://supermarket.chef.io/cookbooks/artifactory-artifact)
+    * [prun-cfg v0.2.25](https://supermarket.chef.io/cookbooks/prun-cfg) (PostgreSQL / Ruby on Rails/ Ubuntu / Nginx)
+    * [telegraf v0.3.3](https://supermarket.chef.io/cookbooks/telegraf)
+    * [os_floating_lo v0.1.2](https://supermarket.chef.io/cookbooks/os_floating_lo)
+    * [bacula-backup v1.10.2](https://supermarket.chef.io/cookbooks/bacula-backup)
+    * [jetty v0.4.1](https://supermarket.chef.io/cookbooks/jetty) - Deprecated
+    * [sqlite v1.1.3](https://supermarket.chef.io/cookbooks/sqlite) - Deprecated
+    * [sensu-handlers v0.1.7](https://supermarket.chef.io/cookbooks/sensu-handlers)
+  * Recent Tools and Plugins
+    * [Reagan](https://supermarket.chef.io/tools/reagan) - Ruby Jenkins build script that automates the testing of individual items in a monolithic chef-repo.
+    * [kitchen-chef-extended-attributes](https://supermarket.chef.io/tools/kitchen-chef-extended-attributes) - Kitchen Driver that allows you to use test-kitchen with chef-solo - and automatically link suites to the same named JSON dna file to ensure your node specification doesn't drift from your test definition.
+    * [/tmp Compliance Profile](https://supermarket.chef.io/tools/tmp-compliance-profile) - An example compliance profile built with [InSpec](http://github.com/chef/inspec)
+    * [Rubymine Chef Configs](https://supermarket.chef.io/tools/rubymine-chef-configs) - Rubymine configurations for Chef
 * Upcoming Events
   * [ChefConf](https://chefconf.chef.io/) 2016 - July 11-13 in Austin, Texas.  CFP and ticket sales are now open.
   * DevOpsDays
