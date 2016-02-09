@@ -4,7 +4,7 @@
   <title><![CDATA[Category: solarce | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/solarce/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-09T10:26:40-05:00</updated>
+  <updated>2016-02-09T10:41:46-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,199 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Design Thinking]]></title>
+    <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
+    <updated>2016-02-09T08:33:00-05:00</updated>
+    <id>http://foodfightshow.org//2016/02/design-thinking</id>
+    <content type="html"><![CDATA[<p>Join us for a discussion about <a href="https://en.wikipedia.org/wiki/Design_thinking">Design Thinking</a>.</p>
+
+<p>This episode will be broadcast on <a href="http://everytimezone.com/#2016-02-09,360,cn3">Tuesday, February 9, 18:00 UTC</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/01/design-thinking.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/01/design-thinking.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/01/design-thinking.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - This episode will be broadcast on <a href="http://everytimezone.com/#2016-02-09,360,cn3">Tuesday, February 9, 18:00 UTC</a>.</li>
+<li>Audio - Coming Soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Jeff Sussna <a href="https://twitter.com/jeffsussna">twitter</a>, <a href="http://ingineering.it/">website</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>What's Cooking? - Chef News &amp; Events</h3>
+
+<ul>
+<li>Webinars:
+
+<ul>
+<li><a href="https://www.chef.io/blog/2016/02/04/icymi-chef-dojo-your-devops-journey-assessment/">Chef DOJO: Your DevOps Journey Assessment</a></li>
+<li><a href="https://www.chef.io/blog/event/webinar-test-driven-cookbook-development/">Test Driven Cookbook Development</a> - February 24</li>
+<li><a href="https://www.chef.io/blog/event/webinar-chef-workflow">Chef Workflow</a> - March 9</li>
+</ul>
+</li>
+<li>Upcoming Chef Training
+
+<ul>
+<li>Chef Essentials
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-chicago/">Chicago</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-toronto">Toronto</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-san-francisco-5">San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-atlanta-2">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-61/">Online</a></li>
+</ul>
+</li>
+<li>Chef Intermediate Topics
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-chicago-3">Chicago</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-seattle-6">Seattle</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-6">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-64/">Online</a></li>
+</ul>
+</li>
+<li>Test-driven Cookbook Development - New offering
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/test-driven-cookbook-development-online-us-3">Online</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>From the Chef Blog
+
+<ul>
+<li><a href="https://www.chef.io/blog/2016/02/09/devops-mainstream-2016/">7 Ways IT Will Change in 2016 to Bring DevOps Mainstream</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/08/update-on-native-64-bit-windows-chef-client/">Update on native 64-bit Windows Chef Client</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/05/deliverys-bitbucket-stash-integration-released">Delivery’s Bitbucket (Stash) Integration Released</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/05/supermarket-2-3-3-release">Supermarket 2.3.3 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/04/chef-server-12-4-1-release">Chef Server 12.4.1 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/01/chef-compliance-0-10-4-release">Chef Compliance 0.10.4 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/01/28/chef-management-console-2-1-2-security-release">Chef Management Console 2.1.2 Security Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/01/20/chef-reporting-release-1-5-6">Chef Reporting Release 1.5.6</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/04/notes-from-the-lab-whats-keeping-marginalized-groups-out-of-tech">Notes from the Lab: What’s Keeping Marginalized Groups Out of Tech?</a></li>
+</ul>
+</li>
+<li>New on LearnChef
+
+<ul>
+<li><a href="https://learn.chef.io/skills/transformation-at-gannett">Transformation at Gannett</a> in the Skills Library</li>
+</ul>
+</li>
+<li>New on the supermarket
+
+<ul>
+<li>Recent Cookbooks
+
+<ul>
+<li><a href="https://supermarket.chef.io/cookbooks/nginx_server">nginx_server v1.0.1</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/docker">docker v2.4.12</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/artifactory-artifact">artifactory-artifact v0.2.0</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/prun-cfg">prun-cfg v0.2.25</a> (PostgreSQL / Ruby on Rails/ Ubuntu / Nginx)</li>
+<li><a href="https://supermarket.chef.io/cookbooks/telegraf">telegraf v0.3.3</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/os_floating_lo">os_floating_lo v0.1.2</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/bacula-backup">bacula-backup v1.10.2</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/jetty">jetty v0.4.1</a> - Deprecated</li>
+<li><a href="https://supermarket.chef.io/cookbooks/sqlite">sqlite v1.1.3</a> - Deprecated</li>
+<li><a href="https://supermarket.chef.io/cookbooks/sensu-handlers">sensu-handlers v0.1.7</a></li>
+</ul>
+</li>
+<li>Recent Tools and Plugins
+
+<ul>
+<li><a href="https://supermarket.chef.io/tools/reagan">Reagan</a> - Ruby Jenkins build script that automates the testing of individual items in a monolithic chef-repo.</li>
+<li><a href="https://supermarket.chef.io/tools/kitchen-chef-extended-attributes">kitchen-chef-extended-attributes</a> - Kitchen Driver that allows you to use test-kitchen with chef-solo - and automatically link suites to the same named JSON dna file to ensure your node specification doesn't drift from your test definition.</li>
+<li><a href="https://supermarket.chef.io/tools/tmp-compliance-profile">/tmp Compliance Profile</a> - An example compliance profile built with <a href="http://github.com/chef/inspec">InSpec</a></li>
+<li><a href="https://supermarket.chef.io/tools/rubymine-chef-configs">Rubymine Chef Configs</a> - Rubymine configurations for Chef</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Upcoming Events
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> 2016 - July 11-13 in Austin, Texas.  CFP and ticket sales are now open.</li>
+<li>DevOpsDays
+
+<ul>
+<li><a href="http://www.devopsdays.org/events/2016-vancouver/">Vancouver</a> - April 15-16</li>
+<li><a href="http://www.devopsdays.org/events/2016-london/">London</a> - April 19-20</li>
+<li><a href="http://www.devopsdays.org/events/2016-denver/">Rockies/Denver</a> - April 21-22</li>
+<li><a href="http://www.devopsdays.org/events/2016-atlanta/">Atlanta</a> - April 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-austin/">Austin</a> - May 2-3</li>
+<li><a href="http://www.devopsdays.org/events/2016-kiel/">Kiel</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-seattle/">Seattle</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-toronto/">Toronto</a> - May 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-washington-dc/">Washington, DC</a> - June 8-9</li>
+<li><a href="http://www.devopsdays.org/events/2016-saltlakecity/">Salt Lake City</a> - June 14-15</li>
+<li><a href="http://www.devopsdays.org/events/2016-amsterdam/">Amsterdam</a> - June 29 - July 1</li>
+<li><a href="http://www.devopsdays.org/events/2016-minneapolis/">Minneapolis</a> - July 20-21</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li>What is Design Thinking?</li>
+<li>How does it inform the practice of building &amp; operating high velocity organizations?</li>
+<li><a href="https://twitter.com/benr/status/646440096460242944">We should do a @foodfightshow  about DevOps &amp; Design Thinking with @jeffsussna; clearly several of us are thinking about it!</a></li>
+<li><a href="http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html">Design Thinking</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Ben Rockwoood</h3>
+
+<h3>Jeff Sussna</h3>
+
+<h3>Mike</h3>
+
+<h3>Brandon</h3>
+
+<h3>Nathen</h3>
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - This episode will be broadcast on <a href="http://everytimezone.com/#2016-02-09,360,cn3">Tuesday, February 9, 18:00 UTC</a>.</li>
+<li>Audio - Coming Soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
