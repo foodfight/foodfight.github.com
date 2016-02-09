@@ -13,14 +13,16 @@ categories:
 
 Join us for a discussion about [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).
 
-This episode will be broadcast on [Tuesday, February 9, 18:00 UTC](http://everytimezone.com/#2016-02-09,360,cn3).
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Avx_fIezoFc" frameborder="0" allowfullscreen></iframe>
 
 
 * [Panel](http://foodfightshow.org/2016/01/design-thinking.html#panel)
 * [Outline](http://foodfightshow.org/2016/01/design-thinking.html#outline)
 * [Picks](http://foodfightshow.org/2016/01/design-thinking.html#picks)
 * Download
-  * Video - This episode will be broadcast on [Tuesday, February 9, 18:00 UTC](http://everytimezone.com/#2016-02-09,360,cn3).
+  * [Video](http://youtu.be/Avx_fIezoFc)
   * Audio - Coming Soon
 
 Panel<a name="panel"></a>
@@ -79,6 +81,7 @@ Outline & Show Notes<a name="outline"></a>
     * [jetty v0.4.1](https://supermarket.chef.io/cookbooks/jetty) - Deprecated
     * [sqlite v1.1.3](https://supermarket.chef.io/cookbooks/sqlite) - Deprecated
     * [sensu-handlers v0.1.7](https://supermarket.chef.io/cookbooks/sensu-handlers)
+    * Follow [@getgetchef](https://twitter.com/getgetchef) on twitter for more cookbook updates.
   * Recent Tools and Plugins
     * [Reagan](https://supermarket.chef.io/tools/reagan) - Ruby Jenkins build script that automates the testing of individual items in a monolithic chef-repo.
     * [kitchen-chef-extended-attributes](https://supermarket.chef.io/tools/kitchen-chef-extended-attributes) - Kitchen Driver that allows you to use test-kitchen with chef-solo - and automatically link suites to the same named JSON dna file to ensure your node specification doesn't drift from your test definition.
@@ -123,7 +126,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Video - This episode will be broadcast on [Tuesday, February 9, 18:00 UTC](http://everytimezone.com/#2016-02-09,360,cn3).
+* [Video](http://youtu.be/Avx_fIezoFc)
 * Audio - Coming Soon
 
 <hr />
