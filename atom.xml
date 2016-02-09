@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-08T12:40:18-05:00</updated>
+  <updated>2016-02-09T10:15:50-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,9 +16,22 @@
   <entry>
     <title type="html"><![CDATA[Design Thinking]]></title>
     <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
-    <updated>2016-02-09T08:33:00-05:00</updated>
+    <updated>2016-02-09T00:00:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/design-thinking</id>
-    <content type="html"><![CDATA[<p>Join us for a discussion about <a href="https://en.wikipedia.org/wiki/Design_thinking">Design Thinking</a>.</p>
+    <content type="html"><![CDATA[<p>h&#8212;
+layout: post
+title: &#8220;Design Thinking&#8221;
+date: 2016-02-09 08:33
+comments: true
+categories:
+  - design-thinking
+  - benr
+  - jeffsussna
+  - solarce</p>
+
+<h2>  - mikefiedler</h2>
+
+<p>Join us for a discussion about <a href="https://en.wikipedia.org/wiki/Design_thinking">Design Thinking</a>.</p>
 
 <p>This episode will be broadcast on <a href="http://everytimezone.com/#2016-02-09,360,cn3">Tuesday, February 9, 18:00 UTC</a>.</p>
 
@@ -48,6 +61,93 @@
 
 
 <h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>What&#8217;s Cooking? - Chef News &amp; Events</h3>
+
+<ul>
+<li>Webinars:
+
+<ul>
+<li><a href="https://www.chef.io/blog/2016/02/04/icymi-chef-dojo-your-devops-journey-assessment/">Chef DOJO: Your DevOps Journey Assessment</a></li>
+<li><a href="https://www.chef.io/blog/event/webinar-test-driven-cookbook-development/">Test Driven Cookbook Development</a> - February 24</li>
+<li><a href="https://www.chef.io/blog/event/webinar-chef-workflow">Chef Workflow</a> - March 9</li>
+</ul>
+</li>
+<li>Upcoming Chef Training
+
+<ul>
+<li>Chef Essentials
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-chicago/">Chicago</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-toronto">Toronto</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-san-francisco-5">San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-atlanta-2">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-61/">Online</a></li>
+</ul>
+</li>
+<li>Chef Intermediate Topics
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-chicago-3">Chicago</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-seattle-6">Seattle</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-6">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-64/">Online</a></li>
+</ul>
+</li>
+<li>Test-driven Cookbook Development - New offering
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/test-driven-cookbook-development-online-us-3">Online</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>From the Chef Blog
+
+<ul>
+<li><a href="https://www.chef.io/blog/2016/02/05/deliverys-bitbucket-stash-integration-released">Delivery’s Bitbucket (Stash) Integration Released</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/05/supermarket-2-3-3-release">Supermarket 2.3.3 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/04/chef-server-12-4-1-release">Chef Server 12.4.1 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/01/chef-compliance-0-10-4-release">Chef Compliance 0.10.4 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/01/28/chef-management-console-2-1-2-security-release">Chef Management Console 2.1.2 Security Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/01/20/chef-reporting-release-1-5-6">Chef Reporting Release 1.5.6</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/04/notes-from-the-lab-whats-keeping-marginalized-groups-out-of-tech">Notes from the Lab: What’s Keeping Marginalized Groups Out of Tech?</a></li>
+</ul>
+</li>
+<li>New on LearnChef
+
+<ul>
+<li><a href="https://learn.chef.io/skills/transformation-at-gannett">Transformation at Gannett</a> in the Skills Library</li>
+</ul>
+</li>
+<li>Upcoming Events
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> 2016 - July 11-13 in Austin, Texas.  CFP and ticket sales are now open.</li>
+<li>DevOpsDays
+
+<ul>
+<li><a href="http://www.devopsdays.org/events/2016-vancouver/">Vancouver</a> - April 15-16</li>
+<li><a href="http://www.devopsdays.org/events/2016-london/">London</a> - April 19-20</li>
+<li><a href="http://www.devopsdays.org/events/2016-denver/">Rockies/Denver</a> - April 21-22</li>
+<li><a href="http://www.devopsdays.org/events/2016-atlanta/">Atlanta</a> - April 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-austin/">Austin</a> - May 2-3</li>
+<li><a href="http://www.devopsdays.org/events/2016-kiel/">Kiel</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-seattle/">Seattle</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-toronto/">Toronto</a> - May 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-washington-dc/">Washington, DC</a> - June 8-9</li>
+<li><a href="http://www.devopsdays.org/events/2016-saltlakecity/">Salt Lake City</a> - June 14-15</li>
+<li><a href="http://www.devopsdays.org/events/2016-amsterdam/">Amsterdam</a> - June 29 - July 1</li>
+<li><a href="http://www.devopsdays.org/events/2016-minneapolis/">Minneapolis</a> - July 20-21</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
 
 <ul>
 <li>What is Design Thinking?</li>
