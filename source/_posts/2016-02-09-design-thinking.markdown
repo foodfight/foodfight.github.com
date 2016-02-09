@@ -1,4 +1,4 @@
----
+h---
 layout: post
 title: "Design Thinking"
 date: 2016-02-09 08:33
@@ -34,6 +34,54 @@ Panel<a name="panel"></a>
 
 Outline & Show Notes<a name="outline"></a>
 -------
+
+### What's Cooking? - Chef News & Events
+
+* Webinars:
+  * [Chef DOJO: Your DevOps Journey Assessment](https://www.chef.io/blog/2016/02/04/icymi-chef-dojo-your-devops-journey-assessment/)
+  * [Test Driven Cookbook Development](https://www.chef.io/blog/event/webinar-test-driven-cookbook-development/) - February 24
+  * [Chef Workflow](https://www.chef.io/blog/event/webinar-chef-workflow) - March 9
+* Upcoming Chef Training
+  * Chef Essentials
+    * [Chicago](https://www.chef.io/blog/event/chef-essentials-chicago/)
+    * [Toronto](https://www.chef.io/blog/event/chef-essentials-toronto)
+    * [San Francisco](https://www.chef.io/blog/event/chef-essentials-san-francisco-5)
+    * [Atlanta](https://www.chef.io/blog/event/chef-essentials-atlanta-2)
+    * [Online](https://www.chef.io/blog/venue/online-61/)
+  * Chef Intermediate Topics
+    * [Chicago](https://www.chef.io/blog/event/chef-intermediate-topics-chicago-3)
+    * [Seattle](https://www.chef.io/blog/event/chef-intermediate-topics-seattle-6)
+    * [Atlanta](https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-6)
+    * [Online](https://www.chef.io/blog/venue/online-64/)
+  * Test-driven Cookbook Development - New offering
+    * [Online](https://www.chef.io/blog/event/test-driven-cookbook-development-online-us-3)
+* From the Chef Blog
+  * [Delivery’s Bitbucket (Stash) Integration Released](https://www.chef.io/blog/2016/02/05/deliverys-bitbucket-stash-integration-released)
+  * [Supermarket 2.3.3 Release](https://www.chef.io/blog/2016/02/05/supermarket-2-3-3-release)
+  * [Chef Server 12.4.1 Release](https://www.chef.io/blog/2016/02/04/chef-server-12-4-1-release)
+  * [Chef Compliance 0.10.4 Release](https://www.chef.io/blog/2016/02/01/chef-compliance-0-10-4-release)
+  * [Chef Management Console 2.1.2 Security Release](https://www.chef.io/blog/2016/01/28/chef-management-console-2-1-2-security-release)
+  * [Chef Reporting Release 1.5.6](https://www.chef.io/blog/2016/01/20/chef-reporting-release-1-5-6)
+  * [Notes from the Lab: What’s Keeping Marginalized Groups Out of Tech?](https://www.chef.io/blog/2016/02/04/notes-from-the-lab-whats-keeping-marginalized-groups-out-of-tech)
+* New on LearnChef
+  * [Transformation at Gannett](https://learn.chef.io/skills/transformation-at-gannett) in the Skills Library
+* Upcoming Events
+  * [ChefConf](https://chefconf.chef.io/) 2016 - July 11-13 in Austin, Texas.  CFP and ticket sales are now open.
+  * DevOpsDays
+    * [Vancouver](http://www.devopsdays.org/events/2016-vancouver/) - April 15-16
+    * [London](http://www.devopsdays.org/events/2016-london/) - April 19-20
+    * [Rockies/Denver](http://www.devopsdays.org/events/2016-denver/) - April 21-22
+    * [Atlanta](http://www.devopsdays.org/events/2016-atlanta/) - April 26-27
+    * [Austin](http://www.devopsdays.org/events/2016-austin/) - May 2-3
+    * [Kiel](http://www.devopsdays.org/events/2016-kiel/) - May 12-13
+    * [Seattle](http://www.devopsdays.org/events/2016-seattle/) - May 12-13
+    * [Toronto](http://www.devopsdays.org/events/2016-toronto/) - May 26-27
+    * [Washington, DC](http://www.devopsdays.org/events/2016-washington-dc/) - June 8-9
+    * [Salt Lake City](http://www.devopsdays.org/events/2016-saltlakecity/) - June 14-15
+    * [Amsterdam](http://www.devopsdays.org/events/2016-amsterdam/) - June 29 - July 1
+    * [Minneapolis](http://www.devopsdays.org/events/2016-minneapolis/) - July 20-21
+
+###  Show Notes
 
 * What is Design Thinking?
 * How does it inform the practice of building & operating high velocity organizations?
