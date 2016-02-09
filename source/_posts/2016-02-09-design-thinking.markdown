@@ -56,6 +56,8 @@ Outline & Show Notes<a name="outline"></a>
   * Test-driven Cookbook Development - New offering
     * [Online](https://www.chef.io/blog/event/test-driven-cookbook-development-online-us-3)
 * From the Chef Blog
+  * [7 Ways IT Will Change in 2016 to Bring DevOps Mainstream](https://www.chef.io/blog/2016/02/09/devops-mainstream-2016/)
+  * [Update on native 64-bit Windows Chef Client](https://www.chef.io/blog/2016/02/08/update-on-native-64-bit-windows-chef-client/)
   * [Delivery’s Bitbucket (Stash) Integration Released](https://www.chef.io/blog/2016/02/05/deliverys-bitbucket-stash-integration-released)
   * [Supermarket 2.3.3 Release](https://www.chef.io/blog/2016/02/05/supermarket-2-3-3-release)
   * [Chef Server 12.4.1 Release](https://www.chef.io/blog/2016/02/04/chef-server-12-4-1-release)
