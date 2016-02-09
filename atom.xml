@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-09T12:55:10-05:00</updated>
+  <updated>2016-02-09T14:21:51-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,7 @@
     <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
     <updated>2016-02-09T08:33:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/design-thinking</id>
-    <content type="html"><![CDATA[<p>Join us for a discussion about <a href="https://en.wikipedia.org/wiki/Design_thinking">Design Thinking</a>.</p>
-
-<h1>Watch Now</h1>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Avx_fIezoFc" frameborder="0" allowfullscreen></iframe>
 
@@ -44,7 +42,6 @@
 <ul>
 <li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
 <li>Jeff Sussna <a href="https://twitter.com/jeffsussna">twitter</a>, <a href="http://ingineering.it/">website</a></li>
-<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
 <li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
@@ -175,21 +172,46 @@
 <li>What is Design Thinking?</li>
 <li>How does it inform the practice of building &amp; operating high velocity organizations?</li>
 <li><a href="https://twitter.com/benr/status/646440096460242944">We should do a @foodfightshow  about DevOps &amp; Design Thinking with @jeffsussna; clearly several of us are thinking about it!</a></li>
-<li><a href="http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html">Design Thinking</a></li>
+<li><p><a href="http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html">Design Thinking</a></p></li>
+<li><p>A bunch of links from the show</p>
+
+<ul>
+<li><a href="http://itrevolution.com/japanese-words-for-devops-practitioners/">Japanese Terms For DevOps Practitioners</a></li>
+<li><a href="http://cuddletech.com/slides/DevOps-Demystified.pdf">DevOps Demystified</a></li>
+<li><a href="http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png">A3 Template</a></li>
+<li><a href="http://lithespeed.com/developing-learning-culture-personal-a3-template/">Developing a Learning Culture: Intro to the Personal A3 Template</a></li>
+<li><a href="http://www.amazon.com/Designing-Delivery-Rethinking-Digital-Service/dp/1491949880">Designing Delivery: Rethinking IT in the Digital Service Economy</a></li>
+<li><a href="http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089">Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation</a></li>
+<li><a href="http://thisisservicedesignthinking.com/">This is Service Design Thinking</a></li>
+</ul>
+</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
 
-<h3>Ben Rockwoood</h3>
-
 <h3>Jeff Sussna</h3>
 
-<h3>Mike</h3>
+<ul>
+<li><a href="http://www.walkerart.org/calendar/2015/hippie-modernism-struggle-utopia">Hippie Modernism: The Struggle for Utopia</a></li>
+</ul>
+
 
 <h3>Brandon</h3>
 
+<ul>
+<li><a href="http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/">Towards an understanding of technical debt</a></li>
+<li><a href="http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009">The Principles of Product Development Flow: Second Generation Lean Product Development</a></li>
+</ul>
+
+
 <h3>Nathen</h3>
+
+<ul>
+<li><a href="http://chefconf.com">ChefConf</a></li>
+<li><a href="http://devopsdaysdc.org">DevOpsDays DC</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
