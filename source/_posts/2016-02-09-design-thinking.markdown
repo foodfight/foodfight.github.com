@@ -102,20 +102,23 @@ Outline & Show Notes<a name="outline"></a>
 
 ###  Show Notes
 
+* [We should do a @foodfightshow about DevOps & Design Thinking with @jeffsussna; clearly several of us are thinking about it!](https://twitter.com/benr/status/646440096460242944)
 * What is Design Thinking?
+* Design Thinking compared to Lean Concepts, DevOps, and Agile
 * How does it inform the practice of building & operating high velocity organizations?
-* [We should do a @foodfightshow  about DevOps & Design Thinking with @jeffsussna; clearly several of us are thinking about it!](https://twitter.com/benr/status/646440096460242944)
 * [Design Thinking](http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html)
-
-* A bunch of links from the show
-  * [Japanese Terms For DevOps Practitioners](http://itrevolution.com/japanese-words-for-devops-practitioners/)
-  * [DevOps Demystified](http://cuddletech.com/slides/DevOps-Demystified.pdf)
-  * [A3 Template](http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png)
+* [TPS: Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
+* [A3 Template](http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png)
   * [Developing a Learning Culture: Intro to the Personal A3 Template](http://lithespeed.com/developing-learning-culture-personal-a3-template/)
+* Abduction
+* Implementation: "What is it you actually want to do?"
+* Design Thinking Workshops
   * [Designing Delivery: Rethinking IT in the Digital Service Economy](http://www.amazon.com/Designing-Delivery-Rethinking-Digital-Service/dp/1491949880)
+* Design Thinking Resources
   * [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089)
   * [This is Service Design Thinking](http://thisisservicedesignthinking.com/)
-
+  * [Japanese Terms For DevOps Practitioners](http://itrevolution.com/japanese-words-for-devops-practitioners/)
+  * [DevOps Demystified](http://cuddletech.com/slides/DevOps-Demystified.pdf)
 
 Picks<a name="picks"></a>
 -----
