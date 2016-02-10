@@ -4,7 +4,7 @@
   <title><![CDATA[Category: benr | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/benr/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-09T14:21:51-05:00</updated>
+  <updated>2016-02-10T11:08:11-08:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Design Thinking]]></title>
     <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
-    <updated>2016-02-09T08:33:00-05:00</updated>
+    <updated>2016-02-09T08:33:00-08:00</updated>
     <id>http://foodfightshow.org//2016/02/design-thinking</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -31,7 +31,7 @@
 
 <ul>
 <li><a href="http://youtu.be/Avx_fIezoFc">Video</a></li>
-<li>Audio - Coming Soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -169,20 +169,33 @@
 <h3>Show Notes</h3>
 
 <ul>
+<li><a href="https://twitter.com/benr/status/646440096460242944">We should do a @foodfightshow about DevOps &amp; Design Thinking with @jeffsussna; clearly several of us are thinking about it!</a></li>
 <li>What is Design Thinking?</li>
+<li>Design Thinking compared to Lean Concepts, DevOps, and Agile</li>
 <li>How does it inform the practice of building &amp; operating high velocity organizations?</li>
-<li><a href="https://twitter.com/benr/status/646440096460242944">We should do a @foodfightshow  about DevOps &amp; Design Thinking with @jeffsussna; clearly several of us are thinking about it!</a></li>
-<li><p><a href="http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html">Design Thinking</a></p></li>
-<li><p>A bunch of links from the show</p>
+<li><a href="http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html">Design Thinking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Toyota_Production_System">TPS: Toyota Production System</a></li>
+<li><a href="http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png">A3 Template</a>
 
 <ul>
-<li><a href="http://itrevolution.com/japanese-words-for-devops-practitioners/">Japanese Terms For DevOps Practitioners</a></li>
-<li><a href="http://cuddletech.com/slides/DevOps-Demystified.pdf">DevOps Demystified</a></li>
-<li><a href="http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png">A3 Template</a></li>
 <li><a href="http://lithespeed.com/developing-learning-culture-personal-a3-template/">Developing a Learning Culture: Intro to the Personal A3 Template</a></li>
+</ul>
+</li>
+<li>Abduction</li>
+<li>Implementation: "What is it you actually want to do?"</li>
+<li>Design Thinking Workshops
+
+<ul>
 <li><a href="http://www.amazon.com/Designing-Delivery-Rethinking-Digital-Service/dp/1491949880">Designing Delivery: Rethinking IT in the Digital Service Economy</a></li>
+</ul>
+</li>
+<li>Design Thinking Resources
+
+<ul>
 <li><a href="http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089">Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation</a></li>
 <li><a href="http://thisisservicedesignthinking.com/">This is Service Design Thinking</a></li>
+<li><a href="http://itrevolution.com/japanese-words-for-devops-practitioners/">Japanese Terms For DevOps Practitioners</a></li>
+<li><a href="http://cuddletech.com/slides/DevOps-Demystified.pdf">DevOps Demystified</a></li>
 </ul>
 </li>
 </ul>
@@ -217,7 +230,7 @@
 
 <ul>
 <li><a href="http://youtu.be/Avx_fIezoFc">Video</a></li>
-<li>Audio - Coming Soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3">Audio</a></li>
 </ul>
 
 
@@ -235,7 +248,7 @@
   <entry>
     <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
     <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
-    <updated>2015-01-29T10:21:00-05:00</updated>
+    <updated>2015-01-29T10:21:00-08:00</updated>
     <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
     <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
 
@@ -448,7 +461,7 @@
   <entry>
     <title type="html"><![CDATA[A Smarter OS]]></title>
     <link href="http://foodfightshow.org//2013/04/a-smarter-os.html"/>
-    <updated>2013-04-08T12:40:00-04:00</updated>
+    <updated>2013-04-08T12:40:00-07:00</updated>
     <id>http://foodfightshow.org//2013/04/a-smarter-os</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, April 8, 2013</p>
 

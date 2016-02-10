@@ -4,7 +4,7 @@
   <title><![CDATA[Category: littleidea | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/littleidea/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-09T14:21:51-05:00</updated>
+  <updated>2016-02-10T11:08:11-08:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Configuration Management Camp]]></title>
     <link href="http://foodfightshow.org//2015/02/configuration-management-camp.html"/>
-    <updated>2015-02-11T10:34:00-05:00</updated>
+    <updated>2015-02-11T10:34:00-08:00</updated>
     <id>http://foodfightshow.org//2015/02/configuration-management-camp</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2015</a> recorded live at the end of the conference.</p>
 
@@ -107,7 +107,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[The Future of DevOps]]></title>
     <link href="http://foodfightshow.org//2013/10/the-future-of-devops.html"/>
-    <updated>2013-10-01T08:07:00-04:00</updated>
+    <updated>2013-10-01T08:07:00-07:00</updated>
     <id>http://foodfightshow.org//2013/10/the-future-of-devops</id>
     <content type="html"><![CDATA[<p>Andrew Clay Shafer (<a href="http://twitter.com/littleidea">@littleidea</a>) joins us to discuss the future of DevOps.</p>
 
