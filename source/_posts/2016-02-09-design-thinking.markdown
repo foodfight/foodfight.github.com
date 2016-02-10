@@ -21,7 +21,7 @@ categories:
 * [Picks](http://foodfightshow.org/2016/01/design-thinking.html#picks)
 * Download
   * [Video](http://youtu.be/Avx_fIezoFc)
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -138,7 +138,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/Avx_fIezoFc)
-* Audio - Coming Soon
+* [Audio](http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3)
 
 <hr />
 
