@@ -16,9 +16,9 @@ categories:
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Avx_fIezoFc" frameborder="0" allowfullscreen></iframe>
 
 
-* [Panel](http://foodfightshow.org/2016/01/design-thinking.html#panel)
-* [Outline](http://foodfightshow.org/2016/01/design-thinking.html#outline)
-* [Picks](http://foodfightshow.org/2016/01/design-thinking.html#picks)
+* [Panel](http://foodfightshow.org/2016/02/design-thinking.html#panel)
+* [Outline](http://foodfightshow.org/2016/02/design-thinking.html#outline)
+* [Picks](http://foodfightshow.org/2016/02/design-thinking.html#picks)
 * Download
   * [Video](http://youtu.be/Avx_fIezoFc)
   * [Audio](http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3)
@@ -61,8 +61,8 @@ Outline & Show Notes<a name="outline"></a>
   * [Supermarket 2.3.3 Release](https://www.chef.io/blog/2016/02/05/supermarket-2-3-3-release)
   * [Chef Server 12.4.1 Release](https://www.chef.io/blog/2016/02/04/chef-server-12-4-1-release)
   * [Chef Compliance 0.10.4 Release](https://www.chef.io/blog/2016/02/01/chef-compliance-0-10-4-release)
-  * [Chef Management Console 2.1.2 Security Release](https://www.chef.io/blog/2016/01/28/chef-management-console-2-1-2-security-release)
-  * [Chef Reporting Release 1.5.6](https://www.chef.io/blog/2016/01/20/chef-reporting-release-1-5-6)
+  * [Chef Management Console 2.1.2 Security Release](https://www.chef.io/blog/2016/02/28/chef-management-console-2-1-2-security-release)
+  * [Chef Reporting Release 1.5.6](https://www.chef.io/blog/2016/02/20/chef-reporting-release-1-5-6)
   * [Notes from the Lab: What’s Keeping Marginalized Groups Out of Tech?](https://www.chef.io/blog/2016/02/04/notes-from-the-lab-whats-keeping-marginalized-groups-out-of-tech)
 * New on LearnChef
   * [Transformation at Gannett](https://learn.chef.io/skills/transformation-at-gannett) in the Skills Library
@@ -106,9 +106,9 @@ Outline & Show Notes<a name="outline"></a>
 * What is Design Thinking?
 * Design Thinking compared to Lean Concepts, DevOps, and Agile
 * How does it inform the practice of building & operating high velocity organizations?
-* [Design Thinking](http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html)
+* [Design Thinking](http://sysadvent.blogspot.com/2016/02/gcday-3-design-thinking.html)
 * [TPS: Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
-* [A3 Template](http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png)
+* [A3 Template](http://freebsdhowto.com/p/2016/02/a3-template-rifvoouk.png)
   * [Developing a Learning Culture: Intro to the Personal A3 Template](http://lithespeed.com/developing-learning-culture-personal-a3-template/)
 * Abduction
 * Implementation: "What is it you actually want to do?"
@@ -127,7 +127,7 @@ Picks<a name="picks"></a>
  * [Hippie Modernism: The Struggle for Utopia](http://www.walkerart.org/calendar/2015/hippie-modernism-struggle-utopia)
 
 ### Brandon
-* [Towards an understanding of technical debt](http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/)
+* [Towards an understanding of technical debt](http://laughingmeme.org/2016/02/10/towards-an-understanding-of-technical-debt/)
 * [The Principles of Product Development Flow: Second Generation Lean Product Development](http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009)
 
 ### Nathen
