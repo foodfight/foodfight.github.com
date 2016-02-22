@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chefdk | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chefdk/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-10T11:08:11-08:00</updated>
+  <updated>2016-02-21T22:08:21-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[ChefDK]]></title>
     <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
-    <updated>2014-08-27T12:10:00-07:00</updated>
+    <updated>2014-08-27T12:10:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/chefdk</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
 
@@ -318,7 +318,7 @@
   <entry>
     <title type="html"><![CDATA[ChefDK]]></title>
     <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
-    <updated>2014-08-27T12:10:00-07:00</updated>
+    <updated>2014-08-27T12:10:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/chefdk</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
 
@@ -620,7 +620,7 @@
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
     <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
-    <updated>2014-08-22T07:27:00-07:00</updated>
+    <updated>2014-08-22T07:27:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
 

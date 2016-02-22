@@ -4,7 +4,7 @@
   <title><![CDATA[Category: cashion | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/cashion/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-10T11:08:11-08:00</updated>
+  <updated>2016-02-21T22:08:21-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Amazon Web Services]]></title>
     <link href="http://foodfightshow.org//2013/06/amazon-web-services.html"/>
-    <updated>2013-06-05T07:44:00-07:00</updated>
+    <updated>2013-06-05T07:44:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/amazon-web-services</id>
     <content type="html"><![CDATA[<p>Show Date:  June 5, 2013</p>
 
@@ -230,7 +230,7 @@ and Pry.rescue do #.... end</li>
   <entry>
     <title type="html"><![CDATA[Netflix OSS]]></title>
     <link href="http://foodfightshow.org//2013/05/netflix-oss.html"/>
-    <updated>2013-05-09T09:48:00-07:00</updated>
+    <updated>2013-05-09T09:48:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/netflix-oss</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday, May 9, 2013</p>
 

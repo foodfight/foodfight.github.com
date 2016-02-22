@@ -4,7 +4,7 @@
   <title><![CDATA[Category: devopsdays | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/devopsdays/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-10T11:08:11-08:00</updated>
+  <updated>2016-02-21T22:08:21-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays DC]]></title>
     <link href="http://foodfightshow.org//2015/06/devopsdays-dc.html"/>
-    <updated>2015-06-12T17:14:00-07:00</updated>
+    <updated>2015-06-12T17:14:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/devopsdays-dc</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://devopsdaysdc.org">DevOpsDays DC</a> recorded live at the end of the conference.</p>
 
@@ -73,7 +73,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
     <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
-    <updated>2014-11-04T21:55:00-08:00</updated>
+    <updated>2014-11-04T21:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
@@ -159,7 +159,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays - Silicon Valley]]></title>
     <link href="http://foodfightshow.org//2013/06/devopsdays-silicon-valley.html"/>
-    <updated>2013-06-28T15:24:00-07:00</updated>
+    <updated>2013-06-28T15:24:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/devopsdays-silicon-valley</id>
     <content type="html"><![CDATA[<p>Show Date:  June 21, 2013</p>
 
@@ -218,7 +218,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays NYC - That's a Wrap!]]></title>
     <link href="http://foodfightshow.org//2013/01/devopsdays-nyc-thats-a-wrap.html"/>
-    <updated>2013-01-18T21:10:00-08:00</updated>
+    <updated>2013-01-18T21:10:00-05:00</updated>
     <id>http://foodfightshow.org//2013/01/devopsdays-nyc-thats-a-wrap</id>
     <content type="html"><![CDATA[<p>Show Date:  18 January 2013</p>
 
@@ -243,7 +243,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays with Mathias Meyer]]></title>
     <link href="http://foodfightshow.org//2013/01/devopsdays-with-matthias-meyer.html"/>
-    <updated>2013-01-18T20:38:00-08:00</updated>
+    <updated>2013-01-18T20:38:00-05:00</updated>
     <id>http://foodfightshow.org//2013/01/devopsdays-with-matthias-meyer</id>
     <content type="html"><![CDATA[<p>Show Date:  18 January 2013</p>
 

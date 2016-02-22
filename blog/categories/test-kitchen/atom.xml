@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test-kitchen | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/test-kitchen/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-10T11:08:11-08:00</updated>
+  <updated>2016-02-21T22:08:21-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
     <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
-    <updated>2014-08-22T07:27:00-07:00</updated>
+    <updated>2014-08-22T07:27:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
 
@@ -240,7 +240,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day 1]]></title>
     <link href="http://foodfightshow.org//2013/11/community-summit-day-1.html"/>
-    <updated>2013-11-19T10:35:00-08:00</updated>
+    <updated>2013-11-19T10:35:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/community-summit-day-1</id>
     <content type="html"><![CDATA[<p>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.</p>
 
@@ -318,7 +318,7 @@
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
     <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
-    <updated>2013-05-22T08:11:00-07:00</updated>
+    <updated>2013-05-22T08:11:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
     <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-10T11:08:11-08:00</updated>
+  <updated>2016-02-21T22:08:21-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,70 @@
 
   
   <entry>
+    <title type="html"><![CDATA[InSpec]]></title>
+    <link href="http://foodfightshow.org//2016/02/inspec.html"/>
+    <updated>2016-02-21T21:51:00-05:00</updated>
+    <id>http://foodfightshow.org//2016/02/inspec</id>
+    <content type="html"><![CDATA[<p><a href="http://everytimezone.com/#2015-2-23,60,cn3">Tuesday, February 23 at 1300 UTC</a></p>
+
+<p>Join us on <a href="http://everytimezone.com/#2015-2-23,60,cn3">Tuesday, February 23 at 1300 UTC</a> for a discussion about <a href="http://github.com/chef/inspec">InSpec</a>, the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/02/inspec.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/02/inspec.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/02/inspec.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video - Tune in to the <a href="https://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw">Food Fight Show on YouTube</a> on <a href="http://everytimezone.com/#2015-2-23,60,cn3">Tuesday, February 23 at 1300 UTC</a>.</li>
+<li>Audio - coming soon</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>What&#8217;s Cooking? - Chef News &amp; Events</h3>
+
+<h3>Show Notes</h3>
+
+<p>Have questions about InSpec for our panelists?  Make a pull request against our <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-99-inspec.md">current show outline</a>.</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Nathen</h3>
+
+<h2>Download</h2>
+
+<ul>
+<li>Video - Tune in to the <a href="https://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw">Food Fight Show on YouTube</a> on <a href="http://everytimezone.com/#2015-2-23,60,cn3">Tuesday, February 23 at 1300 UTC</a>.</li>
+<li>Audio - coming soon</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Design Thinking]]></title>
     <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
-    <updated>2016-02-09T08:33:00-08:00</updated>
+    <updated>2016-02-09T08:33:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/design-thinking</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -24,9 +85,9 @@
 
 
 <ul>
-<li><a href="http://foodfightshow.org/2016/01/design-thinking.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2016/01/design-thinking.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2016/01/design-thinking.html#picks">Picks</a></li>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html#picks">Picks</a></li>
 <li>Download
 
 <ul>
@@ -99,8 +160,8 @@
 <li><a href="https://www.chef.io/blog/2016/02/05/supermarket-2-3-3-release">Supermarket 2.3.3 Release</a></li>
 <li><a href="https://www.chef.io/blog/2016/02/04/chef-server-12-4-1-release">Chef Server 12.4.1 Release</a></li>
 <li><a href="https://www.chef.io/blog/2016/02/01/chef-compliance-0-10-4-release">Chef Compliance 0.10.4 Release</a></li>
-<li><a href="https://www.chef.io/blog/2016/01/28/chef-management-console-2-1-2-security-release">Chef Management Console 2.1.2 Security Release</a></li>
-<li><a href="https://www.chef.io/blog/2016/01/20/chef-reporting-release-1-5-6">Chef Reporting Release 1.5.6</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/28/chef-management-console-2-1-2-security-release">Chef Management Console 2.1.2 Security Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/20/chef-reporting-release-1-5-6">Chef Reporting Release 1.5.6</a></li>
 <li><a href="https://www.chef.io/blog/2016/02/04/notes-from-the-lab-whats-keeping-marginalized-groups-out-of-tech">Notes from the Lab: What’s Keeping Marginalized Groups Out of Tech?</a></li>
 </ul>
 </li>
@@ -173,9 +234,9 @@
 <li>What is Design Thinking?</li>
 <li>Design Thinking compared to Lean Concepts, DevOps, and Agile</li>
 <li>How does it inform the practice of building &amp; operating high velocity organizations?</li>
-<li><a href="http://sysadvent.blogspot.com/2016/01/gcday-3-design-thinking.html">Design Thinking</a></li>
+<li><a href="http://sysadvent.blogspot.com/2016/02/gcday-3-design-thinking.html">Design Thinking</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Toyota_Production_System">TPS: Toyota Production System</a></li>
-<li><a href="http://freebsdhowto.com/p/2016/01/a3-template-rifvoouk.png">A3 Template</a>
+<li><a href="http://freebsdhowto.com/p/2016/02/a3-template-rifvoouk.png">A3 Template</a>
 
 <ul>
 <li><a href="http://lithespeed.com/developing-learning-culture-personal-a3-template/">Developing a Learning Culture: Intro to the Personal A3 Template</a></li>
@@ -213,7 +274,7 @@
 <h3>Brandon</h3>
 
 <ul>
-<li><a href="http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/">Towards an understanding of technical debt</a></li>
+<li><a href="http://laughingmeme.org/2016/02/10/towards-an-understanding-of-technical-debt/">Towards an understanding of technical debt</a></li>
 <li><a href="http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009">The Principles of Product Development Flow: Second Generation Lean Product Development</a></li>
 </ul>
 
@@ -248,7 +309,7 @@
   <entry>
     <title type="html"><![CDATA[Configuration Management Camp 2016]]></title>
     <link href="http://foodfightshow.org//2016/02/configuration-management-camp-2016.html"/>
-    <updated>2016-02-08T12:19:00-08:00</updated>
+    <updated>2016-02-08T12:19:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/configuration-management-camp-2016</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2016</a> recorded live at the end of the conference.</p>
 
@@ -315,7 +376,7 @@
   <entry>
     <title type="html"><![CDATA[Chef and OpenStack]]></title>
     <link href="http://foodfightshow.org//2015/12/chef-and-openstack.html"/>
-    <updated>2015-12-28T17:36:00-08:00</updated>
+    <updated>2015-12-28T17:36:00-05:00</updated>
     <id>http://foodfightshow.org//2015/12/chef-and-openstack</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -459,7 +520,7 @@
   <entry>
     <title type="html"><![CDATA[Learning Reviews]]></title>
     <link href="http://foodfightshow.org//2015/10/learning-reviews.html"/>
-    <updated>2015-10-23T08:42:00-07:00</updated>
+    <updated>2015-10-23T08:42:00-04:00</updated>
     <id>http://foodfightshow.org//2015/10/learning-reviews</id>
     <content type="html"><![CDATA[<p>Join us for a discussion of Learning Reviews.  What and how can we learn from failure?</p>
 
@@ -618,7 +679,7 @@
   <entry>
     <title type="html"><![CDATA[Audit Mode &amp; Compliance]]></title>
     <link href="http://foodfightshow.org//2015/07/audit-mode-and-compliance.html"/>
-    <updated>2015-07-14T11:16:00-07:00</updated>
+    <updated>2015-07-14T11:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/07/audit-mode-and-compliance</id>
     <content type="html"><![CDATA[<p>Listen in as we discuss Chef&#8217;s Audit Mode, Analytics, and compliance.</p>
 
@@ -807,7 +868,7 @@
   <entry>
     <title type="html"><![CDATA[Managing Secrets - In the Vault]]></title>
     <link href="http://foodfightshow.org//2015/06/managing-secrets-in-the-vault.html"/>
-    <updated>2015-06-16T07:16:00-07:00</updated>
+    <updated>2015-06-16T07:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/managing-secrets-in-the-vault</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -985,7 +1046,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays DC]]></title>
     <link href="http://foodfightshow.org//2015/06/devopsdays-dc.html"/>
-    <updated>2015-06-12T17:14:00-07:00</updated>
+    <updated>2015-06-12T17:14:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/devopsdays-dc</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://devopsdaysdc.org">DevOpsDays DC</a> recorded live at the end of the conference.</p>
 
@@ -1042,7 +1103,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Day 3 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-3-recap.html"/>
-    <updated>2015-04-12T09:51:00-07:00</updated>
+    <updated>2015-04-12T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-3-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1108,7 +1169,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Day 2 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-2-recap.html"/>
-    <updated>2015-04-11T09:51:00-07:00</updated>
+    <updated>2015-04-11T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-2-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1192,7 +1253,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Preview]]></title>
     <link href="http://foodfightshow.org//2015/03/chefconf-preview.html"/>
-    <updated>2015-03-05T15:15:00-08:00</updated>
+    <updated>2015-03-05T15:15:00-05:00</updated>
     <id>http://foodfightshow.org//2015/03/chefconf-preview</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1392,7 +1453,7 @@
   <entry>
     <title type="html"><![CDATA[Configuration Management Camp]]></title>
     <link href="http://foodfightshow.org//2015/02/configuration-management-camp.html"/>
-    <updated>2015-02-11T10:34:00-08:00</updated>
+    <updated>2015-02-11T10:34:00-05:00</updated>
     <id>http://foodfightshow.org//2015/02/configuration-management-camp</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2015</a> recorded live at the end of the conference.</p>
 
@@ -1483,7 +1544,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
     <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
-    <updated>2015-01-29T10:21:00-08:00</updated>
+    <updated>2015-01-29T10:21:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
     <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
 
@@ -1696,7 +1757,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
     <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
-    <updated>2015-01-20T10:59:00-08:00</updated>
+    <updated>2015-01-20T10:59:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -1874,7 +1935,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Apache Kafka]]></title>
     <link href="http://foodfightshow.org//2014/11/apache-kafka.html"/>
-    <updated>2014-11-17T10:55:00-08:00</updated>
+    <updated>2014-11-17T10:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/apache-kafka</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2017,7 +2078,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
     <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
-    <updated>2014-11-04T21:55:00-08:00</updated>
+    <updated>2014-11-04T21:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
@@ -2103,7 +2164,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Consul Template]]></title>
     <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
-    <updated>2014-11-04T21:54:00-08:00</updated>
+    <updated>2014-11-04T21:54:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/consul-template</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2361,7 +2422,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
   <entry>
     <title type="html"><![CDATA[Live from Chef Summit London 2014]]></title>
     <link href="http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014.html"/>
-    <updated>2014-10-18T12:03:00-07:00</updated>
+    <updated>2014-10-18T12:03:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014</id>
     <content type="html"><![CDATA[<h2>Panel<a name="panel"></a></h2>
 
@@ -2399,7 +2460,7 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
   <entry>
     <title type="html"><![CDATA[Even MOAR Windows]]></title>
     <link href="http://foodfightshow.org//2014/10/even-moar-windows.html"/>
-    <updated>2014-10-18T12:01:00-07:00</updated>
+    <updated>2014-10-18T12:01:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/even-moar-windows</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#panel">Panel</a></li>
@@ -2471,7 +2532,7 @@ There are actually 7, count &#8216;em 7 streams</li>
   <entry>
     <title type="html"><![CDATA[Windows Automation for Frustrated Sysadmins]]></title>
     <link href="http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards.html"/>
-    <updated>2014-10-07T06:36:00-07:00</updated>
+    <updated>2014-10-07T06:36:00-04:00</updated>
     <id>http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2707,19 +2768,6 @@ There are actually 7, count &#8216;em 7 streams</li>
 <p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
 
 <p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Community Summit 2014]]></title>
-    <link href="http://foodfightshow.org//2014/10/community-summit-2014.html"/>
-    <updated>2014-10-06T23:25:00-07:00</updated>
-    <id>http://foodfightshow.org//2014/10/community-summit-2014</id>
-    <content type="html"><![CDATA[<p>A recording from the end of the first day of the Chef Community Summit in Seattle, 2014.</p>
-
-<p><a href="http://traffic.libsyn.com/foodfight/FFS-ChefSummitDay1.mp3">Listen now</a></p>
-
-<p>Session notes and more information captured during the Community Summit can be found in the <a href="https://github.com/opscode/chef-summit-2014/wiki">Chef Community Summit Wiki on GitHub</a>.</p>
 ]]></content>
   </entry>
   
