@@ -1,0 +1,51 @@
+---
+layout: post
+title: "InSpec"
+date: 2016-02-21 21:51
+comments: true
+categories:
+---
+
+[Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3)
+
+Join us on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3) for a discussion about [InSpec](http://github.com/chef/inspec), the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.
+
+* [Panel](http://foodfightshow.org/2016/02/inspec.html#panel)
+* [Outline](http://foodfightshow.org/2016/02/inspec.html#outline)
+* [Picks](http://foodfightshow.org/2016/02/inspec.html#picks)
+* Download
+  * Video - Tune in to the [Food Fight Show on YouTube](https://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw) on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3).
+  * Audio - coming soon
+
+Panel<a name="panel"></a>
+-----
+
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+### What's Cooking? - Chef News & Events
+
+###  Show Notes
+
+Have questions about InSpec for our panelists?  Make a pull request against our [current show outline](https://github.com/foodfight/showz/blob/master/scripts/episode-99-inspec.md).
+
+Picks<a name="picks"></a>
+-----
+
+### Nathen
+
+
+Download
+--------
+* Video - Tune in to the [Food Fight Show on YouTube](https://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw) on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3).
+* Audio - coming soon
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
