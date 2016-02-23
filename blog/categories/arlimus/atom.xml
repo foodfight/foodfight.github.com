@@ -4,7 +4,7 @@
   <title><![CDATA[Category: arlimus | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/arlimus/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-23T09:31:31-05:00</updated>
+  <updated>2016-02-23T09:42:10-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -223,9 +223,10 @@
 <h3>Mike</h3>
 
 <ul>
-<li>Beware of <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7547">CVE-2015-7547 - the glibc vulnerability</a>
+<li>gnu libc vulnerability - <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7547">CVE-2015-7547</a>
 
 <ul>
+<li><a href="https://googleonlinesecurity.blogspot.com/2016/02/cve-2015-7547-glibc-getaddrinfo-stack.html">CVE-2015-7547: glibc getaddrinfo stack-based buffer overflow</a></li>
 <li>Dan Kaminsky's post, <a href="http://dankaminsky.com/2016/02/20/skeleton/">A Skeleton Key of Unknown Strength</a></li>
 </ul>
 </li>
