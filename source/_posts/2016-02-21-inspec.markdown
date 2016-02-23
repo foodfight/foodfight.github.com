@@ -58,6 +58,7 @@ Outline & Show Notes<a name="outline"></a>
   * [Server Admins Grant More Flexible Permissions Around User Management](https://www.chef.io/blog/2016/02/18/server-admins-grant-more-flexible-permissions-around-user-management/)
   * [Chef Client 12.7 Released](https://www.chef.io/blog/2016/02/12/chef-client-12-7-released/)
   * [Chef Compliance 0.11.1 release](https://www.chef.io/blog/2016/02/09/chef-compliance-0-11-1-release/)
+    * [Chef Compliance 0.14.5](https://downloads.chef.io/compliance/) is now available!
 * From the [mailing list](https://discourse.chef.io/) - [https://discourse.chef.io/](https://discourse.chef.io/)
   * [New releases of delivery-truck and delivery-sugar](https://discourse.chef.io/t/new-releases-of-delivery-truck-and-delivery-sugar/7846)
 * New on the supermarket
@@ -102,21 +103,41 @@ Outline & Show Notes<a name="outline"></a>
 
 ###  Show Notes
 
-Have questions about InSpec for our panelists?  Make a pull request against our [current show outline](https://github.com/foodfight/showz/blob/master/scripts/episode-99-inspec.md).
+* [List of InSpec resources](https://github.com/chef/inspec/blob/master/docs/resources.rst)
+* [InSpec](https://github.com/chef/inspec) - open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
+* [Train](https://github.com/chef/train) - Transport Interface to unify communication over SSH, WinRM, and friends.
 
 Picks<a name="picks"></a>
 -----
 
 ### Christoph
 
+* [hardening.io](http://hardening.io/)
+
 ### Dominik
+
+* InSpec 1.0 - watch for it soon!
 
 ### Gary
 
+* [Test Driven Cookbook Development](https://www.chef.io/blog/event/webinar-test-driven-cookbook-development/) - February 24
+* [Test Kitchen tutorial](http://kitchen.ci/docs/getting-started/)
+
 ### Paul
+
+* [Jrnl](https://maebert.github.io/jrnl/)
+* [Quiver Programmers Notebook](http://happenapps.com/)
+* [Gauntlt Cucumber framework for security](http://gauntlt.org/)
+
+### Mike
+
+* Beware of [CVE-2015-7547 - the glibc vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7547)
+  * Dan Kaminsky's post, [A Skeleton Key of Unknown Strength](http://dankaminsky.com/2016/02/20/skeleton/)
+* [Crystal programing language](http://crystal-lang.org/)
 
 ### Nathen
 
+* Take a vacation!
 
 Download
 --------

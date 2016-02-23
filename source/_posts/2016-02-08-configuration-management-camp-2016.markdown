@@ -29,6 +29,8 @@ Panel<a name="panel"></a>
 * Ian Penney [twitter](https://twitter.com/cr03)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+<!-- more -->
+
 Outline<a name="outline"></a>
 -------
 * The History of Configuration Management Camp
