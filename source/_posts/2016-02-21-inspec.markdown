@@ -143,7 +143,8 @@ Picks<a name="picks"></a>
 
 ### Mike
 
-* Beware of [CVE-2015-7547 - the glibc vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7547)
+* gnu libc vulnerability - [CVE-2015-7547](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7547)
+  * [CVE-2015-7547: glibc getaddrinfo stack-based buffer overflow](https://googleonlinesecurity.blogspot.com/2016/02/cve-2015-7547-glibc-getaddrinfo-stack.html)
   * Dan Kaminsky's post, [A Skeleton Key of Unknown Strength](http://dankaminsky.com/2016/02/20/skeleton/)
 * [Crystal programing language](http://crystal-lang.org/)
 
