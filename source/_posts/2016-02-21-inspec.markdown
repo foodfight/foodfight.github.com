@@ -115,8 +115,18 @@ Outline & Show Notes<a name="outline"></a>
 
 ###  Show Notes
 
-* [List of InSpec resources](https://github.com/chef/inspec/blob/master/docs/resources.rst)
 * [InSpec](https://github.com/chef/inspec) - open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
+* Inspec vs [Serverspec](http://serverspec.org/)
+* Why another test framework?
+* Testing
+* Who are the target users of inspec?
+* Security
+  * [List of InSpec resources](https://github.com/chef/inspec/blob/master/docs/resources.rst)
+  * When do I use inspec in my infrastructure's lifecycle?
+    * [Testkitchen](https://github.com/test-kitchen/test-kitchen)
+  * Out of compliance
+* [Chef Compliance](https://www.chef.io/compliance/)
+  * The Command Line
 * [Train](https://github.com/chef/train) - Transport Interface to unify communication over SSH, WinRM, and friends.
 
 Picks<a name="picks"></a>
