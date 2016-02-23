@@ -4,6 +4,16 @@ title: "InSpec"
 date: 2016-02-21 21:51
 comments: true
 categories:
+  - inspec
+  - compliance
+  - Chef Compliance
+  - security
+  - audit
+  - train
+  - chri_hartmann
+  - arlimus
+  - pwelch
+  - mikefiedler
 ---
 
 # Watch Now
@@ -26,6 +36,7 @@ Panel<a name="panel"></a>
 * Dominik Richter [github](https://github.com/arlimus), [twitter](https://twitter.com/arlimus)
 * Gary Bright [github](https://github.com/username-is-already-taken2)
 * Paul Welch [github](https://github.com/pwelch), [twitter](https://twitter.com/pwelch)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline & Show Notes<a name="outline"></a>
