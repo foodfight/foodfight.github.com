@@ -4,7 +4,7 @@
   <title><![CDATA[Category: audit | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/audit/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-02-23T09:42:10-05:00</updated>
+  <updated>2016-02-23T13:52:45-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -23,7 +23,7 @@
 <iframe width="420" height="315" src="http://www.youtube.com/embed/RraZsq6C42s" frameborder="0" allowfullscreen></iframe>
 
 
-<p>Join us on <a href="http://everytimezone.com/#2015-2-23,60,cn3">Tuesday, February 23 at 1300 UTC</a> for a discussion about <a href="http://github.com/chef/inspec">InSpec</a>, the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.</p>
+<p>Join us for a discussion about <a href="http://github.com/chef/inspec">InSpec</a>, the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.</p>
 
 <ul>
 <li><a href="http://foodfightshow.org/2016/02/inspec.html#panel">Panel</a></li>
@@ -33,7 +33,7 @@
 
 <ul>
 <li><a href="http://www.youtube.com/embed/RraZsq6C42s">Video</a></li>
-<li>Audio - coming soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-99-inspec.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -181,8 +181,26 @@
 <h3>Show Notes</h3>
 
 <ul>
-<li><a href="https://github.com/chef/inspec/blob/master/docs/resources.rst">List of InSpec resources</a></li>
 <li><a href="https://github.com/chef/inspec">InSpec</a> - open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.</li>
+<li>Inspec vs <a href="http://serverspec.org/">Serverspec</a></li>
+<li>Why another test framework?</li>
+<li>Testing</li>
+<li>Who are the target users of inspec?</li>
+<li>Security
+
+<ul>
+<li><a href="https://github.com/chef/inspec/blob/master/docs/resources.rst">List of InSpec resources</a></li>
+<li>When do I use inspec in my infrastructure's lifecycle?
+
+<ul>
+<li><a href="https://github.com/test-kitchen/test-kitchen">Testkitchen</a></li>
+</ul>
+</li>
+<li>Out of compliance</li>
+</ul>
+</li>
+<li><a href="https://www.chef.io/compliance/">Chef Compliance</a></li>
+<li>The <code>inspec</code> command line interface</li>
 <li><a href="https://github.com/chef/train">Train</a> - Transport Interface to unify communication over SSH, WinRM, and friends.</li>
 </ul>
 
@@ -245,7 +263,7 @@
 
 <ul>
 <li><a href="http://www.youtube.com/embed/RraZsq6C42s">Video</a></li>
-<li>Audio - coming soon</li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-99-inspec.mp3">Audio</a></li>
 </ul>
 
 
