@@ -21,7 +21,7 @@ categories:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/RraZsq6C42s" frameborder="0" allowfullscreen></iframe>
 
-Join us on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3) for a discussion about [InSpec](http://github.com/chef/inspec), the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.
+Join us for a discussion about [InSpec](http://github.com/chef/inspec), the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.
 
 * [Panel](http://foodfightshow.org/2016/02/inspec.html#panel)
 * [Outline](http://foodfightshow.org/2016/02/inspec.html#outline)
@@ -126,7 +126,7 @@ Outline & Show Notes<a name="outline"></a>
     * [Testkitchen](https://github.com/test-kitchen/test-kitchen)
   * Out of compliance
 * [Chef Compliance](https://www.chef.io/compliance/)
-  * The Command Line
+* The `inspec` command line interface
 * [Train](https://github.com/chef/train) - Transport Interface to unify communication over SSH, WinRM, and friends.
 
 Picks<a name="picks"></a>
