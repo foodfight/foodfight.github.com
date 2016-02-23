@@ -6,7 +6,9 @@ comments: true
 categories:
 ---
 
-[Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3)
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/RraZsq6C42s" frameborder="0" allowfullscreen></iframe>
 
 Join us on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3) for a discussion about [InSpec](http://github.com/chef/inspec), the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.
 
@@ -14,7 +16,7 @@ Join us on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-2
 * [Outline](http://foodfightshow.org/2016/02/inspec.html#outline)
 * [Picks](http://foodfightshow.org/2016/02/inspec.html#picks)
 * Download
-  * Video - Tune in to the [Food Fight Show on YouTube](https://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw) on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3).
+  * [Video](http://www.youtube.com/embed/RraZsq6C42s)
   * Audio - coming soon
 
 Panel<a name="panel"></a>
@@ -118,7 +120,7 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* Video - Tune in to the [Food Fight Show on YouTube](https://www.youtube.com/channel/UCjcxay9M63Ci4CmFF9KO3jw) on [Tuesday, February 23 at 1300 UTC](http://everytimezone.com/#2015-2-23,60,cn3).
+* [Video](http://www.youtube.com/embed/RraZsq6C42s)
 * Audio - coming soon
 
 <hr />
