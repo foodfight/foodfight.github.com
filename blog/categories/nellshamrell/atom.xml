@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: nellshamrell | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/nellshamrell/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2016-06-20T13:52:02-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Habitat]]></title>
+    <link href="http://foodfightshow.org//2016/06/habitat.html"/>
+    <updated>2016-06-20T13:36:00-04:00</updated>
+    <id>http://foodfightshow.org//2016/06/habitat</id>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/gDlpXijLH2Y" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Join us for a discussion about <a href="https://www.habitat.sh">Habitat</a>a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/06/habitat.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/06/habitat.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/06/habitat.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=gDlpXijLH2Y">Video</a></li>
+<li>Audio - Coming soon!</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a>, <a href="https://github.com/adamhjk">github</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Jamie Winsor <a href="https://github.com/reset">github</a>, <a href="https://twitter.com/resetexistence">twitter</a>, <a href="http://vialstudios.com/">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>Show Notes</h3>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Adam</h3>
+
+<h3>Nell</h3>
+
+<h3>Jamie</h3>
+
+<h3>Brandon</h3>
+
+<h3>Mike</h3>
+
+<h3>Nathen</h3>
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=gDlpXijLH2Y">Video</a></li>
+<li>Audio - Coming soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
