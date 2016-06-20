@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Habitat"
+date: 2016-06-20 13:36
+comments: true
+categories:
+  - habitat
+  - consul
+  - solarce
+  - mikefiedler
+  - resetexistence
+  - adamhjk
+  - nellshamrell
+---
+
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/gDlpXijLH2Y" frameborder="0" allowfullscreen></iframe>
+
+Join us for a discussion about [Habitat](https://www.habitat.sh)a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features.
+
+* [Panel](http://foodfightshow.org/2016/06/habitat.html#panel)
+* [Outline](http://foodfightshow.org/2016/06/habitat.html#outline)
+* [Picks](http://foodfightshow.org/2016/06/habitat.html#picks)
+* Download
+  * [Video](https://www.youtube.com/watch?v=gDlpXijLH2Y)
+  * Audio - Coming soon!
+
+Panel<a name="panel"></a>
+-----
+
+* Adam Jacob [twitter](https://twitter.com/adamhjk), [github](https://github.com/adamhjk)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Jamie Winsor [github](https://github.com/reset), [twitter](https://twitter.com/resetexistence), [blog](http://vialstudios.com/)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+###  Show Notes
+
+
+Picks<a name="picks"></a>
+-----
+
+### Adam
+
+### Nell
+
+### Jamie
+
+### Brandon
+
+### Mike
+
+### Nathen
+
+Download
+--------
+* [Video](https://www.youtube.com/watch?v=gDlpXijLH2Y)
+* Audio - Coming soon!
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
