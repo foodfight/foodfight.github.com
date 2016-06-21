@@ -54,6 +54,8 @@ Outline & Show Notes<a name="outline"></a>
 * [Terraform](https://www.terraform.io/)
 * What's the plan with [Windows](https://www.microsoft.com/en-us/windows)?
 * Habitat Feedback
+* [Getting Started](https://www.habitat.sh/community/)
+  * [HabiChat](http://slack.habitat.sh/)
 
 Download
 --------
