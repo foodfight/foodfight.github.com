@@ -30,6 +30,8 @@ Join us for a discussion about [InSpec](http://github.com/chef/inspec), the open
   * [Video](http://www.youtube.com/embed/RraZsq6C42s)
   * [Audio](http://traffic.libsyn.com/foodfight/foodfight-99-inspec.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 

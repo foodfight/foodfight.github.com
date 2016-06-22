@@ -29,6 +29,8 @@ Join us for a discussion of Learning Reviews.  What and how can we learn from fa
   * [Video](http://youtu.be/2z5zqY6398U)
   * [Audio](http://traffic.libsyn.com/foodfight/foodfight-95-learning-reviews.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
