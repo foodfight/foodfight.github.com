@@ -4,7 +4,7 @@
   <title><![CDATA[Category: jjasghar | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/jjasghar/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-20T13:52:02-04:00</updated>
+  <updated>2016-06-22T08:58:42+01:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Chef and OpenStack]]></title>
     <link href="http://foodfightshow.org//2015/12/chef-and-openstack.html"/>
-    <updated>2015-12-28T17:36:00-05:00</updated>
+    <updated>2015-12-28T17:36:00+00:00</updated>
     <id>http://foodfightshow.org//2015/12/chef-and-openstack</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -160,7 +160,7 @@
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
     <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
-    <updated>2014-08-22T07:27:00-04:00</updated>
+    <updated>2014-08-22T07:27:00+01:00</updated>
     <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
 
@@ -384,7 +384,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Recap]]></title>
     <link href="http://foodfightshow.org//2013/11/community-summit-recap.html"/>
-    <updated>2013-11-19T21:42:00-05:00</updated>
+    <updated>2013-11-19T21:42:00+00:00</updated>
     <id>http://foodfightshow.org//2013/11/community-summit-recap</id>
     <content type="html"><![CDATA[<p>Join us as we recap the <a href="https://github.com/opscode/opscode-summit-2013/wiki">Opscode Community Summit</a>.</p>
 

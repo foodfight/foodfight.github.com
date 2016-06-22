@@ -4,7 +4,7 @@
   <title><![CDATA[Category: cassandra | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/cassandra/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-20T13:52:02-04:00</updated>
+  <updated>2016-06-22T08:58:42+01:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Livin' on the Edge with Al Tobey]]></title>
     <link href="http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey.html"/>
-    <updated>2013-11-05T09:20:00-05:00</updated>
+    <updated>2013-11-05T09:20:00+00:00</updated>
     <id>http://foodfightshow.org//2013/11/livin-on-the-edge-with-al-tobey</id>
     <content type="html"><![CDATA[<p>Join us as we discuss how to test your distributed system in production with Al Tobey</p>
 
@@ -123,7 +123,7 @@
   <entry>
     <title type="html"><![CDATA[Update from Surge with Andrew Miklas from PagerDuty]]></title>
     <link href="http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html"/>
-    <updated>2012-09-28T10:32:00-04:00</updated>
+    <updated>2012-09-28T10:32:00+01:00</updated>
     <id>http://foodfightshow.org//2012/09/update-from-surge-with-andrew-miklas-from-pagerduty</id>
     <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
 

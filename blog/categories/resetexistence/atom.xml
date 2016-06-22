@@ -4,7 +4,7 @@
   <title><![CDATA[Category: resetexistence | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/resetexistence/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-20T13:52:02-04:00</updated>
+  <updated>2016-06-22T08:58:42+01:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,24 +16,23 @@
   <entry>
     <title type="html"><![CDATA[Habitat]]></title>
     <link href="http://foodfightshow.org//2016/06/habitat.html"/>
-    <updated>2016-06-20T13:36:00-04:00</updated>
+    <updated>2016-06-20T13:36:00+01:00</updated>
     <id>http://foodfightshow.org//2016/06/habitat</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/gDlpXijLH2Y" frameborder="0" allowfullscreen></iframe>
 
 
-<p>Join us for a discussion about <a href="https://www.habitat.sh">Habitat</a>a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features.</p>
+<p>Join us for a discussion about <a href="https://www.habitat.sh">Habitat</a> a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features.</p>
 
 <ul>
 <li><a href="http://foodfightshow.org/2016/06/habitat.html#panel">Panel</a></li>
 <li><a href="http://foodfightshow.org/2016/06/habitat.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2016/06/habitat.html#picks">Picks</a></li>
 <li>Download
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=gDlpXijLH2Y">Video</a></li>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-100-habitat.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -55,25 +54,47 @@
 
 <h3>Show Notes</h3>
 
-<h2>Picks<a name="picks"></a></h2>
+<ul>
+<li>Happy 100th Episode!</li>
+<li>What is <a href="https://www.habitat.sh">Habitat</a>?</li>
+<li>Does Habitat do too much?</li>
+<li>The Build System
 
-<h3>Adam</h3>
+<ul>
+<li>Why build a packaging system?</li>
+<li>Supervisors ans Artifacts</li>
+</ul>
+</li>
+<li><a href="https://www.docker.com/">Docker</a></li>
+<li>How all-or-nothing is Habitat?
 
-<h3>Nell</h3>
+<ul>
+<li>Progressive Reveal</li>
+</ul>
+</li>
+<li><a href="https://www.chef.io/">Chef</a>
 
-<h3>Jamie</h3>
+<ul>
+<li><a href="https://www.chef.io/delivery/">Chef Delivery</a></li>
+</ul>
+</li>
+<li><a href="https://www.terraform.io/">Terraform</a></li>
+<li>What's the plan with <a href="https://www.microsoft.com/en-us/windows">Windows</a>?</li>
+<li>Habitat Feedback</li>
+<li><a href="https://www.habitat.sh/community/">Getting Started</a>
 
-<h3>Brandon</h3>
+<ul>
+<li><a href="http://slack.habitat.sh/">HabiChat</a></li>
+</ul>
+</li>
+</ul>
 
-<h3>Mike</h3>
-
-<h3>Nathen</h3>
 
 <h2>Download</h2>
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=gDlpXijLH2Y">Video</a></li>
-<li>Audio - Coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-100-habitat.mp3">Audio</a></li>
 </ul>
 
 
@@ -91,7 +112,7 @@
   <entry>
     <title type="html"><![CDATA[Cookbook Patterns]]></title>
     <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
-    <updated>2014-04-29T18:05:00-04:00</updated>
+    <updated>2014-04-29T18:05:00+01:00</updated>
     <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -262,7 +283,7 @@
   <entry>
     <title type="html"><![CDATA[Cookbook Versioning]]></title>
     <link href="http://foodfightshow.org//2012/11/cookbook-versioning.html"/>
-    <updated>2012-11-15T15:01:00-05:00</updated>
+    <updated>2012-11-15T15:01:00+00:00</updated>
     <id>http://foodfightshow.org//2012/11/cookbook-versioning</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 13 October 2012</p>
 
@@ -467,7 +488,7 @@ The primary focus of this cookbook will be preparing a GNU/Linux desktop/laptop/
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
     <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
-    <updated>2012-10-23T17:47:00-04:00</updated>
+    <updated>2012-10-23T17:47:00+01:00</updated>
     <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
@@ -536,7 +557,7 @@ The primary focus of this cookbook will be preparing a GNU/Linux desktop/laptop/
   <entry>
     <title type="html"><![CDATA[Jamie Winsor and Michael Ivey Skool us on Berkshelf]]></title>
     <link href="http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html"/>
-    <updated>2012-08-03T16:33:00-04:00</updated>
+    <updated>2012-08-03T16:33:00+01:00</updated>
     <id>http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf</id>
     <content type="html"><![CDATA[<p>Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA</p>
 
