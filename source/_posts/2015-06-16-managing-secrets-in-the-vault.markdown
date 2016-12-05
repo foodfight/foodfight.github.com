@@ -22,6 +22,8 @@ categories:
   * [Video](http://youtu.be/mP53wWpqBNw)
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
@@ -30,8 +32,6 @@ Panel<a name="panel"></a>
 * Milos Gajdos [github](https://github.com/milosgajdos83), [twitter](https://twitter.com/milosgajdos), [blog](http://containerops.org/)
 * Mike Fiedler [github](https://github.com/miketheman), [twitter](https://twitter.com/mikefiedler)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
-<!-- more -->
 
 Outline<a name="outline"></a>
 -------

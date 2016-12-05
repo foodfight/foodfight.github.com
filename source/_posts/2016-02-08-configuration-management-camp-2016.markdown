@@ -20,6 +20,8 @@ A wrap-up of [Configuration Management Camp 2016](http://cfgmgmtcamp.eu) recorde
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShowCfgMgmtCamp2016.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 * James Shubin - [twitter](https://twitter.com/purpleidea)
@@ -28,8 +30,6 @@ Panel<a name="panel"></a>
 * Donnie Berkholz [twitter](https://twitter.com/dberkholz)
 * Ian Penney [twitter](https://twitter.com/cr03)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
-<!-- more -->
 
 Outline<a name="outline"></a>
 -------

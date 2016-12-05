@@ -25,6 +25,8 @@ Join us for a discussion about [Habitat](https://www.habitat.sh) a new approach 
   * [Video](https://www.youtube.com/watch?v=gDlpXijLH2Y)
   * [Audio](http://traffic.libsyn.com/foodfight/foodfight-100-habitat.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 

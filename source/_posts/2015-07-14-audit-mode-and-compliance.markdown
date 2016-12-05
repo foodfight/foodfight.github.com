@@ -29,6 +29,8 @@ Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.
   * [Video](http://youtu.be/zcguEmLJ5y8)
   * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
@@ -39,8 +41,6 @@ Panel<a name="panel"></a>
 * Kyleen MacGugan [github](https://github.com/kmacgugan), [twitter](https://twitter.com/MacGoogly)
 * Steven Murawski [github](https://github.com/smurawski), [twitter](https://twitter.com/stevenmurawski), [blog](http://stevenmurawski.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
-<!-- more -->
 
 Outline<a name="outline"></a>
 -------

@@ -20,6 +20,8 @@ categories:
   * [Video](http://youtu.be/UOxsre69cPo)
   * [Audio](http://traffic.libsyn.com/foodfight/foodfight-96-chef-and-openstack.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
@@ -27,8 +29,6 @@ Panel<a name="panel"></a>
 * Nick Silkey [github](https://github.com/filler/), [twitter](https://twitter.com/filler/), irc: filler
 * Samuel Cassiba [github](https://github.com/scassiba), [twitter](https://twitter.com/scassiba)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
-<!-- more -->
 
 Outline & Show Notes<a name="outline"></a>
 -------

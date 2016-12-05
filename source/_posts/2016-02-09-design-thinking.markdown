@@ -23,6 +23,8 @@ categories:
   * [Video](http://youtu.be/Avx_fIezoFc)
   * [Audio](http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
@@ -30,8 +32,6 @@ Panel<a name="panel"></a>
 * Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
-<!-- more -->
 
 Outline & Show Notes<a name="outline"></a>
 -------
