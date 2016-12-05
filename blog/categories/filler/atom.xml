@@ -4,7 +4,7 @@
   <title><![CDATA[Category: filler | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/filler/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-22T08:58:42+01:00</updated>
+  <updated>2016-12-04T20:48:48-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Chef and OpenStack]]></title>
     <link href="http://foodfightshow.org//2015/12/chef-and-openstack.html"/>
-    <updated>2015-12-28T17:36:00+00:00</updated>
+    <updated>2015-12-28T17:36:00-05:00</updated>
     <id>http://foodfightshow.org//2015/12/chef-and-openstack</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -37,6 +37,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -45,9 +48,6 @@
 <li>Samuel Cassiba <a href="https://github.com/scassiba">github</a>, <a href="https://twitter.com/scassiba">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline &amp; Show Notes<a name="outline"></a></h2>

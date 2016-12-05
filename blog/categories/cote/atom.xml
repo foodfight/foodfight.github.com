@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cote | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/cote/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2016-12-04T20:48:48-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays DFW]]></title>
+    <link href="http://foodfightshow.org//2016/09/devopsdays-dfw.html"/>
+    <updated>2016-09-26T20:34:00-04:00</updated>
+    <id>http://foodfightshow.org//2016/09/devopsdays-dfw</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2016/09/devopsdays-dfw.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/09/devopsdays-dfw.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-102-devopsdays-dfw.mp3">Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<p>Trevor Hess <a href="https://www.arresteddevops.com/">Arrested Devops</a>, <a href="https://github.com/trevorghess">github</a>, <a href="https://twitter.com/trevorghess">twitter</a>
+* Michael Coté <a href="https://cote.io/tag/sdt/">Software Defined Talk</a>, <a href="https://github.com/cote">github</a>, <a href="https://twitter.com/cote">twitter</a>, <a href="https://cote.io/">blog</a>
+* Annie Hedgpeth <a href="https://twitter.com/anniehedgie">twitter</a>, <a href="https://github.com/anniehedgpeth">github</a>, <a href="http://www.anniehedgie.com/">blog</a>
+* Michael Hedgpeth <a href="https://github.com/mhedgpeth">github</a>, <a href="https://github.com/mhedgpeth">twitter</a>, <a href="http://hedge-ops.com/">blog</a>
+* Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></p>
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>The First <a href="https://www.devopsdays.org/events/2016-dallas/welcome/">DevOps Days: Dallas</a></li>
+<li>Nathen’s Three Counts
+
+<ul>
+<li>Have you been to a DevOps Days before?</li>
+<li>How many have participated in Open Spaces?</li>
+<li>Is this your first technical conference?</li>
+</ul>
+</li>
+<li>Planner/Organizer Experiences</li>
+<li>Speaker Experiences
+
+<ul>
+<li>Making DevOps Days Successful</li>
+</ul>
+</li>
+<li>Attendee Experiences</li>
+<li>DevOps Learning and Empathy</li>
+<li>Convincing Bosses and Company Leaders to Get Involved in DevOps</li>
+<li>DevOps Timeline: A-Z
+
+<ul>
+<li><a href="https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238">Managing People for Improvement, Adaptiveness and Superior Results by Mike Rother</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-102-devopsdays-dfw.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

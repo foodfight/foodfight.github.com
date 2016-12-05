@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mikefiedler | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mikefiedler/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-22T08:58:42+01:00</updated>
+  <updated>2016-12-04T20:48:48-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Habitat]]></title>
     <link href="http://foodfightshow.org//2016/06/habitat.html"/>
-    <updated>2016-06-20T13:36:00+01:00</updated>
+    <updated>2016-06-20T13:36:00-04:00</updated>
     <id>http://foodfightshow.org//2016/06/habitat</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -36,6 +36,9 @@
 </ul>
 </li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -112,7 +115,7 @@
   <entry>
     <title type="html"><![CDATA[InSpec]]></title>
     <link href="http://foodfightshow.org//2016/02/inspec.html"/>
-    <updated>2016-02-21T21:51:00+00:00</updated>
+    <updated>2016-02-21T21:51:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/inspec</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -133,6 +136,9 @@
 </ul>
 </li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -377,7 +383,7 @@
   <entry>
     <title type="html"><![CDATA[Design Thinking]]></title>
     <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
-    <updated>2016-02-09T08:33:00+00:00</updated>
+    <updated>2016-02-09T08:33:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/design-thinking</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -398,6 +404,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -406,9 +415,6 @@
 <li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline &amp; Show Notes<a name="outline"></a></h2>
@@ -612,7 +618,7 @@
   <entry>
     <title type="html"><![CDATA[Learning Reviews]]></title>
     <link href="http://foodfightshow.org//2015/10/learning-reviews.html"/>
-    <updated>2015-10-23T08:42:00+01:00</updated>
+    <updated>2015-10-23T08:42:00-04:00</updated>
     <id>http://foodfightshow.org//2015/10/learning-reviews</id>
     <content type="html"><![CDATA[<p>Join us for a discussion of Learning Reviews.  What and how can we learn from failure?</p>
 
@@ -633,6 +639,9 @@
 </ul>
 </li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -771,7 +780,7 @@
   <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
     <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
-    <updated>2015-01-20T10:59:00+00:00</updated>
+    <updated>2015-01-20T10:59:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 

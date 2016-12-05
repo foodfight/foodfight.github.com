@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-22T08:58:42+01:00</updated>
+  <updated>2016-12-04T20:48:48-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,142 @@
 
   
   <entry>
+    <title type="html"><![CDATA[DevOpsDays DFW]]></title>
+    <link href="http://foodfightshow.org//2016/09/devopsdays-dfw.html"/>
+    <updated>2016-09-26T20:34:00-04:00</updated>
+    <id>http://foodfightshow.org//2016/09/devopsdays-dfw</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2016/09/devopsdays-dfw.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/09/devopsdays-dfw.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-102-devopsdays-dfw.mp3">Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<p>Trevor Hess <a href="https://www.arresteddevops.com/">Arrested Devops</a>, <a href="https://github.com/trevorghess">github</a>, <a href="https://twitter.com/trevorghess">twitter</a>
+* Michael Coté <a href="https://cote.io/tag/sdt/">Software Defined Talk</a>, <a href="https://github.com/cote">github</a>, <a href="https://twitter.com/cote">twitter</a>, <a href="https://cote.io/">blog</a>
+* Annie Hedgpeth <a href="https://twitter.com/anniehedgie">twitter</a>, <a href="https://github.com/anniehedgpeth">github</a>, <a href="http://www.anniehedgie.com/">blog</a>
+* Michael Hedgpeth <a href="https://github.com/mhedgpeth">github</a>, <a href="https://github.com/mhedgpeth">twitter</a>, <a href="http://hedge-ops.com/">blog</a>
+* Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></p>
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>The First <a href="https://www.devopsdays.org/events/2016-dallas/welcome/">DevOps Days: Dallas</a></li>
+<li>Nathen’s Three Counts
+
+<ul>
+<li>Have you been to a DevOps Days before?</li>
+<li>How many have participated in Open Spaces?</li>
+<li>Is this your first technical conference?</li>
+</ul>
+</li>
+<li>Planner/Organizer Experiences</li>
+<li>Speaker Experiences
+
+<ul>
+<li>Making DevOps Days Successful</li>
+</ul>
+</li>
+<li>Attendee Experiences</li>
+<li>DevOps Learning and Empathy</li>
+<li>Convincing Bosses and Company Leaders to Get Involved in DevOps</li>
+<li>DevOps Timeline: A-Z
+
+<ul>
+<li><a href="https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238">Managing People for Improvement, Adaptiveness and Superior Results by Mike Rother</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-102-devopsdays-dfw.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Awesome Community Chefs]]></title>
+    <link href="http://foodfightshow.org//2016/09/awesome-community-chefs.html"/>
+    <updated>2016-09-22T20:22:00-04:00</updated>
+    <id>http://foodfightshow.org//2016/09/awesome-community-chefs</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2016/09/awesome-community-chefs.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/09/awesome-community-chefs.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-101-awesome-community-chefs.mp3">Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Doug Ireton <a href="https://github.com/dougireton">github</a>, <a href="https://twitter.com/dougireton">twitter</a>, <a href="http://dougireton.com/">blog</a></li>
+<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
+<li>Stuart Preston <a href="https://github.com/stuartpreston">github</a>, <a href="https://twitter.com/stuartpreston">twitter</a>, <a href="http://stuartpreston.net/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>Doug’s Involvement in the Chef Community</li>
+<li>What Keeps Mike Going in Open Source</li>
+<li>Stuart’s Microsoft Background and Involvement in the Chef Community</li>
+<li>What it Means for Seth to be a Lieutenant for a Project in the Chef Ecosystem</li>
+<li>Doug Organizing <a href="http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/">The Downtown Seattle Friday Morning Coffee Ops</a></li>
+<li>Mike and the <a href="http://www.opsschool.org/">Ops School Curriculum</a></li>
+<li>Stuart’s <a href="https://marketplace.visualstudio.com/items?itemName=Pendrica.Chef">Chef Extension for Visual Studio Code</a></li>
+<li>Seth: How can I join the Chef Community?</li>
+<li><a href="https://summit.chef.io/">Chef Community Summits</a>
+
+<ul>
+<li><a href="https://summit.chef.io/london/">London</a></li>
+<li><a href="https://www.cvent.com/c/express/ded174e7-ed28-4f43-bf8a-642c782dc05f">Seattle Habitat Community Summit</a></li>
+<li><a href="https://summit.chef.io/seattle/">Seattle</a></li>
+</ul>
+</li>
+<li>Panel Experiences at Community Summits</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-101-awesome-community-chefs.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Habitat]]></title>
     <link href="http://foodfightshow.org//2016/06/habitat.html"/>
-    <updated>2016-06-20T13:36:00+01:00</updated>
+    <updated>2016-06-20T13:36:00-04:00</updated>
     <id>http://foodfightshow.org//2016/06/habitat</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -36,6 +169,9 @@
 </ul>
 </li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -112,7 +248,7 @@
   <entry>
     <title type="html"><![CDATA[InSpec]]></title>
     <link href="http://foodfightshow.org//2016/02/inspec.html"/>
-    <updated>2016-02-21T21:51:00+00:00</updated>
+    <updated>2016-02-21T21:51:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/inspec</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -133,6 +269,9 @@
 </ul>
 </li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -377,7 +516,7 @@
   <entry>
     <title type="html"><![CDATA[Design Thinking]]></title>
     <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
-    <updated>2016-02-09T08:33:00+00:00</updated>
+    <updated>2016-02-09T08:33:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/design-thinking</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -398,6 +537,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -406,9 +548,6 @@
 <li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline &amp; Show Notes<a name="outline"></a></h2>
@@ -612,7 +751,7 @@
   <entry>
     <title type="html"><![CDATA[Configuration Management Camp 2016]]></title>
     <link href="http://foodfightshow.org//2016/02/configuration-management-camp-2016.html"/>
-    <updated>2016-02-08T12:19:00+00:00</updated>
+    <updated>2016-02-08T12:19:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/configuration-management-camp-2016</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2016</a> recorded live at the end of the conference.</p>
 
@@ -629,6 +768,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -639,9 +781,6 @@
 <li>Ian Penney <a href="https://twitter.com/cr03">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -682,7 +821,7 @@
   <entry>
     <title type="html"><![CDATA[Chef and OpenStack]]></title>
     <link href="http://foodfightshow.org//2015/12/chef-and-openstack.html"/>
-    <updated>2015-12-28T17:36:00+00:00</updated>
+    <updated>2015-12-28T17:36:00-05:00</updated>
     <id>http://foodfightshow.org//2015/12/chef-and-openstack</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -703,6 +842,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -711,9 +853,6 @@
 <li>Samuel Cassiba <a href="https://github.com/scassiba">github</a>, <a href="https://twitter.com/scassiba">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline &amp; Show Notes<a name="outline"></a></h2>
@@ -826,7 +965,7 @@
   <entry>
     <title type="html"><![CDATA[Learning Reviews]]></title>
     <link href="http://foodfightshow.org//2015/10/learning-reviews.html"/>
-    <updated>2015-10-23T08:42:00+01:00</updated>
+    <updated>2015-10-23T08:42:00-04:00</updated>
     <id>http://foodfightshow.org//2015/10/learning-reviews</id>
     <content type="html"><![CDATA[<p>Join us for a discussion of Learning Reviews.  What and how can we learn from failure?</p>
 
@@ -847,6 +986,9 @@
 </ul>
 </li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Panel<a name="panel"></a></h2>
@@ -985,7 +1127,7 @@
   <entry>
     <title type="html"><![CDATA[Audit Mode &amp; Compliance]]></title>
     <link href="http://foodfightshow.org//2015/07/audit-mode-and-compliance.html"/>
-    <updated>2015-07-14T11:16:00+01:00</updated>
+    <updated>2015-07-14T11:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/07/audit-mode-and-compliance</id>
     <content type="html"><![CDATA[<p>Listen in as we discuss Chef&#8217;s Audit Mode, Analytics, and compliance.</p>
 
@@ -1008,6 +1150,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -1019,9 +1164,6 @@
 <li>Steven Murawski <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -1174,7 +1316,7 @@
   <entry>
     <title type="html"><![CDATA[Managing Secrets - In the Vault]]></title>
     <link href="http://foodfightshow.org//2015/06/managing-secrets-in-the-vault.html"/>
-    <updated>2015-06-16T07:16:00+01:00</updated>
+    <updated>2015-06-16T07:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/managing-secrets-in-the-vault</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -1195,6 +1337,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -1204,9 +1349,6 @@
 <li>Mike Fiedler <a href="https://github.com/miketheman">github</a>, <a href="https://twitter.com/mikefiedler">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -1352,7 +1494,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays DC]]></title>
     <link href="http://foodfightshow.org//2015/06/devopsdays-dc.html"/>
-    <updated>2015-06-12T17:14:00+01:00</updated>
+    <updated>2015-06-12T17:14:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/devopsdays-dc</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://devopsdaysdc.org">DevOpsDays DC</a> recorded live at the end of the conference.</p>
 
@@ -1409,7 +1551,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Day 3 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-3-recap.html"/>
-    <updated>2015-04-12T09:51:00+01:00</updated>
+    <updated>2015-04-12T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-3-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1475,7 +1617,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Day 2 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-2-recap.html"/>
-    <updated>2015-04-11T09:51:00+01:00</updated>
+    <updated>2015-04-11T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-2-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1559,7 +1701,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Preview]]></title>
     <link href="http://foodfightshow.org//2015/03/chefconf-preview.html"/>
-    <updated>2015-03-05T15:15:00+00:00</updated>
+    <updated>2015-03-05T15:15:00-05:00</updated>
     <id>http://foodfightshow.org//2015/03/chefconf-preview</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1759,7 +1901,7 @@
   <entry>
     <title type="html"><![CDATA[Configuration Management Camp]]></title>
     <link href="http://foodfightshow.org//2015/02/configuration-management-camp.html"/>
-    <updated>2015-02-11T10:34:00+00:00</updated>
+    <updated>2015-02-11T10:34:00-05:00</updated>
     <id>http://foodfightshow.org//2015/02/configuration-management-camp</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2015</a> recorded live at the end of the conference.</p>
 
@@ -1850,7 +1992,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
     <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
-    <updated>2015-01-29T10:21:00+00:00</updated>
+    <updated>2015-01-29T10:21:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
     <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
 
@@ -2063,7 +2205,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
     <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
-    <updated>2015-01-20T10:59:00+00:00</updated>
+    <updated>2015-01-20T10:59:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2241,7 +2383,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Apache Kafka]]></title>
     <link href="http://foodfightshow.org//2014/11/apache-kafka.html"/>
-    <updated>2014-11-17T10:55:00+00:00</updated>
+    <updated>2014-11-17T10:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/apache-kafka</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2384,7 +2526,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
     <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
-    <updated>2014-11-04T21:55:00+00:00</updated>
+    <updated>2014-11-04T21:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>
@@ -2470,7 +2612,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Consul Template]]></title>
     <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
-    <updated>2014-11-04T21:54:00+00:00</updated>
+    <updated>2014-11-04T21:54:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/consul-template</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2722,116 +2864,6 @@ Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcpreci
 <p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
 
 <p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Live from Chef Summit London 2014]]></title>
-    <link href="http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014.html"/>
-    <updated>2014-10-18T12:03:00+01:00</updated>
-    <id>http://foodfightshow.org//2014/10/live-from-chef-summit-london-2014</id>
-    <content type="html"><![CDATA[<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-<li>Jon Cowie, Web Operations Engineer at Etsy <a href="http://github.com/jonlives">github</a>, <a href="http://twitter.com/jonlives">twitter</a>, <a href="http://blog.mycrot.ch">blog</a></li>
-<li>Aaron Kalin <a href="https://github.com/martinisoft">github</a>, <a href="https://twitter.com/martinisoft">twitter</a></li>
-<li>Zachary T. Stevens <a href="https://github.com/zts">github</a>, <a href="https://twitter.com/zts">twitter</a></li>
-</ul>
-
-
-<p><a href="http://traffic.libsyn.com/foodfight/FFS082.mp3">Listen now</a></p>
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li><a href="https://www.getchef.com/blog/2014/09/30/guest-post-introducing-chef-guard/">chef guard</a></li>
-<li><a href="http://myrepos.branchable.com/">myrepos</a> tool for managing a large # of git repos</li>
-<li><a href="https://github.com/bmarini/knife-inspect">knife-inspect</a></li>
-</ul>
-
-
-<p>A recording from the end of the first day of the Chef Community Summit in London, 2014.</p>
-
-<p><a href="http://traffic.libsyn.com/foodfight/FFS082.mp3">Listen now</a></p>
-
-<p>Session notes and more information captured during the Community Summit can be found in the <a href="https://github.com/opscode/chef-summit-2014/wiki">Chef Community Summit Wiki on GitHub</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Even MOAR Windows]]></title>
-    <link href="http://foodfightshow.org//2014/10/even-moar-windows.html"/>
-    <updated>2014-10-18T12:01:00+01:00</updated>
-    <id>http://foodfightshow.org//2014/10/even-moar-windows</id>
-    <content type="html"><![CDATA[<ul>
-<li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2014/10/even-moar-windows.html#outline">Outline</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/FFS081.mp3">Audio</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>Steven Murawski <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
-<li>Adam Edwards <a href="https://github.com/adamedx">github</a></li>
-<li>Daniel Mitchell</li>
-<li>Hans</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li>How do I figure out how parameterize an MSI install?</li>
-<li>Key windows-specific resources you should know about: registry_key, env</li>
-<li>Creating and managing Windows services
-
-<ul>
-<li>What is a windows service?</li>
-<li>Tools, automating creation of services?</li>
-<li>nssm.cc, procrun</li>
-<li>How does a service resource relate to Windows services?</li>
-<li>Explaining &#8220;Get-Service&#8221;, &#8220;Start-Service&#8221;, &#8220;Stop-Service&#8221;</li>
-</ul>
-</li>
-<li>If run chef under the SYSTEM user and sometimes I get weird errors that I can&#8217;t reproduce while logged in
-ANSWER: <code>psexec -s some_command.exe</code></li>
-<li>What is the pstools suite? Which commands are of particular interest:
-ANSWER: All of them.</li>
-<li>Servercore - Can I run Powershell ISE or another editor with server core? Otherwise, how do I edit files?</li>
-<li>Servercore gotchas</li>
-<li>Building windows amis for EC2
-
-<ul>
-<li>Put code to generate SSL certificate in userdata</li>
-<li>Connect to instance over winrm</li>
-<li>Packer is your friend</li>
-</ul>
-</li>
-<li>There is a good example in the <a href="https://github.com/ansible/ansible/blob/devel/examples/scripts/ConfigureRemotingForAnsible.ps1">Ansible codebase</a>, example from knife bootstrap?</li>
-<li>Is using GNUWIN32 utilities on windows, a bad idea?
-YES Bryan: <code>less</code> can&#8217;t read unicode files on win2k12, <code>ls</code> has bizarre issues</li>
-<li>remote-file editing w/ ISE coming</li>
-<li>Powershell basics: Do both stdout and stderr return objects?
-There are actually 7, count &#8216;em 7 streams</li>
-<li>What is the equivalent of (strace)[http://en.wikipedia.org/wiki/Strace] in Windows?</li>
-</ul>
-
 ]]></content>
   </entry>
   

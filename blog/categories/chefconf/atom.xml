@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chefconf | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chefconf/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-22T08:58:42+01:00</updated>
+  <updated>2016-12-04T20:48:48-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,73 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Awesome Community Chefs]]></title>
+    <link href="http://foodfightshow.org//2016/09/awesome-community-chefs.html"/>
+    <updated>2016-09-22T20:22:00-04:00</updated>
+    <id>http://foodfightshow.org//2016/09/awesome-community-chefs</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2016/09/awesome-community-chefs.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/09/awesome-community-chefs.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-101-awesome-community-chefs.mp3">Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Doug Ireton <a href="https://github.com/dougireton">github</a>, <a href="https://twitter.com/dougireton">twitter</a>, <a href="http://dougireton.com/">blog</a></li>
+<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
+<li>Stuart Preston <a href="https://github.com/stuartpreston">github</a>, <a href="https://twitter.com/stuartpreston">twitter</a>, <a href="http://stuartpreston.net/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>Doug’s Involvement in the Chef Community</li>
+<li>What Keeps Mike Going in Open Source</li>
+<li>Stuart’s Microsoft Background and Involvement in the Chef Community</li>
+<li>What it Means for Seth to be a Lieutenant for a Project in the Chef Ecosystem</li>
+<li>Doug Organizing <a href="http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/">The Downtown Seattle Friday Morning Coffee Ops</a></li>
+<li>Mike and the <a href="http://www.opsschool.org/">Ops School Curriculum</a></li>
+<li>Stuart’s <a href="https://marketplace.visualstudio.com/items?itemName=Pendrica.Chef">Chef Extension for Visual Studio Code</a></li>
+<li>Seth: How can I join the Chef Community?</li>
+<li><a href="https://summit.chef.io/">Chef Community Summits</a>
+
+<ul>
+<li><a href="https://summit.chef.io/london/">London</a></li>
+<li><a href="https://www.cvent.com/c/express/ded174e7-ed28-4f43-bf8a-642c782dc05f">Seattle Habitat Community Summit</a></li>
+<li><a href="https://summit.chef.io/seattle/">Seattle</a></li>
+</ul>
+</li>
+<li>Panel Experiences at Community Summits</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-101-awesome-community-chefs.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[ChefConf Day 3 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-3-recap.html"/>
-    <updated>2015-04-12T09:51:00+01:00</updated>
+    <updated>2015-04-12T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-3-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -82,7 +146,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Day 2 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-2-recap.html"/>
-    <updated>2015-04-11T09:51:00+01:00</updated>
+    <updated>2015-04-11T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-2-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -166,7 +230,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Preview]]></title>
     <link href="http://foodfightshow.org//2015/03/chefconf-preview.html"/>
-    <updated>2015-03-05T15:15:00+00:00</updated>
+    <updated>2015-03-05T15:15:00-05:00</updated>
     <id>http://foodfightshow.org//2015/03/chefconf-preview</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -366,7 +430,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf:  Day Two Wrap-up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up.html"/>
-    <updated>2013-04-30T13:46:00+01:00</updated>
+    <updated>2013-04-30T13:46:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -399,51 +463,6 @@
 
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/ChefConf-2013-Wrap-Up.mp3">Download the Audio file</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chefconf 2013: Talking Shop with Spheromak]]></title>
-    <link href="http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak.html"/>
-    <updated>2013-04-27T01:46:00+01:00</updated>
-    <id>http://foodfightshow.org//2013/04/chefconf-2013-talking-shop-with-spheromak</id>
-    <content type="html"><![CDATA[<p>Show Date:  Thursday, April 27, 2013</p>
-
-<p>In this episode, we sat down with
-<a href="https://github.com/spheromak">Jesse Nelson</a>,
-<a href="http://github.com/miah">Miah Johnson</a>  and
-<a href="http://github.com/kisoku">Matthieu Sauve-Frankel</a> at Chefconf</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2013/04/chefconf-2013-talking-shop-with-spheromak.html#panel">Panel</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/ffs_chefconf3.mp3">Audio</a></li>
-</ul>
-</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li><a href="https://github.com/spheromak">Jesse Nelson</a></li>
-<li><a href="http://github.com/miah">Miah Johnson</a></li>
-<li><a href="http://github.com/kisoku">Matthieu Sauve-Frankel</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://traffic.libsyn.com/foodfight/ffs_chefconf3.mp3">Audio</a></li>
 </ul>
 
 ]]></content>

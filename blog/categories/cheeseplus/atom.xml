@@ -4,7 +4,7 @@
   <title><![CDATA[Category: cheeseplus | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/cheeseplus/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-06-22T08:58:42+01:00</updated>
+  <updated>2016-12-04T20:48:48-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,73 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Awesome Community Chefs]]></title>
+    <link href="http://foodfightshow.org//2016/09/awesome-community-chefs.html"/>
+    <updated>2016-09-22T20:22:00-04:00</updated>
+    <id>http://foodfightshow.org//2016/09/awesome-community-chefs</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://foodfightshow.org/2016/09/awesome-community-chefs.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/09/awesome-community-chefs.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-101-awesome-community-chefs.mp3">Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Doug Ireton <a href="https://github.com/dougireton">github</a>, <a href="https://twitter.com/dougireton">twitter</a>, <a href="http://dougireton.com/">blog</a></li>
+<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
+<li>Stuart Preston <a href="https://github.com/stuartpreston">github</a>, <a href="https://twitter.com/stuartpreston">twitter</a>, <a href="http://stuartpreston.net/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>Doug’s Involvement in the Chef Community</li>
+<li>What Keeps Mike Going in Open Source</li>
+<li>Stuart’s Microsoft Background and Involvement in the Chef Community</li>
+<li>What it Means for Seth to be a Lieutenant for a Project in the Chef Ecosystem</li>
+<li>Doug Organizing <a href="http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/">The Downtown Seattle Friday Morning Coffee Ops</a></li>
+<li>Mike and the <a href="http://www.opsschool.org/">Ops School Curriculum</a></li>
+<li>Stuart’s <a href="https://marketplace.visualstudio.com/items?itemName=Pendrica.Chef">Chef Extension for Visual Studio Code</a></li>
+<li>Seth: How can I join the Chef Community?</li>
+<li><a href="https://summit.chef.io/">Chef Community Summits</a>
+
+<ul>
+<li><a href="https://summit.chef.io/london/">London</a></li>
+<li><a href="https://www.cvent.com/c/express/ded174e7-ed28-4f43-bf8a-642c782dc05f">Seattle Habitat Community Summit</a></li>
+<li><a href="https://summit.chef.io/seattle/">Seattle</a></li>
+</ul>
+</li>
+<li>Panel Experiences at Community Summits</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-101-awesome-community-chefs.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Configuration Management Camp 2016]]></title>
     <link href="http://foodfightshow.org//2016/02/configuration-management-camp-2016.html"/>
-    <updated>2016-02-08T12:19:00+00:00</updated>
+    <updated>2016-02-08T12:19:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/configuration-management-camp-2016</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2016</a> recorded live at the end of the conference.</p>
 
@@ -33,6 +97,9 @@
 </ul>
 
 
+<!-- more -->
+
+
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
@@ -43,9 +110,6 @@
 <li>Ian Penney <a href="https://twitter.com/cr03">twitter</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
-
-
-<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -86,7 +150,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf:  Day Two Wrap-up]]></title>
     <link href="http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up.html"/>
-    <updated>2013-04-30T13:46:00+01:00</updated>
+    <updated>2013-04-30T13:46:00-04:00</updated>
     <id>http://foodfightshow.org//2013/04/chefconf-day-two-wrap-up</id>
     <content type="html"><![CDATA[<p>Show Date:  26 April 2013</p>
 
@@ -127,7 +191,7 @@
   <entry>
     <title type="html"><![CDATA[Release Engineering]]></title>
     <link href="http://foodfightshow.org//2012/10/release-engineering.html"/>
-    <updated>2012-10-31T09:58:00+00:00</updated>
+    <updated>2012-10-31T09:58:00-04:00</updated>
     <id>http://foodfightshow.org//2012/10/release-engineering</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 30 October 2012</p>
 
