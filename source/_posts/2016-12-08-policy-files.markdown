@@ -10,7 +10,7 @@ categories:
 
  # Coming Soon!
 
- This episode will be recorded on Monday, December 19, 21:00 UTC
+ This episode will be recorded on [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
 
 <!-- more -->
 
@@ -20,16 +20,16 @@ Panel<a name="panel"></a>
 * Daniel DeLeo [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * John Bellone [github](https://github.com/johnbellone), [twitter](https://twitter.com/johnbellone)
 * Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth), [blog](http://hedge-ops.com/)
-* George Miranda [github](https://github.com/gmiranda23), [twitter](https://twitter.com/gmiranda23)
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), [blog](http://devopsanywhere.blogspot.com/)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
 Outline & Show Notes<a name="outline"></a>
 -------
+
+Have quuestions about Policyfiles or want to make suggestions about the topics we will cover in this episode?
+
+[Submit a Pull Request to our Show Script](https://github.com/foodfight/showz/blob/master/scripts/episode-103-policyfiles.md) or let [@foodfightshow](https://twitter.com/foodfightshow) know on twitter.
 
 Download
 --------
