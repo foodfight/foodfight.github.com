@@ -4,7 +4,7 @@
   <title><![CDATA[Category: berkshelf | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/berkshelf/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-04T20:48:48-05:00</updated>
+  <updated>2016-12-12T23:22:59+02:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -14,9 +14,56 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Policyfiles]]></title>
+    <link href="http://foodfightshow.org//2016/12/policy-files.html"/>
+    <updated>2016-12-08T12:21:00+02:00</updated>
+    <id>http://foodfightshow.org//2016/12/policy-files</id>
+    <content type="html"><![CDATA[<p> # Coming Soon!</p>
+
+<p> This episode will be recorded on <a href="http://everytimezone.com/#2016-12-19,540,cn3">Monday, December 19, 21:00 UTC</a></p>
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Daniel DeLeo <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>John Bellone <a href="https://github.com/johnbellone">github</a>, <a href="https://twitter.com/johnbellone">twitter</a></li>
+<li>Michael Hedgpeth <a href="https://github.com/mhedgpeth">github</a>, <a href="https://github.com/mhedgpeth">twitter</a>, <a href="http://hedge-ops.com/">blog</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<p>Have quuestions about Policyfiles or want to make suggestions about the topics we will cover in this episode?</p>
+
+<p><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-103-policyfiles.md">Submit a Pull Request to our Show Script</a> or let <a href="https://twitter.com/foodfightshow">@foodfightshow</a> know on twitter.</p>
+
+<h2>Download</h2>
+
+<ul>
+<li>Coming Soon!</li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[ChefDK]]></title>
     <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
-    <updated>2014-08-27T12:10:00-04:00</updated>
+    <updated>2014-08-27T12:10:00+03:00</updated>
     <id>http://foodfightshow.org//2014/08/chefdk</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
 
@@ -318,7 +365,7 @@
   <entry>
     <title type="html"><![CDATA[Cookbook Patterns]]></title>
     <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
-    <updated>2014-04-29T18:05:00-04:00</updated>
+    <updated>2014-04-29T18:05:00+03:00</updated>
     <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -489,7 +536,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day 1]]></title>
     <link href="http://foodfightshow.org//2013/11/community-summit-day-1.html"/>
-    <updated>2013-11-19T10:35:00-05:00</updated>
+    <updated>2013-11-19T10:35:00+02:00</updated>
     <id>http://foodfightshow.org//2013/11/community-summit-day-1</id>
     <content type="html"><![CDATA[<p>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.</p>
 
@@ -567,7 +614,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
     <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
-    <updated>2012-10-23T17:47:00-04:00</updated>
+    <updated>2012-10-23T17:47:00+02:00</updated>
     <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
@@ -630,217 +677,6 @@
 <h2>Download</h2>
 
 <p>Download Chef Summit Day One Recap - <a href="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-1.mp3">Download here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jamie Winsor and Michael Ivey Skool us on Berkshelf]]></title>
-    <link href="http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html"/>
-    <updated>2012-08-03T16:33:00-04:00</updated>
-    <id>http://foodfightshow.org//2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf</id>
-    <content type="html"><![CDATA[<p>Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA</p>
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#panel">Panel</a></li>
-<li>What's Cookin'
-
-<ul>
-<li><a href="http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#news">In the News</a></li>
-<li><a href="http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#cookbooks">Cookbook News</a></li>
-</ul>
-</li>
-<li><a href="http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html#picks">Picks</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/ffs24_3.mp3">Download</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<p></p>
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li><a href="http://vialstudios.com/">Jamie Winsor</a>, <a href="https://github.com/reset">github</a>, <a href="https://twitter.com/resetexistence">twitter</a></li>
-<li>Michael Ivey, <a href="https://github.com/ivey">github</a>, <a href="https://twitter.com/ivey">twitter</a>, <a href="http://gweezlebur.com/">blog</a></li>
-<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
-<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>In the News<a name="news"></a></h2>
-
-<ul>
-<li><p>Mission Accomplished! Jordan Sissel has a new gig at
-<a href="http://dreamhost.com">Dreamhost</a> working full-time on
-<a href="http://logsta.sh">logstash</a> He blogged about what he intends to do
-to
-<a href="http://www.semicomplete.com/blog/growing-logstash-value.html">grow logstash's value</a>
-for both new and existing users.</p></li>
-<li><p><a href="http://twitter.com/sethvargo">Seth Vargo</a> has released the first
-non-alpha version of <a href="https://github.com/customink/fauxhai">fauxhai</a>
-the node-mocking gem. This version implements the <code>fetch</code> feature,
-which allows you to download ohai data from a real remote node and
-run your tests against that data.</p></li>
-<li><p><a href="http://twitter.com/ampledata">Greg Albrecht Kim</a> released a
-<a href="https://github.com/ampledata/cookbook-style-guide">cookbook-style-guide</a>
-check the show notes for a link to the github repo.</p></li>
-<li><p>The team over at Boundary has released <a href="https://github.com/boundary/small_wonder">small wonder</a>,
-a deployment tool.  It's a lightweight wrapper around <a href="https://github.com/aphyr/salticid">salticid</a>
-Small Wonder is a means for using Salticid and Chef together to
-deploy applications.  Small Wonder consumes your knife.rb so has
-access to anything that any other chef-client can access, including
-Chef search.</p></li>
-<li><p>Joshua Timberman's written up another blog post about
-<a href="http://jtimberman.housepub.org/blog/2012/07/29/os-x-workstation-management-with-chef/">OS X Workstation Management With Chef</a>
-He's written on this topic twice before.  This article is actually
-a rewrite of the original and now has an accompanying Chef repo.</p></li>
-<li><p>Speaking of provisioning laptops's with Chef, Seth Vargo's back with
-<a href="http://technology.customink.com/blog/2012/07/30/provision-your-laptop-with-chef-part-2/">part 2 of his series on the subject</a>
-check out the post over on the CustomInk Engineering blog -
-<a href="http://technology.customink.com/">EngineerInk</a></p></li>
-<li><p><a href="http://twitter.com/xdg">David Golden</a> posted his <a href="https://twitter.com/xdg/status/226351498756489216">Oscon Slides on
-Cooking Perl with Chef</a>
-Chedk the show notes for a link.</p></li>
-<li><p>Ever find yourself looking for something beautiful that's been
-artisinally hand-crafted, you know, like an Integer?  Well, fear
-not!  Checkout <a href="http://brooklynintegers.com/">Brooklyn Integers</a>
-it's an IaaS (Integer as a Service) a simple API for generating
-and retrieving integers.  If you think the integers in Brooklyn are
-a bit odd (pun intended), visit the San Fransisco branch:
-<a href="http://www.missionintegers.com/">Mission Integers</a>.</p></li>
-<li><p><a href="https://twitter.com/jsnover">Jeffrey Snover</a> was recently
-interviewed on the <a href="http://www.runasradio.com/">RunAs Radio</a> podcast
-about his blog post <a href="http://blogs.technet.com/b/windowsserver/archive/2012/05/29/windows-server-2012-powershell-3-0-and-devops-part-1.aspx">Windows Server 2012, PowerShell 3.0 and DevOps</a></p></li>
-</ul>
-
-
-<h2>Upcoming Events and Meetup Groups</h2>
-
-<ul>
-<li><p><a href="http://www.meetup.com/infrastructure-coders">Infrastructure Coders</a>
-meet up in Melbourne Australia, created by Matt Jones and David
-Lutz, next meetup will be August 14 and focus on the topic of
-Infrastructure as Code</p></li>
-<li><p><a href="http://www.meetup.com/DevOpsDC/events/67381852/">DevOpsDC - Cooking with Chef</a>
-If you're in the DC area, be sure to swing by TaxiMagic's HQ on
-Tuesday, August 14th to meet-up with other Chef enthusiasts.</p></li>
-<li><p>The Bay Area Chef User Group will be hosting <a href="http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/72001532/">Chef Cafe</a>
-on Thursday, August 16.</p></li>
-<li><a href="http://devopsdays.org/events/2012-italy/">DevOps Days Rome</a> will
- be October 5-6.  The call for papers is open now!</li>
-</ul>
-
-
-<h2>Cookbook News<a name="cookbooks"></a></h2>
-
-<h3>New Cookbooks</h3>
-
-<ul>
-<li><p><a href="http://community.opscode.com/cookbooks/awstats">awstats</a> v0.2.2 - <a href="http://community.opscode.com/users/madolphs">madolphs</a>
-This cookbook installs awstats and provides an LWRP to setup awstats for a service of your choice.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/VRTSralus">VRTSralus</a> v0.0.2 - <a href="http://community.opscode.com/users/lucky-sideburn">lucky-sideburn</a>
-Installs/Configures VRTSralus through the installation script.  VRTSralus is better known as Symantec Backup Exec for linux.  This cookbook was written to resolve a strange problem with the installation through RPM.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/pkgin">pkgin</a> v0.1.0 - <a href="http://community.opscode.com/users/someara">someara</a>
-This cookbook is used to install packages on Unix systems with the pkgin utility.  pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/riot_mysql">riot_mysql</a> v1.2.8 - <a href="http://community.opscode.com/users/reset">reset</a>
-A fork of the Opscode MySQL cookbook which fixes a severe bug with installing the MySQL gem on CentOS platforms.</p></li>
-<li><p><a href="http://community.opscode.com/cookbooks/jmxtrans">jmxtrans</a> v0.0.3 - <a href="http://community.opscode.com/users/bryanwb">bryanwb</a>
-We talked about jmxtrans in the last episode, it's now available on the community site.  Thanks, Bryan!</p></li>
-</ul>
-
-
-<h3>Updated Cookbooks</h3>
-
-<ul>
-<li><a href="http://community.opscode.com/cookbooks/glassfish">glassfish</a> v0.5.4 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
-<li><a href="http://community.opscode.com/cookbooks/collectd_plugins">collectd_plugins</a> v1.0.0 -</li>
-<li><a href="http://community.opscode.com/cookbooks/collectd">collectd</a> v1.0.0 - <a href="http://community.opscode.com/users/coderanger">coderanger</a></li>
-<li><a href="http://community.opscode.com/cookbooks/bind">bind</a> v0.0.6 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a></li>
-<li><a href="http://community.opscode.com/cookbooks/mongodb">mongodb</a> v0.11.0 - <a href="http://community.opscode.com/users/thekorn">thekorn</a></li>
-<li><a href="http://community.opscode.com/cookbooks/cpan">cpan</a> v0.0.15 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
-<li><a href="http://community.opscode.com/cookbooks/authbind">authbind</a> v0.1.3 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
-<li><a href="http://community.opscode.com/cookbooks/magento">magento</a> v0.4.0 - <a href="http://community.opscode.com/users/wik">wik</a></li>
-<li><a href="http://community.opscode.com/cookbooks/php-fpm">php-fpm</a> v0.2.1 - <a href="http://community.opscode.com/users/wik">wik</a></li>
-<li><a href="http://community.opscode.com/cookbooks/cgroups">cgroups</a> v0.0.1 - <a href="http://community.opscode.com/users/lucky-sideburn">lucky-sideburn</a></li>
-<li><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.10.2 - <a href="http://community.opscode.com/users/reset">reset</a></li>
-</ul>
-
-
-<p>Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a></p>
-
-<h2>Bryan's show notes<a name="outline"></a></h2>
-
-<ul>
-<li>Michael and jamie work on Deployment Automation team at RiotGames</li>
-<li>They make heavy use of github enterprise, can do a pull request w/out forking</li>
-<li>They spend a lot of time evangelizing and teaching chef w/in org</li>
-<li>Their devs very receptive to Chef</li>
-<li>Only build server can upload cookbook, and it revs each version after every successful build</li>
-<li>they don't use roles at all, because
-
-<ul>
-<li>not versioned</li>
-<li>better to use wrapper cookbook instead of role</li>
-</ul>
-</li>
-<li>current patterns for chef only maintainable w/ a small team</li>
-<li>what benefits of small team to follow your pattern?</li>
-<li>Jamie is working on "cookbook development for application developers"</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Bryan</h4>
-
-<ul>
-<li><a href="http://www.amazon.com/Java-Performance-Charlie-Hunt/dp/0137142528/ref=sr_1_1?ie=UTF8&amp;qid=1343931212&amp;sr=8-1&amp;keywords=java+performance">Java Performance</a> by Charlie Hunt</li>
-<li><a href="http://graphite.readthedocs.org/en/1.0/functions.html">Graphite's timeShift function</a></li>
-<li><a href="http://3spoken.wordpress.com/2006/12/10/cpu-steal-time-the-new-statistic/">the steal value in top and vmstat</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://technology.customink.com/blog/2012/07/31/easily-test-your-dns/">rspec testing your DNS</a></li>
-<li><a href="http://github.com/sethvargo">Seth Vargo</a></li>
-<li>music pick: <a href="http://mayerhawthorne.com/#!all">Mayer Hawthorne</a></li>
-</ul>
-
-
-<h4>Michael</h4>
-
-<ul>
-<li><a href="http://whatisthor.com">thor</a></li>
-<li><a href="http://simple.com">BankSimple</a></li>
-</ul>
-
-
-<h4>Jamie</h4>
-
-<ul>
-<li><a href="http://vagrantup.com">vagrant</a></li>
-<li><a href="http://leagueoflegends.wikia.com/wiki/Zyra_Rise_of_the_Thorns">Zyra</a></li>
-</ul>
-
-
-<h2>CLOSE</h2>
-
-<p>Please take the time to rate us on itunes and to send your cookbook
-news to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
-
-<p>Follow <a href="http://twitter.com/foodfightshow">@foodfightshow</a> on twitter.</p>
-
-<p>Also, you can submit show ideas to our <a href="https://github.com/foodfight/showz">github repo</a></p>
-
-<h2>Download</h2>
-
-<p>Jamie Winsor and Michael Ivey Skool us on Berkshelf:  <a href="http://traffic.libsyn.com/foodfight/ffs24_3.mp3">Download here</a></p>
 ]]></content>
   </entry>
   
