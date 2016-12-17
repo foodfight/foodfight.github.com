@@ -17,12 +17,12 @@ categories:
 Panel<a name="panel"></a>
 -----
 
-* Daniel DeLeo [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * John Bellone [github](https://github.com/johnbellone), [twitter](https://twitter.com/johnbellone)
 * Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth), [blog](http://hedge-ops.com/)
+* Daniel DeLeo [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
+* George Miranda [github](https://github.com/gmiranda23), [twitter](https://twitter.com/gmiranda23)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
 
 Outline & Show Notes<a name="outline"></a>
 -------
