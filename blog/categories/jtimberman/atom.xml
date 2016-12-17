@@ -4,7 +4,7 @@
   <title><![CDATA[Category: jtimberman | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/jtimberman/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-12T23:22:59+02:00</updated>
+  <updated>2016-12-17T11:08:02-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Audit Mode &amp; Compliance]]></title>
     <link href="http://foodfightshow.org//2015/07/audit-mode-and-compliance.html"/>
-    <updated>2015-07-14T11:16:00+03:00</updated>
+    <updated>2015-07-14T11:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/07/audit-mode-and-compliance</id>
     <content type="html"><![CDATA[<p>Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.</p>
 
@@ -205,7 +205,7 @@
   <entry>
     <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
     <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
-    <updated>2014-08-22T07:27:00+03:00</updated>
+    <updated>2014-08-22T07:27:00-04:00</updated>
     <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
 
@@ -429,7 +429,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
     <link href="http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html"/>
-    <updated>2013-06-13T09:47:00+03:00</updated>
+    <updated>2013-06-13T09:47:00-04:00</updated>
     <id>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo</id>
     <content type="html"><![CDATA[<p>Show Date: June 12, 2013</p>
 
@@ -568,7 +568,7 @@ news to info@foodfightshow.org</p>
   <entry>
     <title type="html"><![CDATA[LWRPs]]></title>
     <link href="http://foodfightshow.org//2013/03/lwrps.html"/>
-    <updated>2013-03-13T08:00:00+02:00</updated>
+    <updated>2013-03-13T08:00:00-04:00</updated>
     <id>http://foodfightshow.org//2013/03/lwrps</id>
     <content type="html"><![CDATA[<p>Show Date:  Wednesday, March 13, 2013</p>
 
@@ -729,7 +729,7 @@ news to info@foodfightshow.org</p>
   <entry>
     <title type="html"><![CDATA[Application Deployment]]></title>
     <link href="http://foodfightshow.org//2013/01/application-deployment.html"/>
-    <updated>2013-01-28T10:45:00+02:00</updated>
+    <updated>2013-01-28T10:45:00-05:00</updated>
     <id>http://foodfightshow.org//2013/01/application-deployment</id>
     <content type="html"><![CDATA[<p>Show Date:  Monday, January 28, 2013</p>
 

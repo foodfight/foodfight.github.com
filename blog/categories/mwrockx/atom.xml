@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mwrockx | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/mwrockx/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-12T23:22:59+02:00</updated>
+  <updated>2016-12-17T11:08:02-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Preview]]></title>
     <link href="http://foodfightshow.org//2015/03/chefconf-preview.html"/>
-    <updated>2015-03-05T15:15:00+02:00</updated>
+    <updated>2015-03-05T15:15:00-05:00</updated>
     <id>http://foodfightshow.org//2015/03/chefconf-preview</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -216,7 +216,7 @@
   <entry>
     <title type="html"><![CDATA[Chef Metal]]></title>
     <link href="http://foodfightshow.org//2014/06/chef-metal.html"/>
-    <updated>2014-06-04T14:07:00+03:00</updated>
+    <updated>2014-06-04T14:07:00-04:00</updated>
     <id>http://foodfightshow.org//2014/06/chef-metal</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="https://github.com/opscode/chef-metal">chef-metal</a> with it's creator, <a href="https://twitter.com/jkeiser2">John Keiser</a></p>
 

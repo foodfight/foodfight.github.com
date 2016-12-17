@@ -4,7 +4,7 @@
   <title><![CDATA[Category: vagrant | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/vagrant/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-12T23:22:59+02:00</updated>
+  <updated>2016-12-17T11:08:02-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Docker in Practice]]></title>
     <link href="http://foodfightshow.org//2013/11/docker-in-practice.html"/>
-    <updated>2013-11-27T10:35:00+02:00</updated>
+    <updated>2013-11-27T10:35:00-05:00</updated>
     <id>http://foodfightshow.org//2013/11/docker-in-practice</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -131,7 +131,7 @@
   <entry>
     <title type="html"><![CDATA[Packer]]></title>
     <link href="http://foodfightshow.org//2013/08/packer.html"/>
-    <updated>2013-08-14T09:03:00+03:00</updated>
+    <updated>2013-08-14T09:03:00-04:00</updated>
     <id>http://foodfightshow.org//2013/08/packer</id>
     <content type="html"><![CDATA[<p>Join us as we discuss <a href="http://packer.io">Packer</a> with <a href="https://twitter.com/mitchellh">Mitchell Hashimoto</a></p>
 
@@ -308,7 +308,7 @@
   <entry>
     <title type="html"><![CDATA[Testing in Practice]]></title>
     <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
-    <updated>2013-05-22T08:11:00+03:00</updated>
+    <updated>2013-05-22T08:11:00-04:00</updated>
     <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
     <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
 
@@ -523,7 +523,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
     <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
-    <updated>2012-10-23T17:47:00+02:00</updated>
+    <updated>2012-10-23T17:47:00-04:00</updated>
     <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
@@ -592,7 +592,7 @@
   <entry>
     <title type="html"><![CDATA[Vagrant]]></title>
     <link href="http://foodfightshow.org//2012/09/vagrant.html"/>
-    <updated>2012-09-20T08:33:00+03:00</updated>
+    <updated>2012-09-20T08:33:00-04:00</updated>
     <id>http://foodfightshow.org//2012/09/vagrant</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday, 11 September 2012</p>
 

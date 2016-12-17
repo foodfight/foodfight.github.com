@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-12T23:22:59+02:00</updated>
+  <updated>2016-12-17T11:08:02-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Policyfiles]]></title>
     <link href="http://foodfightshow.org//2016/12/policy-files.html"/>
-    <updated>2016-12-08T12:21:00+02:00</updated>
+    <updated>2016-12-08T12:21:00-05:00</updated>
     <id>http://foodfightshow.org//2016/12/policy-files</id>
     <content type="html"><![CDATA[<p> # Coming Soon!</p>
 
@@ -28,9 +28,10 @@
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
-<li>Daniel DeLeo <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
 <li>John Bellone <a href="https://github.com/johnbellone">github</a>, <a href="https://twitter.com/johnbellone">twitter</a></li>
 <li>Michael Hedgpeth <a href="https://github.com/mhedgpeth">github</a>, <a href="https://github.com/mhedgpeth">twitter</a>, <a href="http://hedge-ops.com/">blog</a></li>
+<li>Daniel DeLeo <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>George Miranda <a href="https://github.com/gmiranda23">github</a>, <a href="https://twitter.com/gmiranda23">twitter</a></li>
 <li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
 </ul>
@@ -63,7 +64,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays DFW]]></title>
     <link href="http://foodfightshow.org//2016/09/devopsdays-dfw.html"/>
-    <updated>2016-09-26T20:34:00+03:00</updated>
+    <updated>2016-09-26T20:34:00-04:00</updated>
     <id>http://foodfightshow.org//2016/09/devopsdays-dfw</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2016/09/devopsdays-dfw.html#panel">Panel</a></li>
@@ -132,7 +133,7 @@
   <entry>
     <title type="html"><![CDATA[Awesome Community Chefs]]></title>
     <link href="http://foodfightshow.org//2016/09/awesome-community-chefs.html"/>
-    <updated>2016-09-22T20:22:00+03:00</updated>
+    <updated>2016-09-22T20:22:00-04:00</updated>
     <id>http://foodfightshow.org//2016/09/awesome-community-chefs</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2016/09/awesome-community-chefs.html#panel">Panel</a></li>
@@ -196,7 +197,7 @@
   <entry>
     <title type="html"><![CDATA[Habitat]]></title>
     <link href="http://foodfightshow.org//2016/06/habitat.html"/>
-    <updated>2016-06-20T13:36:00+03:00</updated>
+    <updated>2016-06-20T13:36:00-04:00</updated>
     <id>http://foodfightshow.org//2016/06/habitat</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -295,7 +296,7 @@
   <entry>
     <title type="html"><![CDATA[InSpec]]></title>
     <link href="http://foodfightshow.org//2016/02/inspec.html"/>
-    <updated>2016-02-21T21:51:00+02:00</updated>
+    <updated>2016-02-21T21:51:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/inspec</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -563,7 +564,7 @@
   <entry>
     <title type="html"><![CDATA[Design Thinking]]></title>
     <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
-    <updated>2016-02-09T08:33:00+02:00</updated>
+    <updated>2016-02-09T08:33:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/design-thinking</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -798,7 +799,7 @@
   <entry>
     <title type="html"><![CDATA[Configuration Management Camp 2016]]></title>
     <link href="http://foodfightshow.org//2016/02/configuration-management-camp-2016.html"/>
-    <updated>2016-02-08T12:19:00+02:00</updated>
+    <updated>2016-02-08T12:19:00-05:00</updated>
     <id>http://foodfightshow.org//2016/02/configuration-management-camp-2016</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2016</a> recorded live at the end of the conference.</p>
 
@@ -868,7 +869,7 @@
   <entry>
     <title type="html"><![CDATA[Chef and OpenStack]]></title>
     <link href="http://foodfightshow.org//2015/12/chef-and-openstack.html"/>
-    <updated>2015-12-28T17:36:00+02:00</updated>
+    <updated>2015-12-28T17:36:00-05:00</updated>
     <id>http://foodfightshow.org//2015/12/chef-and-openstack</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -1012,7 +1013,7 @@
   <entry>
     <title type="html"><![CDATA[Learning Reviews]]></title>
     <link href="http://foodfightshow.org//2015/10/learning-reviews.html"/>
-    <updated>2015-10-23T08:42:00+03:00</updated>
+    <updated>2015-10-23T08:42:00-04:00</updated>
     <id>http://foodfightshow.org//2015/10/learning-reviews</id>
     <content type="html"><![CDATA[<p>Join us for a discussion of Learning Reviews.  What and how can we learn from failure?</p>
 
@@ -1174,7 +1175,7 @@
   <entry>
     <title type="html"><![CDATA[Audit Mode &amp; Compliance]]></title>
     <link href="http://foodfightshow.org//2015/07/audit-mode-and-compliance.html"/>
-    <updated>2015-07-14T11:16:00+03:00</updated>
+    <updated>2015-07-14T11:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/07/audit-mode-and-compliance</id>
     <content type="html"><![CDATA[<p>Listen in as we discuss Chef&#8217;s Audit Mode, Analytics, and compliance.</p>
 
@@ -1363,7 +1364,7 @@
   <entry>
     <title type="html"><![CDATA[Managing Secrets - In the Vault]]></title>
     <link href="http://foodfightshow.org//2015/06/managing-secrets-in-the-vault.html"/>
-    <updated>2015-06-16T07:16:00+03:00</updated>
+    <updated>2015-06-16T07:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/managing-secrets-in-the-vault</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -1541,7 +1542,7 @@
   <entry>
     <title type="html"><![CDATA[DevOpsDays DC]]></title>
     <link href="http://foodfightshow.org//2015/06/devopsdays-dc.html"/>
-    <updated>2015-06-12T17:14:00+03:00</updated>
+    <updated>2015-06-12T17:14:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/devopsdays-dc</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://devopsdaysdc.org">DevOpsDays DC</a> recorded live at the end of the conference.</p>
 
@@ -1598,7 +1599,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Day 3 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-3-recap.html"/>
-    <updated>2015-04-12T09:51:00+03:00</updated>
+    <updated>2015-04-12T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-3-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1664,7 +1665,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Day 2 Recap]]></title>
     <link href="http://foodfightshow.org//2015/04/chefconf-day-2-recap.html"/>
-    <updated>2015-04-11T09:51:00+03:00</updated>
+    <updated>2015-04-11T09:51:00-04:00</updated>
     <id>http://foodfightshow.org//2015/04/chefconf-day-2-recap</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1748,7 +1749,7 @@
   <entry>
     <title type="html"><![CDATA[ChefConf Preview]]></title>
     <link href="http://foodfightshow.org//2015/03/chefconf-preview.html"/>
-    <updated>2015-03-05T15:15:00+02:00</updated>
+    <updated>2015-03-05T15:15:00-05:00</updated>
     <id>http://foodfightshow.org//2015/03/chefconf-preview</id>
     <content type="html"><![CDATA[<h1>Watch now</h1>
 
@@ -1948,7 +1949,7 @@
   <entry>
     <title type="html"><![CDATA[Configuration Management Camp]]></title>
     <link href="http://foodfightshow.org//2015/02/configuration-management-camp.html"/>
-    <updated>2015-02-11T10:34:00+02:00</updated>
+    <updated>2015-02-11T10:34:00-05:00</updated>
     <id>http://foodfightshow.org//2015/02/configuration-management-camp</id>
     <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2015</a> recorded live at the end of the conference.</p>
 
@@ -2039,7 +2040,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
     <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
-    <updated>2015-01-29T10:21:00+02:00</updated>
+    <updated>2015-01-29T10:21:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
     <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
 
@@ -2252,7 +2253,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Three Year Retrospective]]></title>
     <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
-    <updated>2015-01-20T10:59:00+02:00</updated>
+    <updated>2015-01-20T10:59:00-05:00</updated>
     <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2430,7 +2431,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[Apache Kafka]]></title>
     <link href="http://foodfightshow.org//2014/11/apache-kafka.html"/>
-    <updated>2014-11-17T10:55:00+02:00</updated>
+    <updated>2014-11-17T10:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/apache-kafka</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
@@ -2573,7 +2574,7 @@ W* here does ZooKeeper fit in?</li>
   <entry>
     <title type="html"><![CDATA[DevOpsDays Belgium 2014]]></title>
     <link href="http://foodfightshow.org//2014/11/devopsdays-belgium-2014.html"/>
-    <updated>2014-11-04T21:55:00+02:00</updated>
+    <updated>2014-11-04T21:55:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/devopsdays-belgium-2014</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline">Outline</a></li>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hashicorp | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/hashicorp/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-12T23:22:59+02:00</updated>
+  <updated>2016-12-17T11:08:02-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Managing Secrets - In the Vault]]></title>
     <link href="http://foodfightshow.org//2015/06/managing-secrets-in-the-vault.html"/>
-    <updated>2015-06-16T07:16:00+03:00</updated>
+    <updated>2015-06-16T07:16:00-04:00</updated>
     <id>http://foodfightshow.org//2015/06/managing-secrets-in-the-vault</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -194,7 +194,7 @@
   <entry>
     <title type="html"><![CDATA[Consul Template]]></title>
     <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
-    <updated>2014-11-04T21:54:00+02:00</updated>
+    <updated>2014-11-04T21:54:00-05:00</updated>
     <id>http://foodfightshow.org//2014/11/consul-template</id>
     <content type="html"><![CDATA[<h2>Watch Now</h2>
 
