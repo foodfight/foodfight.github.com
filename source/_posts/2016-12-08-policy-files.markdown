@@ -8,11 +8,9 @@ categories:
   - berkshelf
 ---
 
- # Coming Soon!
+# Coming Soon!
 
- This episode will be recorded on [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
-
-<!-- more -->
+This episode will be recorded on [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
 
 Panel<a name="panel"></a>
 -----
@@ -33,7 +31,7 @@ Have quuestions about Policyfiles or want to make suggestions about the topics w
 
 Download
 --------
-* Coming Soon!
+* Coming Soon! - This episode will be recorded on [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
 
 <hr />
 
