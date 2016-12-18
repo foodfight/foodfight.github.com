@@ -12,6 +12,8 @@ categories:
 
 This episode will be recorded on [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
 
+Join the discussion in the \#foodfight channel of the [Chef Community Slack team](http://community-slack.chef.io/).
+
 Panel<a name="panel"></a>
 -----
 
