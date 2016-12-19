@@ -6,6 +6,10 @@ comments: true
 categories:
   - policyfiles
   - berkshelf
+  - michaelhedgpeth
+  - johnbellone
+  - kallistec
+  - gmiranda23
 ---
 
 # Coming Soon!
@@ -18,7 +22,7 @@ Panel<a name="panel"></a>
 -----
 
 * John Bellone [github](https://github.com/johnbellone), [twitter](https://twitter.com/johnbellone)
-* Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth), [blog](http://hedge-ops.com/)
+* Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://twitter.com/michaelhedgpeth) [blog](http://hedge-ops.com/)
 * Daniel DeLeo [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * George Miranda [github](https://github.com/gmiranda23), [twitter](https://twitter.com/gmiranda23)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
