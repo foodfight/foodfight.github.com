@@ -12,9 +12,10 @@ categories:
   - gmiranda23
 ---
 
-# Coming Soon!
+# Watch Now!
 
-This episode will be recorded on [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/oSsfQ7hd6M4" frameborder="0" allowfullscreen></iframe>
 
 Join the discussion in the \#foodfight channel of the [Chef Community Slack team](http://community-slack.chef.io/).
 
