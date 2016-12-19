@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-19T14:09:17-05:00</updated>
+  <updated>2016-12-19T15:33:43-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -18,9 +18,10 @@
     <link href="http://foodfightshow.org//2016/12/policy-files.html"/>
     <updated>2016-12-08T12:21:00-05:00</updated>
     <id>http://foodfightshow.org//2016/12/policy-files</id>
-    <content type="html"><![CDATA[<h1>Coming Soon!</h1>
+    <content type="html"><![CDATA[<h1>Watch Now!</h1>
 
-<p>This episode will be recorded on <a href="http://everytimezone.com/#2016-12-19,540,cn3">Monday, December 19, 21:00 UTC</a></p>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/oSsfQ7hd6M4" frameborder="0" allowfullscreen></iframe>
+
 
 <p>Join the discussion in the #foodfight channel of the <a href="http://community-slack.chef.io/">Chef Community Slack team</a>.</p>
 
