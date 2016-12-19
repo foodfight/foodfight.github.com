@@ -17,7 +17,13 @@ categories:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/oSsfQ7hd6M4" frameborder="0" allowfullscreen></iframe>
 
-Join the discussion in the \#foodfight channel of the [Chef Community Slack team](http://community-slack.chef.io/).
+
+* [Panel](http://foodfightshow.org/2016/12/policy-files.html#panel)
+* [Outline](http://foodfightshow.org/2016/12/policy-files.html#outline)
+* [Picks](http://foodfightshow.org/2016/12/policy-files.html#picks)
+* Download
+  * [Video](http://youtu.be/oSsfQ7hd6M4)
+  * Audio - coming soon!
 
 Panel<a name="panel"></a>
 -----
@@ -32,13 +38,44 @@ Panel<a name="panel"></a>
 Outline & Show Notes<a name="outline"></a>
 -------
 
-Have quuestions about Policyfiles or want to make suggestions about the topics we will cover in this episode?
+Picks<a name="picks"></a>
+-----
 
-[Submit a Pull Request to our Show Script](https://github.com/foodfight/showz/blob/master/scripts/episode-103-policyfiles.md) or let [@foodfightshow](https://twitter.com/foodfightshow) know on twitter.
+### John
+
+* [Kindle Unlimited subscription](https://www.amazon.com/gp/kindle/ku/gift_landing)
+* [Elite Dangerous](https://www.elitedangerous.com)
+
+### Michael
+
+### Nell
+
+### George
+
+* Rogue One - as a jaded Star Wars fan, still a thumbs up!
+* [DJ Adam 12 - The Purple Tribute](https://soundcloud.com/dj-adam-12/purple-tribute-the-purple-loft/)
+* [The Tacopedia](https://www.amazon.com/Tacopedia-Deborah-Holtz/dp/0714870471/) - I haven't read this version, but it's supposedly the translated form of [La Tacopedia](https://www.amazon.com/tacopedia-Enciclopedia-del-taco-Spanish/dp/6077663352) which is amazing
+
+### Dan
+
+* Expanse
+  * [on TV](http://www.syfy.com/theexpanse)
+  * [books](https://www.amazon.com/James-S.-A.-Corey/e/B004AQ1W8Y/ref=sr_tc_2_0?qid=1482185364&sr=1-2-ent)
+* [User Story Mapping](http://shop.oreilly.com/product/0636920033851.do)
+* [Jeff Patton](http://jpattonassociates.com/)
+
+### Nathen
+
+* [DevOpsDays](https://www.devopsdays.org/) with special calls out to:
+  * [DevOpsDays Tel Aviv](https://www.devopsdays.org/events/2016-telaviv/welcome/)
+  * [DevOpsDays Baltimore](https://www.devopsdays.org/events/2017-baltimore/welcome/)
+* [Shakshouka](https://en.wikipedia.org/wiki/Shakshouka)
+
 
 Download
 --------
-* Coming Soon! - This episode will be recorded on [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
+* [Video](http://youtu.be/oSsfQ7hd6M4)
+* Audio - coming soon!
 
 <hr />
 
