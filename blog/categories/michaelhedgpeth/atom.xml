@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: michaelhedgpeth | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/michaelhedgpeth/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2016-12-19T14:09:17-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Policyfiles]]></title>
+    <link href="http://foodfightshow.org//2016/12/policy-files.html"/>
+    <updated>2016-12-08T12:21:00-05:00</updated>
+    <id>http://foodfightshow.org//2016/12/policy-files</id>
+    <content type="html"><![CDATA[<h1>Coming Soon!</h1>
+
+<p>This episode will be recorded on <a href="http://everytimezone.com/#2016-12-19,540,cn3">Monday, December 19, 21:00 UTC</a></p>
+
+<p>Join the discussion in the #foodfight channel of the <a href="http://community-slack.chef.io/">Chef Community Slack team</a>.</p>
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>John Bellone <a href="https://github.com/johnbellone">github</a>, <a href="https://twitter.com/johnbellone">twitter</a></li>
+<li>Michael Hedgpeth <a href="https://github.com/mhedgpeth">github</a>, <a href="https://twitter.com/michaelhedgpeth">twitter</a> <a href="http://hedge-ops.com/">blog</a></li>
+<li>Daniel DeLeo <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>George Miranda <a href="https://github.com/gmiranda23">github</a>, <a href="https://twitter.com/gmiranda23">twitter</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<p>Have quuestions about Policyfiles or want to make suggestions about the topics we will cover in this episode?</p>
+
+<p><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-103-policyfiles.md">Submit a Pull Request to our Show Script</a> or let <a href="https://twitter.com/foodfightshow">@foodfightshow</a> know on twitter.</p>
+
+<h2>Download</h2>
+
+<ul>
+<li>Coming Soon! - This episode will be recorded on <a href="http://everytimezone.com/#2016-12-19,540,cn3">Monday, December 19, 21:00 UTC</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
