@@ -54,8 +54,8 @@ Outline & Show Notes<a name="outline"></a>
  * [Current state clarity, Part 2 – Policyfiles](https://blog.chef.io/2016/12/19/current-state-clarity-part-2-policyfiles/)
 * Getting Started with Policyfiles
  * [hedge-ops.com/policyfiles](http://hedge-ops.com/policyfiles/)
- * #policyfile topic on Chef Community Slack
- 
+ * \#policyfile topic on Chef Community Slack
+
 Picks<a name="picks"></a>
 -----
 
