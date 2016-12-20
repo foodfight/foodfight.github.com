@@ -38,6 +38,24 @@ Panel<a name="panel"></a>
 Outline & Show Notes<a name="outline"></a>
 -------
 
+* Upcoming Events
+ * [Seattle Chef Meetup – Game Night!](https://www.chef.io/blog/event/seattle-chef-meetup-game-night/)
+ * [DevOps Remote Conference](https://www.chef.io/blog/event/devops-remote-conference/)
+ * [Microsoft Azure on Chef Workshop](https://www.chef.io/blog/event/microsoft-azure-on-chef-workshop/)
+ * [Config Management Camp](https://www.chef.io/blog/event/config-management-camp-3/)
+ * [ChefConf 2017](https://chefconf.chef.io/): [Submit a CFP](https://chefconf.chef.io/call-for-presentations/) by January 18th!
+* [Join our Chef Community Slack Channel!](http://community-slack.chef.io/)
+* What was the motivation for the feature? What problems was it trying to solve?
+* How did you get started using the feature?
+* Using the Feature
+* What keeps people from using it?
+* Benefits
+ * [Policyfiles, Push Jobs, and Provisioning – Clarity on the current state of the Chef ecosystem](https://blog.chef.io/2016/12/16/policyfiles-push-jobs-and-provisioning-clarity-on-the-current-state/)
+ * [Current state clarity, Part 2 – Policyfiles](https://blog.chef.io/2016/12/19/current-state-clarity-part-2-policyfiles/)
+* Getting Started with Policyfiles
+ * [hedge-ops.com/policyfiles](http://hedge-ops.com/policyfiles/)
+ * #policyfile topic on Chef Community Slack
+ 
 Picks<a name="picks"></a>
 -----
 
@@ -48,7 +66,14 @@ Picks<a name="picks"></a>
 
 ### Michael
 
+* [cafe](https://github.com/mhedgpeth/cafe)
+* Bloody Marys
+* [Macklemore - Ten Thousand Hours](https://www.youtube.com/watch?v=iEr5H4E4r3I)
+
 ### Nell
+
+* [Round Medication Management App](https://roundhealth.co/app/)
+* [Allegiance](http://allegiancemusical.com/#tw35tIMOFtXVVJiT.97)
 
 ### George
 
