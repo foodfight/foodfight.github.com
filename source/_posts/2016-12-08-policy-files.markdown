@@ -15,15 +15,15 @@ categories:
 # Watch Now!
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/oSsfQ7hd6M4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/a5YT7JVBwi4" frameborder="0" allowfullscreen></iframe>
 
 
 * [Panel](http://foodfightshow.org/2016/12/policy-files.html#panel)
 * [Outline](http://foodfightshow.org/2016/12/policy-files.html#outline)
 * [Picks](http://foodfightshow.org/2016/12/policy-files.html#picks)
 * Download
-  * [Video](http://youtu.be/oSsfQ7hd6M4)
-  * Audio - coming soon!
+  * [Video](http://youtu.be/a5YT7JVBwi4)
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS103Policyfiles.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -99,8 +99,8 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* [Video](http://youtu.be/oSsfQ7hd6M4)
-* Audio - coming soon!
+* [Video](http://youtu.be/a5YT7JVBwi4)
+* [Audio](http://traffic.libsyn.com/foodfight/FFS103Policyfiles.mp3)
 
 <hr />
 
