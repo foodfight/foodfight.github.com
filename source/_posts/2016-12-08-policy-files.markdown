@@ -39,11 +39,11 @@ Outline & Show Notes<a name="outline"></a>
 -------
 
 * Upcoming Events
- * [Seattle Chef Meetup – Game Night!](https://www.chef.io/blog/event/seattle-chef-meetup-game-night/)
- * [DevOps Remote Conference](https://www.chef.io/blog/event/devops-remote-conference/)
- * [Microsoft Azure on Chef Workshop](https://www.chef.io/blog/event/microsoft-azure-on-chef-workshop/)
- * [Config Management Camp](https://www.chef.io/blog/event/config-management-camp-3/)
- * [ChefConf 2017](https://chefconf.chef.io/): [Submit a CFP](https://chefconf.chef.io/call-for-presentations/) by January 18th!
+    * [Seattle Chef Meetup – Game Night!](https://www.chef.io/blog/event/seattle-chef-meetup-game-night/)
+    * [DevOps Remote Conference](https://www.chef.io/blog/event/devops-remote-conference/)
+    * [Microsoft Azure on Chef Workshop](https://www.chef.io/blog/event/microsoft-azure-on-chef-workshop/)
+    * [Config Management Camp](https://www.chef.io/blog/event/config-management-camp-3/)
+    * [ChefConf 2017](https://chefconf.chef.io/): [Submit a CFP](https://chefconf.chef.io/call-for-presentations/) by January 18th!
 * [Join our Chef Community Slack Channel!](http://community-slack.chef.io/)
 * What was the motivation for the feature? What problems was it trying to solve?
 * How did you get started using the feature?
