@@ -4,7 +4,7 @@
   <title><![CDATA[Category: policyfiles | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/policyfiles/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2016-12-20T16:37:23-05:00</updated>
+  <updated>2016-12-20T16:39:02-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -72,7 +72,7 @@
 <li><a href="https://blog.chef.io/2016/12/19/current-state-clarity-part-2-policyfiles/">Current state clarity, Part 2 – Policyfiles</a></li>
 <li>Getting Started with Policyfiles</li>
 <li><a href="http://hedge-ops.com/policyfiles/">hedge-ops.com/policyfiles</a></li>
-<li><h1>policyfile topic on Chef Community Slack</h1></li>
+<li>#policyfile topic on Chef Community Slack</li>
 </ul>
 
 
