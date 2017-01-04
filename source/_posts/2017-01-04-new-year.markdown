@@ -1,0 +1,30 @@
+---
+layout: post
+title: "A Year in Chef"
+date: 2016-12-08 12:21
+comments: true
+categories:
+  - chef
+  - solarce
+---
+
+# Coming Soon!
+
+This episode will be recorded on [Thursday, January 6, 2017, 18:00 UTC](http://everytimezone.com/#2017-1-6,360,cn3)
+
+Join the discussion in the \#foodfight channel of the [Chef Community Slack team](http://community-slack.chef.io/).
+
+Panel<a name="panel"></a>
+-----
+
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+Have questions about Chef in 2016 and what we might see in 2017 or want to make suggestions about the topics we will cover in this episode?
++
++[Submit a Pull Request to our Show Script](https://github.com/foodfight/showz/blob/master/scripts/episode-104-new-year-preview.md) or let [@foodfightshow](https://twitter.com/foodfightshow) know on twitter.
+
