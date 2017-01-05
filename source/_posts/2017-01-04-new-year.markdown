@@ -8,11 +8,16 @@ categories:
   - solarce
 ---
 
-# Coming Soon!
+# Watch Now!
 
-This episode will be recorded on [Thursday, January 5, 2017, 18:00 UTC](http://everytimezone.com/#2017-1-5,360,cn3)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/CHgzEwoEml4" frameborder="0" allowfullscreen></iframe>
 
-Join the discussion in the \#foodfight channel of the [Chef Community Slack team](http://community-slack.chef.io/).
+* [Panel](http://foodfightshow.org/2017/01/new-year.html#panel)
+* [Outline](http://foodfightshow.org/2017/01/new-year.html#outline)
+* [Picks](http://foodfightshow.org/2017/01/new-year.html#picks)
+* Download
+  * [Video](http://youtu.be/CHgzEwoEml4)
+  * Audio - Coming Soon!
 
 Panel<a name="panel"></a>
 -----
@@ -24,5 +29,38 @@ Panel<a name="panel"></a>
 Outline & Show Notes<a name="outline"></a>
 -------
 
-Have questions about Chef in 2016 and what we might see in 2017 or want to make suggestions about the topics we will cover in this episode?  [Submit a Pull Request to our Show Script](https://github.com/foodfight/showz/blob/master/scripts/episode-104-new-year-preview.md) or let [@foodfightshow](https://twitter.com/foodfightshow) know on twitter.
+Picks<a name="picks"></a>
+-----
+
+#### Nell
+
+* Top Chef Season 13 (10 years of Top Chef!)
+* Star Wars Commander iOS game
+
+#### Nathen
+
+* [DevOpsDays Baltimore](https://www.devopsdays.org/events/2017-baltimore/welcome/)
+* [ChefConf CFP](https://chefconf.chef.io/2017/)
+* [Configuration Management Camp 2017](http://cfgmgmtcamp.eu/) & the [Habitat Workshop following](http://cfgmgmtcamp.eu/fringe.html#habitat)
+
+
+#### Brandon
+
+* [AWS Advent](https://www.awsadvent.com/)
+  * Thank you to [Jennifer Davis](https://twitter.com/sigje), [Seth Thomas](https://twitter.com/cheeseplus), [Soenke Ruempler](https://twitter.com/s0enke), and all the editor and author contributors!
+* [SysAdvent](https://sysadvent.blogspot.com)
+  * [Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html) by [Alice Goldfuss](https://twitter.com/alicegoldfuss)
+
+Download
+--------
+* [Video](http://youtu.be/CHgzEwoEml4)
+* Audio - Coming Soon!
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
 
