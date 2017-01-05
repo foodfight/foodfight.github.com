@@ -10,7 +10,7 @@ categories:
 
 # Coming Soon!
 
-This episode will be recorded on [Thursday, January 6, 2017, 18:00 UTC](http://everytimezone.com/#2017-1-6,360,cn3)
+This episode will be recorded on [Thursday, January 5, 2017, 18:00 UTC](http://everytimezone.com/#2017-1-5,360,cn3)
 
 Join the discussion in the \#foodfight channel of the [Chef Community Slack team](http://community-slack.chef.io/).
 
