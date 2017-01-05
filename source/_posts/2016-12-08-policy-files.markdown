@@ -25,6 +25,8 @@ categories:
   * [Video](http://youtu.be/a5YT7JVBwi4)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS103Policyfiles.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
