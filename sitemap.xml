@@ -557,12 +557,12 @@
         <lastmod>2016-12-04T20:43:34-05:00</lastmod>
     </url>
     <url>
-        <loc>http://foodfightshow.org//2016/12/new-year.html</loc>
-        <lastmod>2017-01-04T21:50:10-05:00</lastmod>
-    </url>
-    <url>
         <loc>http://foodfightshow.org//2016/12/policy-files.html</loc>
         <lastmod>2016-12-20T16:38:30-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://foodfightshow.org//2017/01/new-year.html</loc>
+        <lastmod>2017-01-04T21:55:22-05:00</lastmod>
     </url>
     <url>
         <loc>http://foodfightshow.org//about/</loc>
@@ -570,10 +570,10 @@
     </url>
     <url>
         <loc>http://foodfightshow.org//blog/archives/</loc>
-        <lastmod>2017-01-04T21:50:10-05:00</lastmod>
+        <lastmod>2017-01-04T21:55:22-05:00</lastmod>
     </url>
     <url>
         <loc>http://foodfightshow.org//</loc>
-        <lastmod>2017-01-04T21:50:10-05:00</lastmod>
+        <lastmod>2017-01-04T21:55:22-05:00</lastmod>
     </url>
 </urlset>
