@@ -25,6 +25,6 @@ Outline & Show Notes<a name="outline"></a>
 -------
 
 Have questions about Chef in 2016 and what we might see in 2017 or want to make suggestions about the topics we will cover in this episode?
-+
-+[Submit a Pull Request to our Show Script](https://github.com/foodfight/showz/blob/master/scripts/episode-104-new-year-preview.md) or let [@foodfightshow](https://twitter.com/foodfightshow) know on twitter.
+
+[Submit a Pull Request to our Show Script](https://github.com/foodfight/showz/blob/master/scripts/episode-104-new-year-preview.md) or let [@foodfightshow](https://twitter.com/foodfightshow) know on twitter.
 
