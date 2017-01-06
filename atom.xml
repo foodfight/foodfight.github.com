@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2017-01-06T13:46:25-05:00</updated>
+  <updated>2017-01-06T13:54:06-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sous Chefs]]></title>
+    <link href="http://foodfightshow.org//2017/01/sous-chefs.html"/>
+    <updated>2017-01-06T13:47:00-05:00</updated>
+    <id>http://foodfightshow.org//2017/01/sous-chefs</id>
+    <content type="html"><![CDATA[<p>Join us <a href="http://everytimezone.com/#2017-01-24,540,cn3">Tuesday, January 24, 2017, 21:00 UTC</a> as we meet the Sous Chefs.</p>
+
+<ul>
+<li><a href="http://sous-chefs.org/">Learn more about the Sous Chefs</a></li>
+<li><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-105-sous-chefs.md">Contribute to the show outline</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Year in Chef]]></title>
@@ -2669,149 +2684,6 @@ W* here does ZooKeeper fit in?</li>
 <ul>
 <li><a href="http://youtu.be/o4Qz1mHTpE4">Video</a></li>
 <li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow86-ThreeYearRetrospective.mp3">Audio</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apache Kafka]]></title>
-    <link href="http://foodfightshow.org//2014/11/apache-kafka.html"/>
-    <updated>2014-11-17T10:55:00-05:00</updated>
-    <id>http://foodfightshow.org//2014/11/apache-kafka</id>
-    <content type="html"><![CDATA[<h2>Watch Now</h2>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/3b-sjsVMgd0" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2014/11/apache-kafka.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2014/11/apache-kafka.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2014/11/apache-kafka.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=3b-sjsVMgd0">Video</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow85-Apache-Kafka.mp3">Audio</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-<li>Jay Kreps <a href="https://twitter.com/jaykreps">twitter</a> <a href="https://twitter.com/jaykreps">blog</a></li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Outline<a name="outline"></a></h2>
-
-<ul>
-<li><a href="http://linkedin.com">LinkedIn</a></li>
-<li>Apache Kafka
-
-<ul>
-<li><a href="http://twitter.com/apachekafka">@apachekafka</a></li>
-</ul>
-</li>
-<li><strong>Kafka Defined</strong>: Kafka is a distributed, partitioned, replicated commit log service. It provides the functionality of a messaging system, but with a unique design.
-
-<ul>
-<li><a href="http://kafka.apache.org/documentation.html#introduction">Getting Started: Introduction</a></li>
-<li><a href="https://cwiki.apache.org/confluence/display/KAFKA/FAQ">FAQ</a></li>
-<li><a href="https://kafka.apache.org/documentation.html">Documentation</a></li>
-<li><a href="https://kafka.apache.org/contact.html">Mailing Lists</a></li>
-<li>irc.freenode.net/#apache-kafka</li>
-</ul>
-</li>
-<li>Replication &amp; Use Cases
-
-<ul>
-<li>Partitions</li>
-</ul>
-</li>
-<li><a href="http://zookeeper.apache.org/">ZooKeeper</a> &amp; Kafka
-
-<ul>
-<li><a href="http://hadoop.apache.org/">Apache Hadoop</a></li>
-</ul>
-</li>
-<li><a href="http://confluent.io/">Confluent</a>
-
-<ul>
-<li><a href="http://twitter.com/ConfluentInc">@ConfluentInc</a></li>
-<li><a href="https://www.linkedin.com/pulse/article/20141106180403-2945786-announcing-confluent-a-company-for-apache-kafka-and-realtime-data">Confluent Launch</a></li>
-</ul>
-</li>
-<li>Building a Company Around Open Source Infrastructure
-
-<ul>
-<li>Support &amp; Services</li>
-<li><a href="http://www.docker.com/">Docker Inc.</a>, <a href="https://hashicorp.com/">HashiCorp</a></li>
-<li>&#8220;Hosted Open Source&#8221;</li>
-<li><a href="http://aws.amazon.com/kinesis/">Amazon Kinesis</a></li>
-<li>Opportunity &amp; Funding</li>
-</ul>
-</li>
-<li>Ecosystems and &#8220;The Stream&#8221;
-
-<ul>
-<li><a href="https://github.com/getsamsa/samsa">samsa</a> - Productizing Kafka</li>
-<li>[Blog Post] Jay Kreps -<a href="http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying"> The Log: What every software engineer should know about real-time data&#8217;s unifying abstraction</a></li>
-</ul>
-</li>
-<li>Distributing Data
-
-<ul>
-<li>Data Centers</li>
-<li>Abstractions
-
-<ul>
-<li>Topics and Queues</li>
-<li>Consumers and Partitions</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="http://blog.sanctum.geek.nz/zooming-tmux-panes/">tmux pane zooming</a></li>
-</ul>
-
-
-<h4>Jay</h4>
-
-<ul>
-<li><a href="https://reinvent.awsevents.com/pressroom.html">Amazon AWS RE:Invent 2014 Product Announcements</a></li>
-<li><a href="http://druid.io/druid.html">Druid.io Analytics Processing</a></li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=3b-sjsVMgd0">Video</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow85-Apache-Kafka.mp3">Audio</a></li>
 </ul>
 
 
