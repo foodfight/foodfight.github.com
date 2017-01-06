@@ -29,13 +29,44 @@ Panel<a name="panel"></a>
 Outline & Show Notes<a name="outline"></a>
 -------
 
+* Personal Updates
+* Food Fight Show Reflections
+  * [Configuration Management Camp 2016](http://foodfightshow.org/2016/02/configuration-management-camp-2016.html)
+  * [DevOpsDays DFW](http://foodfightshow.org/2016/09/devopsdays-dfw.html)
+  * [Habitat](http://foodfightshow.org/2016/06/habitat.html)
+  * [Design Thinking](http://foodfightshow.org/2016/02/design-thinking.html)
+  * [InSpec](http://foodfightshow.org/2016/02/inspec.html)
+    * [Nell Shamrell: Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs)
+* [Chef Board of Governance (CBGB)](https://github.com/chef/chef-rfc/blob/master/rfc029-governance-policy.md)
+* [Chef Community Guidelines](https://docs.chef.io/community_guidelines.html)
+* [Chef Partner Cookbook Program](https://www.chef.io/partners/cookbooks/)
+  * [An example of the quality measures of a cookbook](https://supermarket.chef.io/cookbooks/datadog#quality)
+  * [Other metrics we're looking to implement](https://github.com/chef-cookbooks/cookbook-quality-metrics)
+* [Habitat](https://www.habitat.sh/)
+* Chef Community Members and Contributors
+  * [Chef Community Slack](http://community-slack.chef.io/)
+    * [rfc074-community-slack.md](https://github.com/chef/chef-rfc/blob/master/rfc074-community-slack.md)
+  * [hangops.slack.com](https://signup.hangops.com/)
+* Getting Rid of the Contributor License Agreement (CLA) and [Introducing Developer Certificate of Origin (DCO)](https://blog.chef.io/2016/09/19/introducing-developer-certificate-of-origin/)
+* Conferences
+  * [Rachel Trombetta, GE Digital - ChefConf 2016 Keynote](https://www.youtube.com/watch?v=FUla4UHlZEM)
+  * [Hugging in the Chef Community](https://github.com/chef/chef-rfc/blob/master/rfc061-hugs.md)
+* Upcoming Food Fight Show Episodes
+  * Sioux Chefs
+  * A3 Thinking
+  * Live Show from [Microsoft Ignite](https://msftignite.com.au/)
+  * [Config Management Camp](http://cfgmgmtcamp.eu/) Wrapup
+  * [Terraform](https://www.terraform.io/)
+  * [AWS OpsWorks](https://aws.amazon.com/opsworks/)
+* 2017 Predictions
+
 Picks<a name="picks"></a>
 -----
 
 #### Nell
 
-* Top Chef Season 13 (10 years of Top Chef!)
-* Star Wars Commander iOS game
+* [Top Chef](http://www.bravotv.com/top-chef) Season 13 (10 years of Top Chef!)
+* [Star Wars Commander iOS Game](https://itunes.apple.com/us/app/star-wars-commander/id847985808?mt=8)
 
 #### Nathen
 
