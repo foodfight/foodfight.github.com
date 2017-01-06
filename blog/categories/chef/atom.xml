@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chef | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/chef/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2017-01-05T14:29:24-05:00</updated>
+  <updated>2017-01-06T13:46:25-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -31,7 +31,7 @@
 
 <ul>
 <li><a href="http://youtu.be/Llo-DKBRAs4">Video</a></li>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS104.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -48,13 +48,75 @@
 
 <h2>Outline &amp; Show Notes<a name="outline"></a></h2>
 
+<ul>
+<li>Personal Updates</li>
+<li>Food Fight Show Reflections
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html">Configuration Management Camp 2016</a></li>
+<li><a href="http://foodfightshow.org/2016/09/devopsdays-dfw.html">DevOpsDays DFW</a></li>
+<li><a href="http://foodfightshow.org/2016/06/habitat.html">Habitat</a></li>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html">Design Thinking</a></li>
+<li><a href="http://foodfightshow.org/2016/02/inspec.html">InSpec</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=OH6iDKaXpZs">Nell Shamrell: Untangling Terraform Through Refactoring</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://github.com/chef/chef-rfc/blob/master/rfc029-governance-policy.md">Chef Board of Governance (CBGB)</a></li>
+<li><a href="https://docs.chef.io/community_guidelines.html">Chef Community Guidelines</a></li>
+<li><a href="https://www.chef.io/partners/cookbooks/">Chef Partner Cookbook Program</a>
+
+<ul>
+<li><a href="https://supermarket.chef.io/cookbooks/datadog#quality">An example of the quality measures of a cookbook</a></li>
+<li><a href="https://github.com/chef-cookbooks/cookbook-quality-metrics">Other metrics we're looking to implement</a></li>
+</ul>
+</li>
+<li><a href="https://www.habitat.sh/">Habitat</a></li>
+<li>Chef Community Members and Contributors
+
+<ul>
+<li><a href="http://community-slack.chef.io/">Chef Community Slack</a>
+
+<ul>
+<li><a href="https://github.com/chef/chef-rfc/blob/master/rfc074-community-slack.md">rfc074-community-slack.md</a></li>
+</ul>
+</li>
+<li><a href="https://signup.hangops.com/">hangops.slack.com</a></li>
+</ul>
+</li>
+<li>Getting Rid of the Contributor License Agreement (CLA) and <a href="https://blog.chef.io/2016/09/19/introducing-developer-certificate-of-origin/">Introducing Developer Certificate of Origin (DCO)</a></li>
+<li>Conferences
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=FUla4UHlZEM">Rachel Trombetta, GE Digital - ChefConf 2016 Keynote</a></li>
+<li><a href="https://github.com/chef/chef-rfc/blob/master/rfc061-hugs.md">Hugging in the Chef Community</a></li>
+</ul>
+</li>
+<li>Upcoming Food Fight Show Episodes
+
+<ul>
+<li><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-105-sous-chefs.md">Sous Chefs</a> - <a href="http://everytimezone.com/#2017-01-24,540,cn3">Tuesday, January 24, 2017, 21:00 UTC</a></li>
+<li><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-xx-a3-thinking.md">A3 Thinking</a> - <a href="http://everytimezone.com/#2017-2-28,480,cn3">Tuesday, February 28, 2017 20:00 UTC</a></li>
+<li>Live Show from <a href="https://msftignite.com.au/">Microsoft Ignite</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp</a> Wrapup</li>
+<li><a href="https://www.terraform.io/">Terraform</a></li>
+<li><a href="https://aws.amazon.com/opsworks/">AWS OpsWorks</a></li>
+</ul>
+</li>
+<li>2017 Predictions</li>
+</ul>
+
+
 <h2>Picks<a name="picks"></a></h2>
 
 <h4>Nell</h4>
 
 <ul>
-<li>Top Chef Season 13 (10 years of Top Chef!)</li>
-<li>Star Wars Commander iOS game</li>
+<li><a href="http://www.bravotv.com/top-chef">Top Chef</a> Season 13 (10 years of Top Chef!)</li>
+<li><a href="https://itunes.apple.com/us/app/star-wars-commander/id847985808?mt=8">Star Wars Commander iOS Game</a></li>
 </ul>
 
 
@@ -89,7 +151,7 @@
 
 <ul>
 <li><a href="http://youtu.be/Llo-DKBRAs4">Video</a></li>
-<li>Audio - Coming Soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS104.mp3">Audio</a></li>
 </ul>
 
 
