@@ -27,7 +27,7 @@ Panel<a name="panel"></a>
 Outline & Show Notes<a name="outline"></a>
 -------
 
-## Chef & Food Fight Updates
+### Chef & Food Fight Updates
 
 * Join us in the [Chef Community Slack](http://community-slack.chef.io/)
 * [New InSpec website](http://inspec.io/)
@@ -38,7 +38,7 @@ Outline & Show Notes<a name="outline"></a>
   * Email us - [info@foodfightshow.org](mailto:info@foodfightshow.org)
   * Tell us in the [#foodfight channel in the Chef Community Slack](https://chefcommunity.slack.com/archives/foodfight)
 
-## Sous Chefs
+### Sous Chefs
 
 * [Learn more about the Sous Chefs](http://sous-chefs.org/)
 * What are the Sous Chefs?
