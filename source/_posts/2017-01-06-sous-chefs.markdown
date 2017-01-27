@@ -14,8 +14,8 @@ categories:
 * [Outline](http://foodfightshow.org/2017/01/sous-chefs.html#outline)
 * [Picks](http://foodfightshow.org/2017/01/sous-chefs.html#picks)
 * Download
-  * [Video](http://youtu.be/Llo-DKBRAs4)
-  * [Audio](http://traffic.libsyn.com/foodfight/FFS104.mp3)
+  * [Video](http://youtu.be/DYrCP_7_tCo)
+  * Audio - Coming Soon!
 
 Panel<a name="panel"></a>
 -----
@@ -56,14 +56,17 @@ Picks<a name="picks"></a>
 
 #### Grant
 
+* Chef Community Summit
+* ChefDK in a CI environment
 
 #### Joseph
 
+* Advanced Directive, Durable Power of Attorney, Estate Planning
 
 #### Nathen
 
-* [DevOpsDays Baltimore](https://www.devopsdays.org/events/2017-baltimore/welcome/)
-* [Configuration Management Camp 2017](http://cfgmgmtcamp.eu/) & the [Habitat Workshops following](http://cfgmgmtcamp.eu/fringe.html#habitat)
+* [InSpec](http://inspec.io/)
+* watch out for each other!
 
 Download
 --------
