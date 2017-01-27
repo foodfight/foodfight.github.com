@@ -8,7 +8,7 @@ categories:
 
 # Watch Now!
 
-The show will be broadcast live on [Friday, January 27, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-27,540,cn3).
+<iframe width="420" height="315" src="http://www.youtube.com/embed/DYrCP_7_tCo" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2017/01/sous-chefs.html#panel)
 * [Outline](http://foodfightshow.org/2017/01/sous-chefs.html#outline)
@@ -68,9 +68,7 @@ Picks<a name="picks"></a>
 Download
 --------
 
-The show will be broadcast live on [Friday, January 27, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-27,540,cn3).
-
-* Video - Coming Soon!
+* [Video](http://youtu.be/DYrCP_7_tCo)
 * Audio - Coming Soon!
 
 <hr />
