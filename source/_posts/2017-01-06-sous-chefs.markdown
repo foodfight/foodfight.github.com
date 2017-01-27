@@ -6,7 +6,76 @@ comments: true
 categories:
 ---
 
-Join us [Friday, January 27, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-27,540,cn3) as we meet the Sous Chefs.
+# Watch Now!
+
+The show will be broadcast live on [Friday, January 27, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-27,540,cn3).
+
+* [Panel](http://foodfightshow.org/2017/01/sous-chefs.html#panel)
+* [Outline](http://foodfightshow.org/2017/01/sous-chefs.html#outline)
+* [Picks](http://foodfightshow.org/2017/01/sous-chefs.html#picks)
+* Download
+  * [Video](http://youtu.be/Llo-DKBRAs4)
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS104.mp3)
+
+Panel<a name="panel"></a>
+-----
+
+* Grant Ridder [github](https://github.com/shortdudey123), [twitter](https://twitter.com/shortdudey123)
+* Joseph Holsten [twitter](https://twitter.com/josephholsten), [github](https://github.com/josephholsten), irc: josephholsten, [blog](http://blog.josephholsten.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+## Chef & Food Fight Updates
+
+* Join us in the [Chef Community Slack](http://community-slack.chef.io/)
+* [New InSpec website](http://inspec.io/)
+* [ChefConf](https://chefconf.chef.io/2017/)
+* [Upcoming Chef Events](https://events.chef.io/)
+* Have topic or guest ideas?  Who do you want to hear from?  What do you want to hear about?
+  * Tweet us - [@foodfighshow](https://twitter.com/foodfightshow)
+  * Email us - [info@foodfightshow.org](mailto:info@foodfightshow.org)
+  * Tell us in the [#foodfight channel in the Chef Community Slack](https://chefcommunity.slack.com/archives/foodfight)
+
+## Sous Chefs
 
 * [Learn more about the Sous Chefs](http://sous-chefs.org/)
-* [Contribute to the show outline](https://github.com/foodfight/showz/blob/master/scripts/episode-105-sous-chefs.md)
+* What?
+* Why?
+* Who?
+* How do the Sous Chefs decide which cookbooks to manage?
+* How does one move a cookbook to the Sous Chefs?
+* How does one become a Sous Chef?
+* What are the best practices for building community cookbooks?
+
+Picks<a name="picks"></a>
+-----
+
+#### Grant
+
+
+#### Joseph
+
+
+#### Nathen
+
+* [DevOpsDays Baltimore](https://www.devopsdays.org/events/2017-baltimore/welcome/)
+* [Configuration Management Camp 2017](http://cfgmgmtcamp.eu/) & the [Habitat Workshops following](http://cfgmgmtcamp.eu/fringe.html#habitat)
+
+Download
+--------
+
+The show will be broadcast live on [Friday, January 27, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-27,540,cn3).
+
+* Video - Coming Soon!
+* Audio - Coming Soon!
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+
