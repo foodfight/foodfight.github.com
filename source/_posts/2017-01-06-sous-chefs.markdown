@@ -61,7 +61,7 @@ Picks<a name="picks"></a>
 
 #### Joseph
 
-* Advanced Directive, Durable Power of Attorney, Estate Planning
+* Advanced Directive, Durable Power of Attorney, End-of-life planning
 
 #### Nathen
 
