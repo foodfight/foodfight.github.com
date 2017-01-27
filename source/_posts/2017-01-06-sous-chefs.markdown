@@ -45,6 +45,7 @@ Outline & Show Notes<a name="outline"></a>
 * Why?
 * Who?
 * How do the Sous Chefs decide which cookbooks to manage?
+* What are some recent updates made by the Sous Chefs?
 * How does one move a cookbook to the Sous Chefs?
 * How does one become a Sous Chef?
 * What are the best practices for building community cookbooks?
