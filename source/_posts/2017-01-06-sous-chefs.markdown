@@ -40,16 +40,16 @@ Outline & Show Notes<a name="outline"></a>
 
 ### Sous Chefs
 
-* [Learn more about the Sous Chefs](http://sous-chefs.org/)
 * What are the Sous Chefs?
+  * [Learn more about the Sous Chefs](http://sous-chefs.org/)
 * Why was the group formed?
-* Who are the Sous Chefs?
 * How do the Sous Chefs decide which cookbooks to manage?
-* What are some recent updates made by the Sous Chefs?
-* How do you organize your work?  Meetings?!
 * How does one move a cookbook to the Sous Chefs?
-* How does one become a Sous Chef?
+  * [Transferring a Cookbook](https://github.com/sous-chefs/meta/blob/master/transfering-a-cookbook.md)
+  * [Membership](https://github.com/sous-chefs/meta/blob/master/membership.md)
+* Chef Software Inc. and the Sous Chefs
 * What are the best practices for building community cookbooks?
+* Cookbook design patterns
 
 Picks<a name="picks"></a>
 -----
