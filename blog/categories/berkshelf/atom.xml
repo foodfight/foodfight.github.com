@@ -4,7 +4,7 @@
   <title><![CDATA[Category: berkshelf | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/berkshelf/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2017-01-27T17:12:47-05:00</updated>
+  <updated>2017-01-30T12:02:05-08:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Policyfiles]]></title>
     <link href="http://foodfightshow.org//2016/12/policy-files.html"/>
-    <updated>2016-12-08T12:21:00-05:00</updated>
+    <updated>2016-12-08T12:21:00-08:00</updated>
     <id>http://foodfightshow.org//2016/12/policy-files</id>
     <content type="html"><![CDATA[<h1>Watch Now!</h1>
 
@@ -166,7 +166,7 @@
   <entry>
     <title type="html"><![CDATA[ChefDK]]></title>
     <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
-    <updated>2014-08-27T12:10:00-04:00</updated>
+    <updated>2014-08-27T12:10:00-07:00</updated>
     <id>http://foodfightshow.org//2014/08/chefdk</id>
     <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
 
@@ -468,7 +468,7 @@
   <entry>
     <title type="html"><![CDATA[Cookbook Patterns]]></title>
     <link href="http://foodfightshow.org//2014/04/cookbook-patterns.html"/>
-    <updated>2014-04-29T18:05:00-04:00</updated>
+    <updated>2014-04-29T18:05:00-07:00</updated>
     <id>http://foodfightshow.org//2014/04/cookbook-patterns</id>
     <content type="html"><![CDATA[<h1>Watch Now</h1>
 
@@ -639,7 +639,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day 1]]></title>
     <link href="http://foodfightshow.org//2013/11/community-summit-day-1.html"/>
-    <updated>2013-11-19T10:35:00-05:00</updated>
+    <updated>2013-11-19T10:35:00-08:00</updated>
     <id>http://foodfightshow.org//2013/11/community-summit-day-1</id>
     <content type="html"><![CDATA[<p>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.</p>
 
@@ -717,7 +717,7 @@
   <entry>
     <title type="html"><![CDATA[Community Summit - Day One]]></title>
     <link href="http://foodfightshow.org//2012/10/community-summit-day-one.html"/>
-    <updated>2012-10-23T17:47:00-04:00</updated>
+    <updated>2012-10-23T17:47:00-07:00</updated>
     <id>http://foodfightshow.org//2012/10/community-summit-day-one</id>
     <content type="html"><![CDATA[<p>Show Date:  Tuesday October 23</p>
 
