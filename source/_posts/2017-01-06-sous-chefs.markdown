@@ -15,7 +15,7 @@ categories:
 * [Picks](http://foodfightshow.org/2017/01/sous-chefs.html#picks)
 * Download
   * [Video](http://youtu.be/DYrCP_7_tCo)
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS105.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -72,7 +72,7 @@ Download
 --------
 
 * [Video](http://youtu.be/DYrCP_7_tCo)
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS105.mp3)
 
 <hr />
 
