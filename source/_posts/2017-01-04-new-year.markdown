@@ -19,6 +19,8 @@ categories:
   * [Video](http://youtu.be/Llo-DKBRAs4)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS104.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 

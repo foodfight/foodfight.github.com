@@ -11,11 +11,12 @@ categories:
 
 Listen in to this recap from [Configuration Management Camp Gent 2017](http://cfgmgmtcamp.eu/).
 
-* [Panel](http://foodfightshow.org/2017/02/configuration-management-camp-2017.html#panel)
 * [Outline](http://foodfightshow.org/2017/02/configuration-management-camp-2017.html#outline)
 * [Picks](http://foodfightshow.org/2017/02/configuration-management-camp-2017.html#picks)
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/FFS106.mp3)
+
+<!-- more -->
 
 Show Notes<a name="outline"></a>
 -------

@@ -1,18 +1,95 @@
 ---
 layout: post
 title: "A3 Thinking"
-date: 2017-02-17 22:25
+date: 2017-02-28 22:25
 comments: true
 categories:
   - benr
-  - mountzcjr
   - catswetel
 
 ---
 This episode will air on [Tuesday, February 28, 2017 at 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3).
+
+Join the conversation in the \#foodfight channel of the [Chef Community Slack](http://community-slack.chef.io/).
 
 * [Panel](http://foodfightshow.org/2017/02/a3-thinking.html#panel)
 * [Outline](http://foodfightshow.org/2017/02/a3-thinking.html#outline)
 * [Picks](http://foodfightshow.org/2017/02/a3-thinking.html#picks)
 * Download
   * Coming Soon!  This episode will air on [Tuesday, February 28, 2017 at 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3).
+
+Panel<a name="panel"></a>
+-----
+
+* Alan Kraft
+* Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
+* Catherine Swetel [twitter](https://twitter.com/CatSwetel), [github](https://github.com/catswetel)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+### Chef & Food Fight Updates
+
+* Join us in the [Chef Community Slack](http://community-slack.chef.io/)
+* [New Habitat homepage](https://www.habitat.sh/)
+* [ChefConf](https://chefconf.chef.io/2017/)
+  * Workshops
+* [Training](https://training.chef.io/)
+  * Online training from Linux Academy and udemy
+  * [Classes](https://training.chef.io/classes) - London, San Francisco, Washington DC, Seattle, Chicago, Dublin, Raleigh, Boston, and online.
+* [Upcoming Chef Events](https://events.chef.io/)
+  * March 1 - [Testing at the Edges webinar](https://events.chef.io/events/testing-at-the-edges/)
+  * March 2-5 - [Southern California Linux Expo](https://events.chef.io/events/scale-southern-california-linux-expo/)
+  * March 3 - [DevOps Automation M4 Meetup](https://events.chef.io/events/devops-automation-m4-meetup/)
+  * March 3 - [DevOpsDays Los Angeles](https://events.chef.io/events/devopsdays-los-angeles/)
+  * March 6-8 - [QCon London](https://events.chef.io/events/qcon-london/)
+  * March 7-8 - [DevOpsDays Baltimore](https://events.chef.io/events/devopsdays-baltimore/)
+  * March 8 - [Hands on with Habitat - London](https://events.chef.io/events/hands-habitat-london/)
+  * March 8 - [Quantifying DevOps Outcomes - Managing Risk webinar](https://events.chef.io/events/quantifying-outcomes-managing-risk/)
+  * March 10 - [Crafting Reusable Infrastructure Resources](https://events.chef.io/events/crafting-reusable-infrastructure-resources/)
+  * March 13 - [Chef Users London Presents "Who owns open source security?"](https://events.chef.io/events/chef-users-london-presents-owns-open-source-security/)
+  * March 14 - [FLOSS UK Conference Workshop: Infrastructure as Code](https://events.chef.io/events/floss-uk-conference-workshop-infrastructure-code/)
+  * March 14 - [Hartford Compliance Automation: InSpec + Chef Automate](https://events.chef.io/events/hartford-compliance-automation-inspec-chef-automate/)
+  * March 15 - [Chicago Compliance Automation: InSpec + Chef Automate](https://events.chef.io/events/chicago-compliance-automation-inspec-chef-automate/)
+  * March 15 - [Getting Ready for Chef Client 13 webinar](https://events.chef.io/events/getting-ready-chef-client-13/)
+* Have topic or guest ideas?  Who do you want to hear from?  What do you want to hear about?
+  * Tweet us - [@foodfighshow](https://twitter.com/foodfightshow)
+  * Email us - [info@foodfightshow.org](mailto:info@foodfightshow.org)
+  * Tell us in the [#foodfight channel in the Chef Community Slack](https://chefcommunity.slack.com/archives/foodfight)
+
+### A3 Thinking
+
+* What is A3?
+* How does it apply to the daily work of IT professionals?
+* How has it impacted your team's outcomes?
+
+Picks<a name="picks"></a>
+-----
+
+#### Catherine
+
+#### Alan
+
+#### Ben
+
+#### Nell
+
+#### Nathen
+
+* [Fresh New Stuff video series](https://www.youtube.com/watch?v=OpsMDijWNfg&list=PL11cZfNdwNyNbxu10i7yPAjOoWAS_1_SQ&index=2)
+
+Download
+--------
+
+* Coming Soon!  This episode will air on [Tuesday, February 28, 2017 at 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3).
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+

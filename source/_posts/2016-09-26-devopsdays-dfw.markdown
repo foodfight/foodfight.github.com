@@ -16,9 +16,11 @@ categories:
 * [Outline](http://foodfightshow.org/2016/09/devopsdays-dfw.html#outline)
 * [Audio](http://traffic.libsyn.com/foodfight/foodfight-102-devopsdays-dfw.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
-Trevor Hess [Arrested Devops](https://www.arresteddevops.com/), [github](https://github.com/trevorghess), [twitter](https://twitter.com/trevorghess)
+* Trevor Hess [Arrested Devops](https://www.arresteddevops.com/), [github](https://github.com/trevorghess), [twitter](https://twitter.com/trevorghess)
 * Michael Coté [Software Defined Talk](https://cote.io/tag/sdt/), [github](https://github.com/cote), [twitter](https://twitter.com/cote), [blog](https://cote.io/)
 * Annie Hedgpeth [twitter](https://twitter.com/anniehedgie), [github](https://github.com/anniehedgpeth), [blog](http://www.anniehedgie.com/)
 * Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth), [blog](http://hedge-ops.com/)

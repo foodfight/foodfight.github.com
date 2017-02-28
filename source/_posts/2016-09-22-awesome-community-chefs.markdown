@@ -16,6 +16,8 @@ categories:
 * [Outline](http://foodfightshow.org/2016/09/awesome-community-chefs.html#outline)
 * [Audio](http://traffic.libsyn.com/foodfight/foodfight-101-awesome-community-chefs.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 * Doug Ireton [github](https://github.com/dougireton), [twitter](https://twitter.com/dougireton), [blog](http://dougireton.com/)
