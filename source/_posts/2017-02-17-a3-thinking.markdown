@@ -11,15 +11,14 @@ categories:
 
 # Watch Now
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/8tJ_0dZ152E" frameborder="0" allowfullscreen></iframe>
-
-Join the conversation in the \#foodfight channel of the [Chef Community Slack](http://community-slack.chef.io/).
+<iframe width="420" height="315" src="http://www.youtube.com/embed/pXHmeNhlETE" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2017/02/a3-thinking.html#panel)
 * [Outline](http://foodfightshow.org/2017/02/a3-thinking.html#outline)
 * [Picks](http://foodfightshow.org/2017/02/a3-thinking.html#picks)
 * Download
-  * Coming Soon!  This episode will air on [Tuesday, February 28, 2017 at 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3).
+  * [Video](https://youtu.be/pXHmeNhlETE)
+  * Coming Soon!
 
 Panel<a name="panel"></a>
 -----
@@ -86,7 +85,8 @@ Picks<a name="picks"></a>
 Download
 --------
 
-* Coming Soon!  This episode will air on [Tuesday, February 28, 2017 at 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3).
+* [Video](https://youtu.be/pXHmeNhlETE)
+* Coming Soon!
 
 <hr />
 
