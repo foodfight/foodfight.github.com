@@ -104,6 +104,7 @@ Picks<a name="picks"></a>
 
 #### Nathen
 
+* Hugs for people dealing with the S3 outage
 * [Fresh New Stuff video series](https://www.youtube.com/watch?v=OpsMDijWNfg&list=PL11cZfNdwNyNbxu10i7yPAjOoWAS_1_SQ&index=2)
 
 Download
