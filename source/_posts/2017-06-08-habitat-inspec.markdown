@@ -19,7 +19,7 @@ Panel<a name="panel"></a>
 
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Adam Leff [github](https://github.com/adamleff), [twitter](https://twitter.com/adamleff)
-* Tom McLaughlin [github](), [twitter]()
+* Tom McLaughlin
 
 Outline & Show Notes<a name="outline"></a>
 -------
