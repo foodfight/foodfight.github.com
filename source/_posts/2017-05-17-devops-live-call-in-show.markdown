@@ -8,7 +8,7 @@ categories:
 
 # Watch Now!
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=fkCZXI8SNfk" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/fkCZXI8SNfk?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 We joined forces with Arrested DevOps to host our first live devops call in show!  We featured Dr. Nicole Forsgren, who answered your DevOps questions about measuring effectiveness, ROI of DevOps initiatives, and more!
 

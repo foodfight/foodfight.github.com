@@ -10,7 +10,7 @@ categories:
 
 # Watch Now!
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=naWgomPPZzY" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/naWgomPPZzY?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 Nell Shamrell-Harrington, Adam Leff, and Tom McLaughlin discuss Habitat and Inspec!
 
