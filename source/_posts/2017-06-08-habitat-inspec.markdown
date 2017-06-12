@@ -30,7 +30,7 @@ Show Notes<a name="outline"></a>
 
 * ["Learning InSpec Series"](http://www.anniehedgie.com/inspec/) by Annie Hedgpeth
 
-* Tom's repo (ping to link)
+* ["Chef Repo Inspec Example"](https://github.com/threatstack/chef-repo-inspec-example)
 
 * [Inspec.io](https://www.inspec.io/)
 
