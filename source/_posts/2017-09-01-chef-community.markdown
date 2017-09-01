@@ -23,7 +23,7 @@ Learn about getting involved, contributing to, and learning from your peers.  We
 * [Picks](http://foodfightshow.org/2017/09/chef-community.html#picks)
 * Download
   * [Video](https://youtu.be/RoeQ9iSCk0A)
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS111.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -106,7 +106,7 @@ Show Notes<a name="outline"></a>
 Download
 --------
 * [Video](https://youtu.be/RoeQ9iSCk0A)
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS111.mp3)
 
 <hr />
 
