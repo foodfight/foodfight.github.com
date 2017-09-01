@@ -23,14 +23,14 @@ Learn about getting involved, contributing to, and learning from your peers.  We
 * [Picks](http://foodfightshow.org/2017/09/chef-community.html#picks)
 * Download
   * [Video](https://youtu.be/RoeQ9iSCk0A)
-  * [Audio](http://traffic.libsyn.com/foodfight/FFS111.mp3)
+  * Audio - Coming Soon!
 
 Panel<a name="panel"></a>
 -----
 
+* Nell Shamrell-Harrington - [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Adam Leff - [github](https://github.com/adamleff), [twitter](https://twitter.com/adamleff)
 * Ian Henry - [github](https://github.com/eeyun), [twitter](https://twitter.com/eeyun___)
-* Nell Shamrell-Harrington - [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Thom May - [github](https://github.com/thommay), [twitter](https://twitter.com/thommay)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
@@ -45,8 +45,12 @@ Show Notes<a name="outline"></a>
   * `FOODFIGHT` saves $10/£10
 * What's happening in your part of the community?
   * [Habitat](https://www.habitat.sh/)
+    * [The Current Habitat Roadmap](https://ext.prodpad.com/ext/roadmap/d2938aed0d0ad1dd62669583e108357efd53b3a6)
   * [InSpec](https://www.inspec.io/)
+    * [Inspec 2.0 Milestone](https://github.com/chef/inspec/milestone/26)
   * [Chef](https://www.chef.io/)
+    * [Chef Client 13 Released!](https://discourse.chef.io/t/chef-client-13-released/10735)
+    * [Food Fight Episode #105: Sous Chefs](http://foodfightshow.org/2017/01/sous-chefs.html)
 * The Chef Community
   * [Community Guidelines](https://docs.chef.io/community_guidelines.html) & [Code of Conduct](https://www.chef.io/code-of-conduct/)
   * Slack and Discourse
@@ -106,7 +110,7 @@ Show Notes<a name="outline"></a>
 Download
 --------
 * [Video](https://youtu.be/RoeQ9iSCk0A)
-* [Audio](http://traffic.libsyn.com/foodfight/FFS111.mp3)
+* Audio - Coming Soon!
 
 <hr />
 
