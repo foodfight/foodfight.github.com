@@ -4,7 +4,8 @@ title: "Community Summit 2014"
 date: 2014-10-06 23:25
 comments: true
 categories:
-  - #chfsummit
+  - chefsummit
+
 ---
 
 A recording from the end of the first day of the Chef Community Summit in Seattle, 2014.

@@ -6,8 +6,6 @@ comments: true
 categories:
 ---
 
-# Watch Now!
-
 <iframe width="420" height="315" src="http://www.youtube.com/embed/DYrCP_7_tCo" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2017/01/sous-chefs.html#panel)

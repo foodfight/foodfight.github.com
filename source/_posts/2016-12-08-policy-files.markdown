@@ -12,9 +12,6 @@ categories:
   - gmiranda23
 ---
 
-# Watch Now!
-
-
 <iframe width="420" height="315" src="http://www.youtube.com/embed/a5YT7JVBwi4" frameborder="0" allowfullscreen></iframe>
 
 

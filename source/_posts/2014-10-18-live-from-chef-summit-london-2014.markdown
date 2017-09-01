@@ -4,7 +4,7 @@ title: "Live from Chef Summit London 2014"
 date: 2014-10-18 12:03
 comments: true
 categories:
- - #chefsummit
+  - chefsummit
 ---
 
 Panel<a name="panel"></a>
