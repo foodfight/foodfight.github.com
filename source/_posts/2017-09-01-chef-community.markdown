@@ -12,6 +12,12 @@ Learn about getting involved, contributing to, and learning from your peers.  We
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/RoeQ9iSCk0A" frameborder="0" allowfullscreen></iframe>
 
+* [Panel](http://foodfightshow.org/2017/09/chef-community.html#panel)
+* [Outline](http://foodfightshow.org/2017/09/chef-community.html#outline)
+* [Picks](http://foodfightshow.org/2017/09/chef-community.html#picks)
+* Download
+  * [Video](https://youtu.be/RoeQ9iSCk0A)
+  * Audio - Coming Soon!
 
 Panel<a name="panel"></a>
 -----
@@ -91,6 +97,11 @@ Show Notes<a name="outline"></a>
     * [DevOpsDays Bangalore](https://www.devopsdays.org/events/2017-bangalore/)
     * [Community Summits](https://www.chef.io/summits/)
     * [Delivery of Things World](http://deliveryofthingsworldusa.com/en/)
+
+Download
+--------
+* [Video](https://youtu.be/RoeQ9iSCk0A)
+* Audio - Coming Soon!
 
 <hr />
 
