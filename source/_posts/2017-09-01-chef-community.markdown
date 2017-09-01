@@ -4,10 +4,16 @@ title: "Chef Community"
 date: 2017-09-01 09:54
 comments: true
 categories:
+  - chefsummit
+  - community
+  - habitat
+  - inspec
+  - summits
+  - adamleff
+  - eeyun
+  - nellshamrell
+  - thommay
 ---
-# Watch Now!
-
-
 Learn about getting involved, contributing to, and learning from your peers.  We will also discuss the upcoming [Chef Community Summits](https://www.chef.io/summits/) and share a promotional code to save some money on the ticket!
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/RoeQ9iSCk0A" frameborder="0" allowfullscreen></iframe>
@@ -27,7 +33,6 @@ Panel<a name="panel"></a>
 * Nell Shamrell-Harrington - [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Thom May - [github](https://github.com/thommay), [twitter](https://twitter.com/thommay)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
-
 
 Show Notes<a name="outline"></a>
 -------
