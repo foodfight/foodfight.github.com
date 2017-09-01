@@ -8,7 +8,7 @@ categories:
 # Watch Now!
 
 
-Join us for a discussion about the Chef Community.  Learn about getting involved, contributing to, and learning from your peers.  We will also discuss the upcoming [Chef Community Summits](https://www.chef.io/summits/) and share a promotional code to save some money on the ticket!
+Learn about getting involved, contributing to, and learning from your peers.  We will also discuss the upcoming [Chef Community Summits](https://www.chef.io/summits/) and share a promotional code to save some money on the ticket!
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/RoeQ9iSCk0A" frameborder="0" allowfullscreen></iframe>
 
@@ -27,18 +27,70 @@ Show Notes<a name="outline"></a>
 -------
 
 * Introductions
-* Chef Community Summits
+* [Chef Community Summits](https://www.chef.io/summits/)
+  * Seattle - Oct 2-3
+  * NYC - Oct 5-6
+  * London - Oct 10-11
+  * `FOODFIGHT` saves $10/£10
 * What's happening in your part of the community?
+  * [Habitat](https://www.habitat.sh/)
+  * [InSpec](https://www.inspec.io/)
+  * [Chef](https://www.chef.io/)
 * The Chef Community
-  * Community Guidelines & Code of Conduct
-  * Slack, Discourse
+  * [Community Guidelines](https://docs.chef.io/community_guidelines.html) & [Code of Conduct](https://www.chef.io/code-of-conduct/)
+  * Slack and Discourse
+    * [Chef Community Slack](http://community-slack.chef.io/)
+    * [Chef Mailing List](https://discourse.chef.io/)
+      * [Release Announcements](https://discourse.chef.io/c/chef-release)
+      * [Security Announcements](https://discourse.chef.io/c/chef-security)
+      * [InSpec](https://discourse.chef.io/c/inspec)
+    * [Habitat Slack](http://slack.habitat.sh/)
+    * [Habitat Discussion Forums](https://forums.habitat.sh/)
+  * Twitter
+    * [@chef](https://twitter.com/chef), [\#getchef](https://twitter.com/search?f=tweets&vertical=default&q=%23getchef)
+    * [@cheffriends](https://twitter.com/cheffriends)
+    * [#InSpec](https://twitter.com/search?f=tweets&vertical=default&q=%23inspec)
+    * [@habitatsh](https://twitter.com/habitatsh), [\#habitatsh](https://twitter.com/search?f=tweets&vertical=default&q=%23habitatsh)
+    * [@habicatsh](https://twitter.com/habicatsh)
   * GitHub
-  * Supermarket and the Habitat Depot
+    * [Chef Organization](https://github.com/chef)
+    * [Chef Cookbooks](https://github.com/chef-cookbooks)
+    * [Chef Issues - Ready for you to Jump In](https://github.com/chef/chef/labels/Type%3A%20Jump%20In)
+    * [Chef RFC process](https://chef.github.io/chef-rfc/)
+    * [InSpec](https://github.com/chef/inspec)
+    * [Habitat](https://github.com/habitat-sh/habitat)
+    * [Habitat Core Plans](https://github.com/habitat-sh/core-plans)
+    * [Habitat blog](https://github.com/habitat-sh/habitat/tree/master/www)
+  * [Supermarket](https://supermarket.chef.io/)
+    * [Cookbooks](https://supermarket.chef.io/cookbooks-directory)
+    * [Compliance Profiles](https://supermarket.chef.io/tools?type=compliance_profile)
+  * [Habitat Depot](https://bldr.habitat.sh/#/explore)
 * Chef Community Summits
   * Agenda and format
-  * Prices
   * Promotional Code:  `FOODFIGHT` saves you $10/£10
 * Upcoming events - where will you be?
+  * Adam
+    * [TechSummit Washington, DC](http://www.techsummit.io/washington/)
+    * [Chef Community Summits](https://www.chef.io/summits/)
+  * Ian
+    * Tokyo
+    * [Chef Community Summits](https://www.chef.io/summits/)
+    * [Rust Belt Rust](https://www.rust-belt-rust.com/)
+  * Nell
+    * [DevOpsDays Chicago](https://www.devopsdays.org/events/2017-chicago/)
+    * [Chef Community Summit Seattle](https://www.eventbrite.com/e/seattle-chef-contributor-summit-tickets-37184842866)
+    * [Windy City Rails](https://windycityrails.com/)
+    * [Seattle GNU/Linux Conference](http://seagl.org/)
+    * [DevOpsDays Hartford](https://www.devopsdays.org/events/2017-hartford/welcome/)
+    * [Rust Belt Rust](https://www.rust-belt-rust.com/)
+  * Thom
+    * [DevOpsDays London](https://www.devopsdays.org/events/2017-london/welcome/)
+    * [Chef Community Summits](https://www.chef.io/summits/)
+  * Nathen
+    * [DevOpsDays Raleigh](https://www.devopsdays.org/events/2017-raleigh/welcome/)
+    * [DevOpsDays Bangalore](https://www.devopsdays.org/events/2017-bangalore/)
+    * [Community Summits](https://www.chef.io/summits/)
+    * [Delivery of Things World](http://deliveryofthingsworldusa.com/en/)
 
 <hr />
 
