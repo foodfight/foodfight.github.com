@@ -18,9 +18,21 @@ Learn Chef Rally is the best place to get started on your journey towards master
 Panel<a name="panel"></a>
 -----
 
+* Thomas Petchel - [github](https://github.com/tpetchel), [twitter](https://twitter.com/tpetchel)
 * Nell Shamrell-Harrington - [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+* Nathen Harvey - [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
+Outline<a name="outline"></a>
+-------
+
+* What is Learn Chef Rally?
+* What types of modules are available?
+* What tracks are available?
+* Is an account required?
+* What are badges are available?
+* What are some of the most popular modules?  Which are your favorite?
+* Is Learn Chef Rally sufficient preparation for the Chef Certification exams?
+* What types of Chef Certification are available?
 
 Download
 --------
