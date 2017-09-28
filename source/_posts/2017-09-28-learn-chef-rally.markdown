@@ -8,6 +8,8 @@ categories:
 ---
 Learn Chef Rally is the best place to get started on your journey towards mastering Chef, Continuous Automation, and DevOps.  Tracks give you a guided curriculum, Modules allow you to complete lessons à la carte to create you own learning path.  Badges help you track your progress throughout the journey.
 
+This show will be recorded on Friday, September 29 and the video and audio will be released shortly thereafter.
+
 * [Panel](http://foodfightshow.org/2017/09/learn-chef-rally.html#panel)
 * [Outline](http://foodfightshow.org/2017/09/learn-chef-rally.html#outline)
 * [Picks](http://foodfightshow.org/2017/09/learn-chef-rally.html#picks)
