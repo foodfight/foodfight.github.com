@@ -20,6 +20,7 @@ This show will be recorded on Friday, September 29 and the video and audio will 
 Panel<a name="panel"></a>
 -----
 
+* Creighton Medley - [github](https://github.com/cmedley), [twitter](https://twitter.com/cmed)
 * Thomas Petchel - [github](https://github.com/tpetchel), [twitter](https://twitter.com/tpetchel)
 * Nell Shamrell-Harrington - [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey - [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
