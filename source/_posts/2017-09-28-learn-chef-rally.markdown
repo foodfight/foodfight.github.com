@@ -8,13 +8,13 @@ categories:
 ---
 Learn Chef Rally is the best place to get started on your journey towards mastering Chef, Continuous Automation, and DevOps.  Tracks give you a guided curriculum, Modules allow you to complete lessons à la carte to create you own learning path.  Badges help you track your progress throughout the journey.
 
-This show will be recorded on Friday, September 29 and the video and audio will be released shortly thereafter.
+<iframe width="420" height="315" src="http://www.youtube.com/embed/0GqxQn8Sa1c" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2017/09/learn-chef-rally.html#panel)
 * [Outline](http://foodfightshow.org/2017/09/learn-chef-rally.html#outline)
 * [Picks](http://foodfightshow.org/2017/09/learn-chef-rally.html#picks)
 * Download
-  * Video - Coming Soon!
+  * [Video](https://youtu.be/0GqxQn8Sa1c)
   * Audio - Coming Soon!
 
 Panel<a name="panel"></a>
@@ -23,7 +23,7 @@ Panel<a name="panel"></a>
 * Andrew Regan - [github](https://github.com/andyregan), [twitter](https://twitter.com/andyregan)
 * Creighton Medley - [github](https://github.com/cmedley), [twitter](https://twitter.com/cmed)
 * Thomas Petchel - [github](https://github.com/tpetchel), [twitter](https://twitter.com/tpetchel)
-* Nell Shamrell-Harrington - [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Franklin Webber - [github](https://github.com/burtlo), [twitter](https://twitter.com/franklinwebber)
 * Nathen Harvey - [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Outline<a name="outline"></a>
@@ -38,9 +38,12 @@ Outline<a name="outline"></a>
 * Is Learn Chef Rally sufficient preparation for the Chef Certification exams?
 * What types of Chef Certification are available?
 
+Picks<a name="picks"></a>
+-----
+
 Download
 --------
-* Video - Coming Soon!
+* [Video](https://youtu.be/0GqxQn8Sa1c)
 * Audio - Coming Soon!
 
 <hr />
