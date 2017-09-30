@@ -5,6 +5,10 @@ date: 2017-09-28 10:37
 comments: true
 categories:
   - learnchef
+  - cmed
+  - tpetchel
+  - andyregan
+  - franklinwebber
 ---
 Learn Chef Rally is the best place to get started on your journey towards mastering Chef, Continuous Automation, and DevOps.  Tracks give you a guided curriculum, Modules allow you to complete lessons à la carte to create you own learning path.  Badges help you track your progress throughout the journey.
 
