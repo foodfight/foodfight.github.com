@@ -15,7 +15,7 @@ Learn Chef Rally is the best place to get started on your journey towards master
 * [Picks](http://foodfightshow.org/2017/09/learn-chef-rally.html#picks)
 * Download
   * [Video](https://youtu.be/0GqxQn8Sa1c)
-  * Audio - Coming Soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS112.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -38,42 +38,42 @@ Outline<a name="outline"></a>
 * What types of Chef Certifications are available?
   * [Kelsey Hightower's ChefConf 2017 Keynote](https://www.youtube.com/watch?v=-yTeXCY3iM0)
 * Advice for How to Get Started with Chef
-  * [traning@chef.io](mailto:training@chef.io) 
+  * [traning@chef.io](mailto:training@chef.io)
 
 Picks<a name="picks"></a>
+-----
 
-Creignton:
+### Creignton:
 
 * [Zappa](https://github.com/Miserlou/Zappa)
 
-Thomas:
+### Thomas:
 
 * Sour Beer
 * [The Melvins](https://en.wikipedia.org/wiki/Melvins)
 * WWE Steel Chair
 
-Frank:
+### Frank:
 
 * [GLOW](https://en.wikipedia.org/wiki/GLOW_(TV_series))
 
-Andrew: 
+### Andrew:
 
 * [Rhino Hero: Super Battle](https://boardgamegeek.com/boardgame/218333/rhino-hero-super-battle)
 * [chef-umami](https://github.com/bloomberg/chef-umami)
 * [pipenv](https://github.com/kennethreitz/pipenv)
 
-Nathen: 
+### Nathen:
 
 * [Chef Community Summits](https://www.chef.io/summits/)
 * [Config Management Camp EU](http://cfgmgmtcamp.eu/)
-* [The Chef Community Slack](http://community-slack.chef.io/) 
+* [The Chef Community Slack](http://community-slack.chef.io/)
 
------
 
 Download
 --------
 * [Video](https://youtu.be/0GqxQn8Sa1c)
-* Audio - Coming Soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS112.mp3)
 
 <hr />
 
