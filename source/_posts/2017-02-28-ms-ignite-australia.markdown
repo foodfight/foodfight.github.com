@@ -15,6 +15,8 @@ Join Nell Shamrell and Matt Ray as they discuss the [Microsoft Ignite Australia]
 * Download
   * [Audio](http://traffic.libsyn.com/foodfight/FFS107.mp3)
 
+<!-- more --> 
+
 Panel<a name="panel"></a>
 -----
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), [blog](http://www.leastresistance.net/)
