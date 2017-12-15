@@ -55,3 +55,11 @@ Picks<a name="picks"></a>
 
 
 
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) and [Nell Shamrell](https://twitter.com/nellshamrell) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+
