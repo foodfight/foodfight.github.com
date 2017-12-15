@@ -7,9 +7,18 @@ categories:
   - habitat
 ---
 
+Nell Shamrell-Harrington, Tasha Drew, and Jamie Winsor discuss the latest updates to Habitat!
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IgpR4hDXbZ4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Nell Shamrell-Harrington, Tasha Drew, and Jamie Winsor discuss the latest updates to Habitat!
+* [Panel](http://foodfightshow.org/2017/12/habitat-updates.html#panel)
+* [Outline](http://foodfightshow.org/2017/12/habitat-updates.html#outline)
+* [Picks](http://foodfightshow.org/2017/12/habitat-updates.html#picks)
+* Download
+  * [Video](https://youtu.be/IgpR4hDXbZ4)
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS113.mp3)
+
 
 Panel<a name="panel"></a>
 -----
@@ -54,6 +63,10 @@ Picks<a name="picks"></a>
 * [Marcela's Creole Cookery](http://marcelascreolecookery.com/)
 
 
+Download
+--------
+* [Video](https://youtu.be/IgpR4hDXbZ4)
+* [Audio](http://traffic.libsyn.com/foodfight/FFS113.mp3)
 
 <hr />
 
