@@ -11,8 +11,6 @@ categories:
 
 Nell Shamrell-Harrington, Tasha Drew, and Jamie Winsor discuss the latest updates to Habitat!
 
-<!-- more -->
-
 Panel<a name="panel"></a>
 -----
 
