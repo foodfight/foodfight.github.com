@@ -21,6 +21,8 @@ Learn Chef Rally is the best place to get started on your journey towards master
   * [Video](https://youtu.be/0GqxQn8Sa1c)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS112.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
