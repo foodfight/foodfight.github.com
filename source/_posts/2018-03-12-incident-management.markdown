@@ -45,6 +45,10 @@ Show Notes<a name="outline"></a>
 * [ChefConf](https://chefconf.chef.io/) - May 22-25, Chicago, IL
 * [View all upcoming events](https://events.chef.io/)
 
+## Upcoming Blackrock 3 Training
+
+* [IT Incident Command and Incident Management](https://www.eventbrite.com/e/it-incident-management-and-incident-command-tickets-39529284153?aff=eac2) - March 22-23, Oakland, CA
+
 ## Incident Management
 
 * What is Incident Management?
