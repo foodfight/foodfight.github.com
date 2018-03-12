@@ -12,11 +12,13 @@ Join [Blackrock 3 Partners](http://www.blackrock3.com/) as they discuss Incident
 
 This episode will be streamed and recorded on [Monday, March 12, 2018 19:00 UTC](http://everytimezone.com/#2018-3-12,420,cn3).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pz7pG6v8F2g" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 * [Panel](/2018/03/incident-management.html#panel)
 * [Outline](/2018/03/incident-management.html#outline)
 * [Picks](/2018/03/incident-management.html#picks)
 * Download
-  * Video - coming soon!  This episode will be streamed and recorded on [Monday, March 12, 2018 19:00 UTC](http://everytimezone.com/#2018-3-12,420,cn3).
+  * [Video](https://www.youtube.com/watch?v=pz7pG6v8F2g) - coming soon!  This episode will be streamed and recorded on [Monday, March 12, 2018 19:00 UTC](http://everytimezone.com/#2018-3-12,420,cn3).
   * Audio - coming soon!
 
 
