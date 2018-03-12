@@ -19,6 +19,7 @@ Nell Shamrell-Harrington, Tasha Drew, and Jamie Winsor discuss the latest update
   * [Video](https://youtu.be/IgpR4hDXbZ4)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS113.mp3)
 
+<!-- more -->
 
 Panel<a name="panel"></a>
 -----
