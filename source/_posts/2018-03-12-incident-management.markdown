@@ -57,9 +57,6 @@ Show Notes<a name="outline"></a>
 * Liason Officer: (LNO)
 * Where does learning and collaboration come into play with incident commanding? 
 * Peacetime and Wartime; After Action Review (AAR), Root Cause Analysis (RCA)
-* What are the biggest mistakes organizations make when trying to improve incident management?
-* What role does senior executive management have in incident management?
-
 
 Picks<a name="picks"></a>
 -----
