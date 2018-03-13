@@ -47,24 +47,45 @@ Show Notes<a name="outline"></a>
 
 * [IT Incident Command and Incident Management](https://www.eventbrite.com/e/it-incident-management-and-incident-command-tickets-39529284153?aff=eac2) - March 22-23, Oakland, CA
 
-## Incident Management
+## Show Notes
 
-* What is Incident Management?
-* How does incident management impact mean-time-to-recover MTTR?
-* What are the biggest mistakes organizations make when trying to improve their incident management?
-* What role does senior or executive management have in incident management?
+* What is an "Incident" and what is "Incident Management"?
+* How does incident management impact mean-time-to-recover (MTTR)?
+* Advising companys how NOT to have a single point of failure: PROCESS - Predictable. Repeatable. Optimize. Clear. Empowerment. Scalable. Sustainable. "Learn all you care, share all you know."
+* What is the lifecycle of an incident?
+* What is an "Incident Commander"?
+* Liason Officer: (LNO)
+* Where does learning and collaboration come into play with incident commanding? 
+* Peacetime and Wartime; After Action Review (AAR), Root Cause Analysis (RCA)
+* What are the biggest mistakes organizations make when trying to improve incident management?
+* What role does senior executive management have in incident management?
 
 
 Picks<a name="picks"></a>
 -----
 
-#### Ron
+#### Nell
 
-#### Rob
+* [Quiver](http://happenapps.com/)
+* The United States and Canadian Womens Hockey Teams
+
 
 #### Chris
 
-#### Nell
+* [Basil Hayden's Dark Rye](https://www.basilhaydens.com/dark-rye/)
+* [Tonka Beans](https://www.amazon.com/Spices-Cumaru-Vanilla-Dipteryx-odorata/dp/B01701SL4I)
+
+#### Rob
+
+* Oyster Bitters
+* [IlFornino ® Elite Plus - Wood Fired Pizza Oven](https://www.ilfornino.com/ilfornino-elite-plus-wood-fired-pizza-oven-cabinet-black-one-flat-cooking-surface/)
+
+#### Ron
+
+* [Operation Dagger: Singapore](https://operationdagger.com/)
+* Subsitute a smokey mezcal in place of a bourban or rye in a Manhattan.
+* [Icebreaker Outerwear](https://www.icebreaker.com)
+* [FREITAG Bags](https://www.freitag.ch)
 
 #### Nathen
 
