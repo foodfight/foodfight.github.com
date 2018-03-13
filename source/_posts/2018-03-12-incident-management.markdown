@@ -17,7 +17,7 @@ Join [Blackrock 3 Partners](http://www.blackrock3.com/) as they discuss Incident
 * [Picks](/2018/03/incident-management.html#picks)
 * Download
   * [Video](https://www.youtube.com/watch?v=pz7pG6v8F2g)
-  * Audio - coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS114.mp3)
 
 
 Panel<a name="panel"></a>
@@ -51,11 +51,11 @@ Show Notes<a name="outline"></a>
 
 * What is an "Incident" and what is "Incident Management"?
 * How does incident management impact mean-time-to-recover (MTTR)?
-* Advising companys how NOT to have a single point of failure: PROCESS - Predictable. Repeatable. Optimize. Clear. Empowerment. Scalable. Sustainable. "Learn all you care, share all you know."
+* Advising companies how NOT to have a single point of failure: PROCESS - Predictable. Repeatable. Optimize. Clear. Empowerment. Scalable. Sustainable. "Learn all you care, share all you know."
 * What is the lifecycle of an incident?
 * What is an "Incident Commander"?
-* Liason Officer: (LNO)
-* Where does learning and collaboration come into play with incident commanding? 
+* Liaison Officer: (LNO)
+* Where does learning and collaboration come into play with incident commanding?
 * Peacetime and Wartime; After Action Review (AAR), Root Cause Analysis (RCA)
 
 Picks<a name="picks"></a>
@@ -80,7 +80,7 @@ Picks<a name="picks"></a>
 #### Ron
 
 * [Operation Dagger: Singapore](https://operationdagger.com/)
-* Subsitute a smokey mezcal in place of a bourban or rye in a Manhattan.
+* Substitute a smokey mezcal in place of a bourbon or rye in a Manhattan.
 * [Icebreaker Outerwear](https://www.icebreaker.com)
 * [FREITAG Bags](https://www.freitag.ch)
 
@@ -93,7 +93,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](https://www.youtube.com/watch?v=pz7pG6v8F2g)
-* Audio - coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS114.mp3)
 
 <hr />
 
