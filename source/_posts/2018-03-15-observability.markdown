@@ -70,16 +70,16 @@ Picks<a name="picks"></a>
 
 #### Charity
 
-#### Nell
+#### Jamie
 
+#### Nell
 
 #### Nathen
 
 
 Download
 --------
-* [Video](https://www.youtube.com/watch?v=pz7pG6v8F2g)
-* [Audio](http://traffic.libsyn.com/foodfight/FFS114.mp3)
+* Coming soon!  This episode will air on [Friday, March 16, 2018 19:00 UTC](http://everytimezone.com/#2018-3-16,420,cn3).
 
 <hr />
 
