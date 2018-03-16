@@ -19,6 +19,7 @@ Join [Blackrock 3 Partners](http://www.blackrock3.com/) as they discuss Incident
   * [Video](https://www.youtube.com/watch?v=pz7pG6v8F2g)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS114.mp3)
 
+<!-- more -->
 
 Panel<a name="panel"></a>
 -----

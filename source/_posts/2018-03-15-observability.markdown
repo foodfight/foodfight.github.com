@@ -14,13 +14,13 @@ Observability.
 
 This episode will air on [Friday, March 16, 2018 19:00 UTC](http://everytimezone.com/#2018-3-16,420,cn3).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9qPJ5Kuz_R8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ### Join the Conversation
 
 Have questions about Observability?  Send a pull request to our [show outline](https://github.com/foodfight/showz/blob/master/scripts/episode-115-observability.md).
 
 Join the \#foodfight channel in the [Chef Community Slack](http://community-slack.chef.io/).
-
-<!-- more -->
 
 * [Panel](/2018/03/observability.html#panel)
 * [Outline](/2018/03/observability.html#outline)
