@@ -12,22 +12,14 @@ categories:
 Join Charity Majors on the Food Fight Show as we define, discuss, and digest
 Observability.
 
-This episode will air on [Friday, March 16, 2018 19:00 UTC](http://everytimezone.com/#2018-3-16,420,cn3).
-
-### Join the Conversation
-
-Have questions about Observability?  Send a pull request to our [show outline](https://github.com/foodfight/showz/blob/master/scripts/episode-115-observability.md).
-
-Join the \#foodfight channel in the [Chef Community Slack](http://community-slack.chef.io/).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9qPJ5Kuz_R8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 * [Panel](/2018/03/observability.html#panel)
 * [Outline](/2018/03/observability.html#outline)
 * [Picks](/2018/03/observability.html#picks)
 * Download
-  * Coming soon!  This episode will air on [Friday, March 16, 2018 19:00 UTC](http://everytimezone.com/#2018-3-16,420,cn3).
-
+  * [Video](https://www.youtube.com/watch?v=9qPJ5Kuz_R8)
+  * Audio - coming soon!
 
 Panel<a name="panel"></a>
 -----
@@ -74,12 +66,16 @@ Picks<a name="picks"></a>
 
 #### Nell
 
+* [#Wargames](https://helloeko.com/wargames/)
+* [Altered Carbon](https://www.netflix.com/title/80097140)
+
 #### Nathen
 
 
 Download
 --------
-* Coming soon!  This episode will air on [Friday, March 16, 2018 19:00 UTC](http://everytimezone.com/#2018-3-16,420,cn3).
+* [Video](https://www.youtube.com/watch?v=9qPJ5Kuz_R8)
+* Audio - coming soon!
 
 <hr />
 
