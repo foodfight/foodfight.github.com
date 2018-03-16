@@ -33,6 +33,7 @@ Panel<a name="panel"></a>
 -----
 
 * Charity Majors [github](https://github.com/charity), [twitter](https://twitter.com/mipsytipsy)
+* Jamie Osler [github](https://github.com/josler), [twitter](https://twitter.com/jjosler)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
