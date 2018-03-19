@@ -19,7 +19,7 @@ Observability.
 * [Picks](/2018/03/observability.html#picks)
 * Download
   * [Video](https://www.youtube.com/watch?v=9qPJ5Kuz_R8)
-  * Audio - coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS115.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -47,7 +47,7 @@ Panel<a name="panel"></a>
     * Does this mean we need to reconsider the way applications are built?  Do we need to start constructing observable applications? How?
   * The Business Side
 * [`o11y`?](https://twitter.com/copyconstruct/status/908493669518290944?lang=en)
-  * [o11ycon](http://o11ycon.com/) 
+  * [o11ycon](http://o11ycon.com/)
 * What products, or sorts of products, are gaining traction in observability?
   * [Honeycomb](https://honeycomb.io/)
   * [Dynatrace](https://www.dynatrace.com/)
@@ -70,17 +70,18 @@ Picks<a name="picks"></a>
 #### Charity
 
 * [Money, Power and Credibility Blog Post](https://charity.wtf/2018/03/02/money-power-and-credibility/)
-* [o11ycon](http://o11ycon.com/) 
+* [o11ycon](http://o11ycon.com/)
 
 #### Nathen
 
 * [DevOpsDays: Baltimore](https://www.devopsdays.org/events/2018-baltimore/welcome/)
+* Sleep!
 
 
 Download
 --------
 * [Video](https://www.youtube.com/watch?v=9qPJ5Kuz_R8)
-* Audio - coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS115.mp3)
 
 <hr />
 
