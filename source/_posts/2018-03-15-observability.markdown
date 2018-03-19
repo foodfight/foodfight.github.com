@@ -24,21 +24,15 @@ Observability.
 Panel<a name="panel"></a>
 -----
 
-* Charity Majors [github](https://github.com/charity), [twitter](https://twitter.com/mipsytipsy)
-* Jamie Osler [github](https://github.com/josler), [twitter](https://twitter.com/jjosler)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+* Charity Majors [github](https://github.com/charity), [twitter](https://twitter.com/mipsytipsy)
+* Jamie Osler [github](https://github.com/josler), [twitter](https://twitter.com/jjosler)
 
-Show Notes<a name="outline"></a>
 -------
 
 ## Upcoming Chef Events
 
-* [Microsoft DevOps User Group Meeting: Continuously Deploy .Net Applications with Habitat](https://events.chef.io/events/microsoft-devops-user-group-meeting-continuously-deploy-net-applications-habitat/) - March 20, Austin, TX
-* [Computing DevOps Summit](https://events.chef.io/events/computing-devops-summit-2/) - March 21, London
-* [DevOps Days Baltimore](https://events.chef.io/events/devops-days-baltimore/) - March 21-22, Baltimore, MD
-* [Webinar: Augment your Audits with InSpec 2.0](https://events.chef.io/events/webinar-augment-audits-inspec-2-0/) - March 21
-* [DevOps Talks Conference](https://events.chef.io/events/devops-talks-conference/) - March 22nd - March 23rd, Melbourne
 * [ChefConf](https://chefconf.chef.io/) - May 22-25, Chicago, IL
 * [View all upcoming events](https://events.chef.io/)
 
@@ -46,30 +40,41 @@ Show Notes<a name="outline"></a>
 ## Show Notes
 
 * [What is Observability?](https://honeycomb.io/observability/)
-  * Monitoring, Metrics, Log aggregation
-  * Focus your energy on instrumentation, resilience to failure, and making it fast and safe to deploy and roll back
-  * gather absolutely as much context as possible
+  * Monitoring, Metrics, Log Aggregation
+  * Focus your energy on instrumentation, resilience to failure, and making it fast and safe to deploy and roll back.
+  * Gather absolutely as much context as possible.
   * Instrumentation is just as important as unit tests.
-    * Does this mean we need to reconsider the way applications are built?  Do we need to start constructing observable applications?  How?
+    * Does this mean we need to reconsider the way applications are built?  Do we need to start constructing observable applications? How?
+  * The Business Side
 * [`o11y`?](https://twitter.com/copyconstruct/status/908493669518290944?lang=en)
+  * [o11ycon](http://o11ycon.com/) 
 * What products, or sorts of products, are gaining traction in observability?
-* What are the trends and who are the people to follow?
+  * [Honeycomb](https://honeycomb.io/)
+  * [Dynatrace](https://www.dynatrace.com/)
+* Who are the influencers in this space?
 * What blogs, papers, books should be on my Observability reading list?
+  * [Reading Up on Observability and Monitoring](https://medium.com/@adron/reading-up-on-observability-and-monitoring-efee79bd291d)
 
 
 Picks<a name="picks"></a>
 -----
-
-#### Charity
-
-#### Jamie
-
 #### Nell
 
 * [#Wargames](https://helloeko.com/wargames/)
 * [Altered Carbon](https://www.netflix.com/title/80097140)
 
+#### Jamie
+
+* [Buildkite](https://buildkite.com/)
+
+#### Charity
+
+* [Money, Power and Credibility Blog Post](https://charity.wtf/2018/03/02/money-power-and-credibility/)
+* [o11ycon](http://o11ycon.com/) 
+
 #### Nathen
+
+* [DevOpsDays: Baltimore](https://www.devopsdays.org/events/2018-baltimore/welcome/)
 
 
 Download
