@@ -11,6 +11,8 @@ categories:
 
 Join Kelsey Hightower ([@keslseyhightower](https://twitter.com/kelseyhightower)) for an introduction to Kubernetes.
 
+Join the [Chef Community Slack](http://community-slack.chef.io/) and ask questions in the \#foodfight channel.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C4weDu-RBLI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 * [Panel](/2018/03/intor-to-kubernetes.html#panel)
