@@ -23,10 +23,9 @@ Join Kelsey Hightower ([@keslseyhightower](https://twitter.com/kelseyhightower))
 Panel<a name="panel"></a>
 -----
 
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 * Kelsey Hightower [github](https://github.com/kelseyhightower), [twitter](https://twitter.com/kelseyhightower)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
-
 
 -------
 
@@ -38,19 +37,45 @@ Panel<a name="panel"></a>
 
 ## Show Notes
 
+* What is [kubernetes](https://kubernetes.io/) and what is the problem it's trying to solve?
+* The major parts of kubernetes
+* Load balancing
+  * [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+* Major tools in the kubernetes ecosystem
+  * [helm](https://github.com/kubernetes/helm)
+* Getting started with Kubernetes
+  * [Kelsey Hightower, Google - ChefConf 2017 Keynote](https://www.youtube.com/watch?v=-yTeXCY3iM0)
+  * [minikube](https://github.com/kubernetes/minikube)
+  * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* Containers
+  * [Open Container Initiative](https://www.opencontainers.org/)
+  * Does one container = one pod?
+* What workloads are good for kubernetes?
+* Privileged access
+* Running in kubernetes
+* The use of kubernetes from the perspective of a developer
+* Updating applications
+* Rollout history
+* Upgrading kubernetes
+* Handling secrets
+  * [kubelet](https://kubernetes.io/docs/reference/generated/kubelet/)
+  * [cadvisor](https://github.com/google/cadvisor)
+* Health metrics, activites, events that kubernetes exposes about itself
+  * [prometheus](https://grafana.com/plugins/prometheus)
+
 * [Awesome Community Chef Nominations](https://blog.chef.io/2018/03/23/awesome-community-chef-nominations-2018/)
 
 Picks<a name="picks"></a>
 -----
-#### Kelsey
-
-* [Google Assistant](https://assistant.google.com/)
-* Being kind in a way that inspires action
-
 #### Nell
 
 * [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
 * Hamilton
+
+#### Kelsey
+
+* [Google Assistant](https://assistant.google.com/)
+* Being kind in a way that inspires action
 
 Download
 --------
