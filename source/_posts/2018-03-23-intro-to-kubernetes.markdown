@@ -18,7 +18,7 @@ Join Kelsey Hightower ([@keslseyhightower](https://twitter.com/kelseyhightower))
 * [Picks](/2018/03/intor-to-kubernetes.html#picks)
 * Download
   * [Video](https://www.youtube.com/watch?v=C4weDu-RBLI)
-  * Audio - Coming Soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS116.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -80,7 +80,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](https://www.youtube.com/watch?v=C4weDu-RBLI)
-* Audio - Coming Soon
+* [Audio](http://traffic.libsyn.com/foodfight/FFS116.mp3)
 
 <hr />
 

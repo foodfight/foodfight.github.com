@@ -21,6 +21,8 @@ Observability.
   * [Video](https://www.youtube.com/watch?v=9qPJ5Kuz_R8)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS115.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
