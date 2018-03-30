@@ -13,9 +13,9 @@ Join Kelsey Hightower ([@keslseyhightower](https://twitter.com/kelseyhightower))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C4weDu-RBLI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-* [Panel](/2018/03/intor-to-kubernetes.html#panel)
-* [Outline](/2018/03/intor-to-kubernetes.html#outline)
-* [Picks](/2018/03/intor-to-kubernetes.html#picks)
+* [Panel](/2018/03/intro-to-kubernetes.html#panel)
+* [Outline](/2018/03/intro-to-kubernetes.html#outline)
+* [Picks](/2018/03/intro-to-kubernetes.html#picks)
 * Download
   * [Video](https://www.youtube.com/watch?v=C4weDu-RBLI)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS116.mp3)
@@ -23,9 +23,9 @@ Join Kelsey Hightower ([@keslseyhightower](https://twitter.com/kelseyhightower))
 Panel<a name="panel"></a>
 -----
 
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 * Kelsey Hightower [github](https://github.com/kelseyhightower), [twitter](https://twitter.com/kelseyhightower)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 -------
 
