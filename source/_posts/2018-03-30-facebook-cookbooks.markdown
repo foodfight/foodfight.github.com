@@ -42,11 +42,17 @@ Panel<a name="panel"></a>
 * What makes a quality Open Source cookbook?
 * Grocery delivery?  Taste tester.
 * GitHub vs. Supermarket
-* Partnering with Chef and Open Source Software as a requirement
+* Some of the Facebook tools:
   * [between-meals](https://github.com/facebook/between-meals)
   * [grocery-delivery](https://github.com/facebook/grocery-delivery)
+  * [taste-tester](https://github.com/facebook/taste-tester)
 * Will Facebook's cookbooks work for me?  
 * [ChefConf 2013 talk](https://blog.chef.io/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/)
+
+### Post-show updates
+
+* Facebook is now continuously deploying [their cookbooks to the Supermarket](https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q=fb_&platforms%5B%5D=).  Any build that passes all the tests gets automatically shared on the Supermarket.
+
 
 Picks<a name="picks"></a>
 -----

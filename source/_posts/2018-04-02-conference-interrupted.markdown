@@ -14,6 +14,8 @@ Winter storm Toby hit the Northeast US, including Baltimore, on Wednesday, March
 
 Join some of the organizers of [DevOpsDays Baltimore 2018](https://www.devopsdays.org/events/2018-baltimore/welcome/) as they host a learning review and share their experience about the impact Winter Storm Toby had on the conference.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HKeGAJfrQmU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
 
 
@@ -21,7 +23,9 @@ This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com
 * [Outline](/2018/04/conference-interrupted.html#outline)
 * [Picks](/2018/04/conference-interrupted.html#picks)
 * Download
-  * * Coming soon!  This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
+  * Coming soon!  This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
+  * [Video](https://www.youtube.com/watch?v=HKeGAJfrQmU)
+  * Audio - Coming soon!
 
 Panel<a name="panel"></a>
 -----
@@ -223,7 +227,10 @@ Picks<a name="picks"></a>
 
 Download
 --------
+
 * Coming soon!  This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
+* [Video](https://www.youtube.com/watch?v=HKeGAJfrQmU)
+* Audio - Coming soon!
 
 <hr />
 
