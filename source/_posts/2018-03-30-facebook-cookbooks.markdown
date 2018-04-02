@@ -36,29 +36,30 @@ Panel<a name="panel"></a>
 
 * How does Facebook use Chef?
 * How does Facebook write and maintain its Chef cookbooks?
-* Let's talk about some of the cookbooks that Facebook has open sourced:
-  * https://supermarket.chef.io/users/phild
-  * https://github.com/facebook/chef-cookbooks
+* Cookbooks that Facebook has open sourced:
+  * [Phil Dibowitz's Cookbooks](https://supermarket.chef.io/users/phild)
+  * [chef-cookbooks](https://github.com/facebook/chef-cookbooks)
 * What makes a quality Open Source cookbook?
-* Grocery delivery?  taste tester.
-* github vs. supermarket
-* Partnering with Chef...OSS as a requirement
-* https://github.com/facebook/between-meals
-* https://github.com/facebook/grocery-delivery
+* Grocery delivery?  Taste tester.
+* GitHub vs. Supermarket
+* Partnering with Chef and Open Source Software as a requirement
+  * [between-meals](https://github.com/facebook/between-meals)
+  * [grocery-delivery](https://github.com/facebook/grocery-delivery)
 * Will Facebook's cookbooks work for me?  
 * [ChefConf 2013 talk](https://blog.chef.io/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/)
 
 Picks<a name="picks"></a>
 -----
-#### Phil
-
-* [Metallica:  Wherever I May Roam Black Ticket](https://www.cidentertainment.com/events/metallica-worldwired-tour/#sold-out-wherever-i-may-roam-black-ticket)
-* [White Horse](http://whitehorsepasadena.com/) - Pasadena, California
 
 #### Nell
 
 * [Space Jam website](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
 * [Pink Gorilla Games](http://www.pinkgorillagames.com/)
+
+#### Phil
+
+* [Metallica:  Wherever I May Roam Black Ticket](https://www.cidentertainment.com/events/metallica-worldwired-tour/#sold-out-wherever-i-may-roam-black-ticket)
+* [White Horse](http://whitehorsepasadena.com/) - Pasadena, California
 
 #### Nathen
 
