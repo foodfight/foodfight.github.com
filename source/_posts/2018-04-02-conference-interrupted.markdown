@@ -16,14 +16,10 @@ Join some of the organizers of [DevOpsDays Baltimore 2018](https://www.devopsday
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKeGAJfrQmU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
-
-
 * [Panel](/2018/04/conference-interrupted.html#panel)
 * [Outline](/2018/04/conference-interrupted.html#outline)
 * [Picks](/2018/04/conference-interrupted.html#picks)
 * Download
-  * Coming soon!  This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
   * [Video](https://www.youtube.com/watch?v=HKeGAJfrQmU)
   * Audio - Coming soon!
 
@@ -43,12 +39,23 @@ Panel<a name="panel"></a>
 * [ChefConf](https://chefconf.chef.io/) - May 22-25, Chicago, IL
 * [View all upcoming events](https://events.chef.io/)
 
+<!-- more -->
 
 ## Show Notes
 
 ## Winter Storm Toby Impact on DevOpsDays Baltimore 2018
 
 Winter storm Toby hit the Northeast US, including Baltimore, on Wednesday, March 21, 2018.  DevOpsDays Baltimore was originally scheduled for Wednesday, March 21 and Thursday, March 22.  The conference was moved to Thursday, March 22 and Friday, March 23.  This move impacted everyone associated with the conference:  attendees, sponsors, speakers, organizers, and vendors.
+
+### Constituents
+
+There are four main constituents for the conference:
+
+1.  Attendees
+2.  Speakers
+3.  Sponsors
+4.  Vendors
+
 
 ### Timeline
 
@@ -168,6 +175,7 @@ Things that contributed to our response.
 * Facility coordinator had a family emergency
 * Alert Fatigue
 * Micro-climates
+* We did not plan for failure
 
 ### Success Factors
 
@@ -175,18 +183,6 @@ Things that made our response more successful.
 
 * Locally optimized conference
 * Teamwork
-
-### Corrective Actions
-
-Action items going forward to fix the issue and reduce chance of contributing factors being an issue.
-
-All action items must be in service of answering these two questions:
-
-* What actions could be taken to decrease the time to detect the issue?
-* What actions could be taken to decrease the time to resolve the issue?
-
-This **MUST** include owners/teams assigned to these actions to see them through, and have an issue tracked in this repository (or otherwise linked to external team kanban/issue tracker).
-
 
 ### Initial email to sponsors
 
@@ -215,20 +211,39 @@ Thank you!
 
 Picks<a name="picks"></a>
 -----
+#### Nell
+
+* [Sakura Con](http://sakuracon.org/)
+* [Forged in Fire](https://www.history.com/shows/forged-in-fire)
+
 #### Delali
+
+* [The Purple Cow](https://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/014101640X/)
+* [Baltimore](https://www.baltimorecity.gov/)
 
 #### Meghan
 
+* [Camden Yards](https://www.mlb.com/orioles/ballpark)
+
 #### Kevin
 
-#### Nell
+* [Shure SE846 Sound Isolating Earphones](http://www.shure.com/americas/products/earphones/se-earphones/se846-sound-isolating-earphones)
+* [Michigan FTW in the NCAA tournament tonight](https://www.sbnation.com/college-basketball/2018/4/2/17188504/villanova-michigan-preview-national-championship-game-march-madness-ncaa-tournament)!
 
 #### Nathen
+
+* Happy Birthday, Jason Dixon ([@obfuscurity](https://twitter.com/obfuscurity))
+* Happy Birthday, John Willis ([@botchagalupe](https://twitter.com/botchagalupe))
+* Happy Birthday, Mark Cornick ([@markcornick](https://twitter.com/markcornick))
+
+Recent video birthdays:
+
+* [Imagine DevOps](https://www.youtube.com/watch?v=iYLxw6OsZug) from David Lutz ([@dlutzy](https://twitter.com/dlutzy))
+* [Eggs 365](https://www.youtube.com/watch?v=XD0vRW4G82U) my adventures learning about Continuous Delivery with Adam Jacob ([@adamhjk](https://twitter.com/adamhjk)) and Jez Humble ([@jezhumble](https://twitter.com/jezhumble))
 
 Download
 --------
 
-* Coming soon!  This episode will air [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
 * [Video](https://www.youtube.com/watch?v=HKeGAJfrQmU)
 * Audio - Coming soon!
 
