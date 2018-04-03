@@ -20,6 +20,8 @@ Join Kelsey Hightower ([@keslseyhightower](https://twitter.com/kelseyhightower))
   * [Video](https://www.youtube.com/watch?v=C4weDu-RBLI)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS116.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
