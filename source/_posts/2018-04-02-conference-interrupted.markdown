@@ -8,6 +8,10 @@ categories:
   - devopsdaysbmore
   - incident-management
   - post-mortem
+  - delalidzirasa
+  - _mcbee13
+  - krs-one
+
 ---
 
 Winter storm Toby hit the Northeast US, including Baltimore, on Wednesday, March 21, 2018.  DevOpsDays Baltimore was originally scheduled for Wednesday, March 21 and Thursday, March 22.  The conference was moved to Thursday, March 22 and Friday, March 23.  This move impacted everyone associated with the conference:  attendees, sponsors, speakers, organizers, and vendors.
@@ -21,7 +25,7 @@ Join some of the organizers of [DevOpsDays Baltimore 2018](https://www.devopsday
 * [Picks](/2018/04/conference-interrupted.html#picks)
 * Download
   * [Video](https://www.youtube.com/watch?v=HKeGAJfrQmU)
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS118.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -245,7 +249,7 @@ Download
 --------
 
 * [Video](https://www.youtube.com/watch?v=HKeGAJfrQmU)
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS118.mp3)
 
 <hr />
 
