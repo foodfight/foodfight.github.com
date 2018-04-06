@@ -82,7 +82,7 @@ Picks<a name="picks"></a>
 Download
 --------
 
-* Coming soon, this episode will air on [Friday, April 6, 2018 18:30 UTC](http://everytimezone.com/#2018-4-6,390,cn3)
+Coming soon, this episode will air on [Friday, April 6, 2018 18:30 UTC](http://everytimezone.com/#2018-4-6,390,cn3)
 
 <hr />
 
