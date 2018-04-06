@@ -11,9 +11,6 @@ categories:
 
 Join a discussion with John Allspaw ([@allspaw](https://twitter.com/allspaw)) about the [STELLA Report from the SNAFUcatchers Workshop on Coping With Complexity](http://stella.report/).
 
-Have questions or want to join the live conversation?  Join us in the \#foodfight channel in the [Chef Community Slack](http://community-slack.chef.io/).
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyfZ7QlffI4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 * [Panel](/2018/04/stella-report.html#panel)
@@ -41,36 +38,19 @@ Panel<a name="panel"></a>
 
 ## Show Notes
 
-* What is the Stella Report?
-  * How was the report generated?
-  * Why "stella"?
-* Features of anomaly responses
-  * surprise
-  * uncertainty
-  * the role of search
-  * the role of system representations
-  * generate hypotheses
-  * use of basic tools
-  * coordinating work and action
-  * communication in joint activity
-  * shared artifacts
-  * the consequences of escalating consequences and disturbance management
-  * managing risk
-  * goal sacrifice
-* Themes uncovered
-  * Capturing the value of anomalies through postmortems
-  * Blame versus sanction in the aftermath of anomalies
-  * Controlling the costs of coordination during anomaly response
-  * Supporting anomaly response through improved visualizations
-  * Strange loops dependencies
-  * Dark Debt
-* Are we too focused on MTTD, MTTR, and other metrics?
-* How often should the morgue be explored?
-* What should we focus on next given...
-  * we complete learning reviews or post mortems to check a box, not to learn?
-  * we truly have a blameless culture, and focus real work on reducing time-to-detect and time-to-resolve?
-* Who are / what is the SNAFUcatchers?
-* What sort of support do you need for this work?  How can others get involved?
+* Two important questions:
+  * What makes this work hard?
+  * What makes people good at this work?
+* [STELLA Report from the SNAFUcatchers Workshop on Coping With Complexity](http://stella.report)
+* [TRADE-OFFS UNDER PRESSURE: HEURISTICS AND OBSERVATIONS OF TEAMS RESOLVING INTERNET SERVICE OUTAGES](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8084520&fileOId=8084521)
+* [Do Staff Rides Help Move The Forest Service Toward Its Goal Of Becoming A Learning Organization](https://lup.lub.lu.se/student-papers/search/publication/5463899)
+* [SNAFUcatchers](https://www.snafucatchers.com/)
+* [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/)
+* [Nobel laureate Daniel Kahneman - Premortem to eliminate thinking biases.](https://www.youtube.com/watch?v=MzTNMalfyhM)
+  * The full lecture:  [The Science of Decision with Daniel Kahneman](https://www.youtube.com/watch?v=VJFxVdq-hYg)
+* [Richard I. Cook, M.D. (@ri_cook)](https://twitter.com/ri_cook)
+* [David D. Woods, Ph.D. (@ddwoods2)](https://twitter.com/ddwoods2)
+
 
 
 Picks<a name="picks"></a>
@@ -80,8 +60,11 @@ Picks<a name="picks"></a>
 
 #### Alan
 
+* Curling
+
 #### Nathen
 
+* Be a tourist!
 
 Download
 --------
