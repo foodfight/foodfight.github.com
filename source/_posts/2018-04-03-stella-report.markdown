@@ -13,11 +13,15 @@ Join a discussion with John Allspaw ([@allspaw](https://twitter.com/allspaw)) ab
 
 Have questions or want to join the live conversation?  Join us in the \#foodfight channel in the [Chef Community Slack](http://community-slack.chef.io/).
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DyfZ7QlffI4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 * [Panel](/2018/04/stella-report.html#panel)
 * [Outline](/2018/04/stella-report.html#outline)
 * [Picks](/2018/04/stella-report.html#picks)
 * Download
-  * Coming soon, this episode will air on [Friday, April 6, 2018 18:30 UTC](http://everytimezone.com/#2018-4-6,390,cn3)
+  * [Video](http://youtu.be/DyfZ7QlffI4)
+  * Audio - coming soon
 
 Panel<a name="panel"></a>
 -----
@@ -82,7 +86,8 @@ Picks<a name="picks"></a>
 Download
 --------
 
-Coming soon, this episode will air on [Friday, April 6, 2018 18:30 UTC](http://everytimezone.com/#2018-4-6,390,cn3)
+* [Video](http://youtu.be/DyfZ7QlffI4)
+* Audio - coming soon
 
 <hr />
 
