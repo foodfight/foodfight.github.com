@@ -18,12 +18,12 @@ Join a discussion with John Allspaw ([@allspaw](https://twitter.com/allspaw)) ab
 * [Picks](/2018/04/stella-report.html#picks)
 * Download
   * [Video](http://youtu.be/DyfZ7QlffI4)
-  * Audio - coming soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS119.mp3)
 
 Panel<a name="panel"></a>
 -----
 
-* Alan Kraft 
+* Alan Kraft
 * John Allspaw [github](https://github.com/jallspaw), [twitter](https://twitter.com/allspaw), [blog](https://medium.com/@allspaw/), [SNAFUcatchers](https://www.snafucatchers.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
@@ -52,7 +52,9 @@ Panel<a name="panel"></a>
   * [TRADE-OFFS UNDER PRESSURE: HEURISTICS AND OBSERVATIONS OF TEAMS RESOLVING INTERNET SERVICE OUTAGES](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8084520&fileOId=8084521)
   * [Do Staff Rides Help Move The Forest Service Toward Its Goal Of Becoming A Learning Organization](https://lup.lub.lu.se/student-papers/search/publication/5463899)
 * Premortems?
+  * [Performing a Project Premortem](https://hbr.org/2007/09/performing-a-project-premortem) by Gary Klein
   * [DevOpsDays Detroit 2017: Day 1 Keynote by Dr. Richard I. Cook](https://www.youtube.com/watch?v=4jRqtciRQds)
+* [Question Storming](https://experiencinginformation.com/2011/11/02/questionstorming-framing-the-problem/)
 * Game Days
 * Support to Continue Research
   * [How Complex Systems Fail by Richard Cook](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
@@ -60,18 +62,27 @@ Panel<a name="panel"></a>
   * [Nobel laureate Daniel Kahneman - Premortem to eliminate thinking biases.](https://www.youtube.com/watch?v=MzTNMalfyhM)
     * The full lecture:  [The Science of Decision with Daniel Kahneman](https://www.youtube.com/watch?v=VJFxVdq-hYg)
 
+
+### Alan's recommended path to get up-to-speed on the STELLA Report:
+
+1. The best introduction from a DevOps perspective to the concepts covered in the Stella Report is John Allspaw's talk on [Resilience Engineering as DevOps](https://www.youtube.com/watch?v=xA5U85LSk0M) from the 2017 DevOps Enterprise Summit
+
+2. Second read the [Stella Report](http://stella.report) from the Workshop on Coping With Complexity.
+
+3. Finally check out [DevOpsDays Detroit 2017: Day 1 Keynote](https://www.youtube.com/watch?v=4jRqtciRQds) by Dr. Richard I. Cook.
+
 Picks<a name="picks"></a>
 -----
 
 #### Alan
 
-* [Wildland Firefighters Lessons Learned Center](https://www.wildfirelessons.net/home)
-* [EUROCONTROL Skybrary](https://www.skybrary.aero/index.php/EUROCONTROL)
+* [Wildland Fire Lessons Learned Center](https://www.wildfirelessons.net/home); including the [Alabaugh Fire](https://ed.ted.com/on/PhJ2SX9U) staff ride video
+* EUROCONTROL’s [Skybrary](https://www.skybrary.aero/index.php/Main_Page); including [Systems Thinking for Safety: Ten Principles](https://www.skybrary.aero/index.php/Toolkit:Systems_Thinking_for_Safety:_Ten_Principles)
 * Curling
 
 #### John
 
-* [Problem Detection](https://dl.acm.org/citation.cfm?id=1075803)
+* [Problem Detection (Klein, Pliske, Crandall, Woods, 2005)](https://www.researchgate.net/publication/220579480_Problem_detection)
 
 #### Nathen
 
@@ -81,7 +92,7 @@ Download
 --------
 
 * [Video](http://youtu.be/DyfZ7QlffI4)
-* Audio - coming soon
+* [Audio](http://traffic.libsyn.com/foodfight/FFS119.mp3)
 
 <hr />
 
