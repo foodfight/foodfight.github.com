@@ -23,8 +23,8 @@ Join a discussion with John Allspaw ([@allspaw](https://twitter.com/allspaw)) ab
 Panel<a name="panel"></a>
 -----
 
+* Alan Kraft 
 * John Allspaw [github](https://github.com/jallspaw), [twitter](https://twitter.com/allspaw), [blog](https://medium.com/@allspaw/), [SNAFUcatchers](https://www.snafucatchers.com/)
-* Alan Kraft
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 -------
@@ -38,29 +38,40 @@ Panel<a name="panel"></a>
 
 ## Show Notes
 
-* Two important questions:
-  * What makes this work hard?
-  * What makes people good at this work?
-* [STELLA Report from the SNAFUcatchers Workshop on Coping With Complexity](http://stella.report)
-* [TRADE-OFFS UNDER PRESSURE: HEURISTICS AND OBSERVATIONS OF TEAMS RESOLVING INTERNET SERVICE OUTAGES](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8084520&fileOId=8084521)
-* [Do Staff Rides Help Move The Forest Service Toward Its Goal Of Becoming A Learning Organization](https://lup.lub.lu.se/student-papers/search/publication/5463899)
-* [SNAFUcatchers](https://www.snafucatchers.com/)
-* [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/)
-* [Nobel laureate Daniel Kahneman - Premortem to eliminate thinking biases.](https://www.youtube.com/watch?v=MzTNMalfyhM)
-  * The full lecture:  [The Science of Decision with Daniel Kahneman](https://www.youtube.com/watch?v=VJFxVdq-hYg)
-* [Richard I. Cook, M.D. (@ri_cook)](https://twitter.com/ri_cook)
-* [David D. Woods, Ph.D. (@ddwoods2)](https://twitter.com/ddwoods2)
-
-
+* What is the STELLA Report?
+  * [STELLA Report from the SNAFUcatchers Workshop on Coping With Complexity](http://stella.report)
+  * [David Woods Velocity NY 2014 Keynote: "The Mystery of Sustained Adaptability"](https://www.youtube.com/watch?v=7STcaWjJoww)
+  * [SNAFUcatchers](https://www.snafucatchers.com/)
+    * [Richard I. Cook, M.D. (@ri_cook)](https://twitter.com/ri_cook)
+    * [David D. Woods, Ph.D. (@ddwoods2)](https://twitter.com/ddwoods2)
+* Writing the STELLA Report    
+  * Two important questions:
+    * What makes this work hard?
+    * What makes people good at this work?
+* Dark Debt, Technical Debt, and Postmortems
+  * [TRADE-OFFS UNDER PRESSURE: HEURISTICS AND OBSERVATIONS OF TEAMS RESOLVING INTERNET SERVICE OUTAGES](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8084520&fileOId=8084521)
+  * [Do Staff Rides Help Move The Forest Service Toward Its Goal Of Becoming A Learning Organization](https://lup.lub.lu.se/student-papers/search/publication/5463899)
+* Premortems?
+  * [DevOpsDays Detroit 2017: Day 1 Keynote by Dr. Richard I. Cook](https://www.youtube.com/watch?v=4jRqtciRQds)
+* Game Days
+* Support to Continue Research
+  * [How Complex Systems Fail by Richard Cook](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+  * [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/)
+  * [Nobel laureate Daniel Kahneman - Premortem to eliminate thinking biases.](https://www.youtube.com/watch?v=MzTNMalfyhM)
+    * The full lecture:  [The Science of Decision with Daniel Kahneman](https://www.youtube.com/watch?v=VJFxVdq-hYg)
 
 Picks<a name="picks"></a>
 -----
 
-#### John
-
 #### Alan
 
+* [Wildland Firefighters Lessons Learned Center](https://www.wildfirelessons.net/home)
+* [EUROCONTROL Skybrary](https://www.skybrary.aero/index.php/EUROCONTROL)
 * Curling
+
+#### John
+
+* [Problem Detection](https://dl.acm.org/citation.cfm?id=1075803)
 
 #### Nathen
 
