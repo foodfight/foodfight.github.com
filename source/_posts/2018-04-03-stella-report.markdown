@@ -34,8 +34,6 @@ Panel<a name="panel"></a>
 * [ChefConf](https://chefconf.chef.io/) - May 22-25, Chicago, IL
 * [View all upcoming events](https://events.chef.io/)
 
-<!-- more -->
-
 ## Show Notes
 
 * What is the STELLA Report?
