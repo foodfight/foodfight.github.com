@@ -47,7 +47,7 @@ The Food Fight Show was founded by Bryan Berry and was originally hosted by Brya
     <img class="floatleft" src="/images/matt.jpg" alt="A photograph of Matt Ray." width="200px" height="200px" />
 </p>
 
-**[Matt Ray](https://plus.google.com/u/0/116714115351408264605/posts)** is a Technical Evangelist at [Chef][chefio].
+**Matt Ray** is the Regional Manager and Solutions Architect for Asia Pacific and Japan at [Chef][chefio]. He currently resides in Sydney, Australia after relocating from Austin, Texas. His current podcast is [Software Defined Talk][softwaredefinedtalk].
 
 [Twitter](https://twitter.com/#!/mattray)  |  [GitHub](https://github.com/mattray)  |  Blog: [The Shining Path of Least Resistance](http://www.leastresistance.net/)
 
@@ -65,3 +65,4 @@ The Food Fight Show was founded by Bryan Berry and was originally hosted by Brya
 [nelltwitter]: https://twitter.com/#!/nellshamrell
 [nellgithub]: https://github.com/nellshamrell
 [nellblog]: http://www.nellshamrell.com
+[softwaredefinedtalk]: http://www.softwaredefinedtalk.com/
