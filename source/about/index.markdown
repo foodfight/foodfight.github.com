@@ -39,7 +39,7 @@ The Food Fight Show was founded by Bryan Berry and was originally hosted by Brya
     <img class="floatleft" src="/images/bryan.jpg" alt="A photograph of Bryan Berry." width="200px" height="200px"/>
 </p>
 
-**[Bryan Berry](https://plus.google.com/106664679333642993534/posts?hl=en)** is an IT consultant living and working in Rome, Italy. In a former life he worked on the One Laptop Per Child project in Nepal. He loves *nix, ruby, python, file systems, and more.
+**Bryan W. Berry** is a software engineer living and working in Bangkok, Thailand. He currently develops decentralized applications for platforms such as Ethereum.
 
 [Twitter](https://twitter.com/#!/bryanwb)  |  [GitHub](https://github.com/bryanwb)  |  Blog: [Devops Anywhere](http://devopsanywhere.blogspot.com/)
 
