@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chefconf-2018"
+title: "Live from ChefConf 2018 with Arrested DevOps"
 date: 2018-07-03 20:15
 comments: true
 categories: 
@@ -9,6 +9,7 @@ categories:
   - trevorghess
   - chefconf
 ---
+
 Nell and Nathen teamed up with Matty and Trevor from the [Arrested Devops podcast](https://www.arresteddevops.com/) while at [ChefConf 2018](https://chefconf.chef.io/).  The episode was recorded in the ChefConf Demo Theatre before a live audience.
 
 * [Panel](/2018/07/chefconf-2018.html#panel)
