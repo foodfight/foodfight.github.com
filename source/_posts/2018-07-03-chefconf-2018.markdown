@@ -1,0 +1,37 @@
+---
+layout: post
+title: "chefconf-2018"
+date: 2018-07-03 20:15
+comments: true
+categories: 
+  - arresteddevops
+  - mattstratton
+  - trevorghess
+  - chefconf
+---
+Nell and Nathen teamed up with Matty and Trevor from the [Arrested Devops podcast](https://www.arresteddevops.com/) while at [ChefConf 2018](https://chefconf.chef.io/).  The episode was recorded in the ChefConf Demo Theatre before a live audience.
+
+* [Panel](/2018/07/chefconf-2018.html#panel)
+* [Audio](http://traffic.libsyn.com/foodfight/FFS120.mp3)
+
+Panel<a name="panel"></a>
+-----
+* Matty Stratton [github](https://github.com/mattstratton), [twitter](https://twitter.com/mattstratton)
+* Trevor Hess , [github](https://github.com/trevorghess), [twitter](https://twitter.com/trevorghess)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+
+
+Download
+--------
+
+* [Audio](http://traffic.libsyn.com/foodfight/FFS120.mp3)
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) and [Nell Shamrell](https://twitter.com/nellshamrell) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+
