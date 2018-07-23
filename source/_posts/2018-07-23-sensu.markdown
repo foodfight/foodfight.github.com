@@ -23,7 +23,6 @@ This episode will be broadcast and recorded on [Thursday, July 26, 2018 - 18:00 
 Panel<a name="panel"></a>
 -----
 * Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)
-* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 ## Show Notes
