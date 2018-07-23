@@ -20,6 +20,8 @@ Join a discussion with John Allspaw ([@allspaw](https://twitter.com/allspaw)) ab
   * [Video](http://youtu.be/DyfZ7QlffI4)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS119.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
