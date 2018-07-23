@@ -30,6 +30,7 @@ Panel<a name="panel"></a>
 
 Have questions about Sensu?  Open a pull-request against the [show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-121-sensu.md).
 
+* Pre-listen - Food Fight Show episode 33 - [\#monitoringlove With Sensu](http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html)
 * Sensu
   * What is Sensu?
   * Why was it created?
