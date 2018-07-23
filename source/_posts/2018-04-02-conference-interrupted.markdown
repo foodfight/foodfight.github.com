@@ -27,6 +27,8 @@ Join some of the organizers of [DevOpsDays Baltimore 2018](https://www.devopsday
   * [Video](https://www.youtube.com/watch?v=HKeGAJfrQmU)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS118.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 

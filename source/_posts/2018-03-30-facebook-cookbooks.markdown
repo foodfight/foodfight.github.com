@@ -15,6 +15,8 @@ Join Phil Dibowitz ([@thephild](https://twitter.com/thephild)) for a discussion 
 * [Picks](/2018/03/facebook-cookbooks#picks)
 * [Audio](http://traffic.libsyn.com/foodfight/FFS117.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 
