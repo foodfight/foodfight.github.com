@@ -1,0 +1,53 @@
+---
+layout: post
+title: "sensu"
+date: 2018-07-23 10:44
+comments: true
+categories: 
+  - sensu
+  - portertech
+  - monitoring
+  - habitat
+  - observability
+---
+
+Sensu’s platform is the solution to the monitoring problems you’re facing today, and the right foundation for your organization tomorrow. From bare metal to Kubernetes—get complete visibility across every system, every protocol, every time.  This episode will feature Sean Porter, CTO of Sensu, for a discussion of Sensu's platform and more.
+
+This episode will be broadcast and recorded on [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#2018-7-26,420,b8jj).
+
+<!--
+* [Panel](/2018/07/sensu.html#panel)
+* Audio - Coming Soon.
+-->
+
+Panel<a name="panel"></a>
+-----
+* Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+
+## Show Notes
+
+Have questions about Sensu?  Open a pull-request against the [show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-121-sensu.md).
+
+* Sensu
+  * What is Sensu?
+  * Why was it created?
+* [Sensu Summit](https://sensu.io/summit)
+* Sensu + Habitat <3
+* [ChefConf 2018 Session: Chef & Sensu – Delightful Monitoring](https://chefconf.chef.io/conf-resources/chefconf-2018-session-chef-sensu-delightful-monitoring/)
+
+
+Download
+--------
+
+Coming soon.  This episode will be broadcast and recorded on [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#2018-7-26,420,b8jj).
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) and [Nell Shamrell](https://twitter.com/nellshamrell) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+
