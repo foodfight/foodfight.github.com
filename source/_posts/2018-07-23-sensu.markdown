@@ -13,16 +13,16 @@ categories:
   - observability
 ---
 
-Sensu’s platform is the solution to the monitoring problems you’re facing today, and the right foundation for your organization tomorrow. From bare metal to Kubernetes—get complete visibility across every system, every protocol, every time.  This episode will feature Sean Porter, CTO of Sensu, for a discussion of Sensu's platform and more.
-
-This episode will be broadcast and recorded on [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#2018-7-26,420,b8jj).
+Sensu’s platform is the solution to the monitoring problems you’re facing today, and the right foundation for your organization tomorrow. From bare metal to Kubernetes—get complete visibility across every system, every protocol, every time.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o2vNz8WzdSg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-<!--
 * [Panel](/2018/07/sensu.html#panel)
-* Audio - Coming Soon.
--->
+* [Outline](/2018/07/sensu.html#outline)
+* [Picks](/2018/07/sensu.html#picks)
+* Download
+  * [Video](http://youtu.be/o2vNz8WzdSg)
+  * Audio - Coming soon
 
 Panel<a name="panel"></a>
 -----
@@ -31,10 +31,7 @@ Panel<a name="panel"></a>
 * Matt Broberg [github](https://github.com/mbbroberg), [twitter](https://twitter.com/mbbroberg)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
-## Show Notes
-
-Have questions about Sensu?  Open a pull-request against the [show notes](https://github.com/foodfight/showz/blob/master/scripts/episode-121-sensu.md).
-
+## Show Notes<a name="outline"></a>
 * Pre-listen - Food Fight Show episode 33 - [\#monitoringlove With Sensu](http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html)
 * Sensu
   * What is Sensu?
@@ -43,14 +40,28 @@ Have questions about Sensu?  Open a pull-request against the [show notes](https:
 * Sensu + Habitat <3
 * [ChefConf 2018 Session: Chef & Sensu – Delightful Monitoring](https://chefconf.chef.io/conf-resources/chefconf-2018-session-chef-sensu-delightful-monitoring/)
 
+Picks<a name="picks"></a>
+-----
+
+#### John
+
+#### Matt
+
+#### Sean
+
+#### Nathen
+
+* Take a break!
+* [Lean Out:  The Struggle for Gender Equality in Tech and Start-up Culture](http://www.orbooks.com/catalog/lean-out/)
+* [Indellient](https://www.indellient.com/)
+
+
 
 Download
 --------
-
-Coming soon.  This episode will be broadcast and recorded on [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#2018-7-26,420,b8jj).
-
 * [Video](http://youtu.be/o2vNz8WzdSg)
 * Audio - Coming soon
+
 <hr />
 
 The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) and [Nell Shamrell](https://twitter.com/nellshamrell) with help from other hosts and the awesome community of Chefs.
