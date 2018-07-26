@@ -17,6 +17,8 @@ Sensu’s platform is the solution to the monitoring problems you’re facing to
 
 This episode will be broadcast and recorded on [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#2018-7-26,420,b8jj).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2vNz8WzdSg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 <!--
 * [Panel](/2018/07/sensu.html#panel)
 * Audio - Coming Soon.
@@ -47,6 +49,8 @@ Download
 
 Coming soon.  This episode will be broadcast and recorded on [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#2018-7-26,420,b8jj).
 
+* [Video](http://youtu.be/o2vNz8WzdSg)
+* Audio - Coming soon
 <hr />
 
 The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) and [Nell Shamrell](https://twitter.com/nellshamrell) with help from other hosts and the awesome community of Chefs.
