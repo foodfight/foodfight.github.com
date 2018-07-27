@@ -22,7 +22,7 @@ Sensu’s platform is the solution to the monitoring problems you’re facing to
 * [Picks](/2018/07/sensu.html#picks)
 * Download
   * [Video](http://youtu.be/o2vNz8WzdSg)
-  * Audio - Coming soon
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS122.mp3)
 
 Panel<a name="panel"></a>
 -----
@@ -93,7 +93,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/o2vNz8WzdSg)
-* Audio - Coming soon
+* [Audio](http://traffic.libsyn.com/foodfight/FFS122.mp3)
 
 <hr />
 
