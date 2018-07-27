@@ -32,13 +32,37 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 ## Show Notes<a name="outline"></a>
-* Pre-listen - Food Fight Show episode 33 - [\#monitoringlove With Sensu](http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html)
-* Sensu
+
+* Join us at [The AWS Summit in Chicago](https://aws.amazon.com/summits/chicago/) on August 2nd!
+* We'll also be at [VMworld](https://aws.amazon.com/summits/chicago/) in late August.
+* and the [Sensu Summit](https://sensu.io/summit) in Portland.
+* [DevOpsDays Chicago](https://www.devopsdays.org/events/2018-chicago/welcome/)
+* [Chef Community Summit: Seattle (Oct 2nd - 3rd)](https://events.chef.io/events/seattle-chef-community-summit/)
+* [Chef Community Summit: London (Oct 16th - 17th)](https://events.chef.io/events/chef-community-summit-europe-2018/)
+
+* Join us in the [Chef Community Slack!](http://community-slack.chef.io/)
+
+* [Sensu](https://sensu.io/)
   * What is Sensu?
   * Why was it created?
+  * Where is Sensu today?
+  * History
+    * Pre-listen - Food Fight Show episode 33 - [\#monitoringlove With Sensu](http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html)
+  * The Community
+    * Finding high-quality plugins
+    * What makes a good plugin?
+    * Keeping plugins up-to-date
+  * Sensu 2.0
+* [Habitat](https://www.habitat.sh/)
+  * What is Habitat?
+  * Habitat + Sensu = <3
+  * Working with Habitat
+* Monitoring and Observability and Sensu
 * [Sensu Summit](https://sensu.io/summit)
-* Sensu + Habitat <3
-* [ChefConf 2018 Session: Chef & Sensu – Delightful Monitoring](https://chefconf.chef.io/conf-resources/chefconf-2018-session-chef-sensu-delightful-monitoring/)
+* Learn More About Sensu
+  * [ChefConf 2018 Session: Chef & Sensu – Delightful Monitoring](https://chefconf.chef.io/conf-resources/chefconf-2018-session-chef-sensu-delightful-monitoring/)
+  * [Sensu Docs](https://docs.sensu.io/)
+  * [Sensu Summit](https://sensu.io/summit)
 
 Picks<a name="picks"></a>
 -----
