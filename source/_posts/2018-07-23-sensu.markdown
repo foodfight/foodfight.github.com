@@ -24,6 +24,8 @@ Sensu’s platform is the solution to the monitoring problems you’re facing to
   * [Video](http://youtu.be/o2vNz8WzdSg)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS122.mp3)
 
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 * Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)
