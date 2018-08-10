@@ -10,7 +10,7 @@ categories:
   - julian_dunn
 ---
 
-Join this conversation with Chris Short ([@chrisshort](https://twitter.com/chrisshort)) and Julian Dunn ([@julian_dunn](https://twitter.com/julian_dunn)) as we discuss the role of Product Marketing Managers.
+A conversation with Chris Short ([@chrisshort](https://twitter.com/chrisshort)) and Julian Dunn ([@julian_dunn](https://twitter.com/julian_dunn)) about the role of Product Marketing Managers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CRE6xFp6_Uk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -34,12 +34,6 @@ Panel<a name="panel"></a>
 * How does PMM differ from other parts of marketing?
 * Why did you transition from Engineer to PMM?
 * How are PMM and DevOps related?
-
-### Have questions for our panelists?
-
-* Join us in the [Chef Community Slack!](http://community-slack.chef.io/) during the show.
-* [Open a pull request](https://github.com/foodfight/showz/blob/master/scripts/episode-122-product-marketing.md) to the show notes in advance.
-
 
 
 Picks<a name="picks"></a>
