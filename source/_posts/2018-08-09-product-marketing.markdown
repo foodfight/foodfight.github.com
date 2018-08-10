@@ -12,13 +12,14 @@ categories:
 
 Join this conversation with Chris Short ([@chrisshort](https://twitter.com/chrisshort)) and Julian Dunn ([@julian_dunn](https://twitter.com/julian_dunn)) as we discuss the role of Product Marketing Managers.
 
-This episode will air [Friday, August 10, 2018 - 18:00 UTC](https://everytimezone.com/#2018-8-10,420,b8jj).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CRE6xFp6_Uk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 * [Panel](/2018/08/product-marketing.html#panel)
 * [Outline](/2018/08/product-marketing.html#outline)
 * [Picks](/2018/08/product-marketing.html#picks)
 * Download
-  * Coming soon, this episode will air [Friday, August 10, 2018 - 18:00 UTC](https://everytimezone.com/#2018-8-10,420,b8jj).
+  * [Video](http://youtu.be/iCRE6xFp6_Uk)
+  * Audio - Coming soon!
   
 Panel<a name="panel"></a>
 -----
@@ -57,8 +58,8 @@ Picks<a name="picks"></a>
 
 Download
 --------
-* [Video](http://youtu.be/o2vNz8WzdSg)
-* [Audio](http://traffic.libsyn.com/foodfight/FFS122.mp3)
+* [Video](http://youtu.be/iCRE6xFp6_Uk)
+* Audio - Coming soon!
 
 <hr />
 
