@@ -19,7 +19,7 @@ A conversation with Chris Short ([@chrisshort](https://twitter.com/chrisshort)) 
 * [Picks](/2018/08/product-marketing.html#picks)
 * Download
   * [Video](http://youtu.be/iCRE6xFp6_Uk)
-  * Audio - Coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS123.mp3)
   
 Panel<a name="panel"></a>
 -----
@@ -82,7 +82,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/iCRE6xFp6_Uk)
-* Audio - Coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS123.mp3)
 
 <hr />
 
