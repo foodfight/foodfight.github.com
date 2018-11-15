@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: someara | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/someara/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Roles, Environments, Attributes, and Data Bags - Part 2]]></title>
+    <link href="http://foodfightshow.org//2013/01/roles2.html"/>
+    <updated>2013-01-22T13:34:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/roles2</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, January 22, 2013</p>
+
+<p>This episode is a continuation of our discussion of Roles, Environments, Attributes and Data Bags.
+The episode was recorded as a Google+ Hangout and streamed live on YouTube.</p>
+
+<p>You can now <a href="http://bit.ly/ffsmail">subscribe to the Food Fight Show email newsletter</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/01/roles2.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/01/roles2.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/01/roles2.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-37-Roles-Environs-Etc-Pt2.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=-3IibcjcnWc">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/-3IibcjcnWc" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jeff Hagadorn <a href="">github</a>, <a href="https://twitter.com/dahui0401">twitter</a></li>
+<li>Sean O'Meara  <a href="https://github.com/someara">github</a>, <a href="https://twitter.com/someara">twitter</a>, <a href="http://blog.afistfulofservers.net/">blog</a></li>
+<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>This show was a roundtable discussion of some of the components within Chef.  We start with a definition of each object, taken from the <a href="http://docs.opscode.com/chef_overview.html">docs site</a> and give each panelist a few minutes to discuss.</p>
+
+<h4>Roles</h4>
+
+<p>A role is a way to define certain patterns and processes that exist across nodes in a Chef organization as belonging to a single job function. Each role may contain attributes and/or a run list. Each node can have zero (or more) roles assigned to it. When a role is run against a node, the configuration details of that node are compared against the attributes of the role, and then the contents of that role’s run list are applied to the node’s configuration details. When a chef-client runs, it merges its own attributes and run lists with those contained within each assigned role.</p>
+
+<h4>Environments</h4>
+
+<p>An environment is a way to map an organization’s real-life workflow to what can be configured and managed when using Chef server. Every Chef organization begins with a single environment called the _default environment, which cannot be modified (or deleted). Additional environments can be created, such as production, staging, testing, and development. Generally, an environment is also associated with one (or more) cookbook versions.</p>
+
+<h4>Attributes</h4>
+
+<p>An attribute is a specific detail about a node, such as an IP address, a host name, a desired application setting, a list of loaded kernel modules, the version(s) of available programming languages that are available, and so on. Attributes can be maintained in a variety of ways, such as by re-loading a cookbook (that contains new attributes), by using Knife, or by using JSON data. During a Chef run, the chef-client gets attributes from Ohai, the node object on the Chef server, roles, recipes, and environments. These attributes are compared and then updated based on attribute precedence rules that are defined for each attribute. At the end of a Chef run, the chef-client will save the node object (and all of its attributes) to the Chef server so they can be indexed for search.</p>
+
+<p>Types of attributes:</p>
+
+<ul>
+<li>Automatic</li>
+<li>Override</li>
+<li>Normal</li>
+<li>Default</li>
+<li>Check the docs for <a href="http://docs.opscode.com/essentials_cookbook_recipes_attribute_precedence.html">attribute precendence</a></li>
+</ul>
+
+
+<h4>Data Bags</h4>
+
+<p>A data bag is a global variable that is stored as JSON data and is accessible from a Chef server. A data bag is indexed for searching and can be loaded by a recipe or accessed during a search. The contents of a data bag can vary, but they often include sensitive information (such as database passwords).</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Jeff</h3>
+
+<ul>
+<li><a href="https://www.digitalocean.com/">DigitalOcean - Hosting</a></li>
+</ul>
+
+
+<h3>Joshua</h3>
+
+<ul>
+<li><a href="http://roll20.net">Roll20</a> - Virtual tabletop gaming</li>
+<li><a href="http://jtimberman.housepub.org/blog/2012/12/29/process-supervision-solved-problem/">Process Supervision: Solved Problem</a></li>
+</ul>
+
+
+<h3>Sean</h3>
+
+<ul>
+<li><a href="http://joyent.com/technology/smartos">SmartOS</a></li>
+<li><a href="http://joyent.com/products/smartdatacenter">Joyent Smart Data Center</a></li>
+</ul>
+
+
+<h3>Bryan</h3>
+
+<ul>
+<li><a href="https://github.com/slyphon/zk">Zookeeper Gem</a></li>
+<li><a href="http://docs.jamie-ci.org/">Jamie CI</a></li>
+</ul>
+
+
+<h3>Nathen</h3>
+
+<ul>
+<li><a href="http://devopsdays.org/">DevOpsDays</a></li>
+<li><a href="http://thetruthapm.com/The_Truth.html">The Truth</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-37-Roles-Environs-Etc-Pt2.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=-3IibcjcnWc">Video Stream</a></li>
+</ul>
+
+
+<h2>Music Notes</h2>
+
+<ul>
+<li>Eric Reeves - Food Fight Show Theme Song</li>
+<li><a href="http://www.youtube.com/watch?v=uZLtzchX32c">Angel Vivaldi - A Mercurian Summer</a></li>
+<li><a href="http://www.youtube.com/watch?v=7uEBuqkkQRk">New Order - Bizarre Love Triangle</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Roles, Environments, Attributes, and Data Bags]]></title>
+    <link href="http://foodfightshow.org//2013/01/roles.html"/>
+    <updated>2013-01-10T12:56:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/roles</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, January 10, 2013</p>
+
+<p>This episode is a look at Roles, Environments, Attributes and Data Bags.<br/>
+The episode was recorded as a Google+ Hangout and streamed live on YouTube.</p>
+
+<p>You can now <a href="http://bit.ly/ffsmail">subscribe to the Food Fight Show email newsletter</a>.</p>
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Sean O'Meara  <a href="https://github.com/someara">github</a>, <a href="https://twitter.com/someara">twitter</a>, <a href="http://blog.afistfulofservers.net/">blog</a></li>
+<li>David Kleinschmidt <a href="https://github.com/zobar">github</a>, <a href="https://twitter.com/zobar2">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-36-Roles-Environs-Etc.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=Z2NssEeVHlI">Video Stream</a></li>
+</ul>
+
+
+<h2>Watch Now<a name="video"></a></h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Z2NssEeVHlI" frameborder="0" allowfullscreen></iframe>
+
+
+<h2>Music Notes</h2>
+
+<ul>
+<li>Eric Reeves - Food Fight Show Theme Song</li>
+<li><a href="http://www.youtube.com/watch?v=TxH9Dg1JLio">Youngblood Brass Band - Brooklyn</a></li>
+<li><a href="http://www.youtube.com/watch?v=XePd71I4ozk">Epic Violin Guy - Revenge of the Nerds</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

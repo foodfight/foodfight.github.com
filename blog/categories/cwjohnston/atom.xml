@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cwjohnston | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/cwjohnston/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Secret Chef]]></title>
+    <link href="http://foodfightshow.org//2013/07/secret-chef.html"/>
+    <updated>2013-07-09T10:48:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/07/secret-chef</id>
+    <content type="html"><![CDATA[<p>Show Date:  July 9, 2013</p>
+
+<p>In this episode, we discuss managing secrets with Chef.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HL59_dot9zw" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-57-SecretChef.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=HL59_dot9zw">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Cameron Johnston - <a href="https://github.com/cwjohnston">github</a>, <a href="https://twitter.com/cwjohnston">twitter</a></li>
+<li>Kevin Moser  <a href="https://github.com/moserke">github</a>, <a href="https://twitter.com/moserke">twitter</a></li>
+<li>Matt Ray <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Miah Johnson <a href="https://github.com/miah">github</a>, <a href="https://twitter.com/miah_">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li><a href="http://engineering.thetrainline.com/2013/07/09/chef-on-windows-detecting-and-fixing-wmi-problems/">Chef on Windows – detecting and fixing WMI problems which prevent chef-client runs</a> a blog post from thetrainline.com engineering team.</li>
+<li><a href="https://www.youtube.com/watch?v=qJgMb7hmqLQ">The Hows and Whys of Cookbook Testing with Seth Vargo</a> - A recorded meetup presentation from the <a href="http://www.meetup.com/Chef-NYC/">Chef-NYC meetup group</a>.</li>
+<li><a href="http://about.travis-ci.org/blog/2013-07-09-introducing-continuous-deployment-to-heroku/">Travis CI Continuous Deployment to Heroku</a> - Add a couple of lines to your <code>.travis.yml</code> and your application will be automatically deployed to Heroku.</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li>Storing Secrets</li>
+<li>Managing Encrypted Data Bags</li>
+<li>What is a "Secret" and Why Share Them?</li>
+<li>Security</li>
+<li>Authentication Process and Validation</li>
+<li><a href="http://ckbk.it/chef-client">chef-client cookbook</a> and the delete_validation recipe</li>
+<li>Data Bags</li>
+<li>Encrypted vs Non-encrypted</li>
+<li><a href="http://www.gazzang.com/products/ztrustee">Gazzang zTrustee</a></li>
+<li><a href="https://github.com/Nordstrom/chef-vault">Chef Vault</a></li>
+<li><a href="https://github.com/3ofcoins/knife-briefcase">Knife Briefcase</a></li>
+<li><a href="http://www.openstack.org/summit/portland-2013/session-videos/presentation/cloud-keep-openstack-key-management-as-a-service">Cloud Keep</a></li>
+<li>Deploy Keys</li>
+<li><a href="https://github.com/cassianoleal/cookbook-deploy_key">deploy_key cookbook</a></li>
+<li>Changing/Replacing a Secret</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<h4>Cameron</h4>
+
+<ul>
+<li><a href="http://www.letour.fr/le-tour/2013/us/">Tour de France</a></li>
+</ul>
+
+
+<h4>Kevin</h4>
+
+<ul>
+<li><a href="http://www.hbo.com/the-newsroom/index.html">The Newsroom</a></li>
+</ul>
+
+
+<h4>Matt</h4>
+
+<ul>
+<li><a href="https://www.eff.org/">Electronic Frontier Foundation (EFF)</a></li>
+<li><a href="http://epic.org/">Electronic Privacy Information Center</a></li>
+<li><a href="http://www.amazon.com/Future-Perfect-Case-Progress-Networked/dp/1594488207">Future Perfect: The Case For Progress In A Networked Age</a></li>
+<li><a href="http://www.ghostery.com/">ghostery</a> - But there was some discussion in the backchannel about ghostery:
+
+<ul>
+<li><a href="http://www.technologyreview.com/news/516156/a-popular-ad-blocker-also-helps-the-ad-industry/">A Popular Ad Blocker Also Helps the Ad Industry</a></li>
+<li>Miah recommends <a href="https://addons.mozilla.org/en-us/firefox/addon/adblock-edge/">adblock-edge</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Miah</h4>
+
+<ul>
+<li><a href="http://www.cl.cam.ac.uk/~rja14/book.html">Security Engineering — The Book</a></li>
+<li><a href="http://www.amazon.com/Zodiac-Neal-Stephenson/dp/0802143156/">Zodiac</a></li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://amzn.com/0787960756/">The Five Dysfunctions of a Team: A Leadership Fable</a></li>
+<li><a href="http://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806">Cryptonomicon</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://surge.omniti.com/2013/">surge 2013</a></li>
+<li><a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">Food Fight Show Newsletter</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-57-SecretChef.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=HL59_dot9zw">Video</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: chadfowler | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/chadfowler/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Immutable Infrastructure]]></title>
+    <link href="http://foodfightshow.org//2013/07/immutable-infrastructure.html"/>
+    <updated>2013-07-22T10:20:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/07/immutable-infrastructure</id>
+    <content type="html"><![CDATA[<p>Show Date:  July 22, 2013</p>
+
+<p>Join us as we discuss <a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Immutable Infrastructure</a> with <a href="https://twitter.com/chadfowler">Chad Fowler</a>.</p>
+
+<p>This episode was inspired by Chad's recent blog post on <a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Immutable Infrastructure</a>.  For some additional thoughts on the subject, check-out Mike Fiedler's #ChefConf talk:  <a href="http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/">Treating Your Infrastructure Like Garbage</a>.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/G92dPaluEwo" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/07/immutable-infrastructure.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3">Audio</a></li>
+<li><a href="http://youtu.be/G92dPaluEwo">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Chad Fowler <a href="https://twitter.com/chadfowler">twitter</a>, <a href="https://github.com/chad">github</a>, <a href="http://chadfowler.com/">blog</a></li>
+<li>Craig Tracey <a href="https://twitter.com/craig_tracey">twitter</a>, <a href="https://github.com/craigtracey">github</a>, <a href="http://www.scalehorizontally.com/">blog</a></li>
+<li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li><p><a href="http://chrislaco.com/devops-toolbox/introduction/">DevOps Toolbox: Introduction</a> - a series of blog posts from <a href="https://twitter.com/claco">Christopher Laco</a> that walks through many tools used with Chef.  The series starts with installing pre-requisites like XCode, Ruby, and VirtualBox.  Throughout the series, you'll learn about Veewee, Vagrant, Chef Solo, Hosted Chef, and more!</p></li>
+<li><p><a href="http://gusteau.gs/">Gusteau</a> - a tasteful Chef Solo wrapper and configuration manager.  This is a gem that aims to provide chef solo users with a more efficent workflow.  It looks like an abstraction on top of Vagrant, Berkshelf, and Chef that makes it easier to get started with these various tools.</p></li>
+<li><p><a href="https://github.com/portertech/kitchen-docker">kitchen-docker</a></p></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li><a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/">Chad Fowler: Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components</a></li>
+<li>Article Summary</li>
+<li>Changing Servers (Process)</li>
+<li>Repackaging AMIs</li>
+<li>Garbage Collection</li>
+<li>Autoscaling</li>
+<li>Servers</li>
+<li><a href="http://aws.amazon.com/rds/">Amazon RDS</a></li>
+<li><a href="https://github.com/apache/cassandra">cassandra</a></li>
+<li><a href="https://github.com/apache/zookeeper">zookeeper</a></li>
+<li><a href="http://basho.com/riak/">Riak</a></li>
+<li>Classes of Servers</li>
+<li>RDS Performance</li>
+<li>Making Changes on the Server</li>
+<li>Termination Protection</li>
+<li><a href="http://www.6wunderkinder.com/wunderlist-pro">6Wunderkinder: Wunderlist</a></li>
+<li>Golden Image System</li>
+<li>Pulling from Code Repos</li>
+<li>AMI vs Configuration Management</li>
+<li>Rebuilding AMIS</li>
+<li>Optimization</li>
+<li>Immutable Properties</li>
+<li>Handling Infrastructure Emergencies</li>
+<li><a href="http://en.wikipedia.org/wiki/Homeostasis">Homeostasis</a></li>
+<li>Keeping Log Files</li>
+<li><a href="https://github.com/portertech/kitchen-docker">kitchen-docker</a></li>
+<li>Log Rotation</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://www.reddit.com/r/AskHistorians">AskHistorians Reddit</a></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=ulBHarnnf3Y">Revolution in Storage - RICON East 2013</a></li>
+<li><a href="http://www.youtube.com/watch?v=FWM3bQ43WzE">Services Platform: Experiments in OTP-Compliant Dataflow Programming</a></li>
+</ul>
+
+
+<h4>Chad</h4>
+
+<ul>
+<li>#shitfire on Freenode IRC</li>
+</ul>
+
+
+<h4>Craig</h4>
+
+<ul>
+<li>Openstack bare metal provider with cloud init</li>
+<li>Opscode's <a href="https://github.com/opscode/omnibus-software">Omnibus project</a></li>
+</ul>
+
+
+<h4>Fletcher</h4>
+
+<ul>
+<li>Mike's <a href="http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/">#ChefConf talk</a></li>
+<li><a href="http://pragprog.com/book/cfcar2/the-passionate-programmer">The Passionate Programmer</a></li>
+<li>Alice in Chains latest album - <a href="http://www.rdio.com/artist/Alice_In_Chains/album/The_Devil_Put_Dinosaurs_Here/">The Devil Put Dinosaurs Here</a></li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://www.codeschool.com">code school</a></li>
+<li><a href="https://codeclimate.com/">Code Climate</a></li>
+<li><a href="http://sprout-talk.cfapps.io/">Sprout</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Vacation!</li>
+<li><a href="http://www.youtube.com/watch?v=aeEFMvPPx2U">Flight Carrier Landing Practice</a></li>
+<li>Ship Show Podcast with Sandi Metz - <a href="http://theshipshow.com/2013/07/practical-object-oo-and-cat-design-with-sandi-metz/">Practical Object OO (and Cat!) Design with Sandi Metz!</a></li>
+</ul>
+
+
+<h4>Ranjib</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Chomsky_hierarchy">Chomsky hierarchy</a></li>
+<li><a href="http://www.chimay.com/en/chimay-bleue.html?IDD=130&amp;IDC=287">Chimay Blue Cap</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3">Audio</a></li>
+<li><a href="http://youtu.be/G92dPaluEwo">Video</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

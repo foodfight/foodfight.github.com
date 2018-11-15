@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: minitest | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/minitest/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing in Practice]]></title>
+    <link href="http://foodfightshow.org//2013/05/testing-in-practice.html"/>
+    <updated>2013-05-22T08:11:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/05/testing-in-practice</id>
+    <content type="html"><![CDATA[<p>Show Date: May 22, 2013</p>
+
+<p>Foodcritic, knife cookbook test, Chefspec, minitest chef handler, and cucumber chef.  So many tools but how are these actually used in practice?</p>
+
+<p>Listen in on the panel discussion of testing in practice.</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/DhcXXOIerIc" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/05/testing-in-practice.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/05/testing-in-practice.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/05/testing-in-practice.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/05/testing-in-practice.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DhcXXOIerIc">Video stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
+<li>Jason Fox <a href="https://twitter.com/jasonrobertfox">twitter</a>, <a href="https://github.com/jasonrobertfox">github</a>, <a href="http://neverstopbuilding.net/">blog</a></li>
+<li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a>, <a href="http://www.juliandunn.net/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
+<li>Stephen Nelson-Smith <a href="https://twitter.com/lordcope">twitter</a>, <a href="http://github.com/lordcope">github</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li><a href="http://starkandwayne.com/articles/2013/05/07/tdd-your-devops-with-test-kitchen/">TDD your DevOps with test-kitchen 1.0</a> a video from <a href="http://twitter.com/drnic">@drnic</a> showing off TDD with test-kitchen.</li>
+<li>Managing Your Ruby Toolchain - a series of blog posts from <a href="https://twitter.com/sascha_d">@sascha_d</a>:  <a href="http://blog.brattyredhead.com/blog/2013/05/12/pieces-and-parts-managing-your-ruby-toolchain/">Part 1</a> and <a href="http://blog.brattyredhead.com/blog/2013/05/17/managing-your-ruby-toolchain-part-2-the-package-repo-rant">Part 2:  The Package Repo Rant</a></li>
+<li><a href="https://leanpub.com/chef-survival-guide">The Chef Survival Guide:  An Opinionated Approach to Test Driven Chef Development</a> - The is an eBook from <a href="http://twitter.com/jasonrobertfox">Jason Fox</a></li>
+<li><a href="http://www.opscode.com/blog/2013/05/21/open-the-bifrost/">Open The Bifrost!</a> - Recent improvements to Hosted Chef's permission manager.  With pretty graphs!</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions</li>
+<li>Chef News</li>
+<li>What is testing?
+
+<ul>
+<li>Unit Testing</li>
+<li>Integration Testing</li>
+<li>Acceptance Testing</li>
+<li>Regression Testing</li>
+</ul>
+</li>
+<li>The evolution of testing</li>
+<li>Syntax of linting tools
+
+<ul>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+</ul>
+</li>
+<li>Standardizing Workflows
+
+<ul>
+<li><a href="https://github.com/acrmp/chefspec">chefspec</a></li>
+<li><a href="http://wiki.opscode.com/display/chef/Opscode+Cookbook+Test+Process">Opscode Cookbook Test Process</a></li>
+<li><a href="http://docs.opscode.com/knife_cookbook.html">knife cookbook</a></li>
+<li><a href="https://github.com/seattlerb/minitest">minitest</a></li>
+</ul>
+</li>
+<li><a href="http://www.vagrantup.com/">Vagrant</a></li>
+<li>Tools
+
+<ul>
+<li><a href="https://github.com/acrmp/chefspec">chefspec</a></li>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+<li><a href="https://github.com/seattlerb/minitest">minitest</a></li>
+<li><a href="http://community.opscode.com/cookbooks/minitest-handler">minitest-handler</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/acrmp/chefspec">chefspec</a>
+
+<ul>
+<li>The converge in chefspec vs normal converge</li>
+<li>Ruby blocks and bash blocks</li>
+<li><a href="https://github.com/travis-ci">Travis CI</a></li>
+<li>Stubbing search calls</li>
+</ul>
+</li>
+<li>Mocks and Stubs
+
+<ul>
+<li><a href="http://martinfowler.com/articles/mocksArentStubs.html">Martin Fowler: Mocks Aren't Stubs</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/mizzy/serverspec">serverspec</a></li>
+<li><a href="https://github.com/opscode/test-kitchen">Test Kitchen</a>
+
+<ul>
+<li><a href="https://github.com/sstephenson/bats">bats</a></li>
+<li><a href="https://github.com/fnichol/busser">busser</a></li>
+</ul>
+</li>
+<li>IRC Question: Test Kitchen currently uses Chef solo. Is there a way to get it to use <a href="http://docs.opscode.com/essentials_chef_client.html">chef-client</a>?</li>
+<li>Load Balancers and Jenkins Servers
+
+<ul>
+<li><a href="https://github.com/Atalanta/cucumber-chef">cucumber-chef</a></li>
+</ul>
+</li>
+<li>The concept of how a driver works and their role in Test Kitchen
+
+<ul>
+<li>Mixing and matching drivers</li>
+</ul>
+</li>
+<li>A first foray into testing: where to start?
+
+<ul>
+<li><a href="http://rspec.codeschool.com/">Code School - Testing with RSpec</a></li>
+</ul>
+</li>
+<li>CI Methods of testing
+
+<ul>
+<li><a href="http://jenkins-ci.org/">Jenkins CI</a></li>
+</ul>
+</li>
+<li>When will Test Kitchen 1.0 be ready?</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Prague-Fatale-Bernie-Gunther-Philip/dp/B00B1L6B4G">Prague Fatale</a></li>
+<li><a href="http://poodr.info">POODR</a></li>
+</ul>
+
+
+<h4>Fletcher</h4>
+
+<ul>
+<li><a href="http://beeradvocate.com/beer/profile/342/639">Newcastle Brown Ale</a> -- The beer that fueled Jamie (Test Kitchen 1.0) and many other projects</li>
+</ul>
+
+
+<h5>Jason</h5>
+
+<ul>
+<li><a href="http://t.co/vFOKd2wiqv">Troegs Dreamweaver</a></li>
+<li><a href="https://leanpub.com/chef-survival-guide">chef survival guide</a></li>
+</ul>
+
+
+<h4>Julian</h4>
+
+<ul>
+<li>Beta of our expanded LWRP documentation -- please check it out and submit PRs! <a href="http://docs.opscode.com/lwrp_custom_resource.html">resource</a> and <a href="http://docs.opscode.com/lwrp_custom_provider_resources.html">provider</a></li>
+<li><a href="http://www.summitbrewing.com/brews/saga-ipa">Summit Sága IPA</a> -- because I'm in Minneapolis, and in honor of the fact that we deployed Bifröst, the new authentication backend for Hosted Chef</li>
+</ul>
+
+
+<h5>Mike</h5>
+
+<ul>
+<li><a href="https://github.com/turboladen/tailor">tailor</a> - ruby style linter</li>
+<li><a href="http://www.benziger.com/">Benziger Family Winery</a> - especially the <a href="http://www.benziger.com/2009_tribute">2009 Tribute</a></li>
+</ul>
+
+
+<h5>Ranjib</h5>
+
+<ul>
+<li><a href="https://github.com/jenkinsci/jenkins.rb">jenkins.rb</a> ruby api on top of jenkins</li>
+</ul>
+
+
+<h4>Stephen</h4>
+
+<ul>
+<li><a href="https://github.com/postmodern/chruby">chruby</a> and his <a href="https://github.com/Atalanta/chef-chruby">cookbook</a> for it</li>
+<li><a href="https://itunes.apple.com/us/album/interloper-live-2006-live/id320047495">interloper live 2006, Miles Hunt</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DhcXXOIerIc">Video stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

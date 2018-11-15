@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: postwait | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/postwait/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Surge Conf 2012]]></title>
+    <link href="http://foodfightshow.org//2012/09/surge-conf-2012.html"/>
+    <updated>2012-09-29T12:21:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/09/surge-conf-2012</id>
+    <content type="html"><![CDATA[<p>Nathen spent part of this week at <a href="http://omniti.com/surge/2012">Surge Conference</a> and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with <a href="http://twitter.com/novustiro">Michael Bevilacqua-Linn</a> earlier in the week to discuss his presentation.</p>
+
+<p>Here's a list of links to all of the Surge-related episodes:</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3">Episode 28:  Big Data in the Small: Why N Tier Architectures Are an Antipattern</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Update from Surge with Ryan Kennedy from Yammer</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Update from Surge with Andrew Miklas From PagerDuty</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Update from Surge with Alejandro Companioni and Dave Zwieback from Knewton</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus-cleaned.mp3">Update from Surge with Mike Nolet from AppNexus</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Update from Surge with Matt Grahamn from Etsy</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Kate-Mats.mp3">Episode 29:  Interview with Kate Matsudaira</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3">Wrap-up Surge with Theo Schlossnagle</a></li>
+</ul>
+
+
+<p>Email <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> if you presented at Surge and would like to share your experience on the Food Fight Show.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wrap-up Surge with Theo Schlossnagle]]></title>
+    <link href="http://foodfightshow.org//2012/09/wrap-up-surge-with-theo-schlossnagle.html"/>
+    <updated>2012-09-29T12:15:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/09/wrap-up-surge-with-theo-schlossnagle</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p>In this DevOps Delicacy, Nathen sits down with <a href="http://twitter.com/postwait">Theo Schlossnagle</a>.  They discussed Theo's Surge presentations and wrapped-up the event.</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3">Download the episode</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interview with Theo Schlossnagle]]></title>
+    <link href="http://foodfightshow.org//2012/07/interview-with-theo-schlossnagle.html"/>
+    <updated>2012-07-27T15:27:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/07/interview-with-theo-schlossnagle</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, 26 July 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#offer">Special Offers</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Theo Schlossnagle <a href="https://github.com/postwait">github</a>, <a href="http://twitter.com/postwait">twitter</a>, blog: <a href="http://lethargy.org/~jesus/">Esoteric Curio</a></li>
+<li>MattRay <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Special Offers<a name="offer"></a></h2>
+
+<h3>Surge</h3>
+
+<p>Theo mentions a discount code for Surge in this episode.  Use it to save $100 on your <a href="http://surge2012.eventbrite.com/event/2699655743">Surge registration</a>.  You'll hear the discount code about 38 minutes into the episode.</p>
+
+<h3>Opscode Training</h3>
+
+<p>Do you know someone who needs help getting started with Chef?  Opscode is offering the <a href="http://www.eventbrite.com/event/3727049706">Chef Introductory Workshop in Seattle on August 6th</a> and we've got a free pass for one lucky listener!  Leave a comment on this episode's page or send an email to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> letting us know that you're interested in attending the class.  We'll randomly select and announce a winner before the class.  Also, be sure to use the promo code "<strong>FOODFIGHT</strong>" (in all caps) to save 10% on your registration for this and <a href="http://www.eventbrite.com/org/429733222?s=5384212">other Opscode Workshops</a>.</p>
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><p><a href="http://www.opscode.com/blog/2012/07/20/on-the-level-testing-your-infrastructure/">On the level: Testing your infrastructure</a></p></li>
+<li><p><a href="http://www.miketheman.net/2012/07/20/a-picture-is-worth-a-few-thousand-bytes/">knife-role-spaghetti</a></p></li>
+<li><p><a href="https://github.com/sensu/sensu-slides">Sensu presentation</a> given by Decklin Foster at a recent Chef-Boston meetup.</p></li>
+<li><p><a href="http://wix.io/2012/07/22/chef-on-solaris/">Chef Happens - Managing Chef on Solaris</a> by Martha Greenberg</p></li>
+<li><p><a href="http://blog.pkhamre.com/2012/07/24/understanding-statsd-and-graphite/">Understanding Statsd and Graphite</a> by Pal Kristian Hamre</p></li>
+<li><p><a href="https://github.com/bryanwb/monitoring-preso">Monitoring: A New Hope</a> a presentation from BryanWB that covers how the UN Food and Agriculture Organization is using logstash+collectd+jmxtrans+graphite to monitor Java applications.</p></li>
+<li><p><a href="http://www.h-online.com/open/features/What-s-new-in-Linux-3-5-1637461.html">What's New in Linux 3.5</a></p></li>
+<li><p><a href="http://www.youtube.com/watch?v=IqsomXrHMB4">Vladimir Vuksan on Back-end Monitoring</a> and in <a href="http://vuksan.com/velocity-online-backend-metrics.mp3">mp3 form</a></p></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><p><a href="http://community.opscode.com/cookbooks/cgroups">cgroups</a> v0.0.1 - <a href="http://community.opscode.com/users/lucky-sideburn">lucky-sideburn</a>
+Installs and configures Cgroups utility in Red Hat Enterprise Linux Server release 6.2</p></li>
+<li><p><a href="https://github.com/bryanwb/chef-jmxtrans">JMXTrans</a> v0.0.2 - <a href="http://github.com/bryanwb">bryanwb</a>
+JMXTrans is an application for transporting JMX (monitoring) data from your Java applications to Graphite or Ganglia</p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/xquartz">xquartz</a> v0.0.1 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a>
+Installs XQuartz on Mac OS X 10.8 to provide an X11 server.  This is not required on earlier versions of OS X as they include X11.</p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/backup">backup</a> v0.0.3 - <a href="http://community.opscode.com/users/fujin">fujin</a>
+Installs/Configures Backup, a RubyGem, written for Linux and Mac OSX, that allows you to easily perform backup operations on both your remote, as well as your local environment. It provides you with an elegant DSL in Ruby for modeling (configuring) your backups.</p></li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/sensu">sensu</a> v0.1.4 - <a href="http://community.opscode.com/users/portertech">portertech</a></li>
+<li><a href="http://community.opscode.com/cookbooks/mplayer">mplayer</a> v0.0.3 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.5 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/glassfish">glassfish</a> v0.5.0 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/user">user</a> v0.3.0 - <a href="http://community.opscode.com/users/fnichol">fnichol</a></li>
+<li><a href="http://community.opscode.com/cookbooks/simple_iptables">simple_iptables</a> v0.1.2 - <a href="http://community.opscode.com/users/dcrosta">dcrosta</a></li>
+<li><a href="http://community.opscode.com/cookbooks/httplivestreamsegmenter">httplivestreamsegmenter</a> v0.0.5 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/gpac">gpac</a> v0.0.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/graphite_handler">graphite_handler</a> v0.0.5 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zabbix">zabbix</a> v0.0.34 - <a href="http://community.opscode.com/users/laradji">laradji</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zncrypt">zncrypt</a> v0.1.4 - <a href="http://community.opscode.com/users/egarcia">egarcia</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zone">zone</a> v0.0.6 - <a href="http://community.opscode.com/users/marthag">marthag</a></li>
+<li><a href="http://community.opscode.com/cookbooks/hermes">hermes</a> v0.1.0 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
+<li><a href="http://community.opscode.com/cookbooks/jruby">jruby</a> v0.2.5 - <a href="http://community.opscode.com/users/jlbfalcao">jlbfalcao</a></li>
+<li><a href="http://community.opscode.com/cookbooks/isomounter">isomounter</a> v0.1.0 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>OmniTI</li>
+<li>OmniOS</li>
+<li>Surge
+
+<ul>
+<li>Need a discount code?  Check the show at 38:04</li>
+</ul>
+</li>
+<li>Scalable Internet Architecture</li>
+<li>Careers in IT</li>
+<li>fq and Message Queuing</li>
+<li>Circonus</li>
+<li>OmniTI &amp; Chef</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Pavement_%28band%29">Pavement</a> - Summer Babe</li>
+<li><a href="http://obfuscurity.com/2012/04/Unhelpful-Graphite-Tip-1">Obfuscurity's Unhelpful Graphite Tips</a></li>
+</ul>
+
+
+<h4>Matt</h4>
+
+<ul>
+<li><a href="http://2012.texaslinuxfest.org/">Texas Linux Fest</a></li>
+<li><a href="http://aesoprock.com/">Aesop Rock</a> - Skelethon</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.garyclarkjr.com/">Gary Clarke Jr.</a></li>
+<li><a href="http://omniti.com/surge/2012">Surge</a></li>
+</ul>
+
+
+<h4>Theo</h4>
+
+<ul>
+<li><a href="http://www.evanescence.com/">Evanescence</a></li>
+<li><a href="http://circonus.com/">Circonus</a></li>
+<li><a href="http://www.starwoodhotels.com/preferredguest/">Starwood Preferred Guest</a></li>
+<li><a href="http://www.united.com/web/en-US/content/mileageplus/default.aspx">United Mileage Plus</a></li>
+<li><a href="http://cscs.umich.edu/~crshalizi/weblog/925.html">No, Really, Some of My Best Friends Are Data Scientists</a></li>
+<li>Time-ordered output in DTrace</li>
+</ul>
+
+
+<h2>CLOSE</h2>
+
+<p>Are you or your company interested in sponsoring the show?  You can now use the Flattr micropayment service on our website or contact us at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> for more details.</p>
+
+<p>Follow <a href="http://twitter.com/foodfightshow">@foodfightshow</a> on twitter.</p>
+
+<p>Until next time, Keep It Hot!</p>
+
+<h2>Download</h2>
+
+<p>Episode 23 - Interview with Theo Schlossnagle:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+</feed>

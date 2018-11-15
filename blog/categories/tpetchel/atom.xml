@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tpetchel | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/tpetchel/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learn Chef Rally]]></title>
+    <link href="http://foodfightshow.org//2017/09/learn-chef-rally.html"/>
+    <updated>2017-09-28T10:37:00-04:00</updated>
+    <id>http://foodfightshow.org//2017/09/learn-chef-rally</id>
+    <content type="html"><![CDATA[<p>Learn Chef Rally is the best place to get started on your journey towards mastering Chef, Continuous Automation, and DevOps.  Tracks give you a guided curriculum, Modules allow you to complete lessons à la carte to create you own learning path.  Badges help you track your progress throughout the journey.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/0GqxQn8Sa1c" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2017/09/learn-chef-rally.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2017/09/learn-chef-rally.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2017/09/learn-chef-rally.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://youtu.be/0GqxQn8Sa1c">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS112.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Creighton Medley - <a href="https://github.com/cmedley">github</a>, <a href="https://twitter.com/cmed">twitter</a></li>
+<li>Thomas Petchel - <a href="https://github.com/tpetchel">github</a>, <a href="https://twitter.com/tpetchel">twitter</a></li>
+<li>Andrew Regan - <a href="https://github.com/andyregan">github</a>, <a href="https://twitter.com/andyregan">twitter</a></li>
+<li>Franklin Webber - <a href="https://github.com/burtlo">github</a>, <a href="https://twitter.com/franklinwebber">twitter</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What is <a href="https://learn.chef.io/">Learn Chef Rally</a>?</li>
+<li>Approaching Learn Chef Rally: Tracks and Modules</li>
+<li>The Badges and Badge System; Gamification</li>
+<li>Is an account required?, Tracking Your Progess</li>
+<li>Popular and Favorite Tracks and Modules</li>
+<li>Is Learn Chef Rally sufficient preparation for the Chef Certification exams?</li>
+<li>What types of Chef Certifications are available?
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=-yTeXCY3iM0">Kelsey Hightower's ChefConf 2017 Keynote</a></li>
+</ul>
+</li>
+<li>Advice for How to Get Started with Chef
+
+<ul>
+<li><a href="mailto:training@chef.io">traning@chef.io</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Creignton:</h3>
+
+<ul>
+<li><a href="https://github.com/Miserlou/Zappa">Zappa</a></li>
+</ul>
+
+
+<h3>Thomas:</h3>
+
+<ul>
+<li>Sour Beer</li>
+<li><a href="https://en.wikipedia.org/wiki/Melvins">The Melvins</a></li>
+<li>WWE Steel Chair</li>
+</ul>
+
+
+<h3>Frank:</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GLOW_(TV_series">GLOW</a>)</li>
+</ul>
+
+
+<h3>Andrew:</h3>
+
+<ul>
+<li><a href="https://boardgamegeek.com/boardgame/218333/rhino-hero-super-battle">Rhino Hero: Super Battle</a></li>
+<li><a href="https://github.com/bloomberg/chef-umami">chef-umami</a></li>
+<li><a href="https://github.com/kennethreitz/pipenv">pipenv</a></li>
+</ul>
+
+
+<h3>Nathen:</h3>
+
+<ul>
+<li><a href="https://www.chef.io/summits/">Chef Community Summits</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp EU</a></li>
+<li><a href="http://community-slack.chef.io/">The Chef Community Slack</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://youtu.be/0GqxQn8Sa1c">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS112.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

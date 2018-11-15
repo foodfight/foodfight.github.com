@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ruby | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 53 - Chef Internals with Dan DeLeo]]></title>
+    <link href="http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo.html"/>
+    <updated>2013-06-13T09:47:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/06/episode-53-chef-internals-with-dan-deleo</id>
+    <content type="html"><![CDATA[<p>Show Date: June 12, 2013</p>
+
+<p>In today's show we discuss the internals of the chef client code.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1ulVUl_O47g" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/06/episode-53-chef-internals-with-dan-deleo.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=1ulVUl_O47g">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
+<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
+<li>Daniel DeLeo <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>News<a name="news"></a></h2>
+
+<p><a href="http://rampconf.com/">RAMP</a> will be held July 11-12 in Budapest, Hungary.  Theo Schlossnagle (<a href="http://twitter.com/postwait">@postwait</a>) will be the keynote speaker and speakers from Netflix, Yahoo, Dropbox, Percona and other great companies will present their experiences in building scalable systems.  Budapest is beautiful in July and listeners of the Food Fight Show can register with discount code <a href="http://rampconf.eventbrite.com/?discount=FOODFIGHTSHOW">FOODFIGHTSHOW</a> to save $50.</p>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li><a href="http://rampconf.com/">RAMP Conf</a> July 11-12 in Budapest, Hungary (Discount Code: FOODFIGHTSHOW for $50 off)</li>
+<li>Introductions</li>
+<li>The idea of the episode</li>
+<li>Hierarchy</li>
+<li>Pry</li>
+<li><a href="https://github.com/rdp/ruby-prof">ruby-prof</a></li>
+<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/client.rb">Chef::Client</a></li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb">Chef::RunContext</a></li>
+<li>God Objects</li>
+<li><a href="https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb">Chef::CookbookLoader</a></li>
+<li>Converge</li>
+<li>Resources</li>
+<li>Notifications</li>
+<li>Immediate</li>
+<li>Delayed</li>
+<li>Events</li>
+<li>Documentation</li>
+<li>Converge by</li>
+<li>Resources vs Providers</li>
+<li><a href="http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html">File Provider changes in 11.6</a></li>
+<li>Knife</li>
+<li>The Node Object</li>
+<li>Extending Resources and Providers</li>
+<li>Private Methods</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://kexp.org">KEXP</a></li>
+<li><a href="https://github.com/celluloid/celluloid/wiki/futures">Celluloid::Future.new</a></li>
+<li><a href="http://elixir-lang.org">Elixir</a></li>
+</ul>
+
+
+<h4>Dan</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Inverting-Pyramid-History-Football-Tactics/dp/1409102041">Inverting the Pyramid</a></li>
+</ul>
+
+
+<h4>Joshua</h4>
+
+<ul>
+<li>Check out and participate in Chef internals conversations at
+#chef-hacking IRC and chef-dev mailing list</li>
+<li>Shameless self-promotion: my "5 things you didn't know about Chef"
+<a href="http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef">talk from Big Ruby 2013</a>.</li>
+<li>Geeky pick:
+<a href="http://paizo.com/products/btpy8x64/">Pathfinder RPG: Ultimate Campaign</a>.
+This is a great resource for GMs, and the fact that it collects all
+the character traits in one place is great for players.</li>
+<li>Tech pick: <a href="http://omnios.omniti.com">OmniOS</a>! I've been playing
+with this a bit, and it's great. OmniOS is an IllumOS distribution
+by OmniTI, and is built for enterprise class stability and use.</li>
+<li>New Belgium Abbey ale, it's a Belgian Dubbel style. Delicious and
+refreshing, even on a hot summer day</li>
+</ul>
+
+
+<h4>Ranjib</h4>
+
+<ul>
+<li><a href="http://kcachegrind.sourceforge.net/html/Home.html">KCacheGrind</a></li>
+<li><a href="https://github.com/rdp/ruby-prof">ruby-prof</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=1ulVUl_O47g">Video Stream</a></li>
+</ul>
+
+
+<p>Make sure to subscribe to the <a href="http://bit.ly/ffsmail">Foodfight Weekly Newsletter</a> and send your cookbook
+news to info@foodfightshow.org</p>
+
+<p>Follow <a href="http://twitter.com/foodfightshow">@foodfightshow</a> on twitter.</p>
+
+<p>Also, you can submit show ideas to our <a href="https://github.com/foodfight/showz">github repo</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ken Robertson on Go, Cloudfoundry, and Chef]]></title>
+    <link href="http://foodfightshow.org//2012/10/ken-robertson-on-go.html"/>
+    <updated>2012-10-01T18:26:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/10/ken-robertson-on-go</id>
+    <content type="html"><![CDATA[<ul>
+<li><p><a href="http://foodfightshow.org/2012/10/ken-robertson-on-go.html#panel">Panel</a></p></li>
+<li><p>Ken Robertson <a href="https://github.com/krobertson">github</a>,
+<a href="http://twitter.com/krobertson">twitter</a>,
+<a href="http://invalidlogic.com/">blog</a></p></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/devops-delicacy-03_2.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Download</h2>
+
+<p>Ken Robertson on Go, Cloudfoundry, and Chef:  <a href="http://traffic.libsyn.com/foodfight/devops-delicacy-03_2.mp3">Download here</a></p>
+
+<p>Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+
+<p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: benr | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/benr/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A3 Thinking]]></title>
+    <link href="http://foodfightshow.org//2017/02/a3-thinking.html"/>
+    <updated>2017-02-28T22:25:00-05:00</updated>
+    <id>http://foodfightshow.org//2017/02/a3-thinking</id>
+    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://www.youtube.com/embed/pXHmeNhlETE" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2017/02/a3-thinking.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2017/02/a3-thinking.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2017/02/a3-thinking.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://youtu.be/pXHmeNhlETE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS108.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Catherine Swetel <a href="https://twitter.com/CatSwetel">twitter</a>, <a href="https://github.com/catswetel">github</a></li>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Alan Kraft</li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>Chef &amp; Food Fight Updates</h3>
+
+<ul>
+<li>Join us in the <a href="http://community-slack.chef.io/">Chef Community Slack</a></li>
+<li><a href="https://www.habitat.sh/">New Habitat homepage</a></li>
+<li><a href="https://chefconf.chef.io/2017/">ChefConf</a>
+
+<ul>
+<li>Workshops</li>
+</ul>
+</li>
+<li><a href="https://training.chef.io/">Training</a>
+
+<ul>
+<li>Online training from The Linux Academy and Udemy</li>
+<li><a href="https://training.chef.io/classes">Classes</a> - London, San Francisco, Washington DC, Seattle, Chicago, Dublin, Raleigh, Boston, and online.</li>
+</ul>
+</li>
+<li><a href="https://events.chef.io/">Upcoming Chef Events</a>
+
+<ul>
+<li>March 1 - <a href="https://events.chef.io/events/testing-at-the-edges/">Testing at the Edges webinar</a></li>
+<li>March 2-5 - <a href="https://events.chef.io/events/scale-southern-california-linux-expo/">Southern California Linux Expo</a></li>
+<li>March 3 - <a href="https://events.chef.io/events/devops-automation-m4-meetup/">DevOps Automation M4 Meetup</a></li>
+<li>March 3 - <a href="https://events.chef.io/events/devopsdays-los-angeles/">DevOpsDays Los Angeles</a></li>
+<li>March 6-8 - <a href="https://events.chef.io/events/qcon-london/">QCon London</a></li>
+<li>March 7-8 - <a href="https://events.chef.io/events/devopsdays-baltimore/">DevOpsDays Baltimore</a></li>
+<li>March 8 - <a href="https://events.chef.io/events/hands-habitat-london/">Hands on with Habitat - London</a></li>
+<li>March 8 - <a href="https://events.chef.io/events/quantifying-outcomes-managing-risk/">Quantifying DevOps Outcomes - Managing Risk webinar</a></li>
+</ul>
+</li>
+<li>Blog Posts
+
+<ul>
+<li><a href="https://blog.chef.io/2017/02/24/chef-community-engineering-2016-a-year-in-review/">Chef Community Engineering – 2016 – A Year in Review</a></li>
+<li><a href="https://www.jfrog.com/blog/infrastructure-code-binaries/">Infrastructure as Binaries</a></li>
+<li><a href="https://blog.chef.io/2017/02/28/habitat-world-tour-gent-berlin-amsterdam/">Habitat World Tour: Gent, Berlin, Amsterdam</a></li>
+</ul>
+</li>
+<li>Social Media
+
+<ul>
+<li>Tweet us - <a href="https://twitter.com/foodfightshow">@foodfighshow</a></li>
+<li>Email us - <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a></li>
+<li>Tell us in the <a href="https://chefcommunity.slack.com/archives/foodfight">#foodfight channel in the Chef Community Slack</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>A3 Thinking</h3>
+
+<ul>
+<li>What is A3?</li>
+<li>Solving Problems with A3
+
+<ul>
+<li><a href="https://deming.org/management-system/pdsacycle">Plan Do Study Act</a></li>
+<li><a href="https://en.wikipedia.org/wiki/5_Whys">5 Whys</a></li>
+</ul>
+</li>
+<li>It's Not Always Easy: Resistance to A3
+
+<ul>
+<li><a href="https://www.amazon.com/Researching-Your-Own-Practice-Discipline/dp/0415248620">Researching Your Own Practice: The Discipline of Noticing</a></li>
+<li><a href="https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=246">Managing to Learn: Using the A3 management process by John Shook</a></li>
+</ul>
+</li>
+<li>The A3 Process; Forms and Root Cause Analysis
+
+<ul>
+<li><a href="https://www.oreilly.com/ideas/the-infinite-hows">The infinite hows</a></li>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html">The Food Fight Show: Complexity Theory and Cynefin</a></li>
+<li><a href="https://www.amazon.com/Challenger-Launch-Decision-Technology-Deviance/dp/0226851761">The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA</a></li>
+<li><a href="http://www.kitchensoap.com/2012/02/10/each-necessary-but-only-jointly-sufficient/">Each necessary, but only jointly sufficient</a></li>
+</ul>
+</li>
+<li>A3ing Alone vs in a Team Setting</li>
+<li>Do we need a problem?
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html">Food Fight Show: Design Thinking</a></li>
+<li><a href="http://gettingthingsdone.com/">David Allen's GTD (Getting Things Done)</a></li>
+</ul>
+</li>
+<li>Real Life Examples
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Shuhari">Shuhari</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kaizen">Kaizen</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="https://resin.io/">Resin.io</a></li>
+</ul>
+
+
+<h4>Alan</h4>
+
+<ul>
+<li><a href="https://preaccidentpodcast.podbean.com/">The PreAccident Podcast</a></li>
+<li>Take a theater class</li>
+</ul>
+
+
+<h4>Catherine</h4>
+
+<ul>
+<li><a href="http://tinsel.me/">TINSEL Headset</a></li>
+</ul>
+
+
+<h4>Nell</h4>
+
+<ul>
+<li><a href="http://www.telestream.net/screenflow/overview.htm">ScreenFlow</a></li>
+<li><a href="http://dailybunny.org/">The Daily Bunny</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Hugs for people dealing with the S3 outage</li>
+<li><a href="https://www.youtube.com/watch?v=OpsMDijWNfg&amp;list=PL11cZfNdwNyNbxu10i7yPAjOoWAS_1_SQ&amp;index=2">Fresh New Stuff video series</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://youtu.be/pXHmeNhlETE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS108.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Design Thinking]]></title>
+    <link href="http://foodfightshow.org//2016/02/design-thinking.html"/>
+    <updated>2016-02-09T08:33:00-05:00</updated>
+    <id>http://foodfightshow.org//2016/02/design-thinking</id>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Avx_fIezoFc" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/02/design-thinking.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/Avx_fIezoFc">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Jeff Sussna <a href="https://twitter.com/jeffsussna">twitter</a>, <a href="http://ingineering.it/">website</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>What's Cooking? - Chef News &amp; Events</h3>
+
+<ul>
+<li>Webinars:
+
+<ul>
+<li><a href="https://www.chef.io/blog/2016/02/04/icymi-chef-dojo-your-devops-journey-assessment/">Chef DOJO: Your DevOps Journey Assessment</a></li>
+<li><a href="https://www.chef.io/blog/event/webinar-test-driven-cookbook-development/">Test Driven Cookbook Development</a> - February 24</li>
+<li><a href="https://www.chef.io/blog/event/webinar-chef-workflow">Chef Workflow</a> - March 9</li>
+</ul>
+</li>
+<li>Upcoming Chef Training
+
+<ul>
+<li>Chef Essentials
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-chicago/">Chicago</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-toronto">Toronto</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-san-francisco-5">San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-atlanta-2">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-61/">Online</a></li>
+</ul>
+</li>
+<li>Chef Intermediate Topics
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-chicago-3">Chicago</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-seattle-6">Seattle</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-6">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-64/">Online</a></li>
+</ul>
+</li>
+<li>Test-driven Cookbook Development - New offering
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/test-driven-cookbook-development-online-us-3">Online</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>From the Chef Blog
+
+<ul>
+<li><a href="https://www.chef.io/blog/2016/02/09/devops-mainstream-2016/">7 Ways IT Will Change in 2016 to Bring DevOps Mainstream</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/08/update-on-native-64-bit-windows-chef-client/">Update on native 64-bit Windows Chef Client</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/05/deliverys-bitbucket-stash-integration-released">Delivery’s Bitbucket (Stash) Integration Released</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/05/supermarket-2-3-3-release">Supermarket 2.3.3 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/04/chef-server-12-4-1-release">Chef Server 12.4.1 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/01/chef-compliance-0-10-4-release">Chef Compliance 0.10.4 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/28/chef-management-console-2-1-2-security-release">Chef Management Console 2.1.2 Security Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/20/chef-reporting-release-1-5-6">Chef Reporting Release 1.5.6</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/04/notes-from-the-lab-whats-keeping-marginalized-groups-out-of-tech">Notes from the Lab: What’s Keeping Marginalized Groups Out of Tech?</a></li>
+</ul>
+</li>
+<li>New on LearnChef
+
+<ul>
+<li><a href="https://learn.chef.io/skills/transformation-at-gannett">Transformation at Gannett</a> in the Skills Library</li>
+</ul>
+</li>
+<li>New on the supermarket
+
+<ul>
+<li>Recent Cookbooks
+
+<ul>
+<li><a href="https://supermarket.chef.io/cookbooks/nginx_server">nginx_server v1.0.1</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/docker">docker v2.4.12</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/artifactory-artifact">artifactory-artifact v0.2.0</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/prun-cfg">prun-cfg v0.2.25</a> (PostgreSQL / Ruby on Rails/ Ubuntu / Nginx)</li>
+<li><a href="https://supermarket.chef.io/cookbooks/telegraf">telegraf v0.3.3</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/os_floating_lo">os_floating_lo v0.1.2</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/bacula-backup">bacula-backup v1.10.2</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/jetty">jetty v0.4.1</a> - Deprecated</li>
+<li><a href="https://supermarket.chef.io/cookbooks/sqlite">sqlite v1.1.3</a> - Deprecated</li>
+<li><a href="https://supermarket.chef.io/cookbooks/sensu-handlers">sensu-handlers v0.1.7</a></li>
+<li>Follow <a href="https://twitter.com/getgetchef">@getgetchef</a> on twitter for more cookbook updates.</li>
+</ul>
+</li>
+<li>Recent Tools and Plugins
+
+<ul>
+<li><a href="https://supermarket.chef.io/tools/reagan">Reagan</a> - Ruby Jenkins build script that automates the testing of individual items in a monolithic chef-repo.</li>
+<li><a href="https://supermarket.chef.io/tools/kitchen-chef-extended-attributes">kitchen-chef-extended-attributes</a> - Kitchen Driver that allows you to use test-kitchen with chef-solo - and automatically link suites to the same named JSON dna file to ensure your node specification doesn't drift from your test definition.</li>
+<li><a href="https://supermarket.chef.io/tools/tmp-compliance-profile">/tmp Compliance Profile</a> - An example compliance profile built with <a href="http://github.com/chef/inspec">InSpec</a></li>
+<li><a href="https://supermarket.chef.io/tools/rubymine-chef-configs">Rubymine Chef Configs</a> - Rubymine configurations for Chef</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Upcoming Events
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> 2016 - July 11-13 in Austin, Texas.  CFP and ticket sales are now open.</li>
+<li>DevOpsDays
+
+<ul>
+<li><a href="http://www.devopsdays.org/events/2016-vancouver/">Vancouver</a> - April 15-16</li>
+<li><a href="http://www.devopsdays.org/events/2016-london/">London</a> - April 19-20</li>
+<li><a href="http://www.devopsdays.org/events/2016-denver/">Rockies/Denver</a> - April 21-22</li>
+<li><a href="http://www.devopsdays.org/events/2016-atlanta/">Atlanta</a> - April 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-austin/">Austin</a> - May 2-3</li>
+<li><a href="http://www.devopsdays.org/events/2016-kiel/">Kiel</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-seattle/">Seattle</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-toronto/">Toronto</a> - May 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-washington-dc/">Washington, DC</a> - June 8-9</li>
+<li><a href="http://www.devopsdays.org/events/2016-saltlakecity/">Salt Lake City</a> - June 14-15</li>
+<li><a href="http://www.devopsdays.org/events/2016-amsterdam/">Amsterdam</a> - June 29 - July 1</li>
+<li><a href="http://www.devopsdays.org/events/2016-minneapolis/">Minneapolis</a> - July 20-21</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li><a href="https://twitter.com/benr/status/646440096460242944">We should do a @foodfightshow about DevOps &amp; Design Thinking with @jeffsussna; clearly several of us are thinking about it!</a></li>
+<li>What is Design Thinking?</li>
+<li>Design Thinking compared to Lean Concepts, DevOps, and Agile</li>
+<li>How does it inform the practice of building &amp; operating high velocity organizations?</li>
+<li><a href="http://sysadvent.blogspot.com/2016/02/gcday-3-design-thinking.html">Design Thinking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Toyota_Production_System">TPS: Toyota Production System</a></li>
+<li><a href="http://freebsdhowto.com/p/2016/02/a3-template-rifvoouk.png">A3 Template</a>
+
+<ul>
+<li><a href="http://lithespeed.com/developing-learning-culture-personal-a3-template/">Developing a Learning Culture: Intro to the Personal A3 Template</a></li>
+</ul>
+</li>
+<li>Abduction</li>
+<li>Implementation: "What is it you actually want to do?"</li>
+<li>Design Thinking Workshops
+
+<ul>
+<li><a href="http://www.amazon.com/Designing-Delivery-Rethinking-Digital-Service/dp/1491949880">Designing Delivery: Rethinking IT in the Digital Service Economy</a></li>
+</ul>
+</li>
+<li>Design Thinking Resources
+
+<ul>
+<li><a href="http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089">Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation</a></li>
+<li><a href="http://thisisservicedesignthinking.com/">This is Service Design Thinking</a></li>
+<li><a href="http://itrevolution.com/japanese-words-for-devops-practitioners/">Japanese Terms For DevOps Practitioners</a></li>
+<li><a href="http://cuddletech.com/slides/DevOps-Demystified.pdf">DevOps Demystified</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Jeff Sussna</h3>
+
+<ul>
+<li><a href="http://www.walkerart.org/calendar/2015/hippie-modernism-struggle-utopia">Hippie Modernism: The Struggle for Utopia</a></li>
+</ul>
+
+
+<h3>Brandon</h3>
+
+<ul>
+<li><a href="http://laughingmeme.org/2016/02/10/towards-an-understanding-of-technical-debt/">Towards an understanding of technical debt</a></li>
+<li><a href="http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009">The Principles of Product Development Flow: Second Generation Lean Product Development</a></li>
+</ul>
+
+
+<h3>Nathen</h3>
+
+<ul>
+<li><a href="http://chefconf.com">ChefConf</a></li>
+<li><a href="http://devopsdaysdc.org">DevOpsDays DC</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/Avx_fIezoFc">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfightshow-designthinking.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
+    <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
+    <updated>2015-01-29T10:21:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
+    <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/volOVffj-nE" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/volOVffj-nE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
+<li>Courtney Nash <a href="https://twitter.com/courtneynash">twitter</a>, <a href="https://github.com/courtneynash">github</a></li>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Dave Snowden <a href="https://twitter.com/snowded">twitter</a>, <a href="http://cognitive-edge.com/blog/author/19/">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h4>Chef News</h4>
+
+<ul>
+<li>Upcoming Chef Training - Register with code FOODFIGHT to save 10%
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-bangalore-india-5/">Bangalore - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-san-francisco-15/">San Francisco - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-bangalore/">Bangalore - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-london/">London - Intermediate</a> with Nathen! - Feb 5-6</li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-nyc/">NYC - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-nyc-5/">NYC - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-windows-seattle/">Seattle / Windows</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-san-francisco-5/">San Francisco - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-london-4/">London - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-2/">Atlanta - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-atlanta-5/">Atlanta - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-minneapolis/">Minneapolis - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-minneapolis-2/">Minneapolis - Intermediate</a></li>
+<li>Online
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linux-online-5/">Feb 11-13</a></li>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linuxwindows-online-9/">Feb 18-20</a></li>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linuxwindows-online-10/">Feb 24-26</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Upcoming Conferences &amp; Events
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/fosdem-2/">FOSDEM</a></li>
+<li><a href="https://www.chef.io/blog/event/configmanagementcamp/">Configuration Management Camp</a></li>
+<li><a href="https://www.chef.io/blog/event/piedmont-triad-devops-inaugural-meetup/">Piedmont Triad DevOps Inaugural Meetup</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-users-london-meetup-3/">Chef Users London Meetup</a> with Nathen! - Feb 4</li>
+<li><a href="https://www.chef.io/blog/event/developerweek-san-francisco/">Developer Week San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/event/the-lean-enterprise-book-signing-and-qa-with-jez-humble/">The Lean Enterprise: Book Signing and Q&amp;A with Jez Humble</a> at the AWS Startup Loft in San Francisco</li>
+</ul>
+</li>
+<li><a href="http://chefconf.com">ChefConf</a>
+
+<ul>
+<li>March 31 - Community Summit &amp; Training Workshops</li>
+<li>April 1 &amp; 2 - Keynotes, session tracks, etc.</li>
+<li><a href="http://chefconf2015a.sched.org/">Schedule</a> - Still a bit of a work in progress</li>
+<li>Register with code FOODFIGHT to save 10%</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Show Notes</h4>
+
+<ul>
+<li>This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</li>
+<li>The HBR Article: <a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making/">David J. Snowden and Mary E. Boone: A Leader’s Framework for Decision Making</a></li>
+<li><a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>[Ben Rockwood's Keynote at LISA: <a href="https://www.youtube.com/watch?v=3KpPBnEtRj4">The DevOps Transformation</a></li>
+<li><a href="https://www.youtube.com/watch?v=KX2sSb-EP80">Dave Snowden: Beyond Manufacturing Metaphors: Thinking Anew, Acting Anew</a></li>
+<li>Complexity Defined: <a href="http://en.wikipedia.org/wiki/Complexity_theory">The Complexity Theory</a>
+
+<ul>
+<li>Systems
+
+<ul>
+<li>Ordered</li>
+<li>Obvious</li>
+<li>Complicated</li>
+<li>Chaotic</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>How do we know which domain (obvious/complicated/complex/chaotic) we're in, and how does that impact how we might act?</li>
+<li>Disorder</li>
+<li>Emergent Coherence</li>
+<li>Constraints
+
+<ul>
+<li>Scientific Management of Systems</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Six_Sigma">Six Sigma</a></li>
+<li>Consensus and Ritual Decent</li>
+<li>Efficiency and Effectiveness</li>
+<li>Requisite Diversity</li>
+<li><a href="http://en.wikipedia.org/wiki/Conceptual_blending">Conceptual Blending</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cognitive_neuroscience">Cognitive Nueroscience</a></li>
+<li>Applying the theory to day to day activities and teams</li>
+<li>How do these ideas relate to DevOps, IT Operations, Agile, LEAN, ITIL, etc.?
+
+<ul>
+<li>Is the understanding of complex, adaptive systems one of the reasons for the emergence of DevOps?</li>
+<li>Is DevOps itself a complex, adaptive system (including its pratitioners)?</li>
+<li>Why manufacturing metaphors may not work in describing IT Operations?</li>
+</ul>
+</li>
+<li>Safety => Breaking the Rules, Compliance</li>
+<li>Testing, Anticipatory Awareness</li>
+<li>Training</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Mike</h4>
+
+<ul>
+<li>Snow and the weather</li>
+</ul>
+
+
+<h4>Dave Zwieback</h4>
+
+<ul>
+<li><a href="https://ti.to/mindweather/awesome-postmortems-nyc-2015">Awesome Postmortems Workshop</a> - February 12, 2015, NYC.</li>
+</ul>
+
+
+<h4>Courtney</h4>
+
+<ul>
+<li><a href="https://twitter.com/EskoKilpi">@EskoKilpi</a></li>
+</ul>
+
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="http://ancnoc.com/">anCnoc 12</a></li>
+<li>Go Beyond <a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>Read Henry Ford's work and learn, learn, learn!</li>
+</ul>
+
+
+<h4>Dave Snowden</h4>
+
+<ul>
+<li><a href="http://cognitive-edge.com/library/methods/ritual-dissent-basic/">Ritual Dissent</a></li>
+<li><a href="http://www.welsh-whisky.co.uk/">Penderyn</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.stbaldricks.org/">St. Baldrick's Foundation</a> - <a href="https://www.stbaldricks.org/teams/mypage/97448/2015">My son's St. Baldrick's team</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/volOVffj-nE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Smarter OS]]></title>
+    <link href="http://foodfightshow.org//2013/04/a-smarter-os.html"/>
+    <updated>2013-04-08T12:40:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/04/a-smarter-os</id>
+    <content type="html"><![CDATA[<p>Show Date:  Monday, April 8, 2013</p>
+
+<p>In this episode, we discuss SmartOS and other Solaris derivatives.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#reading">Reading List</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DJfppm1SyeI">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/DJfppm1SyeI" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Ben Rockwood <a href="http://github.com/benr">github</a>, <a href="http://twitter.com/benr">twitter</a></li>
+<li>Blake Irvin <a href="http://github.com/bixu">github</a>, <a href="http://twitter.com/blakeirvin">twitter</a></li>
+<li>Eric Saxby <a href="http://github.com/sax">github</a>, <a href="http://twitter.com/ecdysone">twitter</a></li>
+<li>Bryan Horstmann-Allen <a href="https://github.com/bdha">github</a>, <a href="https://twitter.com/bdha">twitter</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="http://twitter.com/solarce">twitter</a>, irc: solarce</li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions
+
+<ul>
+<li>Nathen Harvey</li>
+<li>Brandon Burton</li>
+<li>Ben Rockwood</li>
+<li>Blake Irvin</li>
+<li>Eric Saxby</li>
+</ul>
+</li>
+<li>History of SmartOS
+
+<ul>
+<li><a href="http://www.oracle.com/technetwork/server-storage/solaris11/overview/index.html">Open Solaris</a></li>
+<li><a href="http://wiki.illumos.org/display/illumos/illumos+Home">illumos</a></li>
+<li><a href="http://smartos.org/">SmartOS</a></li>
+<li><a href="http://omnios.omniti.com/">OmniOS</a></li>
+<li><a href="http://openindiana.org/">Open Indiana</a></li>
+<li><a href="http://www.nexentastor.org/">Nexenta</a></li>
+</ul>
+</li>
+<li>Joyent's path to using Solaris and making SmartOS</li>
+<li>More Introductions
+
+<ul>
+<li>Bryan Horstmann-Allen</li>
+<li>John Vincent (aka lusis)</li>
+</ul>
+</li>
+<li>Mention of Bryan Cantrill's "Fork Yeah!" talk</li>
+<li><p>Why use Illumos?</p>
+
+<ul>
+<li>Operability
+
+<ul>
+<li>Visibility</li>
+<li>Commands are easy to script</li>
+<li>This is operable software!</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/DTrace">DTrace</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Service_Management_Facility">SMF</a></li>
+<li><a href="http://en.wikipedia.org/wiki/ZFS">ZFS</a></li>
+<li><a href="http://zpool.org/">ZPool</a></li>
+<li>ZFS Snapshots</li>
+<li><a href="http://en.wikipedia.org/wiki/Adaptive_replacement_cache">Adaptive Replacement Cache</a></li>
+<li><p>kstat:</p>
+
+<p>  [root@headnode (latisys-va:0) ~]# kstat -l | wc -l</p>
+
+<pre><code>40210
+</code></pre></li>
+</ul>
+</li>
+<li><p><a href="https://developer.apple.com/library/mac/#documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/Introduction/Introduction.html">Instruments</a> - A GarageBand interface to DTrace on the Mac.</p></li>
+<li><a href="http://www.pkgsrc.org/">pkgsrc</a>
+
+<ul>
+<li><a href="http://www.perkin.org.uk/posts/7000-packages-for-osx-lion.html">7,000 binary packages for OSX Lion</a></li>
+<li><a href="http://pkgin.net/">pkgin</a></li>
+</ul>
+</li>
+<li><a href="http://www.beginningwithi.com/2009/12/09/crossbow-for-opensolaris-developers/">crossbow</a></li>
+<li>kvm on SmartOS</li>
+<li><a href="http://joyent.com/blog/jonathan-perkins-on-why-smartos-is-not-gnu-linux">SNGL</a> - SNGL makes SmartOS Look Just Like Linux</li>
+<li>An anecdote about swap and SmartOS</li>
+<li>Picks</li>
+</ul>
+
+
+<h2>Other Resources</h2>
+
+<ul>
+<li>Bryan Cantrill's LISA Presnetation - Fork Yeah!  The Rise &amp; Development of Illumos
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=-zRN7XLCRhc">video</a></li>
+<li><a href="http://www.slideshare.net/bcantrill/fork-yeah-the-rise-and-development-of-illumos">slides</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/modcloth-cookbooks/smf">smf cookbook</a></li>
+<li><a href="http://getgreenbytes.com/solutions/zevo/">zfs on Mac OSX</a></li>
+<li><a href="http://youtu.be/dxZExLeJz2I">SmartOS:  An SA Primer</a></li>
+<li><a href="http://en.wikipedia.org/wiki/OpenSolaris_Network_Virtualization_and_Resource_Control">OpenSolaris Network Virtualization and Resource Control</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Btrfs">btrfs</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://youtu.be/dxZExLeJz2I">Ben's Meetup Introduction to Illumos</a></li>
+<li><a href="http://cuddletech.com/blog/">cuddletech blog</a></li>
+</ul>
+
+
+<h4>Eric</h4>
+
+<ul>
+<li><code>prstat -Lm</code> - microstate accounting of all processes and threads</li>
+<li><code>prctl</code> / <code>prstat -J</code></li>
+<li><a href="http://joyent.com/blog/smartos-proc-tools">SmartOS /proc Tools</a></li>
+<li><a href="http://www.stgeorgespirits.com/spirit/terroir-gin/">Terroir Gin</a></li>
+</ul>
+
+
+<h4>Blake</h4>
+
+<ul>
+<li><code>prstat</code></li>
+<li>IP Failover - crossbow tools are awesome! <code>dladm</code></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li>Brendan Gregg on the USE Method: Thinking Methodically About Performance
+
+<ul>
+<li><a href="http://goo.gl/qouBS">Video on Joyent's Blog</a></li>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html">Food Fight Show Episode 39:  USE - Thinking Methodically About Performance</a></li>
+</ul>
+</li>
+<li><a href="http://joyent.com/products/smartdatacenter">Joyent SmartDataCenter</a></li>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project FiFo</a></li>
+</ul>
+
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="https://twitter.com/lusis">lusis</a></li>
+<li><a href="https://github.com/someara/vagrant-joyent">Vagrant provider for the Joyent Cloud and SmartDatacenter</a></li>
+<li><a href="http://www.sumologic.com/">sumologic</a> - logging as a service</li>
+<li><a href="https://www.duosecurity.com/">Duo:Security</a> - Two-factor authentication made "non-sucky"</li>
+<li><a href="http://hereticbrewing.com/">Anything from Heretic Brewery</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://chefconf.opscode.com">#ChefConf 2013</a> and the Hack Day at Joyent's offices immediately following #ChefConf.</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DJfppm1SyeI">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

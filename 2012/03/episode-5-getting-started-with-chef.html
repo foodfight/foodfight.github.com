@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Episode 5: Getting Started with Chef - Food Fight</title>
+  <meta name="author" content="Bryan Berry - Nathen Harvey - Matt Ray">
+
+  
+  <meta name="description" content="Date: Tuesday, Feb 27th, 18:00 GMT, Download hereGuestStephen Nelson-Smith, Principal Consultant Atalanta SystemsTwitter/IRC/GitHub: LordCope blog &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://foodfightshow.org//2012/03/episode-5-getting-started-with-chef.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Food Fight" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32494051-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+    <a href="/"><img src="/images/foodfight_header.png" width="467" height="150" alt="Food Fight"></a>
+  
+    <h2>The Podcast where DevOps chefs do battle</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation">  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:foodfightshow.org/" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Episode 5: Getting Started With Chef</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-01T00:00:00-05:00" pubdate data-updated="true">Mar 1<span>st</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><div class='post'>
+<div dir="ltr" style="text-align: left;" trbidi="on"><b id="internal-source-marker_0.3670948108192533" style="font-family: Georgia, serif; font-size: 100%; text-align: -webkit-auto;"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Date:  Tuesday, Feb 27th, 18:00 GMT,  <a href="http://traffic.libsyn.com/foodfight/ffe05.mp3">Download here</a></span></b><!-- more --><br /><br /><b style="font-family: Georgia, serif; font-size: 100%;">Guest</b><br /><b style="font-family: Georgia, serif; font-size: 100%;"><br /></b><br /><span style="font-size: x-small;"><b id="internal-source-marker_0.3670948108192533" style="font-family: Georgia, serif; text-align: -webkit-auto;"><span style="font-family: Arial; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Stephen Nelson-Smith, Principal Consultant </span></b><b style="font-family: Georgia, serif; text-align: -webkit-auto;"><span style="font-family: Arial; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"><a href="http://atalanta-systems.com/">Atalanta Systems</a></span></b><br /><b style="font-family: Georgia, serif; text-align: -webkit-auto;"><span style="font-family: Arial; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Twitter/IRC/GitHub: LordCope </span></b></span><br /><div dir="ltr" style="text-align: left;" trbidi="on"><span style="font-size: x-small;"><b style="font-family: Georgia, serif; text-align: -webkit-auto;"><span style="font-family: Arial; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">blog </span><span style="vertical-align: baseline;"><a href="http://agilesysadmin.net/" style="font-family: Arial; font-weight: normal; white-space: pre-wrap;">http://agilesysadmin.net</a></span></b></span></div><div dir="ltr" style="text-align: left;" trbidi="on"><span style="font-size: x-small;"><span style="font-family: Georgia, serif;">Author of </span><a href="http://shop.oreilly.com/product/0636920020042.do" style="font-family: Georgia, serif;">Test-Driven Infrastructure with Chef</a><br /><span style="font-family: Georgia, serif;">Working on `Definitive Guide to Chef`, due out this summer from O&#8217;Reilly</span></span><br /><span style="font-size: x-small;"><span style="font-family: Georgia, serif;"><br /></span></span><br /><div style="text-align: center;"><span style="font-family: Georgia, serif;"><span style="font-size: large;"><i>&#8221;<span style="color: red;"><b>Cut me and I bleed UNIX,</b></span></i></span></span></div><div style="text-align: center;"><span style="font-family: Georgia, serif; font-size: large;"><i><span style="color: red;"><b>specifically Solaris</b></span>&#8221;</i></span></div><br /><div style="text-align: center;">&#8211; Stephen Nelson-Smith</div><span id="internal-source-marker_0.3670948108192533" style="font-family: Georgia, serif; font-size: 100%; text-align: -webkit-auto;"><span style="font-family: Arial; font-size: 15px; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;">Your Hosts</span></span><br /><ul style="font-family: Georgia, serif; font-weight: bold;"><li style="font-family: Arial; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="font-size: x-small;"><span style="vertical-align: baseline; white-space: pre-wrap;">Bryan Berry bryan.berry@gmail.com, Twitter/IRC/GitHub: bryanwb, </span></span><span style="font-size: x-small; vertical-align: baseline; white-space: pre-wrap;">b</span><b id="internal-source-marker_0.3670948108192533" style="font-size: small;"><span style="font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">log: <a href="http://devopsanywhere.blogspot.com/">http://devopsanywhere.blogspot.com</a></span></b></li></ul><ul style="font-family: Georgia, serif; font-weight: bold;"><li style="font-family: Arial; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="font-size: x-small;"><span style="vertical-align: baseline; white-space: pre-wrap;">Matt Ray </span><a href="mailto:matt@opscode.com"><span style="color: #000099; vertical-align: baseline; white-space: pre-wrap;">matt@opscode.com</span></a><span style="vertical-align: baseline; white-space: pre-wrap;"> Twitter/IRC/GitHub: mattray blog: </span><span style="color: #1155cc; vertical-align: baseline; white-space: pre-wrap;"><a href="http://leastresistance.net/">http://leastresistance.net</a></span></span></li></ul><div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family: Arial;"><span style="font-size: 15px;"><br /></span></span></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="font-family: Georgia, serif; font-size: 100%; margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://desmond.yfrog.com/Himg739/scaled.php?tn=0&amp;server=739&amp;filename=43kdrj.jpg&amp;xsize=640&amp;ysize=640" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="240" src="http://desmond.yfrog.com/Himg739/scaled.php?tn=0&amp;server=739&amp;filename=43kdrj.jpg&amp;xsize=640&amp;ysize=640" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Lusis wearing finery from CustomInk, thanks Nathen Harvey!</td></tr></tbody></table><div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family: Arial;"><span style="font-size: 15px;"><br /></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family: Arial; font-size: 15px; font-weight: bold; white-space: pre-wrap;">News &amp; Events</span></div><div style="font-size: 100%;"><ul style="font-family: Georgia, serif; font-size: 100%; font-weight: bold;"><span id="internal-source-marker_0.3670948108192533"><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;"><span style="color: #1155cc;"><a href="https://github.com/frankmt/toft">toft</a></span>, wrapper for spinning up lxc   containers</span></li><ul><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: circle; vertical-align: baseline;"><span style="background-color: white; color: #333333; vertical-align: baseline; white-space: pre-wrap;">Toft provides deb and rpm packages to simplify the usage of lxc; it also provides pre-created linux images(lucid, natty and centos-6) and scripts to create these images so user can play with lxc conta</span><span style="background-color: white; color: #333333; white-space: pre-wrap;">iners by simply installing a package and download an images file.</span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: circle; vertical-align: baseline;"><span style="background-color: white; color: #333333; vertical-align: baseline; white-space: pre-wrap;">Toft also provides a ruby gem, wrapping common tasks such as managing nodes, running chef recipes, running ssh commands and verifying system status in ruby API; therefore you can use it with test framework such as rspec, cucumber to write tests against chef receipes, packages, scripts.</span></li></ul><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;"> </span><span style="vertical-align: baseline; white-space: pre-wrap;"><a href="http://gigaom.com/cloud/how-infochimps-wants-to-become-heroku-for-hadoop/">How infochimps wants to become heroku for hadoop</a>, more Infochimps news </span><a href="http://blog.infochimps.com/2012/02/22/infochimps-platform/"><span style="color: #1155cc; vertical-align: baseline; white-space: pre-wrap;">http://blog.infochimps.com/2012/02/22/infochimps-platform/</span></a></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;"><a href="http://celluloid.github.com/">Celluloid</a>, actors for Ruby </span><span style="vertical-align: baseline; white-space: pre-wrap;"></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;">The Ironfan challenge </span><a href="https://twitter.com/#!/mrflip/status/172916921606471680"><span style="color: #1155cc; vertical-align: baseline; white-space: pre-wrap;">https://twitter.com/#!/mrflip/status/172916921606471680</span></a><span style="vertical-align: baseline; white-space: pre-wrap;"> describe an app that plausibly exercises all parts of Ironfan&#8217;s el_ridiculoso cluster: </span><a href="http://t.co/1qSSKtg5"><span style="color: #1155cc; vertical-align: baseline; white-space: pre-wrap;">http://bit.ly/el_ridiculoso</span></a><span style="vertical-align: baseline; white-space: pre-wrap;"></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;"><a href="https://groups.google.com/forum/?fromgroups#!forum/infochimps-code">info-chimps-code mailing list</a> </span><span style="vertical-align: baseline; white-space: pre-wrap;"></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="background-color: white; color: #333333; vertical-align: baseline; white-space: pre-wrap;"><a href="https://github.com/acrmp/chefspec">ChefSpec</a> is a gem that makes it easy to write </span><a href="http://rspec.info/"><span style="background-color: white; color: #4183c4; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">RSpec</span></a><span style="background-color: white; color: #333333; vertical-align: baseline; white-space: pre-wrap;"> examples for </span><a href="http://www.opscode.com/chef/"><span style="background-color: white; color: #4183c4; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Opscode Chef</span></a><span style="background-color: white; color: #333333; vertical-align: baseline; white-space: pre-wrap;"> cookbooks. Get fast feedback on cookbook changes before you spin up a node to do integration testing against </span><span style="vertical-align: baseline; white-space: pre-wrap;"></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;">Ranjib Dey’s <a href="http://ranjib.posterous.com/infrastructure-tooling-patterns">infrastructure tooling patterns</a> </span><span style="vertical-align: baseline; white-space: pre-wrap;"></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;">John Allspaw hiring more due to automation, not less </span><span style="color: #1155cc; vertical-align: baseline; white-space: pre-wrap;"><a href="https://groups.google.com/forum/?fromgroups#!topic/devops/wwF4afRA7a0">https://groups.google.com/forum/?fromgroups#!topic/devops/wwF4afRA7a0</a></span><span style="vertical-align: baseline; white-space: pre-wrap;"></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="font-size: 15px; vertical-align: baseline; white-space: pre-wrap;">Jordan Sissel on Devops Cafe  </span><a href="http://devopscafe.org/show/2012/2/25/devops-cafe-episode-22.html" style="font-size: 15px;"><span style="color: #1155cc; vertical-align: baseline; white-space: pre-wrap;">http://devopscafe.org/show/2012/2/25/devops-cafe-episode-22.html</span></a></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span style="vertical-align: baseline; white-space: pre-wrap;">“devops is ruining my craft” </span><a href="http://tatiyants.com/devops-is-ruining-my-craft/"><span style="color: #1155cc; vertical-align: baseline; white-space: pre-wrap;">http://tatiyants.com/devops-is-ruining-my-craft/</span></a><span style="vertical-align: baseline; white-space: pre-wrap;"></span></li></span></ul><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Georgia, serif;"><span style="font-size: 100%;">*Ahem* a dramatic reading</span></span><br /><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><br /><span style="background-color: white; color: #3f3e3a; font-family: Georgia, serif; font-size: 15px; font-style: italic; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">I come from a long line of sysadmins. My father was a sysadmin, as was his father before him. I have apprenticed at the feet of some of the greatest sysadmins American BankCorp has ever seen.</span><br /><span style="background-color: white; color: #3f3e3a; font-family: Georgia, serif; font-size: 15px; font-style: italic; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Yes, I consider the DevOps movement to be an affront to my craft. How could I not? How could I look at their smug build scripts and their repeatable processes and not see it for what it is: a crass commercialization of server creation!</span><br /><span style="background-color: white; font-size: 15px;"><span style="background-color: white; color: #3f3e3a; font-family: Georgia, serif; font-size: 15px; font-style: italic; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span><br /><span style="background-color: white; color: #3f3e3a; font-family: Georgia, serif; font-size: 15px; font-style: italic; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Sure, you might get your precious “predictability”, but at what cost? I mean, can you even still remember that rush of intrigue and anticipation you get when your application refuses to work on two of the twelve servers it was deployed to? The thrill of the hunt as you figure out exactly which configuration settings are different and, of those, which one is causing the problem? The sweet taste of relief that you get after hours upon hours of debugging finally narrowed it down to a rogue registry setting?</span><br /><span style="font-size: 15px;"><span style="font-family: Arial; font-size: 15px; font-style: italic; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span></span><br /><ul style="font-family: Georgia, serif; font-size: 100%; font-weight: bold;"><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span id="internal-source-marker_0.3670948108192533"><a href="http://www.eventbrite.com/event/2826384793/" style="font-size: 15px; white-space: pre-wrap;">Chef Fundamentals</a><span style="font-size: 15px; white-space: pre-wrap;"> March 14-16 NYC</span></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span id="internal-source-marker_0.3670948108192533"><a href="http://cts.vresp.com/c/?Opscode/0609f01b20/a402930948/893c695605" style="font-size: 15px; white-space: pre-wrap;">Cloud Fair</a><span style="font-size: 15px; white-space: pre-wrap;"> April 17-19 Seattle</span><span style="vertical-align: baseline; white-space: pre-wrap;"></span></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span id="internal-source-marker_0.3670948108192533"><span style="vertical-align: baseline; white-space: pre-wrap;"><a href="http://www.openstack.org/conference/san-francisco-2012/">OpenStack Developer Summit/Conference</a> April 16-20 San Francisco</span></span></li><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span id="internal-source-marker_0.3670948108192533"><span style="vertical-align: baseline; white-space: pre-wrap;"><a href="http://www.blogger.com/chefconf.opscode.com">ChefConf</a> May 15-17 San Francisco</span></span></li></ul><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><b>Topic: Chef for n00bs</b></span></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span></span><br /><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;">Documentation is just never enough and it just isn&#8217;t sexy</span></span><br /><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span><br /><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-38Rf7Hrb9nM/T08-7MTMipI/AAAAAAAAD6Q/CdsVXRM0lrA/s1600/sexy_documentation.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="420" src="http://1.bp.blogspot.com/-38Rf7Hrb9nM/T08-7MTMipI/AAAAAAAAD6Q/CdsVXRM0lrA/s640/sexy_documentation.jpg" width="640" /></a></div><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span><br /><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;">It&#8217;s a myth that Chef is only for Programmers</span></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; white-space: pre-wrap;">Best way to learn Chef &#8211; start with an account on <a href="http://www.opscode.com/hosted-chef/">Hosted Chef</a>, free for 5 machines</span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; white-space: pre-wrap;"><br /></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; white-space: pre-wrap;"><a href="http://wiki.opscode.com/display/chef/Chef+Basics">Chef Basics</a> and the <a href="http://wiki.opscode.com/display/chef/Fast+Start+Guide">Fast Start Guide</a></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><br /></span></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;">Resources for Learning Ruby</span></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><ul style="text-align: left;"><li><span id="internal-source-marker_0.3670948108192533"><b id="internal-source-marker_0.3670948108192533" style="text-align: -webkit-auto;"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"><a href="http://pragprog.com/book/ltp2/learn-to-program">learn to program</a> &#8211; from Pragmatic Programmers, easiest introduction</span></b></span></li><li><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; text-align: -webkit-auto; white-space: pre-wrap;">Peter Cooper’s <a href="http://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1590597664/ref=sr_1_1?ie=UTF8&amp;qid=1330412898&amp;sr=8-1">ruby programming from novice to professional</a></span></span></li><li><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; text-align: -webkit-auto; white-space: pre-wrap;"><a href="http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1330412916&amp;sr=1-1">Well-Grounded Rubyist</a></span></span></li><li><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; text-align: -webkit-auto; white-space: pre-wrap;"><a href="http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1330412957&amp;sr=1-1">Eloquent Ruby</a>, his favorite</span></span></li></ul></div><div><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 16px; white-space: pre-wrap;"><br /></span></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span id="internal-source-marker_0.3670948108192533"><b><span style="font-family: Arial; font-size: 15px; vertical-align: baseline; white-space: pre-wrap;">P</span><span style="font-family: Arial; font-size: 15px; vertical-align: baseline; white-space: pre-wrap;">icks</span></b></span></span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial;"><span style="font-size: 15px; white-space: pre-wrap;"><b><br /></b></span></span><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Matt</span></span><br /><ul style="font-weight: bold;"><li style="background-color: white; font-family: Arial; font-size: 16px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><h3 dir="ltr">    <span id="internal-source-marker_0.3670948108192533"><span style="font-size: 16px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"><a href="http://www.emacswiki.org/emacs/EmacsForMacOS#toc27">Maximize Emacs 23.3 and 24+ in Mac OS X Lion </a></span><span style="background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"></span></span></h3></li></ul><ul style="font-weight: bold;"><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span id="internal-source-marker_0.3670948108192533"><span style="vertical-align: baseline; white-space: pre-wrap;">Radiolab:  <a href="http://www.radiolab.org/2012/feb/20/">Is There an Edge to the Heavens?</a> </span></span></li></ul><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Bryan</span></span><br /><ul style="font-weight: bold;"><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span id="internal-source-marker_0.3670948108192533"><span style="vertical-align: baseline; white-space: pre-wrap;"><a href="http://stackoverflow.com/questions/2886184/copy-paste-in-emacs-ansi-term-shell">learning ruby w/ emacs, ruby-mode + pry running in ansi-term, C-x C-j, C-c C-k</a></span></span></li></ul><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-rrZpNWpwCV8/T0x7QJSdI-I/AAAAAAAAD58/ZrRa7ntbyVw/s1600/ansi-term-awesomeness.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="303" src="http://1.bp.blogspot.com/-rrZpNWpwCV8/T0x7QJSdI-I/AAAAAAAAD58/ZrRa7ntbyVw/s320/ansi-term-awesomeness.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">emacs, horizontally split with ruby-mode in top buffer and ansi-term running pry in bottom</td></tr></tbody></table><div><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; white-space: pre;"> </span></span></div><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span><br /><ul style="font-weight: bold;"><li style="font-family: Arial; font-size: 15px; font-weight: normal; list-style-type: disc; vertical-align: baseline;"><span id="internal-source-marker_0.3670948108192533"><span style="vertical-align: baseline; white-space: pre-wrap;">Berlin, favorite city in Europe, a cross between Portland, OR and NYC</span></span></li></ul><span id="internal-source-marker_0.3670948108192533"><span style="font-weight: normal; vertical-align: baseline;"></span><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">       Cheap, funky, big, and awesome tech scene  50% cheaper than Rome or NYC and w/ </span></span><br /><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">            better services health care, transport, and AWESOME beer. Any geek would be  </span></span><br /><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">            extremely happy there. </span></span><br /><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span><br /><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span><br /><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span><br /><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Stephen</span></span><br /><ul style="text-align: left;"><li><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; white-space: pre-wrap;">emacs -  <a href="http://tuxicity.se/emacs/elisp/2010/10/20/enclose-and-wrap-region.html">wrap-region</a> minor mode, put markers on both ends, available through package-install on emacs24</span></span></li><li><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; white-space: pre-wrap;"><a href="http://www.residentadvisor.net/podcast.aspx">resident advisor podcast</a> - awesome review of electronic musics </span></span></li></ul><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span><br /><span id="internal-source-marker_0.3670948108192533"><span style="font-family: Arial; font-size: 15px; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;">Wrap-up: please send questions and show ideas to <a href="https://twitter.com/#!/foodfightshow">@foodfightshow</a> on twitter. We are looking for someone to record a regular 2-3 minute segment on cookbook news. I am also looking for technical advice on how to improve the audio quality of this podcast. If you have experience with audio production on Mac OS X and constructive criticism, please send an mail to Bryan</span></span></div></div></div></div></div>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Bryan Berry - Nathen Harvey - Matt Ray</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-01T00:00:00-05:00" pubdate data-updated="true">Mar 1<span>st</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://foodfightshow.org//2012/03/episode-5-getting-started-with-chef.html" data-via="foodfightshow" data-counturl="http://foodfightshow.org//2012/03/episode-5-getting-started-with-chef.html" >Tweet</a>
+  
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2012/02/episode-4-big-love-for-big-data.html" title="Previous Post: Episode #4, Big Love for Big Data, Managing Hadoop Infrastructure with MrFlip">&laquo; Episode #4, Big Love for Big Data, Managing Hadoop Infrastructure with MrFlip</a>
+      
+      
+        <a class="basic-alignment right" href="/2012/03/episode-6-cookbook-reusability-with.html" title="Next Post: Episode 6: Cookbook Reusability with Nikolay Sturm">Episode 6: Cookbook Reusability with Nikolay Sturm &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+
+    <!-- NOTE: Adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template set in _config.yml -->
+    <a href="http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#"><img src="/images/itunes.png" alt="Subscribe with iTunes" /></a>
+    <a href="/atom.xml"><img src="/images/feed_rss.png" alt="Subscribe with RSS" /></a>
+    <a href="https://twitter.com/#!/foodfightshow"><img src="/images/feed_twitter.png" alt="Subscribe with iTunes" /></a>
+
+    <h1>Upcoming Events</h1>
+    <ul>
+      <li><a href="http://getchef.com/summit-london">Chef Community Summit London</a></li>
+      <li><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a></li>
+    </ul>
+
+    <h1>Links</h1>
+
+    <ul>
+      <li><a href="http://github.com/foodfight">FoodFightShow on Github</a></li>
+      <li><a href="http://devopsweekly.com/">DevOps Weekly Newsletter</a></li>
+      <li><a href="http://devopscafe.org/">DevOps Cafe</a></li>
+      <li><a href="http://theshipshow.com/">The Ship Show</a></li>
+      <li><a href="http://www.opsallthethings.com/">Ops All The Things</a></li>
+      <li><a href="http://www.arresteddevops.com/">Arrested DevOps</a></li>
+      <li><a href="http://jedi.be/">Patrick DeBois, the Godfather of DevOps</a></li>
+    </ul>
+
+
+    <a href="http://wiki.opscode.com/" title="Chef Wiki at Opscode."><img src="/images/Chef_Vertical_Reg_Without.png" /></a>
+
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2018/11/civic-hacking.html">Civic Hacking</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/08/product-marketing.html">Product Marketing Management</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/07/sensu.html">sensu</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/07/chefconf-2018.html">Live from ChefConf 2018 with Arrested DevOps</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/04/stella-report.html">The STELLA report</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/foodfight">@foodfight</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'foodfight',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("foodfightshow", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/foodfightshow" class="twitter-follow-button" data-show-count="false">Follow @foodfightshow</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2018 - Bryan Berry - Nathen Harvey - Matt Ray -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

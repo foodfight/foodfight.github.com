@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: chefdk | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/chefdk/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ChefDK]]></title>
+    <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
+    <updated>2014-08-27T12:10:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/08/chefdk</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Mm2lsAwd7yA" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/Mm2lsAwd7yA">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Jason Reslock - <a href="https://github.com/jreslock">github</a>, <a href="https://twitter.com/jreslock">twitter</a></li>
+<li>John Deatherage - <a href="https://github.com/RouteLastResort">github</a>, <a href="https://twitter.com/RouteLastResort">twitter</a></li>
+<li>Jon Cowie <a href="https://github.com/jonlives">github</a>, <a href="https://twitter.com/jonlives">twitter</a>, <a href="http://jonliv.es/">blog</a></li>
+<li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Tara Hernandez - <a href="https://github.com/tarahernandez,">github</a><a href="https://twitter.com/tequilarista">twitter</a>, irc:  tequilarista</li>
+<li>Joshua Timberman - <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
+<li>Mike Fiedler - <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="http://getchef.com/summit">Chef Community Summit</a> - October 2 &amp; 3 - FOODFIGHT saves 10%</li>
+<li><p><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</p></li>
+<li><p><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a> - October 7 &amp; 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!</p></li>
+<li><p><a href="http://www.getchef.com/blog/event/flowcon-san-francisco-ca/">FlowCon</a> - September 3 &amp; 4</p></li>
+<li><a href="http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/">Managing Containers with Chef - Webinar</a> - September 10</li>
+<li><a href="http://fossetcon.org/2014/">Fossetcon</a> - September 11 - 13</li>
+<li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
+<li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
+<li><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</li>
+<li><p><a href="http://powershell.org/wp/community-events/summit/">PowerShell Summit EU</a> - September 29 through October 1 in Amsterdam, The Netherlands</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-toronto/">Toronto</a> - September 12 &amp; 13</li>
+<li><a href="http://devopsdays.org/events/2014-newyork/">New York City</a> - September 19</li>
+<li><a href="http://devopsdays.org/events/2014-warsaw/">Warsaw</a> - September 25 &amp; 26</li>
+<li><a href="http://devopsdays.org/events/2014-telaviv/">Tel Aviv</a> - September 29 &amp; 30</li>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Austin</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/">Bangalore</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/">Chennai</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/">Denver</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/">Raleigh</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/">Seattle</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Here's a brief outline of some of the things we discussed:</p>
+
+<ul>
+<li>Intro to ChefDK
+
+<ul>
+<li>The <a href="http://downloads.getchef.com/chef-dk/">Chef Development Kit (ChefDK)</a></li>
+<li>What's in the box?
+
+<ul>
+<li><a href="http://berkshelf.com/">Berkshelf 3.0</a></li>
+<li><a href="http://kitchen.ci/">Test Kitchen</a></li>
+<li><a href="https://github.com/sethvargo/chefspec">ChefSpec</a></li>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+<li>All the Chef tools you'd usually install on a workstation:  knife, ohai, chef-client, chef-zero</li>
+<li>New command-line tool called <a href="http://docs.getchef.com/ctl_chef.html">chef</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Working with Ruby Gemfiles
+
+<ul>
+<li>Simplifying the tool chain</li>
+</ul>
+</li>
+<li>Why is it called "Chef"?</li>
+<li>What does typing Chef actually do?</li>
+<li>Using ChefDK
+
+<ul>
+<li>Using the <code>chef</code> command
+
+<ul>
+<li><code>verify</code></li>
+<li>Some glue commands - <code>exec</code>, <code>gem</code>, and <code>shell-init</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Chef for Beginners and New Users</li>
+<li>The <code>chef generate</code> Command
+
+<ul>
+<li>What does it do?</li>
+<li>How does it work?</li>
+<li><code>generate</code>
+
+<ul>
+<li><code>coobkook</code></li>
+<li><code>recipe</code></li>
+<li><code>attribute</code></li>
+<li><code>template</code></li>
+<li><code>file</code></li>
+<li><code>lwrp</code></li>
+<li><code>app</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>The Future of ChefDK
+
+<ul>
+<li>Implementing a Test Command in ChefDK</li>
+<li><a href="https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md">Policyfile.rb</a></li>
+<li>Release Cycle, Upgrade Paths, etc. Expectancy</li>
+<li>ChefDK and Windows/Cross Platform Compatability
+
+<ul>
+<li>Chef Docs Repo: <a href="https://github.com/opscode/chef-docs">https://github.com/opscode/chef-docs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Supported operating systems - As of version 0.2.1 the following Operating Systems are supported:
+
+<ul>
+<li>Mac OS X 10.8, 10.9</li>
+<li>Windows 7, 8, 8.1 &amp; Server 2008 R2, 2012, 2012 R2</li>
+<li>Ubuntu Linux 12.04, 13.10</li>
+<li>Red Hat Enterprise Linux 6</li>
+</ul>
+</li>
+<li>Upcoming: The Policy File</li>
+</ul>
+
+
+<p><strong>Commands to install ChefDK from command line:</strong>
+  * Install latest released version - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk</code>
+  * Install nightly build - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n</code></p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<ul>
+<li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Jason Reslock - <a href="https://github.com/jreslock">github</a>, <a href="https://twitter.com/jreslock">twitter</a></li>
+<li>Jon Cowie <a href="https://github.com/jonlives">github</a>, <a href="https://twitter.com/jonlives">twitter</a>, <a href="http://jonliv.es/">blog</a></li>
+<li>John Deatherage - <a href="https://github.com/RouteLastResort">github</a>, <a href="https://twitter.com/RouteLastResort">twitter</a></li>
+<li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Tara Hernandez - <a href="https://twitter.com/tequilarista">twitter</a></li>
+<li>Joshua Timberman - <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
+<li>Mike Fiedler - <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h4>Dan</h4>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=IGvvgbraDKg">Seattle Reign</a> - <a href="http://www.reignfc.com/">website</a></li>
+<li><a href="http://www.amazon.com/Spaced-The-Complete-Series-Various/dp/B0019MFY3Q#">Spaced</a></li>
+</ul>
+
+
+<h4>Jason</h4>
+
+<ul>
+<li><a href="http://shop.oreilly.com/product/0636920030973.do">Test Driven Infrastructure with Chef</a></li>
+<li><a href="http://exercism.io/">Exercism.io</a></li>
+</ul>
+
+
+<h4>Jon</h4>
+
+<ul>
+<li><a href="https://github.com/sethvargo/cleanroom">Seth Vargo's cleanroom gem</a></li>
+<li><a href="http://www.amazon.com/Customizing-Chef-Jon-Cowie/dp/149194935X/ref=sr_1_1?ie=UTF8&amp;qid=1409348329&amp;sr=8-1&amp;keywords=Customizing+Chef">Customizing Chef by Jon Cowie</a></li>
+</ul>
+
+
+<h4>Jonathan</h4>
+
+<ul>
+<li><a href="http://www.vagrantcloud.com/juniper">vagrantcloud.com/juniper</a></li>
+</ul>
+
+
+<h4>Serdar</h4>
+
+<ul>
+<li><a href="http://downloads.getchef.com/chef-dk/">The New Version of ChefDK</a></li>
+<li>Commands to install ChefDK from command line:
+
+<ul>
+<li>Install latest released version - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk</code></li>
+<li>Install nightly build - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n</code></li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Tara</h4>
+
+<ul>
+<li><a href="http://www.slideshare.net/VladKuusk/sky-base-presentation">SkyBase - Finding your way in Hybrid Clouds</a></li>
+</ul>
+
+
+<h4>Joshua</h4>
+
+<ul>
+<li><a href="http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/">ChefDK and Ruby</a></li>
+<li><a href="https://github.com/timsutton/osx-vm-templates">Tim Sutton's OS X templates for Packer and VeeWee</a></li>
+<li><a href="https://github.com/opscode/bento">Bento packer definitions for os x</a></li>
+<li><a href="http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/">Ruby Rogues podcast Episode 169 - Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III</a>
+*</li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://fnichol.github.io/dvm/">dvm</a> - Effortless Docker-in-a-box for unsupported Docker platforms, like the Mac</li>
+<li><a href="https://github.com/portertech/kitchen-docker">kitchen-docker</a> - A Test Kitchen Driver for Docker</li>
+<li><a href="http://www.arresteddevops.com/">Arrested DevOps</a> - Awesome podcast!</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://twitter.com/sethvargo">Seth Vargo</a></li>
+<li>Help <a href="https://twitter.com/stevenmurawski">@stevenmurawski</a> find the best Food Fight Show episodes!  Tweet you favorites with hashtag <strong>#feedsteven</strong></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/Mm2lsAwd7yA">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ChefDK]]></title>
+    <link href="http://foodfightshow.org//2014/08/chefdk.html"/>
+    <updated>2014-08-27T12:10:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/08/chefdk</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss <a href="https://github.com/opscode/chef-dk">ChefDK</a>!</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Mm2lsAwd7yA" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/08/chefdk.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/Mm2lsAwd7yA">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Jason Reslock - <a href="https://github.com/jreslock">github</a>, <a href="https://twitter.com/jreslock">twitter</a></li>
+<li>John Deatherage - <a href="https://github.com/RouteLastResort">github</a>, <a href="https://twitter.com/RouteLastResort">twitter</a></li>
+<li>Jon Cowie <a href="https://github.com/jonlives">github</a>, <a href="https://twitter.com/jonlives">twitter</a>, <a href="http://jonliv.es/">blog</a></li>
+<li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Tara Hernandez - <a href="https://github.com/tarahernandez,">github</a><a href="https://twitter.com/tequilarista">twitter</a>, irc:  tequilarista</li>
+<li>Joshua Timberman - <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
+<li>Mike Fiedler - <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="http://getchef.com/summit">Chef Community Summit</a> - October 2 &amp; 3 - FOODFIGHT saves 10%</li>
+<li><p><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</p></li>
+<li><p><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a> - October 7 &amp; 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!</p></li>
+<li><p><a href="http://www.getchef.com/blog/event/flowcon-san-francisco-ca/">FlowCon</a> - September 3 &amp; 4</p></li>
+<li><a href="http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/">Managing Containers with Chef - Webinar</a> - September 10</li>
+<li><a href="http://fossetcon.org/2014/">Fossetcon</a> - September 11 - 13</li>
+<li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
+<li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
+<li><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</li>
+<li><p><a href="http://powershell.org/wp/community-events/summit/">PowerShell Summit EU</a> - September 29 through October 1 in Amsterdam, The Netherlands</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-toronto/">Toronto</a> - September 12 &amp; 13</li>
+<li><a href="http://devopsdays.org/events/2014-newyork/">New York City</a> - September 19</li>
+<li><a href="http://devopsdays.org/events/2014-warsaw/">Warsaw</a> - September 25 &amp; 26</li>
+<li><a href="http://devopsdays.org/events/2014-telaviv/">Tel Aviv</a> - September 29 &amp; 30</li>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Austin</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/">Bangalore</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/">Chennai</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/">Denver</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/">Raleigh</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/">Seattle</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Here's a brief outline of some of the things we discussed:</p>
+
+<ul>
+<li>Intro to ChefDK
+
+<ul>
+<li>The <a href="http://downloads.getchef.com/chef-dk/">Chef Development Kit (ChefDK)</a></li>
+<li>What's in the box?
+
+<ul>
+<li><a href="http://berkshelf.com/">Berkshelf 3.0</a></li>
+<li><a href="http://kitchen.ci/">Test Kitchen</a></li>
+<li><a href="https://github.com/sethvargo/chefspec">ChefSpec</a></li>
+<li><a href="http://acrmp.github.io/foodcritic/">Foodcritic</a></li>
+<li>All the Chef tools you'd usually install on a workstation:  knife, ohai, chef-client, chef-zero</li>
+<li>New command-line tool called <a href="http://docs.getchef.com/ctl_chef.html">chef</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Working with Ruby Gemfiles
+
+<ul>
+<li>Simplifying the tool chain</li>
+</ul>
+</li>
+<li>Why is it called "Chef"?</li>
+<li>What does typing Chef actually do?</li>
+<li>Using ChefDK
+
+<ul>
+<li>Using the <code>chef</code> command
+
+<ul>
+<li><code>verify</code></li>
+<li>Some glue commands - <code>exec</code>, <code>gem</code>, and <code>shell-init</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Chef for Beginners and New Users</li>
+<li>The <code>chef generate</code> Command
+
+<ul>
+<li>What does it do?</li>
+<li>How does it work?</li>
+<li><code>generate</code>
+
+<ul>
+<li><code>coobkook</code></li>
+<li><code>recipe</code></li>
+<li><code>attribute</code></li>
+<li><code>template</code></li>
+<li><code>file</code></li>
+<li><code>lwrp</code></li>
+<li><code>app</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>The Future of ChefDK
+
+<ul>
+<li>Implementing a Test Command in ChefDK</li>
+<li><a href="https://github.com/opscode/chef-dk/blob/master/POLICYFILE_README.md">Policyfile.rb</a></li>
+<li>Release Cycle, Upgrade Paths, etc. Expectancy</li>
+<li>ChefDK and Windows/Cross Platform Compatability
+
+<ul>
+<li>Chef Docs Repo: <a href="https://github.com/opscode/chef-docs">https://github.com/opscode/chef-docs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Supported operating systems - As of version 0.2.1 the following Operating Systems are supported:
+
+<ul>
+<li>Mac OS X 10.8, 10.9</li>
+<li>Windows 7, 8, 8.1 &amp; Server 2008 R2, 2012, 2012 R2</li>
+<li>Ubuntu Linux 12.04, 13.10</li>
+<li>Red Hat Enterprise Linux 6</li>
+</ul>
+</li>
+<li>Upcoming: The Policy File</li>
+</ul>
+
+
+<p><strong>Commands to install ChefDK from command line:</strong>
+  * Install latest released version - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk</code>
+  * Install nightly build - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n</code></p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<ul>
+<li>Daniel DeLeo - <a href="https://github.com/danielsdeleo">github</a>, <a href="http://twitter.com/kallistec">twitter</a></li>
+<li>Jason Reslock - <a href="https://github.com/jreslock">github</a>, <a href="https://twitter.com/jreslock">twitter</a></li>
+<li>Jon Cowie <a href="https://github.com/jonlives">github</a>, <a href="https://twitter.com/jonlives">twitter</a>, <a href="http://jonliv.es/">blog</a></li>
+<li>John Deatherage - <a href="https://github.com/RouteLastResort">github</a>, <a href="https://twitter.com/RouteLastResort">twitter</a></li>
+<li>Serdar Sutay - <a href="https://github.com/sersut">github</a>, <a href="https://twitter.com/serdarsutay">twitter</a></li>
+<li>Tara Hernandez - <a href="https://twitter.com/tequilarista">twitter</a></li>
+<li>Joshua Timberman - <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
+<li>Mike Fiedler - <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h4>Dan</h4>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=IGvvgbraDKg">Seattle Reign</a> - <a href="http://www.reignfc.com/">website</a></li>
+<li><a href="http://www.amazon.com/Spaced-The-Complete-Series-Various/dp/B0019MFY3Q#">Spaced</a></li>
+</ul>
+
+
+<h4>Jason</h4>
+
+<ul>
+<li><a href="http://shop.oreilly.com/product/0636920030973.do">Test Driven Infrastructure with Chef</a></li>
+<li><a href="http://exercism.io/">Exercism.io</a></li>
+</ul>
+
+
+<h4>Jon</h4>
+
+<ul>
+<li><a href="https://github.com/sethvargo/cleanroom">Seth Vargo's cleanroom gem</a></li>
+<li><a href="http://www.amazon.com/Customizing-Chef-Jon-Cowie/dp/149194935X/ref=sr_1_1?ie=UTF8&amp;qid=1409348329&amp;sr=8-1&amp;keywords=Customizing+Chef">Customizing Chef by Jon Cowie</a></li>
+</ul>
+
+
+<h4>Jonathan</h4>
+
+<ul>
+<li><a href="http://www.vagrantcloud.com/juniper">vagrantcloud.com/juniper</a></li>
+</ul>
+
+
+<h4>Serdar</h4>
+
+<ul>
+<li><a href="http://downloads.getchef.com/chef-dk/">The New Version of ChefDK</a></li>
+<li>Commands to install ChefDK from command line:
+
+<ul>
+<li>Install latest released version - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk</code></li>
+<li>Install nightly build - <code>curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -n</code></li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Tara</h4>
+
+<ul>
+<li><a href="http://www.slideshare.net/VladKuusk/sky-base-presentation">SkyBase - Finding your way in Hybrid Clouds</a></li>
+</ul>
+
+
+<h4>Joshua</h4>
+
+<ul>
+<li><a href="http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/">ChefDK and Ruby</a></li>
+<li><a href="https://github.com/timsutton/osx-vm-templates">Tim Sutton's OS X templates for Packer and VeeWee</a></li>
+<li><a href="https://github.com/opscode/bento">Bento packer definitions for os x</a></li>
+<li><a href="http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/">Ruby Rogues podcast Episode 169 - Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III</a>
+*</li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://fnichol.github.io/dvm/">dvm</a> - Effortless Docker-in-a-box for unsupported Docker platforms, like the Mac</li>
+<li><a href="https://github.com/portertech/kitchen-docker">kitchen-docker</a> - A Test Kitchen Driver for Docker</li>
+<li><a href="http://www.arresteddevops.com/">Arrested DevOps</a> - Awesome podcast!</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://twitter.com/sethvargo">Seth Vargo</a></li>
+<li>Help <a href="https://twitter.com/stevenmurawski">@stevenmurawski</a> find the best Food Fight Show episodes!  Tweet you favorites with hashtag <strong>#feedsteven</strong></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/Mm2lsAwd7yA">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Kitchen 1.x]]></title>
+    <link href="http://foodfightshow.org//2014/08/test-kitchen-1-dot-x.html"/>
+    <updated>2014-08-22T07:27:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/08/test-kitchen-1-dot-x</id>
+    <content type="html"><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/5YnqVzESGR4" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/08/test-kitchen.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/08/test-kitchen.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/08/test-kitchen.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow77-Test_Kitchen.mp3">Audio</a></li>
+<li><a href="http://youtu.be/5YnqVzESGR4">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Fletcher Nichol <a href="http://twitter.com/fnichol">twitter</a>, <a href="https://github.com/fnichol">github</a></li>
+<li>JJ Asghar <a href="https://github.com/jjasghar">github</a>, <a href="http://twitter.com/jjasghar">twitter</a>, <a href="http://jjasghar.github.io">blog</a>, irc: j<sup>2</sup></li>
+<li>Jonathan Hartman <a href="http://github.com/roboticcheese">github</a>, <a href="http://twitter.com/roboticcheese">twitter</a>, irc: roboticcheese - Jon was able to join us almost long enough to introduce himself ;(</li>
+<li>Joshua Timberman <a href="https://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Salim Afiune <a href="http://github.com/afiune">github</a>, <a href="https://twitter.com/afiune">twitter</a></li>
+<li>Scott Pustay <a href="https://github.com/muskox">github</a>, <a href="https://twitter.com/spustay">twitter</a>, <a href="http://scottpustay.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<h4>Upcoming Events</h4>
+
+<ul>
+<li><a href="http://getchef.com/summit">Chef Community Summit</a> - October 2 &amp; 3 - FOODFIGHT saves 10%</li>
+<li><p><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%</p></li>
+<li><p><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a> - October 7 &amp; 8 - The Food Fight Show is a Media Sponsor code FOODFIGHT10 will save you 10% off!</p></li>
+<li><p><a href="http://www.getchef.com/blog/event/vmworld-san-francisco-ca/">VMWorld</a> - August 24 - 28</p></li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-azure-awesome-episode-2-windows-server-automation/">Chef and Azure Webinar</a> - August 27</li>
+<li><a href="http://www.getchef.com/blog/event/flowcon-san-francisco-ca/">FlowCon</a> - September 3 &amp; 4</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-managing-containers-with-chef/">Managing Containers with Chef - Webinar</a> - September 10</li>
+<li><a href="http://fossetcon.org/2014/">Fossetcon</a> - September 11 - 13</li>
+<li><a href="http://www.getchef.com/blog/event/velocity-new-york/">Velocity New York</a> - September 15-17</li>
+<li><a href="http://www.meetup.com/Chef-NYC/events/197048342/">PowerShell DSC at Chef-NYC Meetup</a> - September 17</li>
+<li><a href="http://www.getchef.com/blog/event/webinar-chef-analytics/">Chef Analytics Webinar</a> - September 17</li>
+<li><a href="http://beyondthecode.io/">Beyond the Code</a> - September 19 in Ottawa Canada</li>
+<li><p><a href="http://powershell.org/wp/community-events/summit/">PowerShell Summit EU</a> - September 29 through October 1 in Amsterdam, The Netherlands</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-toronto/">Toronto</a> - September 12 &amp; 13</li>
+<li><a href="http://devopsdays.org/events/2014-newyork/">New York City</a> - September 19</li>
+<li><a href="http://devopsdays.org/events/2014-warsaw/">Warsaw</a> - September 25 &amp; 26</li>
+<li><a href="http://devopsdays.org/events/2014-telaviv/">Tel Aviv</a> - September 29 &amp; 30</li>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Austin</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-2/">Bangalore</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chennai-india/">Chennai</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-denver-2/">Denver</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix-az/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-raleigh-nc-2/">Raleigh</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-seattle-3/">Seattle</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<p>Here's a brief outline of some of the things we'd like to discuss.  <a href="https://github.com/foodfight/showz/blob/master/scripts/episode77-test-kitchen.md">Add your ideas to the show notes</a>.</p>
+
+<ul>
+<li><a href="http://kitchen.ci">kitchen.ci</a>
+
+<ul>
+<li>What is Test Kitchen?</li>
+<li>Why Test Kitchen?</li>
+<li>Walk us through a <code>.kitchen.yml</code> file</li>
+<li>How does one get started with Test Kitchen?</li>
+<li>How does one extend Test Kitchen?</li>
+<li>Terms
+
+<ul>
+<li>driver</li>
+<li>provisioner</li>
+<li>platforms</li>
+<li>suites</li>
+<li>bussers; and the magic behind them</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>How are the <a href="http://downloads.getchef.com/chef-dk/">Chef Development Kit</a> and Test Kitchen related?</li>
+<li>Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.</li>
+<li>Does TK have any support for evaluating idempotence and/or run performance?
+
+<ul>
+<li><a href="http://dsg.tuwien.ac.at/staff/hummer/slides/toaster/#/">Testing Idempotence for Infrastructure as Code</a></li>
+</ul>
+</li>
+<li>Test Kitchen &amp; Windows Guest? Uhmmm is that possible?</li>
+<li>How do bussers work? Are they run from the host machine or on the machine under test?</li>
+<li><a href="https://github.com/opscode/chef-rfc/pull/34">Chef Cookbook Development Workflow RFC</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Fletcher</h4>
+
+<ul>
+<li><a href="http://sethvargo.github.io/chefspec/">ChefSpec</a></li>
+<li>The Goal, especially the <a href="http://www.audible.com/pd/Business/The-Goal-Audiobook/B00IFG88SM">audio book version</a></li>
+<li>Walking (the exercise, you know, get up from your desk)</li>
+</ul>
+
+
+<h4>JJ</h4>
+
+<ul>
+<li><a href="http://vimeo.com/98938732">Sean O'Meara:  Cookbook Unit and Acceptance Testing</a></li>
+<li><a href="http://www.amazon.com/Game-Thrones-The-Board-Second-Edition/dp/1589947207#">The Game of Thrones board game</a></li>
+<li>Cold Brew Coffee</li>
+</ul>
+
+
+<h4>Jonathan</h4>
+
+<ul>
+<li><a href="http://thewirecutter.com">The Wirecutter</a></li>
+<li><a href="https://circleci.com">CircleCI</a></li>
+<li><a href="https://www.youtube.com/watch?v=S_-U949pcUA">Tom Duffield's Chef-Container Talk</a></li>
+</ul>
+
+
+<h4>Joshua</h4>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-rfc/issues/28">RFC - Homebrew As OS X Default Package Provider</a></li>
+<li><a href="https://github.com/opscode/chef/issues/1709">Chef Issue - Homebrew As OS X Default Package Provider</a></li>
+<li><a href="http://caskroom.io/">Homebrew Cask</a></li>
+<li><a href="http://www.amazon.com/The-Complete-Homebrewing-Third-Edition/dp/0060531053">The Complete Joy of Homebrewing</a></li>
+<li>Chef reporting API and the <a href="http://rubygems.org/gems/knife-reporting">knife-reporting gem</a></li>
+</ul>
+
+
+<h4>Salim</h4>
+
+<ul>
+<li><a href="http://joshuafoer.com/moonwalking-with-einstein/">Moonwalking with Einstein</a></li>
+</ul>
+
+
+<h4>Scott</h4>
+
+<ul>
+<li><a href="http://lagunitas.com/beers/little-sumpin-sumpin/">Little sumpin' from Lagunitas</a></li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://www.blueapron.com/">Blue Apron</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://github.com/opscode/chef-community-irc-meetings">Chef Developers' IRC Meetings</a></li>
+<li>Taking a proper vacation:  leave your phone and computer at home.</li>
+<li>Not being an <a href="http://www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202">asshole</a> on social media or anywhere else, for that matter.</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow77-Test_Kitchen.mp3">Audio</a></li>
+<li><a href="http://youtu.be/5YnqVzESGR4">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: aws | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/aws/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[OpsWorks]]></title>
+    <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
+    <updated>2013-12-17T21:16:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/12/opsworks</id>
+    <content type="html"><![CDATA[<p>Watch and listen to our discussion of Amazon's <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cJjvLZXpOxg" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3">Audio</a></li>
+<li><a href="http://youtu.be/cJjvLZXpOxg">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jonathan Weiss <a href="https://github.com/jweiss">github</a>, <a href="https://twitter.com/jweiss">twitter</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Tom Duffield <a href="http://github.com/tduffield">github</a>, <a href="http://twitter.com/tomduffield">twitter</a>, <a href="http://tomduffield.com">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/">Opscode is now Chef</a></li>
+<li><a href="http://chefconf.com">#ChefConf 2014</a> ultra-early-bird pricing ends on 31 December.  Get your tickets now!</li>
+<li>Upcoming Chef Training Events
+
+<ul>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-philadelphia-area/">Philadelphia</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-4/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chicago-2/">Chicago</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-boston-area/">Boston</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-amsterdam/">Amsterdam</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-london/">London</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li><a href="http://aws.amazon.com/opsworks/">AWS OpsWorks</a></li>
+<li><a href="http://aws.amazon.com/">Amazon Web Services</a></li>
+<li><a href="http://aws.amazon.com/ec2/">Amazon EC2</a></li>
+<li><a href="https://github.com/scalarium">scalarium</a></li>
+<li><a href="http://aws.amazon.com/cloudformation/">AWS CloudFormation</a></li>
+<li>AWS OpsWorks Under the Hood - <a href="http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=913oT6xV-Qk">Video</a></li>
+<li>Wrapping Solutions Around Chef vs Inside Chef</li>
+<li><a href="https://github.com/opscode-cookbooks/chef-server">chef-server</a> and search</li>
+<li><a href="http://docs.opscode.com/essentials_data_bags.html">Databags</a></li>
+<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/workingstacks-json.html">Use Custom JSON to Modify the Stack Configuration JSON</a></li>
+<li>Attaching Opsworks stacks to an existing Chef server</li>
+<li>Lifecycle Stages</li>
+<li><a href="https://github.com/amazonwebservices">Amazon Web Services on Github</a></li>
+<li>Operating Systems</li>
+<li>Versioning Schemes</li>
+<li>Metric Monitoring</li>
+<li>The Configuration Drift</li>
+<li><a href="http://aws.amazon.com/cloudtrail/faqs/">AWS CloudTrail</a></li>
+<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/troubleshoot-debug-log.html">Chef Logs</a></li>
+<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/cli-examples.html">Using the AWS OpsWorks CLI</a></li>
+<li><a href="https://twitter.com/jeffbarr/status/413398665219149824">OpsWorks in iOS and Android</a></li>
+<li>How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - <a href="http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=fZ8HmekZabo">Video</a></li>
+<li>Why Choose OpsWorks?</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Jonathan</h4>
+
+<ul>
+<li><a href="http://nicolargo.github.io/glances/">Glances</a></li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying">The Log: What every software engineer should know about real-time data's unifying abstraction</a></li>
+<li><a href="http://sysadvent.blogspot.com/2013/12/day-16-omnibusing-your-way-to-happiness.html">Sys Advent:  omnibus'ing your way to happines</a></li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://myfridgefood.com/">my fridge food</a></li>
+<li><a href="https://github.com/bbatsov/rubocop">RuboCop</a></li>
+<li><a href="http://www.pylint.org/">Pylint</a></li>
+<li><a href="https://github.com/zaach/jsonlint">JSON Lint</a></li>
+<li><a href="https://twitter.com/wizonesolutions/status/413364827143540736">Best Pun Ever?!</a></li>
+</ul>
+
+
+<h4>Tom</h4>
+
+<ul>
+<li><a href="http://vim.spf13.com/">spf13-vim</a></li>
+<li><a href="http://www.projectforawesome.com/">Project For Awesome</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://fosdem.org/">FOSDEM</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">cfgmgmtcamp</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3">Audio</a></li>
+<li><a href="http://youtu.be/cJjvLZXpOxg">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amazon Web Services]]></title>
+    <link href="http://foodfightshow.org//2013/06/amazon-web-services.html"/>
+    <updated>2013-06-05T07:44:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/06/amazon-web-services</id>
+    <content type="html"><![CDATA[<p>Show Date:  June 5, 2013</p>
+
+<p>A round table discussion on using Chef with AWS and brief exploration of some of the many AWS services.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/b8LXZMjVi1A" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=b8LXZMjVi1A">Video stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Kevin Nuckolls <a href="https://github.com/knuckolls">github</a>, <a href="https://twitter.com/knuckolls">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Trotter Cashion <a href="http://github.com/trotter">github</a>, <a href="http://twitter.com/cashion">twitter</a>, <a href="http://trottercashion.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li><a href="https://www.bluebox.net/about/blog/2013/06/responsive-infrastructure-with-opscode-chef-an-introduction/">Responsive infrastructure with Opscode Chef–an introduction</a> an introduction to Chef from <a href="https://github.com/sandfish8">Sam Cooper</a> at <a href="https://www.bluebox.net/">bluebox</a>.</li>
+<li><a href="http://www.activestate.com/blog/2013/06/solomon-hykes-explains-docker">Solomon Hykes Explains Docker</a> a great article introducing Docker and a good companion for episode 49:  <a href="http://foodfightshow.org/2013/04/docker-the-linux-container-runtime.html">Docker: The Linux Container Runtime</a></li>
+<li><a href="https://coderanger.net/2013/06/arrays-and-chef/">Arrays and Chef Attributes</a> - an article from <a href="https://twitter.com/kantrn">Noah Kantrowitz</a> that's essential reading for anyone wondering about how arrays are merged in node attributes.</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Chef News</li>
+<li><a href="http://www.poodr.info/">Practical Object-Oriented Design in Ruby</a></li>
+<li>Introductions</li>
+<li><a href="http://aws.amazon.com/">Amazon AWS</a></li>
+<li>Getting started with Chef and AWS</li>
+<li><a href="http://docs.opscode.com/plugin_knife_ec2.html">knife ec2</a></li>
+<li>Storage</li>
+<li><a href="http://aws.amazon.com/ec2/">Amazon EC2</a>
+
+<ul>
+<li><a href="http://www.ec2instances.info/">Easy Amazon EC2 Instance Comparison</a></li>
+<li><a href="http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html">AWS EC2 Instance Properties</a></li>
+</ul>
+</li>
+<li>Stateless and stateful servers</li>
+<li>Logical Volume Management (LVM)</li>
+<li>User-data and auto-scaling
+
+<ul>
+<li>S3 can be used as a source of artifacts in <a href="http://ckbk.it/artifact">artifact-cookbook</a> now (includes support for IAM roles)</li>
+</ul>
+</li>
+<li>Running as a service</li>
+<li><a href="http://ckbk.it/aws">AWS Cookbook</a>
+
+<ul>
+<li><a href="http://rubygems.org/gems/right_aws">RightScale AWS gem</a></li>
+<li><a href="http://rubygems.org/gems/fog">fog gem</a></li>
+<li><a href="http://aws.amazon.com/sdkforruby/">AWS SDK for Ruby</a></li>
+</ul>
+</li>
+<li><a href="http://aws.typepad.com/aws/2012/06/iam-roles-for-ec2-instances-simplified-secure-access-to-aws-service-apis-from-ec2.html">IAM roles</a></li>
+<li><a href="https://gist.github.com/anthroprose/9a1b3b7dbf3218578bcb">snapshotting and drive consistency</a></li>
+<li>Servercreate
+
+<ul>
+<li>OHAI hint</li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/vpc/">Amazon VPC (Virtual Private Cloud)</a>
+
+<ul>
+<li><a href="http://aws.amazon.com/articles/2781451301784570">High Availability for Amazon VPC NAT Instances: An Example</a></li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/s3/">Amazon S3</a></li>
+<li><a href="http://guides.rubygems.org/run-your-own-gem-server/">Run your own gem server</a></li>
+<li><a href="https://github.com/opscode-cookbooks/varnish">varnish</a></li>
+<li>Application deployment to Amazon</li>
+<li>AMIs for Windows</li>
+<li>Reboots</li>
+<li><a href="http://aws.amazon.com/route53/">Amazon Route 53</a>
+
+<ul>
+<li><a href="http://blog.parse.com/2013/02/28/working-with-hostnames-in-a-dynamically-scaled-environment/">blog post from Parse using Chef + Route53 to auto-add nodes to Route53</a></li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/rds/">Amazon RDS</a></li>
+<li><a href="http://aws.amazon.com/elasticmapreduce/">Elastic MapReduce (EMR)</a></li>
+<li><a href="http://aws.amazon.com/redshift/">Redshift</a></li>
+<li>Test Kitchen and AWS
+<a href="https://github.com/opscode/kitchen-ec2">kitchen-ec2</a></li>
+<li>EC2 and Multiple Data Centers</li>
+<li>Availability zones within a region</li>
+<li>Regions</li>
+<li>LWRP for pulling stuff from S3
+
+<ul>
+<li><a href="http://aws.amazon.com/sdkforruby/">AWS SDK for Ruby</a></li>
+<li><a href="http://aws.amazon.com/cloudformation/">AWS CloudFormation</a>
+
+<ul>
+<li><a href="https://gist.github.com/solarce/5716564">example of cloudformation and some user-data</a></li>
+<li><a href="https://s3.amazonaws.com/cloudformation-templates-us-east-1/multi-tier-web-app-in-vpc.template">AWS CloudFormation Sample Template</a></li>
+<li><a href="http://www.unixdaemon.net/stack-template.json">another cloud formation template</a></li>
+<li><a href="https://gist.github.com/anthroprose/b3c7f4e0771abcfefef5">sample of stack deploy using quite a bit of different AWS features within cloudformation</a></li>
+<li><a href="https://github.com/songkick/cloud_formatter">CloudFormatter</a> Generates JSON config for AWS CloudFormation using a Ruby DSL.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Other Resources</h2>
+
+<p>Here's a list of things that were mentioned in the show or the IRC backchannel during the episode.</p>
+
+<ul>
+<li><a href="http://www.awsnow.info/">Consolidated AWS prices and limits</a></li>
+<li><a href="http://ckbk.it/ebs">EBS Cookbook</a></li>
+<li><a href="http://www.nuvolecomputing.com/2012/07/02/chef-node-de-registration-for-autoscaling-groups/">Chef Node Deregistration For Autoscaling Groups</a></li>
+<li><a href="https://github.com/cwninja/geminabox">Gem in a Box</a> and the <a href="http://community.opscode.com/cookbooks/geminabox">geminabox cookbook</a>.</li>
+<li><a href="https://github.com/Netflix/denominator">cloud dns abstractor</a></li>
+<li><a href="https://help.ubuntu.com/community/AptProxy">AptProxy</a></li>
+<li><a href="http://awsadvent.tumblr.com/post/38685647817/strategies-reusable-cfn-templates">Strategies for re-usable CloudFormation Templates</a></li>
+<li><a href="http://awsadvent.tumblr.com/post/37773106407/bootstrap-cfg-mgmt-aws">Bootstrapping Config Management on AWS</a></li>
+<li><a href="https://github.com/ii-cookbooks/ii-usb">Cookbooks to create bootable USB sticks that contain OS vendor ISO</a></li>
+<li><a href="https://github.com/destructuring/vagrant-shell">Vagrant Shell Provider</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.opscode.com/blog/chefconf-talks/chef-and-the-cloud-trotter-cashion/">Chef and the Cloud</a> - Trotter's #ChefConf 2013 talk</li>
+<li><a href="http://velocityconf.com/">Velocity Conference</a> - See you there!</li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://books.google.com/books/about/Good_Omens.html?id=B7FL6zzN_FsC">Good Omens</a></li>
+<li>“the sparse usage of ternary operators” (<code>mikes_disposition = (used_sparingly?)? "happy" : "rage"</code>)</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.confreaks.com/videos/2467-railsconf2013-pry-the-good-parts">Pry, the good Parts</a>
+and Pry.rescue do #.... end</li>
+<li><a href="http://fog.io">fog</a></li>
+<li><a href="http://www.youtube.com/watch?v=L_z5oqPrDWY">Hurting Code</a></li>
+<li><a href="http://www.poodr.info/">Practical Object-Oriented Design in Ruby</a></li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/">imgur Technology Stack</a></li>
+<li><a href="https://github.com/dotcloud/docker/wiki/Docker-0.4.0-release-note,-June-3-2013">Docker 0.4.0</a></li>
+</ul>
+
+
+<h4>Trotter</h4>
+
+<ul>
+<li><a href="http://www.goodreads.com/book/show/6604209-mistborn-trilogy-boxed-set">Mistborn Trilogy</a></li>
+<li>The Atlantic Ocean</li>
+<li><a href="http://elaphilly.com/">Ela</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=b8LXZMjVi1A">Video stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

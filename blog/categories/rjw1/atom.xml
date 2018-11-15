@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rjw1 | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/rjw1/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Configuration Management Camp - 2017]]></title>
+    <link href="http://foodfightshow.org//2017/02/configuration-management-camp-2017.html"/>
+    <updated>2017-02-17T22:22:00-05:00</updated>
+    <id>http://foodfightshow.org//2017/02/configuration-management-camp-2017</id>
+    <content type="html"><![CDATA[<p>Listen in to this recap from <a href="http://cfgmgmtcamp.eu/">Configuration Management Camp Gent 2017</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2017/02/configuration-management-camp-2017.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2017/02/configuration-management-camp-2017.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS106.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>Live from <a href="http://cfgmgmtcamp.eu/">Config Management Camp Gent 2017</a></li>
+<li><a href="https://twitter.com/lusis">@lusis</a>'s Keynote: <a href="https://speakerdeck.com/lusis/configuration-management-is-a-solved-problem">Configuration Management: Is it a solved problem?</a></li>
+<li>What is the future of configuration management?</li>
+<li>Getting Away From Centralized Authority: Centralization vs Decentralization</li>
+<li>Immutable Infrastructure; Logging In</li>
+<li>Containers</li>
+<li>Running Docker</li>
+<li>About Config Management Camp</li>
+<li>Hallway Track</li>
+<li>Key Takeaways: Self-care, Empathy, Limitation Awareness</li>
+<li>Cost and Value of Config Management Camp</li>
+<li>Audience Thoughts &amp; Experiences</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS106.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

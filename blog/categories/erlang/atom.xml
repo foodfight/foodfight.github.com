@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: erlang | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/erlang/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Erlang Eye for the DevOps Guy and Gal]]></title>
+    <link href="http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal.html"/>
+    <updated>2013-07-01T15:52:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/07/erlang-eye-for-the-devops-guy-and-gal</id>
+    <content type="html"><![CDATA[<p>Show Date: Monday, July 1, 2013</p>
+
+<p>An introduction to Erlang and OTP for operations professionals.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/7WqczWKwWOU" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/07/erlang-eye-for-the-devops-guy-and-gal.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3">Audio</a></li>
+<li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
+<li>Hector Castro  <a href="https://twitter.com/hectcastro">twitter</a>, <a href="https://github.com/hectcastro">github</a>, <a href="http://hectcastro.me/">blog</a></li>
+<li>Chris Meiklejohn <a href="https://twitter.com/cmeik">twitter</a>, <a href="https://github.com/cmeiklejohn/">github</a>, <a href="http://christophermeiklejohn.com/">blog</a></li>
+<li>Panos Papadomitsos (PJ) - <a href="https://twitter.com/priestjim">twitter</a>, <a href="https://github.com/priestjim">github</a>, <a href="http://ezgr.net/">blog</a></li>
+<li>Steve Vinoksi <a href="https://github.com/vinoski">github</a>, <a href="https://twitter.com/stevevinoski">twitter</a>, <a href="http://steve.vinoski.net/blog/">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions</li>
+<li><a href="http://www.erlang.org/">Erlang</a></li>
+<li><a href="http://www.youtube.com/watch?v=xrIjfIjssLE">Erlang: The Movie</a></li>
+<li>Why Erlang is a good choice for operations</li>
+<li>Erlang Processes</li>
+<li>CPU caches</li>
+<li>Garbage Collection/Heap Sizes and Allocation</li>
+<li>The Memory Supervisor</li>
+<li>Heap Per Process</li>
+<li>NUMA Awareness</li>
+<li>Writing an Application in Erlang vs <a href="http://golang.org/">Go</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Open_Telecom_Platform">Open Telecom Platform (OTP)</a></li>
+<li>What is Erlang?</li>
+<li><a href="http://en.wikipedia.org/wiki/Prolog">Prolog</a></li>
+<li>Functional Programming Principals</li>
+<li>External Integration</li>
+<li>Getting Started with Erlang</li>
+<li><a href="http://learnyousomeerlang.com/">Learn You Some Erlang for Great Good</a></li>
+<li><a href="http://elixir-lang.org/">Elixir</a></li>
+<li><a href="http://www.erlang.org/doc/man/erl.html">erl</a></li>
+<li><a href="http://elixir-lang.org/">Elixir</a></li>
+<li>The Erlang Syntax</li>
+<li>Deploying Static Binaries</li>
+<li><a href="https://github.com/basho/node_package">node_package</a></li>
+<li>Code Reloading</li>
+<li>Tracing</li>
+<li>Exploring Statistics</li>
+<li><a href="https://github.com/basho/riak_core">riak_core</a></li>
+<li>Cluster Management</li>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project Fifo</a></li>
+<li><a href="https://github.com/basho/riak_kv">riak_kv</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Finite-state_machine">Finite-state Machine</a></li>
+<li><a href="https://github.com/basho/riak_pipe">riak_pipe</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://mostlyerlang.com">Mostly Erlang podcast</a></li>
+<li><a href="http://learnyousomeerlang.com">Learn You Some Erlang</a></li>
+<li><a href="http://www.youtube.com/watch?v=GyHXLIHtPDM">All your Cores are Belong to us: Turbo-Charging for the Many-Core World</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://theshipshow.com">The Ship Show Podcast</a></li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<ul>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project Fifo</a></li>
+</ul>
+
+
+<h4>Chris</h4>
+
+<ul>
+<li>All Things Distributed Podcast coming soon! join the <a href="http://eepurl.com/BK2Ff">Mailing List</a> for updates on it</li>
+<li><a href="http://www.youtube.com/watch?v=owCu5rveBYI">Hitchhiker's Guide to the Erlang VM</a></li>
+<li><a href="http://coq.inria.fr/">The Coq Proof Assistant</a></li>
+</ul>
+
+
+<h4>PJ</h4>
+
+<ul>
+<li><a href="https://github.com/Shopify/dashing">dashing</a></li>
+<li><a href="https://github.com/extend/cowboy">cowboy</a></li>
+<li><a href="http://www.randomaccessmemories.com/">Daft Punk: Random Access Memories</a></li>
+</ul>
+
+
+<h4>Steve</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/user/ErlangSolutions">Erlang Solutions YouTube Channel</a></li>
+<li><a href="http://steve.vinoski.net/blog/2008/04/21/father-of-corba-not/">The Kid is not my son</a></li>
+<li><a href="https://itunes.apple.com/us/album/the-devil-put-dinosaurs-here/id622941441">Alice in Chaings: The Devil Put Dinosaurs Here</a></li>
+</ul>
+
+
+<h4>Hector</h4>
+
+<ul>
+<li><a href="http://www.packer.io/">Packer</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3">Audio</a></li>
+<li><a href="http://youtube.com/watch?v=7WqczWKwWOU">Video</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: jordansissel | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/jordansissel/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Logstash]]></title>
+    <link href="http://foodfightshow.org//2013/02/logstash.html"/>
+    <updated>2013-02-13T11:52:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/02/logstash</id>
+    <content type="html"><![CDATA[<p>Show Date:  Wednesday, February 13, 2013</p>
+
+<p>In this episode, we discuss <a href="http://www.logstash.net/">Logstash</a> and <a href="http://logstashbook.com/">The logstash Book</a> with <a href="https://twitter.com/jordansissel">Jordan Sissel</a> and <a href="https://twitter.com/kartar">James Turnbull</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/02/logstash.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/02/logstash.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/02/logstash.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=zcTeyG80uY0">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/zcTeyG80uY0" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jordan Sissel <a href="https://twitter.com/jordansissel">twitter</a>, <a href="https://github.com/jordansissel">github</a>, <a href="http://www.semicomplete.com/">blog</a></li>
+<li>James Turnbull <a href="https://twitter.com/kartar">twitter</a>, <a href="https://github.com/jamtur01">github</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Jordan</h4>
+
+<ul>
+<li><a href="http://www.nethack.org/">Net Hack</a></li>
+</ul>
+
+
+<h4>James</h4>
+
+<ul>
+<li><a href="https://github.com/sensu/sensu">Sensu</a></li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=dL9mlqbG5CU">Hammerfall - Hearts On Fire (Curling Version)</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://github.com/jordansissel/fpm">fpm</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=zcTeyG80uY0">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

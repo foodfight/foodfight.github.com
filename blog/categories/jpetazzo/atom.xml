@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: jpetazzo | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/jpetazzo/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Docker: the Linux container runtime]]></title>
+    <link href="http://foodfightshow.org//2013/04/docker-the-linux-container-runtime.html"/>
+    <updated>2013-04-15T12:30:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/04/docker-the-linux-container-runtime</id>
+    <content type="html"><![CDATA[<p>Show Date:  Monday, April 15, 2013</p>
+
+<p>Join us as we discuss Docker and linux containers.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-49-Docker.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=LDhrDpz8JQw">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/LDhrDpz8JQw" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jérôme Petazzoni <a href="http://github.com/jpetazzo">github</a>, <a href="https://twitter.com/jpetazzo">twitter</a>, irc:  jpetazzo</li>
+<li>Solomon Hykes <a href="http://github.com/shykes">github</a>, <a href="https://twitter.com/solomonstre">twitter</a>, irc: shykes</li>
+<li>Chris Roberts <a href="http://github.com/chrisroberts">github</a>, <a href="https://twitter.com/_spox">twitter</a>, irc: spox</li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><a href="https://github.com/RiotGames/berkshelf/compare/v1.3.1...v1.4.0">Berkshelf 1.4.0</a> released</li>
+<li><a href="http://rove.io">rove.io</a> - Generate Vagrant Configuration</li>
+<li><a href="http://chefconf.opscode.com">#ChefConf 2013</a></li>
+<li><a href="https://github.com/chrisroberts/vagabond">Vagabond</a> - Vagabond is a tool integrated with Chef to build local nodes easily and most importantly, quickly. It uses Linux containers instead of full blown VMs which means things are faster. Lots faster.</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions</li>
+<li>Chef News</li>
+<li>Introduction to Docker
+
+<ul>
+<li>High-level tool that compliments lxc</li>
+</ul>
+</li>
+<li>Introduction to Linux Containers (lxc)
+
+<ul>
+<li>Why did dotCloud go with lxc?
+
+<ul>
+<li>First versions of dotCloud were vserver then ported to OpenVZ and now on lxc</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Aufs">aufs</a></li>
+<li><a href="http://grsecurity.net/">grsecurity</a></li>
+<li><a href="http://www.docker.io/">Docker</a></li>
+<li>Why was Go selected for Docker?</li>
+<li>Limitations of lxc</li>
+<li>Workflow with Docker</li>
+<li>What Docker doesn't / shouldn't do</li>
+<li>Orchestration between docker containers</li>
+<li><a href="http://incubator.apache.org/mesos/">Mesos</a></li>
+<li>Distributing docker images</li>
+<li>lxc gotchas</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Man-High-Castle-Philip-Dick/dp/0547572484">The Man in the High Castle</a></li>
+<li><a href="http://cassandra.apache.org/">Cassandra</a></li>
+</ul>
+
+
+<h4>Chris</h4>
+
+<ul>
+<li>Dig in to lxc!</li>
+</ul>
+
+
+<h4>Jérôme</h4>
+
+<ul>
+<li>GPS Air traffic hijacking</li>
+<li><a href="http://www.slideshare.net/andreywagin/checkpointrestore-mostly-in-userspace-16408070">Checkpoint and Restore Userland for live migrations</a></li>
+</ul>
+
+
+<h4>Solomon</h4>
+
+<ul>
+<li><a href="http://ascii.io/">ascii.io</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://twitter.com/hangops">Hangops</a></li>
+<li><a href="http://movies.netflix.com/WiMovie/The_League/70157187">The League</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-49-Docker.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=LDhrDpz8JQw">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

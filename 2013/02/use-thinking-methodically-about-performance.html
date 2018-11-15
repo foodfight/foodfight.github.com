@@ -1,0 +1,409 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>USE - Thinking Methodically about Performance - Food Fight</title>
+  <meta name="author" content="Bryan Berry - Nathen Harvey - Matt Ray">
+
+  
+  <meta name="description" content="Show Date: Tuesday, February 6, 2013 In this episode, we sit down with Brendan Gregg of Joyent to discuss performance and his recent article, &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Food Fight" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32494051-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+    <a href="/"><img src="/images/foodfight_header.png" width="467" height="150" alt="Food Fight"></a>
+  
+    <h2>The Podcast where DevOps chefs do battle</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation">  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:foodfightshow.org/" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">USE - Thinking Methodically About Performance</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-06T13:34:00-05:00" pubdate data-updated="true">Feb 6<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Show Date:  Tuesday, February 6, 2013</p>
+
+<p>In this episode, we sit down with <a href="https://twitter.com/brendangregg">Brendan Gregg</a> of Joyent to discuss performance and his recent article, <a href="http://queue.acm.org/detail.cfm?id=2413037">Thinking Methodically about Performance</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-39-USE-Method.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=GSjWIoAXzuQ">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/GSjWIoAXzuQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brendan Gregg of Joyent <a href="https://github.com/brendangregg">github</a>, <a href="https://twitter.com/brendangregg">twitter</a>, <a href="http://dtrace.org/blogs/brendan/">blog</a></li>
+<li>Avleen Vig <a href="https://github.com/avleen">github</a>, <a href="https://twitter.com/avleen">twitter</a>, <a href="http://silverwraith.com/blog/">blog</a></li>
+<li>MattRay <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://jdownloader.org">jdownloader</a></li>
+<li><a href="http://www.youtube.com/watch?v=YHeyuD89n1Y&amp;feature=youtu.be">The Future of Networking by scott shenker</a></li>
+<li>electronic cigarettes</li>
+</ul>
+
+
+<h4>Avleen</h4>
+
+<ul>
+<li><a href="http://www.dueapp.com/mac.html">Due App</a></li>
+</ul>
+
+
+<h4>Brendan</h4>
+
+<ul>
+<li><a href="http://elite.frontier.co.uk/">Elite 4</a></li>
+<li><p><a href="http://www.raspberrypi.org/">Raspbery Pi</a></p></li>
+<li><h4>Matt</h4></li>
+<li><a href="http://www.treadmilldeskdiary.com/">Treadmill Desk Diary</a></li>
+<li><a href="http://www.mybloodyvalentine.org/NewsDetail.aspx?NID=623&amp;flag=1">my bloody valentine&#8217;s new album:  mvb</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.delirium.be/delirium_nocturnum">Delirium Nocturnum</a></li>
+<li><a href="http://manytricks.com/witch/">Witch</a></li>
+<li><a href="https://chefconf2013.busyconf.com/proposals/new">#ChefConf 2013 CFP</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-39-USE-Method.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=GSjWIoAXzuQ">Video Stream</a></li>
+</ul>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Bryan Berry - Nathen Harvey - Matt Ray</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-06T13:34:00-05:00" pubdate data-updated="true">Feb 6<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/brendangregg/'>brendangregg</a>, <a class='category' href='/blog/categories/performance/'>performance</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance.html" data-via="foodfightshow" data-counturl="http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance.html" >Tweet</a>
+  
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2013/01/application-deployment.html" title="Previous Post: Application Deployment">&laquo; Application Deployment</a>
+      
+      
+        <a class="basic-alignment right" href="/2013/02/logstash.html" title="Next Post: Logstash">Logstash &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+
+    <!-- NOTE: Adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template set in _config.yml -->
+    <a href="http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#"><img src="/images/itunes.png" alt="Subscribe with iTunes" /></a>
+    <a href="/atom.xml"><img src="/images/feed_rss.png" alt="Subscribe with RSS" /></a>
+    <a href="https://twitter.com/#!/foodfightshow"><img src="/images/feed_twitter.png" alt="Subscribe with iTunes" /></a>
+
+    <h1>Upcoming Events</h1>
+    <ul>
+      <li><a href="http://getchef.com/summit-london">Chef Community Summit London</a></li>
+      <li><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a></li>
+    </ul>
+
+    <h1>Links</h1>
+
+    <ul>
+      <li><a href="http://github.com/foodfight">FoodFightShow on Github</a></li>
+      <li><a href="http://devopsweekly.com/">DevOps Weekly Newsletter</a></li>
+      <li><a href="http://devopscafe.org/">DevOps Cafe</a></li>
+      <li><a href="http://theshipshow.com/">The Ship Show</a></li>
+      <li><a href="http://www.opsallthethings.com/">Ops All The Things</a></li>
+      <li><a href="http://www.arresteddevops.com/">Arrested DevOps</a></li>
+      <li><a href="http://jedi.be/">Patrick DeBois, the Godfather of DevOps</a></li>
+    </ul>
+
+
+    <a href="http://wiki.opscode.com/" title="Chef Wiki at Opscode."><img src="/images/Chef_Vertical_Reg_Without.png" /></a>
+
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2018/11/civic-hacking.html">Civic Hacking</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/08/product-marketing.html">Product Marketing Management</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/07/sensu.html">sensu</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/07/chefconf-2018.html">Live from ChefConf 2018 with Arrested DevOps</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/04/stella-report.html">The STELLA report</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/foodfight">@foodfight</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'foodfight',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("foodfightshow", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/foodfightshow" class="twitter-follow-button" data-show-count="false">Follow @foodfightshow</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2018 - Bryan Berry - Nathen Harvey - Matt Ray -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'foodfightshow';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance.html';
+        var disqus_url = 'http://foodfightshow.org//2013/02/use-thinking-methodically-about-performance.html';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

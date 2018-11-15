@@ -1,0 +1,533 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>A Smarter OS - Food Fight</title>
+  <meta name="author" content="Bryan Berry - Nathen Harvey - Matt Ray">
+
+  
+  <meta name="description" content="Show Date: Monday, April 8, 2013 In this episode, we discuss SmartOS and other Solaris derivatives. Panel
+Chef News
+Outline
+Reading List
+Picks &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://foodfightshow.org//2013/04/a-smarter-os.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Food Fight" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32494051-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+    <a href="/"><img src="/images/foodfight_header.png" width="467" height="150" alt="Food Fight"></a>
+  
+    <h2>The Podcast where DevOps chefs do battle</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation">  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:foodfightshow.org/" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">A Smarter OS</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-08T12:40:00-04:00" pubdate data-updated="true">Apr 8<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Show Date:  Monday, April 8, 2013</p>
+
+<p>In this episode, we discuss SmartOS and other Solaris derivatives.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#reading">Reading List</a></li>
+<li><a href="http://foodfightshow.org/2013/04/a-smarter-os.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DJfppm1SyeI">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/DJfppm1SyeI" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Ben Rockwood <a href="http://github.com/benr">github</a>, <a href="http://twitter.com/benr">twitter</a></li>
+<li>Blake Irvin <a href="http://github.com/bixu">github</a>, <a href="http://twitter.com/blakeirvin">twitter</a></li>
+<li>Eric Saxby <a href="http://github.com/sax">github</a>, <a href="http://twitter.com/ecdysone">twitter</a></li>
+<li>Bryan Horstmann-Allen <a href="https://github.com/bdha">github</a>, <a href="https://twitter.com/bdha">twitter</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="http://twitter.com/solarce">twitter</a>, irc: solarce</li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions
+
+<ul>
+<li>Nathen Harvey</li>
+<li>Brandon Burton</li>
+<li>Ben Rockwood</li>
+<li>Blake Irvin</li>
+<li>Eric Saxby</li>
+</ul>
+</li>
+<li>History of SmartOS
+
+<ul>
+<li><a href="http://www.oracle.com/technetwork/server-storage/solaris11/overview/index.html">Open Solaris</a></li>
+<li><a href="http://wiki.illumos.org/display/illumos/illumos+Home">illumos</a></li>
+<li><a href="http://smartos.org/">SmartOS</a></li>
+<li><a href="http://omnios.omniti.com/">OmniOS</a></li>
+<li><a href="http://openindiana.org/">Open Indiana</a></li>
+<li><a href="http://www.nexentastor.org/">Nexenta</a></li>
+</ul>
+</li>
+<li>Joyent&#8217;s path to using Solaris and making SmartOS</li>
+<li>More Introductions
+
+<ul>
+<li>Bryan Horstmann-Allen</li>
+<li>John Vincent (aka lusis)</li>
+</ul>
+</li>
+<li>Mention of Bryan Cantrill&#8217;s &#8220;Fork Yeah!&#8221; talk</li>
+<li><p>Why use Illumos?</p>
+
+<ul>
+<li>Operability
+
+<ul>
+<li>Visibility</li>
+<li>Commands are easy to script</li>
+<li>This is operable software!</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/DTrace">DTrace</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Service_Management_Facility">SMF</a></li>
+<li><a href="http://en.wikipedia.org/wiki/ZFS">ZFS</a></li>
+<li><a href="http://zpool.org/">ZPool</a></li>
+<li>ZFS Snapshots</li>
+<li><a href="http://en.wikipedia.org/wiki/Adaptive_replacement_cache">Adaptive Replacement Cache</a></li>
+<li><p>kstat:</p>
+
+<p>  [root@headnode (latisys-va:0) ~]# kstat -l | wc -l</p>
+
+<pre><code>40210
+</code></pre></li>
+</ul>
+</li>
+<li><p><a href="https://developer.apple.com/library/mac/#documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/Introduction/Introduction.html">Instruments</a> - A GarageBand interface to DTrace on the Mac.</p></li>
+<li><a href="http://www.pkgsrc.org/">pkgsrc</a>
+
+<ul>
+<li><a href="http://www.perkin.org.uk/posts/7000-packages-for-osx-lion.html">7,000 binary packages for OSX Lion</a></li>
+<li><a href="http://pkgin.net/">pkgin</a></li>
+</ul>
+</li>
+<li><a href="http://www.beginningwithi.com/2009/12/09/crossbow-for-opensolaris-developers/">crossbow</a></li>
+<li>kvm on SmartOS</li>
+<li><a href="http://joyent.com/blog/jonathan-perkins-on-why-smartos-is-not-gnu-linux">SNGL</a> - SNGL makes SmartOS Look Just Like Linux</li>
+<li>An anecdote about swap and SmartOS</li>
+<li>Picks</li>
+</ul>
+
+
+<h2>Other Resources</h2>
+
+<ul>
+<li>Bryan Cantrill&#8217;s LISA Presnetation - Fork Yeah!  The Rise &amp; Development of Illumos
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=-zRN7XLCRhc">video</a></li>
+<li><a href="http://www.slideshare.net/bcantrill/fork-yeah-the-rise-and-development-of-illumos">slides</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/modcloth-cookbooks/smf">smf cookbook</a></li>
+<li><a href="http://getgreenbytes.com/solutions/zevo/">zfs on Mac OSX</a></li>
+<li><a href="http://youtu.be/dxZExLeJz2I">SmartOS:  An SA Primer</a></li>
+<li><a href="http://en.wikipedia.org/wiki/OpenSolaris_Network_Virtualization_and_Resource_Control">OpenSolaris Network Virtualization and Resource Control</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Btrfs">btrfs</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://youtu.be/dxZExLeJz2I">Ben&#8217;s Meetup Introduction to Illumos</a></li>
+<li><a href="http://cuddletech.com/blog/">cuddletech blog</a></li>
+</ul>
+
+
+<h4>Eric</h4>
+
+<ul>
+<li><code>prstat -Lm</code> - microstate accounting of all processes and threads</li>
+<li><code>prctl</code> / <code>prstat -J</code></li>
+<li><a href="http://joyent.com/blog/smartos-proc-tools">SmartOS /proc Tools</a></li>
+<li><a href="http://www.stgeorgespirits.com/spirit/terroir-gin/">Terroir Gin</a></li>
+</ul>
+
+
+<h4>Blake</h4>
+
+<ul>
+<li><code>prstat</code></li>
+<li>IP Failover - crossbow tools are awesome! <code>dladm</code></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li>Brendan Gregg on the USE Method: Thinking Methodically About Performance
+
+<ul>
+<li><a href="http://goo.gl/qouBS">Video on Joyent&#8217;s Blog</a></li>
+<li><a href="http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html">Food Fight Show Episode 39:  USE - Thinking Methodically About Performance</a></li>
+</ul>
+</li>
+<li><a href="http://joyent.com/products/smartdatacenter">Joyent SmartDataCenter</a></li>
+<li><a href="http://project-fifo.net/display/PF/Project+FiFo+Home">Project FiFo</a></li>
+</ul>
+
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="https://twitter.com/lusis">lusis</a></li>
+<li><a href="https://github.com/someara/vagrant-joyent">Vagrant provider for the Joyent Cloud and SmartDatacenter</a></li>
+<li><a href="http://www.sumologic.com/">sumologic</a> - logging as a service</li>
+<li><a href="https://www.duosecurity.com/">Duo:Security</a> - Two-factor authentication made &#8220;non-sucky&#8221;</li>
+<li><a href="http://hereticbrewing.com/">Anything from Heretic Brewery</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://chefconf.opscode.com">#ChefConf 2013</a> and the Hack Day at Joyent&#8217;s offices immediately following #ChefConf.</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=DJfppm1SyeI">Video Stream</a></li>
+</ul>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Bryan Berry - Nathen Harvey - Matt Ray</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-08T12:40:00-04:00" pubdate data-updated="true">Apr 8<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/bdha/'>bdha</a>, <a class='category' href='/blog/categories/benr/'>benr</a>, <a class='category' href='/blog/categories/blakeirvin/'>blakeirvin</a>, <a class='category' href='/blog/categories/blakeirvin/'>blakeirvin</a>, <a class='category' href='/blog/categories/ecdysone/'>ecdysone</a>, <a class='category' href='/blog/categories/illumos/'>illumos</a>, <a class='category' href='/blog/categories/omnios/'>omnios</a>, <a class='category' href='/blog/categories/smartos/'>smartos</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://foodfightshow.org//2013/04/a-smarter-os.html" data-via="foodfightshow" data-counturl="http://foodfightshow.org//2013/04/a-smarter-os.html" >Tweet</a>
+  
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2013/03/the-phoenix-project.html" title="Previous Post: The Phoenix Project">&laquo; The Phoenix Project</a>
+      
+      
+        <a class="basic-alignment right" href="/2013/04/docker-the-linux-container-runtime.html" title="Next Post: Docker: the Linux container runtime">Docker: the Linux container runtime &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+
+    <!-- NOTE: Adding the custom links to the asides/recent_posts.html for now as Octopress doesn't seem to pick up my default custom/asides/home.html template set in _config.yml -->
+    <a href="http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#"><img src="/images/itunes.png" alt="Subscribe with iTunes" /></a>
+    <a href="/atom.xml"><img src="/images/feed_rss.png" alt="Subscribe with RSS" /></a>
+    <a href="https://twitter.com/#!/foodfightshow"><img src="/images/feed_twitter.png" alt="Subscribe with iTunes" /></a>
+
+    <h1>Upcoming Events</h1>
+    <ul>
+      <li><a href="http://getchef.com/summit-london">Chef Community Summit London</a></li>
+      <li><a href="http://devopsdays.org/events/2014-chicago/">DevOpsDays Chicago</a></li>
+    </ul>
+
+    <h1>Links</h1>
+
+    <ul>
+      <li><a href="http://github.com/foodfight">FoodFightShow on Github</a></li>
+      <li><a href="http://devopsweekly.com/">DevOps Weekly Newsletter</a></li>
+      <li><a href="http://devopscafe.org/">DevOps Cafe</a></li>
+      <li><a href="http://theshipshow.com/">The Ship Show</a></li>
+      <li><a href="http://www.opsallthethings.com/">Ops All The Things</a></li>
+      <li><a href="http://www.arresteddevops.com/">Arrested DevOps</a></li>
+      <li><a href="http://jedi.be/">Patrick DeBois, the Godfather of DevOps</a></li>
+    </ul>
+
+
+    <a href="http://wiki.opscode.com/" title="Chef Wiki at Opscode."><img src="/images/Chef_Vertical_Reg_Without.png" /></a>
+
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2018/11/civic-hacking.html">Civic Hacking</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/08/product-marketing.html">Product Marketing Management</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/07/sensu.html">sensu</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/07/chefconf-2018.html">Live from ChefConf 2018 with Arrested DevOps</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2018/04/stella-report.html">The STELLA report</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/foodfight">@foodfight</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'foodfight',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("foodfightshow", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/foodfightshow" class="twitter-follow-button" data-show-count="false">Follow @foodfightshow</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2018 - Bryan Berry - Nathen Harvey - Matt Ray -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'foodfightshow';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://foodfightshow.org//2013/04/a-smarter-os.html';
+        var disqus_url = 'http://foodfightshow.org//2013/04/a-smarter-os.html';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

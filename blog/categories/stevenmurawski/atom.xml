@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: stevenmurawski | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/stevenmurawski/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Audit Mode &amp; Compliance]]></title>
+    <link href="http://foodfightshow.org//2015/07/audit-mode-and-compliance.html"/>
+    <updated>2015-07-14T11:16:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/07/audit-mode-and-compliance</id>
+    <content type="html"><![CDATA[<p>Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/zcguEmLJ5y8" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/zcguEmLJ5y8">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Elliott Davis <a href="https://github.com/elliott-davis">github</a>, <a href="https://twitter.com/libsysguy">twitter</a></li>
+<li>Joshua Schipper <a href="https://twitter.com/provenvelocity">twitter</a></li>
+<li>Joshua Timberman <a href="http://github.com/jtimberman">github</a>, <a href="https://twitter.com/jtimberman">twitter</a>, <a href="http://jtimberman.housepub.org/">blog</a></li>
+<li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a></li>
+<li>Kyleen MacGugan <a href="https://github.com/kmacgugan">github</a>, <a href="https://twitter.com/MacGoogly">twitter</a></li>
+<li>Steven Murawski <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What is compliance?</li>
+<li>Why is infrastructure as code not enough?</li>
+<li>Frameworks (PCI, SOX, HIPAA, etc.) and Regulations
+
+<ul>
+<li>Scope</li>
+<li>Sequence</li>
+<li>State Rules</li>
+<li>Audit Trail (Supervision)</li>
+</ul>
+</li>
+<li>Crazy Policy Stories</li>
+<li>Chef Audit Mode
+
+<ul>
+<li><a href="https://www.chef.io/blog/2015/04/09/chef-audit-mode-cis-benchmarks/">Chef Audit Mode: CIS Benchmarks</a></li>
+<li>SELinux Settings
+
+<ul>
+<li>Disabled</li>
+<li>Enabled</li>
+<li>Audit-Only</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://serverspec.org/">Serverspec</a>
+
+<ul>
+<li>Testing with Windows</li>
+<li>Why didn't audit just use Serverspec?
+
+<ul>
+<li><a href="https://github.com/pester/Pester">Pester</a></li>
+<li><a href="https://rubygems.org/gems/minitest-chef-handler/versions/1.0.3">minitest-chef-handler</a></li>
+<li><a href="https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/">Overview of Test Driven Infrastructure with Chef</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Bringing Audit Mode into <a href="https://github.com/test-kitchen/test-kitchen">test-kitchen</a>
+
+<ul>
+<li><a href="https://www.chef.io/blog/2015/05/06/chef-audit-mode-introduction/">Chef Audit Mode Introduction</a></li>
+</ul>
+</li>
+<li><a href="https://docs.chef.io/analytics.html">Chef Analytics</a>
+
+<ul>
+<li>Control Groups</li>
+<li>Actions</li>
+<li>Run Resources</li>
+<li>Run Converge</li>
+</ul>
+</li>
+<li><a href="https://github.com/chef-cookbooks/audit-cis">Audit-CIS cookbook</a>
+
+<ul>
+<li><a href="https://supermarket.chef.io/cookbooks/audit-cis">supermarket</a></li>
+<li><a href="https://www.chef.io/blog/2015/05/11/towards-compliance-as-code-a-real-world-example/">Towards Compliance as Code: A Real-World Example</a></li>
+</ul>
+</li>
+<li>What's next for Audit Mode?</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Joshua Timberman</h4>
+
+<ul>
+<li><a href="http://pcpartpicker.com/">PC Part Picker</a></li>
+<li><a href="https://github.com/test-kitchen/kitchen-hyperv">Hyper-V and kitchen-hyperv</a></li>
+<li><a href="http://us.battle.net/heroes/en/">Heroes of the Storm</a></li>
+</ul>
+
+
+<h4>Kyleen</h4>
+
+<ul>
+<li><a href="http://www.goodreads.com/book/show/6493321-logicomix">Logicomix: An Epic Search For Truth</a></li>
+</ul>
+
+
+<h4>Julian</h4>
+
+<ul>
+<li><a href="https://liquidspace.com/">Liquidspace</a></li>
+<li><a href="http://www.amtrak.com/">Amtrak</a></li>
+<li><a href="http://www.dogfish.com/brews-spirits/the-brews/year-round-brews/90-minute-ipa.htm">Dogfish Head 90 Minute IPA</a></li>
+</ul>
+
+
+<h4>Joshua Schipper</h4>
+
+<ul>
+<li><a href="https://twitter.com/provenvelocity">@provenvelocity</a></li>
+</ul>
+
+
+<h4>Elliott</h4>
+
+<ul>
+<li><a href="https://github.com/chef-cookbooks/resource">Resource Cookbook</a></li>
+<li><a href="https://github.com/chef/chef-rfc/issues?utf8=%E2%9C%93&amp;q=label%3A%22Resource+2.0%22+">RFCs for Resources</a></li>
+</ul>
+
+
+<h4>Steven</h4>
+
+<ul>
+<li><a href="http://blogs.msdn.com/b/powershell/archive/2015/07/07/powershell-gallery-registration-is-now-unrestricted.aspx">Registration is Now Open to Publish on PowerShell Gallery</a></li>
+<li><a href="https://www.powershellgallery.com/">PowerShell Gallery</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://devopsdaysdc.org">DevOpsDaysDC</a></li>
+<li><a href="http://zoom.us/">Zoom</a> video conferencing</li>
+<li><a href="http://summit.chef.io">Chef Community Summit</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/zcguEmLJ5y8">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Windows Automation for Frustrated Sysadmins]]></title>
+    <link href="http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards.html"/>
+    <updated>2014-10-07T06:36:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/10/windows-automation-for-angry-neckbeards</id>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/d3MCJMkbiyo" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/d3MCJMkbiyo">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS80.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Steven Murawski - <a href="https://github.com/smurawski">github</a>, <a href="https://twitter.com/stevenmurawski">twitter</a>, <a href="http://stevenmurawski.com/">blog</a></li>
+<li>Matt Stratton - <a href="https://github.com/mattstratton">github</a>, <a href="https://twitter.com/mattstratton">twitter</a></li>
+<li>Stephen Nelson-Smith - <a href="http://twitter.com/lordcope">twitter</a>, irc: cope, <a href="http://agilesysadmin.net">blog</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Bryan Berry - <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-summit-2014/wiki">Chef Community Summit Wiki</a></li>
+</ul>
+
+
+<h4>Upcoming Events</h4>
+
+<p>Chef Week London - <a href="https://www.getchef.com/blog/event/chef-intermeditate-topics-london/">Intermediate Training with Mandi Walls</a>, <a href="http://getchef.com/summit-london">Chef Community Summit London</a>, and a <a href="https://www.getchef.com/blog/event/hack-day-london-uk/">Chef Hack Day</a>.  October 13-17, 2014.  Use code CHEFWEEK to save!</p>
+
+<ul>
+<li><a href="https://www.getchef.com/blog/event/chef-users-london-meetup/">Chef Users London Meetup</a> - October 9</li>
+<li><a href="http://getchef.com/summit-london">Chef Community Summit London</a> - October 15 &amp; 16  - FOODFIGHT saves 10%, CHEFWEEK saves more ;)</li>
+<li><a href="https://www.getchef.com/blog/event/erlangcamp-austin-tx/">Erlang Camp</a> - October 10 &amp; 11 in Austin, Texas</li>
+<li><a href="https://www.getchef.com/blog/event/siliconvalley-codecamp/">Silicon Valley Code Camp</a> - October 11 in Los Altos Hills, California</li>
+<li><a href="https://www.getchef.com/blog/event/houston-texas-devops-chef-jj-asghar-presenting-infrastructur%C2%ADe-as-code/">Houston Texas DevOps</a> – October 14 - JJ Asghar will be presenting "Infrastructur­e as Code"</li>
+<li><a href="https://www.getchef.com/blog/event/docker-santa-clara-meetup-managing-docker-containers/">Docker Santa Clara Meetup</a> - October 15 - Tom Duffield will be presenting "Managing Docker Containers"</li>
+<li><a href="https://www.getchef.com/blog/event/clouddevelop/">CloudDevelop</a> - October 17 in Columbus, Ohio - Julian Dunn will be presenting "Automating That Other OS: Cooking With Chef on Windows"</li>
+<li><a href="https://www.getchef.com/blog/event/hack-day-london-uk/">London Hack Day</a> - October 17</li>
+<li><a href="https://www.getchef.com/blog/event/all-things-open/">All Things Open</a> - October 22-23 in Raleigh, North Carolina - Nathen Harvey will present "Introduction to Infrastructure as Code &amp; Automation / Introduction to Chef"</li>
+<li><a href="https://www.getchef.com/blog/event/rakuten-technology-conference/">Rakuten Technology Conference</a> - October 25 in Japan - Michael Ducy will be talking about Changing the Behavior of IT.</li>
+<li><a href="https://www.getchef.com/blog/event/a-gentle-introduction-to-chef-at-t-dose/">T-DOSE</a> - October 25 &amp; 26 in The Netherlands</li>
+<li><a href="https://www.getchef.com/blog/event/ic3-san-francisco-ca/">IC3</a> - October 27-28 in San Francisco - George Miranda and a few other Chefs will be around.  George will be presenting "Successful Patterns of DevOps – Your To-Do List"</li>
+<li><a href="https://www.getchef.com/blog/event/introduction-to-chef-at-qcon-san-fancisco/">QCon San Francisco</a> - November 3-7 in San Francisco - Franklin Webber will be leading an Intro to Chef tutorial on the 7th.</li>
+<li><p><a href="https://www.getchef.com/blog/event/lisa14/">LISA</a> - LISA returns to Seattle (November 9-14) this year.  Be sure to swing by and check out talks and tutorials from Jennifer Davis, Steven Murawski, Mandi Walls, Nathen Harvey, and more!</p></li>
+<li><p>DevOpsDays</p>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2014-berlin/">Berlin</a> - October 23 &amp; 24</li>
+<li><a href="http://devopsdays.org/events/2014-belgium/">Belgium</a> - October 27 &amp; 28 - <strong>Five year anniversary</strong></li>
+<li><a href="http://devopsdays.org/events/2014-vancouver/">Vancouver</a> - November 14 &amp; 15</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Upcoming Chef Training</h4>
+
+<p>Use discount code FOODFIGHT to save 10% off upcoming Chef training that's being held in</p>
+
+<ul>
+<li><a href="https://www.getchef.com/blog/event/chef-intermeditate-topics-london/">London</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-bangalore-india-3/">Bangalore</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-dallas-3/">Dallas</a></li>
+<li><a href="https://www.getchef.com/blog/event/2-day-chef-fundamentals-atlanta-4/">Atlanta</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/events/category/training-events/">Washington, DC</a></li>
+</ul>
+
+
+<p>There are also a number of classes being offered <a href="http://www.getchef.com/blog/events/category/training-events/">online</a>.</p>
+
+<h3>Show Notes</h3>
+
+<ul>
+<li>API-driven, not document- or configuration file-driven</li>
+<li>Use Powershell to drive the API</li>
+<li>Common Engineering Criteria
+
+<ul>
+<li>All management functionality must be exposed to Powershell</li>
+</ul>
+</li>
+<li>Server 2012 has 2400+ Powershell commands covering Windows administration and functionality</li>
+<li>Powershell
+
+<ul>
+<li>Command line</li>
+<li>Remote shell</li>
+<li><a href="http://technet.microsoft.com/en-us/library/dd819514.aspx">Powershell ISE</a> - Integrated Scripting Editor
+
+<ul>
+<li><a href="http://www.powertheshell.com/isesteroids/">ISESteriods</a></li>
+</ul>
+</li>
+<li>Embedded</li>
+</ul>
+</li>
+<li>Command line parsing, pipeline semantics, debugging, etc.</li>
+<li>Powershell equalivent of <code>apt-get</code>
+
+<ul>
+<li>chocolatey - <code>choco install emacs</code> ... <code>choco install vim</code>
+
+<ul>
+<li>uses NuGet packages</li>
+</ul>
+</li>
+<li><a href="https://github.com/OneGet/oneget">OneGet</a> is Microsoft's unified interface to package management systems - available in Poweshell 5</li>
+<li><a href="http://psget.net/">PsGet</a></li>
+</ul>
+</li>
+<li>PSReadline</li>
+<li><a href="https://github.com/pester/Pester">Pester</a> - Powershell BDD style testing framework
+
+<ul>
+<li><a href="https://github.com/jdmundrawala/busser-pester">busser-pester</a></li>
+</ul>
+</li>
+<li>Text Editors
+
+<ul>
+<li>NOT notepad</li>
+<li>Powershell ISE - if nothing else is there</li>
+<li>Sublime Text</li>
+<li><a href="http://atom.io">Atom</a></li>
+<li>emacs, of course</li>
+</ul>
+</li>
+<li>Basic resources that Chef users should know about
+
+<ul>
+<li>Package-Service-Template paradigm doesn't really work for Windows</li>
+<li>Powershell and DSC</li>
+<li>PowerShellDSC converts the document-oriented calls of Chef to API-oriented calls of Windows</li>
+<li>test target resource, set target resource, get target resource</li>
+<li>Identifying which registry keys have changed is painful</li>
+<li>Inspect MSIs with <a href="http://msdn.microsoft.com/en-us/library/aa370557(v=vs.85">Orca</a>.aspx)</li>
+<li><a href="https://github.com/opscode-cookbooks/windows">Windows Cookbook</a></li>
+</ul>
+</li>
+<li>Debugging Powershell is painful
+
+<ul>
+<li>Windows Management Framework 5 - might go back as far as 2008 R2.</li>
+<li>Powershell 5 has many updates and enhancements for debugging</li>
+</ul>
+</li>
+<li><a href="https://gist.github.com/mattstratton/5908c470a2fe125b79ce">Test Kitchen at ChefSummit</a></li>
+<li>Escaping from Powershell and using command.exe escaping - <code>knife winrm --% ....</code></li>
+<li>Adam Edwards, <a href="http://www.youtube.com/watch?v=BNV2jZUjKlc">PowerChef - Enhanced PowerShell Integration for Chef Recipes</a> from #ChefConf 2014</li>
+<li><a href="http://www.royaltsx.com/main/home/osx.aspx">royalTSX</a></li>
+<li><a href="http://msdn.microsoft.com/en-us/library/dd163506.aspx">WinRS</a></li>
+<li><a href="https://github.com/WinRb/WinRM">WinRM</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h5>Stephen</h5>
+
+<ul>
+<li><a href="http://www.amazon.com/Inner-Game-Tennis-Classic-Performance-ebook/dp/B003T0G9E4/ref=sr_1_1?ie=UTF8&amp;qid=1413238495&amp;sr=8-1&amp;keywords=The+Inner+Game+of+Tennis">The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance by W. Timothy Gallwey</a></li>
+<li><a href="http://terebess.hu/zen/UnfetteredMind.pdf">The Unfettered Mind: Writings of the Zen Master to the Sword Master by Takuan Soho</a></li>
+<li><a href="http://www.shinken-monitoring.org/">Shinken</a></li>
+</ul>
+
+
+<h5>Matt</h5>
+
+<ul>
+<li><a href="http://www.imdb.com/title/tt3398228/">BoJack Horseman</a></li>
+<li><a href="http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx">Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows</a></li>
+</ul>
+
+
+<h5>Steven</h5>
+
+<ul>
+<li><a href="http://www.corneredcat.com/">Cornered Cat</a></li>
+<li><a href="http://blogs.msdn.com/b/powershell/archive/2014/09/04/windows-management-framework-5-0-preview-september-2014-is-now-available.aspx">Windows Management Framework 5.0</a></li>
+</ul>
+
+
+<h5>Nathen</h5>
+
+<ul>
+<li><a href="http://shop.oreilly.com/product/0636920032984.do">Customizing Chef by Jon Cowie</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Open_Space_Technology">Open Spaces</a></li>
+</ul>
+
+
+<h5>Bryan</h5>
+
+<ul>
+<li><a href="http://chinahistorypodcast.com/">China History Podcast</a></li>
+<li><a href="http://popupchinese.com/lessons/sinica">Sinica Podcast</a></li>
+<li><a href="http://www.dependencywalker.com/">Dependency Walker</a></li>
+<li><a href="https://saucelabs.com/">Sauce Labs</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/d3MCJMkbiyo">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS80.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

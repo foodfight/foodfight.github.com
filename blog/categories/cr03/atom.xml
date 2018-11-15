@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cr03 | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/cr03/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Configuration Management Camp 2016]]></title>
+    <link href="http://foodfightshow.org//2016/02/configuration-management-camp-2016.html"/>
+    <updated>2016-02-08T12:19:00-05:00</updated>
+    <id>http://foodfightshow.org//2016/02/configuration-management-camp-2016</id>
+    <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2016</a> recorded live at the end of the conference.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShowCfgMgmtCamp2016.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>James Shubin - <a href="https://twitter.com/purpleidea">twitter</a></li>
+<li>Kris Buytaert - <a href="https://twitter.com/krisbuytaert">twitter</a></li>
+<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
+<li>Donnie Berkholz <a href="https://twitter.com/dberkholz">twitter</a></li>
+<li>Ian Penney <a href="https://twitter.com/cr03">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>The History of Configuration Management Camp</li>
+<li>Configuration Management Camp Experiences
+
+<ul>
+<li><a href="https://fosdem.org/2016/">FOSDEM</a></li>
+</ul>
+</li>
+<li>Tracks &amp; Ignite Talks</li>
+<li><a href="https://github.com/purpleidea/mgmt">MGMT Project</a></li>
+<li>Config Management Camp '15 vs Config Management Camp '16</li>
+<li><a href="https://en.wikipedia.org/wiki/IBM_AIX">AIX</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShowCfgMgmtCamp2016.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

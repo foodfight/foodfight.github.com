@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: achompas | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/achompas/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Surge Conf 2012]]></title>
+    <link href="http://foodfightshow.org//2012/09/surge-conf-2012.html"/>
+    <updated>2012-09-29T12:21:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/09/surge-conf-2012</id>
+    <content type="html"><![CDATA[<p>Nathen spent part of this week at <a href="http://omniti.com/surge/2012">Surge Conference</a> and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with <a href="http://twitter.com/novustiro">Michael Bevilacqua-Linn</a> earlier in the week to discuss his presentation.</p>
+
+<p>Here's a list of links to all of the Surge-related episodes:</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3">Episode 28:  Big Data in the Small: Why N Tier Architectures Are an Antipattern</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3">Update from Surge with Ryan Kennedy from Yammer</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3">Update from Surge with Andrew Miklas From PagerDuty</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Update from Surge with Alejandro Companioni and Dave Zwieback from Knewton</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus-cleaned.mp3">Update from Surge with Mike Nolet from AppNexus</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3">Update from Surge with Matt Grahamn from Etsy</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Kate-Mats.mp3">Episode 29:  Interview with Kate Matsudaira</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3">Wrap-up Surge with Theo Schlossnagle</a></li>
+</ul>
+
+
+<p>Email <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> if you presented at Surge and would like to share your experience on the Food Fight Show.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Surge Update - Knewton]]></title>
+    <link href="http://foodfightshow.org//2012/09/surge-update-knewton.html"/>
+    <updated>2012-09-28T11:51:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/09/surge-update-knewton</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Download the episode</a></p>
+
+<p>In this DevOps Delicacy, Nathen sat down with <a href="https://twitter.com/achompas">Alejandro Companioni</a> and <a href="https://twitter.com/davezwieback">Dave Zwieback</a> from <a href="http://www.knewton.com/">Knewton</a>.</p>
+
+<p>They discussed Alejandro's Surge presentation and Dave's lightning talk.</p>
+
+<!-- more -->
+
+
+<h3><a href="http://omniti.com/surge/2012/sessions/autoscaling-with-leptoid-using-time-series-analysis-and-application-metrics-to-scale-the-knewton-platform">Autoscaling With Leptoid: Using Time Series Analysis and Application Metrics To Scale the Knewton Platform</a></h3>
+
+<p>Auto-scaling is the holy grail of cloud computing. While the mechanics of auto-scaling are fairly straightforward, it can be difficult to find a reliable signal for determining the exact amount of computing resources required at any given moment. Could we analyze the strong periodic and seasonal behavior (like students finishing homework at night or cramming before finals) of the hundreds of thousands of students who study on the Knewton platform and surface a strong signal? Did we identify a correlation between system metrics (e.g., CPU or memory utilization) and application performance? Did continuous deployment practices at Knewton continuously change the performance characteristics of applications? In this presentation, I'll discuss our experience analyzing these different metrics, and identifying potential features for a statistical model that can predict load changes, allowing Knewton to automatically scale our cloud-based infrastructure.</p>
+
+<p>Surge - Interview with Alejandro Companioni and Dave Zwieback -  <a href="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+</feed>

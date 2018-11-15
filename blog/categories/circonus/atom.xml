@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: circonus | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/circonus/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Interview with Theo Schlossnagle]]></title>
+    <link href="http://foodfightshow.org//2012/07/interview-with-theo-schlossnagle.html"/>
+    <updated>2012-07-27T15:27:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/07/interview-with-theo-schlossnagle</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, 26 July 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#offer">Special Offers</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Theo Schlossnagle <a href="https://github.com/postwait">github</a>, <a href="http://twitter.com/postwait">twitter</a>, blog: <a href="http://lethargy.org/~jesus/">Esoteric Curio</a></li>
+<li>MattRay <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Special Offers<a name="offer"></a></h2>
+
+<h3>Surge</h3>
+
+<p>Theo mentions a discount code for Surge in this episode.  Use it to save $100 on your <a href="http://surge2012.eventbrite.com/event/2699655743">Surge registration</a>.  You'll hear the discount code about 38 minutes into the episode.</p>
+
+<h3>Opscode Training</h3>
+
+<p>Do you know someone who needs help getting started with Chef?  Opscode is offering the <a href="http://www.eventbrite.com/event/3727049706">Chef Introductory Workshop in Seattle on August 6th</a> and we've got a free pass for one lucky listener!  Leave a comment on this episode's page or send an email to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> letting us know that you're interested in attending the class.  We'll randomly select and announce a winner before the class.  Also, be sure to use the promo code "<strong>FOODFIGHT</strong>" (in all caps) to save 10% on your registration for this and <a href="http://www.eventbrite.com/org/429733222?s=5384212">other Opscode Workshops</a>.</p>
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><p><a href="http://www.opscode.com/blog/2012/07/20/on-the-level-testing-your-infrastructure/">On the level: Testing your infrastructure</a></p></li>
+<li><p><a href="http://www.miketheman.net/2012/07/20/a-picture-is-worth-a-few-thousand-bytes/">knife-role-spaghetti</a></p></li>
+<li><p><a href="https://github.com/sensu/sensu-slides">Sensu presentation</a> given by Decklin Foster at a recent Chef-Boston meetup.</p></li>
+<li><p><a href="http://wix.io/2012/07/22/chef-on-solaris/">Chef Happens - Managing Chef on Solaris</a> by Martha Greenberg</p></li>
+<li><p><a href="http://blog.pkhamre.com/2012/07/24/understanding-statsd-and-graphite/">Understanding Statsd and Graphite</a> by Pal Kristian Hamre</p></li>
+<li><p><a href="https://github.com/bryanwb/monitoring-preso">Monitoring: A New Hope</a> a presentation from BryanWB that covers how the UN Food and Agriculture Organization is using logstash+collectd+jmxtrans+graphite to monitor Java applications.</p></li>
+<li><p><a href="http://www.h-online.com/open/features/What-s-new-in-Linux-3-5-1637461.html">What's New in Linux 3.5</a></p></li>
+<li><p><a href="http://www.youtube.com/watch?v=IqsomXrHMB4">Vladimir Vuksan on Back-end Monitoring</a> and in <a href="http://vuksan.com/velocity-online-backend-metrics.mp3">mp3 form</a></p></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><p><a href="http://community.opscode.com/cookbooks/cgroups">cgroups</a> v0.0.1 - <a href="http://community.opscode.com/users/lucky-sideburn">lucky-sideburn</a>
+Installs and configures Cgroups utility in Red Hat Enterprise Linux Server release 6.2</p></li>
+<li><p><a href="https://github.com/bryanwb/chef-jmxtrans">JMXTrans</a> v0.0.2 - <a href="http://github.com/bryanwb">bryanwb</a>
+JMXTrans is an application for transporting JMX (monitoring) data from your Java applications to Graphite or Ganglia</p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/xquartz">xquartz</a> v0.0.1 - <a href="http://community.opscode.com/users/jtimberman">jtimberman</a>
+Installs XQuartz on Mac OS X 10.8 to provide an X11 server.  This is not required on earlier versions of OS X as they include X11.</p></li>
+<li><p><a href="http://community.opscode.com/cookbooks/backup">backup</a> v0.0.3 - <a href="http://community.opscode.com/users/fujin">fujin</a>
+Installs/Configures Backup, a RubyGem, written for Linux and Mac OSX, that allows you to easily perform backup operations on both your remote, as well as your local environment. It provides you with an elegant DSL in Ruby for modeling (configuring) your backups.</p></li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/sensu">sensu</a> v0.1.4 - <a href="http://community.opscode.com/users/portertech">portertech</a></li>
+<li><a href="http://community.opscode.com/cookbooks/mplayer">mplayer</a> v0.0.3 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.5 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/glassfish">glassfish</a> v0.5.0 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/user">user</a> v0.3.0 - <a href="http://community.opscode.com/users/fnichol">fnichol</a></li>
+<li><a href="http://community.opscode.com/cookbooks/simple_iptables">simple_iptables</a> v0.1.2 - <a href="http://community.opscode.com/users/dcrosta">dcrosta</a></li>
+<li><a href="http://community.opscode.com/cookbooks/httplivestreamsegmenter">httplivestreamsegmenter</a> v0.0.5 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/gpac">gpac</a> v0.0.2 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/graphite_handler">graphite_handler</a> v0.0.5 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zabbix">zabbix</a> v0.0.34 - <a href="http://community.opscode.com/users/laradji">laradji</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zncrypt">zncrypt</a> v0.1.4 - <a href="http://community.opscode.com/users/egarcia">egarcia</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zone">zone</a> v0.0.6 - <a href="http://community.opscode.com/users/marthag">marthag</a></li>
+<li><a href="http://community.opscode.com/cookbooks/hermes">hermes</a> v0.1.0 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
+<li><a href="http://community.opscode.com/cookbooks/jruby">jruby</a> v0.2.5 - <a href="http://community.opscode.com/users/jlbfalcao">jlbfalcao</a></li>
+<li><a href="http://community.opscode.com/cookbooks/isomounter">isomounter</a> v0.1.0 - <a href="http://community.opscode.com/users/cixelsyd">cixelsyd</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>OmniTI</li>
+<li>OmniOS</li>
+<li>Surge
+
+<ul>
+<li>Need a discount code?  Check the show at 38:04</li>
+</ul>
+</li>
+<li>Scalable Internet Architecture</li>
+<li>Careers in IT</li>
+<li>fq and Message Queuing</li>
+<li>Circonus</li>
+<li>OmniTI &amp; Chef</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Pavement_%28band%29">Pavement</a> - Summer Babe</li>
+<li><a href="http://obfuscurity.com/2012/04/Unhelpful-Graphite-Tip-1">Obfuscurity's Unhelpful Graphite Tips</a></li>
+</ul>
+
+
+<h4>Matt</h4>
+
+<ul>
+<li><a href="http://2012.texaslinuxfest.org/">Texas Linux Fest</a></li>
+<li><a href="http://aesoprock.com/">Aesop Rock</a> - Skelethon</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.garyclarkjr.com/">Gary Clarke Jr.</a></li>
+<li><a href="http://omniti.com/surge/2012">Surge</a></li>
+</ul>
+
+
+<h4>Theo</h4>
+
+<ul>
+<li><a href="http://www.evanescence.com/">Evanescence</a></li>
+<li><a href="http://circonus.com/">Circonus</a></li>
+<li><a href="http://www.starwoodhotels.com/preferredguest/">Starwood Preferred Guest</a></li>
+<li><a href="http://www.united.com/web/en-US/content/mileageplus/default.aspx">United Mileage Plus</a></li>
+<li><a href="http://cscs.umich.edu/~crshalizi/weblog/925.html">No, Really, Some of My Best Friends Are Data Scientists</a></li>
+<li>Time-ordered output in DTrace</li>
+</ul>
+
+
+<h2>CLOSE</h2>
+
+<p>Are you or your company interested in sponsoring the show?  You can now use the Flattr micropayment service on our website or contact us at <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> for more details.</p>
+
+<p>Follow <a href="http://twitter.com/foodfightshow">@foodfightshow</a> on twitter.</p>
+
+<p>Until next time, Keep It Hot!</p>
+
+<h2>Download</h2>
+
+<p>Episode 23 - Interview with Theo Schlossnagle:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow23-TheoSchlossnagle.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Monitoring for n00bs with Jason Dixon]]></title>
+    <link href="http://foodfightshow.org//2012/07/monitoring-for-n00bs-with-jason-dixon.html"/>
+    <updated>2012-07-18T08:03:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/07/monitoring-for-n00bs-with-jason-dixon</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 17 July 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#panel">Panel</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/ffs21_3.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jason Dixon  <a href="https://github.com/obfuscurity/">github</a>, <a href="http://twitter.com/obfuscurity">twitter</a>, irc: jdixon, <a href="http://obfuscurity.com/">blog</a></li>
+<li>Tim Dysinger <a href="https://github.com/dysinger/">github</a>, <a href="http://twitter.com/dysinger">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><p><a href="http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html">On Resilience in Automated Systems</a> by Mathias Meyer - would be a great topic for the show</p></li>
+<li><p>Fletcher Nichol tweeted a handy <a href="http://bit.ly/M4BbgH">vim replace string for FC001</a></p></li>
+<li><p><a href="http://swreflections.blogspot.com/2012/07/monitoring-sucks-but-monitoring-as.html?utm_source=twitterfeed&amp;utm_medium=twitter">Monitoring Sucks. But Monitoring as Testing Sucks a Lot More</a> - DevOpsDays follow-up post from Jim Bird</p></li>
+<li><p><a href="https://gist.github.com/3088552">logstash + you + me</a> a nice gist that is actually a letter to the logstash and larger devops community written by Jordan Sissel, one of the founders of the logstash project. One of the things that Jordan points out, that it would make financial sense for someone to pay him to work full-time on logstash rather than paying for splunk licenses. Hey Github! I think we have found your next Githubber.</p></li>
+<li><p>Have you seen what they're cookin' up over in <a href="https://github.com/tknerr/bills-kitchen">Bill's Kitchen</a>?  Wait...who's Bill?  Bill's Kitchen is a package from Torben Knerr.  It includes all you need for cooking with Chef and Vagrant on Windows, shrink-wrapped in a portable package.  A pre-configured Chef Repo with Vagrantfile, devkit enhanced Ruby 1.9.3, other supporting tools, and a tutorial and example cookbooks!</p></li>
+<li><p><a href="http://christian-trabold.de/librarian-chef-vs-berkshelf">librarian-chef vs
+berkshelf</a>
+nice comparison by Christian Trabold</p></li>
+<li><p><a href="http://berkshelf.com">new release of berkshelf</a> let's you source
+cookbooks from your own chef-server so you can treat it like an
+artifact server</p></li>
+<li><p><a href="http://www.elasticsearch.com/">elasticsearch company announced</a></p></li>
+<li><p><a href="https://www.dropbox.com/s/en0t795ogu96bge/Building%20Ruby%201.9%20RPMs.pdf">how to build your own ruby rpms</a> from Jon Scherff</p></li>
+<li><p><a href="https://groups.google.com/forum/?fromgroups#!topic/logstash-users/ojlDLYvyNsY">Logstash 1.1.1 released</a>, a billion new options thanks to Pete Fritchman, Jordan Sissel, Lusis and many others for their hard work on this release</p></li>
+<li><p><a href="http://blog.pkhamre.com/2012/07/05/visualizing-logdata-with-logstash-statsd-and-graphite/">Visualizing log data with Logstash, statsd, and Graphite</a> great blog post from Pal Christian Hamre</p></li>
+<li><p>Great discussion on the mailing list between Brian Bianco, Jay Feldblum, and Peter Donald. How to propagate notifications from an LWRP if resources w/in an LWRP have changes. Peter Donald wrote  new provider <a href="http://realityforge.org/code/2012/07/17/lwrp-notify-on-changed-resources.html">notifying_action</a> and blog post based on Yfeldblum's gist to deal w/ this issue.</p></li>
+</ul>
+
+
+<h2>Cookbook News<a name="cookbooks"></a></h2>
+
+<h3>New Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/testswarm">testswarm</a> v0.0.1 - <a href="http://community.opscode.com/users/hdorio">hdorio</a>
+Installs and configures TestSwarm a distributed continuous integration testing environment for JavaScript.</li>
+<li><a href="http://community.opscode.com/cookbooks/nano">nano</a> v1.0.0 - <a href="http://community.opscode.com/users/josephholsten">josephholsten</a>
+Installs nano</li>
+<li><a href="http://community.opscode.com/cookbooks/lesscss">lesscss</a> v0.0.1 - <a href="http://community.opscode.com/users/geoffreytran">geoffreytran</a>
+Installs the lesscss npm_package.  LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS runs on both the client-side (Chrome, Safari, Firefox) and server-side, with Node.js and Rhino.</li>
+<li><a href="http://community.opscode.com/cookbooks/stud">stud</a> v0.0.2 - <a href="http://community.opscode.com/users/freerobby">freerobby</a>
+Installs/Configures stud.  stud is a network proxy that terminates TLS/SSL connections and forwards the unencrypted traffic to some backend. It's designed to handle 10s of thousands of connections efficiently on multicore machines.</li>
+<li><a href="http://community.opscode.com/cookbooks/symantec">symantec</a> v0.0.1 - <a href="http://community.opscode.com/users/atomic-penguin">atomic-penguin</a>
+Installs Symantec Endpoint Protection from internal package repository.</li>
+</ul>
+
+
+<h3>Updated Cookbooks</h3>
+
+<ul>
+<li><a href="http://community.opscode.com/cookbooks/glassfish">glassfish</a> v0.4.47 - <a href="http://community.opscode.com/users/peter_donald">peter_donald</a></li>
+<li><a href="http://community.opscode.com/cookbooks/artifact">artifact</a> v0.10.1 - <a href="http://community.opscode.com/users/reset">reset</a></li>
+<li><a href="http://community.opscode.com/cookbooks/cpan">cpan</a> v0.0.14 - <a href="http://community.opscode.com/users/melezhik">melezhik</a></li>
+<li><a href="http://community.opscode.com/cookbooks/magic_shell">magic_shell</a> v0.1.3 - <a href="http://community.opscode.com/users/nathenharvey">nathenharvey</a></li>
+<li><a href="http://community.opscode.com/cookbooks/hosts-awareness">hosts-awareness</a> v0.0.4 - <a href="http://community.opscode.com/users/rlewis">rlewis</a></li>
+<li><a href="http://community.opscode.com/cookbooks/zncrypt">zncrypt</a> v0.1.3 - <a href="http://community.opscode.com/users/egarcia">egarcia</a></li>
+<li><a href="http://community.opscode.com/cookbooks/newrelic">newrelic</a> v0.3.3 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/hollandbackup">hollandbackup</a> v0.0.3 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/cloudpassage">cloudpassage</a> v0.0.3 - <a href="http://community.opscode.com/users/devesc">devesc</a></li>
+<li><a href="http://community.opscode.com/cookbooks/openoffice">openoffice</a> v0.2.2 - <a href="http://community.opscode.com/users/fnichol">fnichol</a></li>
+<li><a href="http://community.opscode.com/cookbooks/swftools">swftools</a> v0.2.4 - <a href="http://community.opscode.com/users/fnichol">fnichol</a></li>
+<li><a href="http://community.opscode.com/cookbooks/sensu">sensu</a> v0.1.3 - <a href="http://community.opscode.com/users/portertech">portertech</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What do we mean by "monitoring"?</li>
+<li>What tools are available and where should people start?</li>
+<li>Collecting metrics - logstash, collectd, statsd, logster</li>
+<li>Creating dashboards</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li>The Sharpe books by Bernard Cornwell</li>
+<li><a href="http://economist.com">The Economist</a></li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="http://collectd">collectd</a> > 1.4.15</li>
+<li><a href="https://groups.google.com/forum/?fromgroups#!topic/logstash-users/ojlDLYvyNsY">Logstash 1.1.1 released</a></li>
+<li>someon should hire <a href="https://gist.github.com/3088552">jordan sissel</a> to work on logstash full-time</li>
+</ul>
+
+
+<h4>Jason</h4>
+
+<ul>
+<li>John Rauser's Velocity keynotes
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=coNDCIMH8bk">Velocity 2011: Look at Your Data</a></li>
+<li><a href="http://www.youtube.com/watch?v=-3dw09N5_Aw">Velocity 2012: Investigating Anomalies</a></li>
+</ul>
+</li>
+<li><a href="http://aphyr.github.com/riemann/">Riemann</a>
+
+<ul>
+<li>Impressed by Kyle's work and his dedication to performance. Really smart dude.</li>
+<li>It solves a real problem with [high performance] Complex Event Processing in the event stream model.</li>
+</ul>
+</li>
+<li><a href="http://hostedgraphite.com/">Hosted Graphite</a> service.
+
+<ul>
+<li>Support statsd and cleartext submission.</li>
+<li>I haven't used it yet, but it looks promising.</li>
+<li>Same guys who wrote MetricFire.</li>
+</ul>
+</li>
+<li>No formal details yet, but I'm working on a new Monitoring conference / hackathon.
+
+<ul>
+<li>Probably Boston in October (~3rd week).</li>
+<li>Single track mornings.</li>
+<li>Dual track afternoons (workshops / hackathon).</li>
+<li>Low cost / high accessibility.</li>
+<li>Hope to announce details by next week.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<p>Monitoring for n00bs with Jason Dixon, Graphite Badass:  <a href="http://traffic.libsyn.com/foodfight/ffs21_3.mp3">Download here</a></p>
+
+<p>Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org</p>
+
+<p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
+]]></content>
+  </entry>
+  
+</feed>

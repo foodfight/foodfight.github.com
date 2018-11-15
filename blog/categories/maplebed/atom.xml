@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: maplebed | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/maplebed/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zookeeper, the Secret Sauce]]></title>
+    <link href="http://foodfightshow.org//2013/03/episode-46-zookeeper1.html"/>
+    <updated>2013-03-13T00:00:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/03/episode-46-zookeeper1</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, 12 March 2013</p>
+
+<p>In this episode, we sat down with
+<a href="https://github.com/diranged">Matt Wise</a>,
+<a href="http://github.com/maplebed">Ben Hartshorne</a>  and
+<a href="http://github.com/charity">Charity Majors</a> to talk about using
+<a href="http://zookeeper.apache.org">zookeeper</a> with Chef and Puppet.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/03/episode-46-zookeeper1.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/03/episode-46-zookeeper1.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/03/episode-46-zookeeper1.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=lnszk2BOMgQ">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/lnszk2BOMgQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Charity Majors <a href="http://github.com/charity">github</a>,
+<a href="http://twitter.com/mipsytipsy">twitter</a>, <a href="http://blog.parse.com">blog</a></li>
+<li>Ben Hartshorne <a href="http://github.com/maplebed">github</a>,
+<a href="http://twitter.com/maplebed">twitter</a>, <a href="http://blog.parse.com">blog</a></li>
+<li><a href="https://github.com/diranged">Matt Wise</a></li>
+</ul>
+
+
+<h2>Show Notes</h2>
+
+<ul>
+<li>Matt uses <a href="https://kazoo.readthedocs.org/">kazoo</a></li>
+<li>Matt developed <a href="https://github.com/Nextdoor/zkwatcher">zkwatcher</a></li>
+<li>Matt's post on creating a <a href="http://engblog.nextdoor.com/post/43517659364/nextdoor-service-registry">service registry w/ zookeeper</a></li>
+<li>Ben and Charity are using the zookeeper gem</li>
+<li>Ben's blog post on <a href="http://blog.parse.com/2013/03/11/implementing-failover-for-random-cronjobs-with-zookeeper/">distributed locks with zookeeper</a></li>
+</ul>
+
+
+<h2>Picks<A Name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=XgQo4JkN4Bw">CS 162</a></li>
+<li><a href="http://www.slideshare.net/mobile/pcalcado/from-a-monolithic-ruby-on-rails-app-to-the-jvm">Java is the new C</a></li>
+</ul>
+
+
+<h4>Matt Wise</h4>
+
+<ul>
+<li><a href="http://logstash.net">logstash</a></li>
+</ul>
+
+
+<h4>lusis</h4>
+
+<ul>
+<li>Lusis is looking for someone to take over his awesome project <a href="http://blog.lusis.org/blog/2013/01/20/future-of-noah/">Noah</a></li>
+<li>Lusis <a href="https://speakerdeck.com/lusis/cross-node-orchestration-with-chef-and-noah?slide=36">presentation on Noah</a></li>
+</ul>
+
+
+<h3>Ben Hartshorne</h3>
+
+<ul>
+<li><a href="http://zookeeper.apache.org/">ZooKeeper</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=lnszk2BOMgQ">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

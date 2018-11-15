@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: allspaw | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/allspaw/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The STELLA report]]></title>
+    <link href="http://foodfightshow.org//2018/04/stella-report.html"/>
+    <updated>2018-04-03T19:12:00-04:00</updated>
+    <id>http://foodfightshow.org//2018/04/stella-report</id>
+    <content type="html"><![CDATA[<p>Join a discussion with John Allspaw (<a href="https://twitter.com/allspaw">@allspaw</a>) about the <a href="http://stella.report/">STELLA Report from the SNAFUcatchers Workshop on Coping With Complexity</a>.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DyfZ7QlffI4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="/2018/04/stella-report.html#panel">Panel</a></li>
+<li><a href="/2018/04/stella-report.html#outline">Outline</a></li>
+<li><a href="/2018/04/stella-report.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/DyfZ7QlffI4">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS119.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Alan Kraft</li>
+<li>John Allspaw <a href="https://github.com/jallspaw">github</a>, <a href="https://twitter.com/allspaw">twitter</a>, <a href="https://medium.com/@allspaw/">blog</a>, <a href="https://www.snafucatchers.com/">SNAFUcatchers</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<hr />
+
+<h2>Upcoming Chef Events</h2>
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> - May 22-25, Chicago, IL</li>
+<li><a href="https://events.chef.io/">View all upcoming events</a></li>
+</ul>
+
+
+<h2>Show Notes</h2>
+
+<ul>
+<li>What is the STELLA Report?
+
+<ul>
+<li><a href="http://stella.report">STELLA Report from the SNAFUcatchers Workshop on Coping With Complexity</a></li>
+<li><a href="https://www.youtube.com/watch?v=7STcaWjJoww">David Woods Velocity NY 2014 Keynote: "The Mystery of Sustained Adaptability"</a></li>
+<li><a href="https://www.snafucatchers.com/">SNAFUcatchers</a>
+
+<ul>
+<li><a href="https://twitter.com/ri_cook">Richard I. Cook, M.D. (@ri_cook)</a></li>
+<li><a href="https://twitter.com/ddwoods2">David D. Woods, Ph.D. (@ddwoods2)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Writing the STELLA Report
+
+<ul>
+<li>Two important questions:
+
+<ul>
+<li>What makes this work hard?</li>
+<li>What makes people good at this work?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Dark Debt, Technical Debt, and Postmortems
+
+<ul>
+<li><a href="http://lup.lub.lu.se/luur/download?func=downloadFile&amp;recordOId=8084520&amp;fileOId=8084521">TRADE-OFFS UNDER PRESSURE: HEURISTICS AND OBSERVATIONS OF TEAMS RESOLVING INTERNET SERVICE OUTAGES</a></li>
+<li><a href="https://lup.lub.lu.se/student-papers/search/publication/5463899">Do Staff Rides Help Move The Forest Service Toward Its Goal Of Becoming A Learning Organization</a></li>
+</ul>
+</li>
+<li>Premortems?
+
+<ul>
+<li><a href="https://hbr.org/2007/09/performing-a-project-premortem">Performing a Project Premortem</a> by Gary Klein</li>
+<li><a href="https://www.youtube.com/watch?v=4jRqtciRQds">DevOpsDays Detroit 2017: Day 1 Keynote by Dr. Richard I. Cook</a></li>
+</ul>
+</li>
+<li><a href="https://experiencinginformation.com/2011/11/02/questionstorming-framing-the-problem/">Question Storming</a></li>
+<li>Game Days</li>
+<li>Support to Continue Research
+
+<ul>
+<li><a href="http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf">How Complex Systems Fail by Richard Cook</a></li>
+<li><a href="http://www.adaptivecapacitylabs.com/">Adaptive Capacity Labs</a></li>
+<li><a href="https://www.youtube.com/watch?v=MzTNMalfyhM">Nobel laureate Daniel Kahneman - Premortem to eliminate thinking biases.</a>
+
+<ul>
+<li>The full lecture:  <a href="https://www.youtube.com/watch?v=VJFxVdq-hYg">The Science of Decision with Daniel Kahneman</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Alan's recommended path to get up-to-speed on the STELLA Report:</h3>
+
+<ol>
+<li><p>The best introduction from a DevOps perspective to the concepts covered in the Stella Report is John Allspaw's talk on <a href="https://www.youtube.com/watch?v=xA5U85LSk0M">Resilience Engineering as DevOps</a> from the 2017 DevOps Enterprise Summit</p></li>
+<li><p>Second read the <a href="http://stella.report">Stella Report</a> from the Workshop on Coping With Complexity.</p></li>
+<li><p>Finally check out <a href="https://www.youtube.com/watch?v=4jRqtciRQds">DevOpsDays Detroit 2017: Day 1 Keynote</a> by Dr. Richard I. Cook.</p></li>
+</ol>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Alan</h4>
+
+<ul>
+<li><a href="https://www.wildfirelessons.net/home">Wildland Fire Lessons Learned Center</a>; including the <a href="https://ed.ted.com/on/PhJ2SX9U">Alabaugh Fire</a> staff ride video</li>
+<li>EUROCONTROL’s <a href="https://www.skybrary.aero/index.php/Main_Page">Skybrary</a>; including <a href="https://www.skybrary.aero/index.php/Toolkit:Systems_Thinking_for_Safety:_Ten_Principles">Systems Thinking for Safety: Ten Principles</a></li>
+<li>Curling</li>
+</ul>
+
+
+<h4>John</h4>
+
+<ul>
+<li><a href="https://www.researchgate.net/publication/220579480_Problem_detection">Problem Detection (Klein, Pliske, Crandall, Woods, 2005)</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Be a tourist!</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/DyfZ7QlffI4">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS119.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

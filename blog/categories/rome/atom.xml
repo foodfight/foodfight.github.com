@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rome | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/rome/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps Days Italy]]></title>
+    <link href="http://foodfightshow.org//2012/10/devopsdays-rome.html"/>
+    <updated>2012-10-05T17:47:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/10/devopsdays-rome</id>
+    <content type="html"><![CDATA[<p>Some updates from DevOps Days Italy</p>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">Jason Dixon gets Graphy on Graphite at Devops Days Italy</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/dod1.mp3">John Willis on why Deming Matters</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

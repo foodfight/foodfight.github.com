@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: adamleff | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/adamleff/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Chef Community]]></title>
+    <link href="http://foodfightshow.org//2017/09/chef-community.html"/>
+    <updated>2017-09-01T09:54:00-04:00</updated>
+    <id>http://foodfightshow.org//2017/09/chef-community</id>
+    <content type="html"><![CDATA[<p>Learn about getting involved, contributing to, and learning from your peers.  We will also discuss the upcoming <a href="https://www.chef.io/summits/">Chef Community Summits</a> and share a promotional code to save some money on the ticket!</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/RoeQ9iSCk0A" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2017/09/chef-community.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2017/09/chef-community.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2017/09/chef-community.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://youtu.be/RoeQ9iSCk0A">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS111.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nell Shamrell-Harrington - <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Adam Leff - <a href="https://github.com/adamleff">github</a>, <a href="https://twitter.com/adamleff">twitter</a></li>
+<li>Ian Henry - <a href="https://github.com/eeyun">github</a>, <a href="https://twitter.com/eeyun___">twitter</a></li>
+<li>Thom May - <a href="https://github.com/thommay">github</a>, <a href="https://twitter.com/thommay">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions</li>
+<li><a href="https://www.chef.io/summits/">Chef Community Summits</a>
+
+<ul>
+<li>Seattle - Oct 2-3</li>
+<li>NYC - Oct 5-6</li>
+<li>London - Oct 10-11</li>
+<li><code>FOODFIGHT</code> saves $10/£10</li>
+</ul>
+</li>
+<li>What's happening in your part of the community?
+
+<ul>
+<li><a href="https://www.habitat.sh/">Habitat</a>
+
+<ul>
+<li><a href="https://ext.prodpad.com/ext/roadmap/d2938aed0d0ad1dd62669583e108357efd53b3a6">The Current Habitat Roadmap</a></li>
+</ul>
+</li>
+<li><a href="https://www.inspec.io/">InSpec</a>
+
+<ul>
+<li><a href="https://github.com/chef/inspec/milestone/26">Inspec 2.0 Milestone</a></li>
+</ul>
+</li>
+<li><a href="https://www.chef.io/">Chef</a>
+
+<ul>
+<li><a href="https://discourse.chef.io/t/chef-client-13-released/10735">Chef Client 13 Released!</a></li>
+<li><a href="http://foodfightshow.org/2017/01/sous-chefs.html">Food Fight Episode #105: Sous Chefs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>The Chef Community
+
+<ul>
+<li><a href="https://docs.chef.io/community_guidelines.html">Community Guidelines</a> &amp; <a href="https://www.chef.io/code-of-conduct/">Code of Conduct</a></li>
+<li>Slack and Discourse
+
+<ul>
+<li><a href="http://community-slack.chef.io/">Chef Community Slack</a></li>
+<li><a href="https://discourse.chef.io/">Chef Mailing List</a>
+
+<ul>
+<li><a href="https://discourse.chef.io/c/chef-release">Release Announcements</a></li>
+<li><a href="https://discourse.chef.io/c/chef-security">Security Announcements</a></li>
+<li><a href="https://discourse.chef.io/c/inspec">InSpec</a></li>
+</ul>
+</li>
+<li><a href="http://slack.habitat.sh/">Habitat Slack</a></li>
+<li><a href="https://forums.habitat.sh/">Habitat Discussion Forums</a></li>
+</ul>
+</li>
+<li>Twitter
+
+<ul>
+<li><a href="https://twitter.com/chef">@chef</a>, <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23getchef">#getchef</a></li>
+<li><a href="https://twitter.com/cheffriends">@cheffriends</a></li>
+<li><a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23inspec">#InSpec</a></li>
+<li><a href="https://twitter.com/habitatsh">@habitatsh</a>, <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23habitatsh">#habitatsh</a></li>
+<li><a href="https://twitter.com/habicatsh">@habicatsh</a></li>
+</ul>
+</li>
+<li>GitHub
+
+<ul>
+<li><a href="https://github.com/chef">Chef Organization</a></li>
+<li><a href="https://github.com/chef-cookbooks">Chef Cookbooks</a></li>
+<li><a href="https://github.com/chef/chef/labels/Type%3A%20Jump%20In">Chef Issues - Ready for you to Jump In</a></li>
+<li><a href="https://chef.github.io/chef-rfc/">Chef RFC process</a></li>
+<li><a href="https://github.com/chef/inspec">InSpec</a></li>
+<li><a href="https://github.com/habitat-sh/habitat">Habitat</a></li>
+<li><a href="https://github.com/habitat-sh/core-plans">Habitat Core Plans</a></li>
+<li><a href="https://github.com/habitat-sh/habitat/tree/master/www">Habitat blog</a></li>
+</ul>
+</li>
+<li><a href="https://supermarket.chef.io/">Supermarket</a>
+
+<ul>
+<li><a href="https://supermarket.chef.io/cookbooks-directory">Cookbooks</a></li>
+<li><a href="https://supermarket.chef.io/tools?type=compliance_profile">Compliance Profiles</a></li>
+</ul>
+</li>
+<li><a href="https://bldr.habitat.sh/#/explore">Habitat Depot</a></li>
+</ul>
+</li>
+<li>Chef Community Summits
+
+<ul>
+<li>Agenda and format</li>
+<li>Promotional Code:  <code>FOODFIGHT</code> saves you $10/£10</li>
+</ul>
+</li>
+<li>Upcoming events - where will you be?
+
+<ul>
+<li>Adam
+
+<ul>
+<li><a href="http://www.techsummit.io/washington/">TechSummit Washington, DC</a></li>
+<li><a href="https://www.chef.io/summits/">Chef Community Summits</a></li>
+</ul>
+</li>
+<li>Ian
+
+<ul>
+<li>Tokyo</li>
+<li><a href="https://www.chef.io/summits/">Chef Community Summits</a></li>
+<li><a href="https://www.rust-belt-rust.com/">Rust Belt Rust</a></li>
+</ul>
+</li>
+<li>Nell
+
+<ul>
+<li><a href="https://www.devopsdays.org/events/2017-chicago/">DevOpsDays Chicago</a></li>
+<li><a href="https://www.eventbrite.com/e/seattle-chef-contributor-summit-tickets-37184842866">Chef Community Summit Seattle</a></li>
+<li><a href="https://windycityrails.com/">Windy City Rails</a></li>
+<li><a href="http://seagl.org/">Seattle GNU/Linux Conference</a></li>
+<li><a href="https://www.devopsdays.org/events/2017-hartford/welcome/">DevOpsDays Hartford</a></li>
+<li><a href="https://www.rust-belt-rust.com/">Rust Belt Rust</a></li>
+</ul>
+</li>
+<li>Thom
+
+<ul>
+<li><a href="https://www.devopsdays.org/events/2017-london/welcome/">DevOpsDays London</a></li>
+<li><a href="https://www.chef.io/summits/">Chef Community Summits</a></li>
+</ul>
+</li>
+<li>Nathen
+
+<ul>
+<li><a href="https://www.devopsdays.org/events/2017-raleigh/welcome/">DevOpsDays Raleigh</a></li>
+<li><a href="https://www.devopsdays.org/events/2017-bangalore/">DevOpsDays Bangalore</a></li>
+<li><a href="https://www.chef.io/summits/">Community Summits</a></li>
+<li><a href="http://deliveryofthingsworldusa.com/en/">Delivery of Things World</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://youtu.be/RoeQ9iSCk0A">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS111.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

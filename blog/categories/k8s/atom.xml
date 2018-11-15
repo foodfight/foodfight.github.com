@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: k8s | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/k8s/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Intro to Kubernetes]]></title>
+    <link href="http://foodfightshow.org//2018/03/intro-to-kubernetes.html"/>
+    <updated>2018-03-23T14:28:00-04:00</updated>
+    <id>http://foodfightshow.org//2018/03/intro-to-kubernetes</id>
+    <content type="html"><![CDATA[<p>Join Kelsey Hightower (<a href="https://twitter.com/kelseyhightower">@keslseyhightower</a>) for an introduction to Kubernetes.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4weDu-RBLI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="/2018/03/intro-to-kubernetes.html#panel">Panel</a></li>
+<li><a href="/2018/03/intro-to-kubernetes.html#outline">Outline</a></li>
+<li><a href="/2018/03/intro-to-kubernetes.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=C4weDu-RBLI">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS116.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Kelsey Hightower <a href="https://github.com/kelseyhightower">github</a>, <a href="https://twitter.com/kelseyhightower">twitter</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<hr />
+
+<h2>Upcoming Chef Events</h2>
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> - May 22-25, Chicago, IL</li>
+<li><a href="https://events.chef.io/">View all upcoming events</a></li>
+</ul>
+
+
+<h2>Show Notes</h2>
+
+<ul>
+<li>What is <a href="https://kubernetes.io/">kubernetes</a> and what is the problem it's trying to solve?</li>
+<li>The major parts of kubernetes</li>
+<li>Load balancing
+
+<ul>
+<li><a href="https://kubernetes.io/docs/concepts/services-networking/ingress/">Ingress</a></li>
+</ul>
+</li>
+<li>Major tools in the kubernetes ecosystem
+
+<ul>
+<li><a href="https://github.com/kubernetes/helm">helm</a></li>
+</ul>
+</li>
+<li>Getting started with Kubernetes
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=-yTeXCY3iM0">Kelsey Hightower, Google - ChefConf 2017 Keynote</a></li>
+<li><a href="https://github.com/kubernetes/minikube">minikube</a></li>
+<li><a href="https://github.com/kelseyhightower/kubernetes-the-hard-way">Kubernetes The Hard Way</a></li>
+</ul>
+</li>
+<li>Containers
+
+<ul>
+<li><a href="https://www.opencontainers.org/">Open Container Initiative</a></li>
+<li>Does one container = one pod?</li>
+</ul>
+</li>
+<li>What workloads are good for kubernetes?</li>
+<li>Privileged access</li>
+<li>Running in kubernetes</li>
+<li>The use of kubernetes from the perspective of a developer</li>
+<li>Updating applications</li>
+<li>Rollout history</li>
+<li>Upgrading kubernetes</li>
+<li>Handling secrets
+
+<ul>
+<li><a href="https://kubernetes.io/docs/reference/generated/kubelet/">kubelet</a></li>
+<li><a href="https://github.com/google/cadvisor">cadvisor</a></li>
+</ul>
+</li>
+<li><p>Health metrics, activites, events that kubernetes exposes about itself</p>
+
+<ul>
+<li><a href="https://grafana.com/plugins/prometheus">prometheus</a></li>
+</ul>
+</li>
+<li><p><a href="https://blog.chef.io/2018/03/23/awesome-community-chef-nominations-2018/">Awesome Community Chef Nominations</a></p></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Nell</h4>
+
+<ul>
+<li><a href="https://deis.com/blog/2016/kubernetes-illustrated-guide/">The Children's Illustrated Guide to Kubernetes</a></li>
+<li>Hamilton</li>
+</ul>
+
+
+<h4>Kelsey</h4>
+
+<ul>
+<li><a href="https://assistant.google.com/">Google Assistant</a></li>
+<li>Being kind in a way that inspires action</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=C4weDu-RBLI">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS116.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

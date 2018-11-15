@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: officehours | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/officehours/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Inaugural Office Hours]]></title>
+    <link href="http://foodfightshow.org//2012/11/inaugural-office-hours.html"/>
+    <updated>2012-11-01T09:18:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/11/inaugural-office-hours</id>
+    <content type="html"><![CDATA[<p>Office Hours - Thursday, November 1, 2012</p>
+
+<p>Today we held our Inaugural Chef Hangout Office Hours.</p>
+
+<h2>Join Now!</h2>
+
+<p>Well, the office hours are over but you can still <a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA">watch the recording on YouTube</a>!</p>
+
+<p>Outline:</p>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=0m25s">Introductions</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=5m50s">Roles</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=17m27s">Driving the PostgreSQL cookbook with data and attributes</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=23m50s">Berkshelf</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=32m00s">Library- and application-style cookbooks</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=38m18s">Hacking knife ssh</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=49m12s">DNS cutover strategies</a></li>
+<li><a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA&amp;t=52m26s">Guarding against chef-solo failures in Vagrant</a></li>
+<li><a href="http://foodfightshow.org/2012/11/inaugural-office-hours.html#transcript">View the Google Chat Transcript</a></li>
+</ul>
+
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3Y-lpMyG3jA" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<p>Comments were posted in three places:</p>
+
+<ul>
+<li>In the Google Hangout Chat</li>
+<li>In comments on the YouTube video</li>
+<li>In #foodfightshow on IRC</li>
+</ul>
+
+
+<h3>Google Chat Transcript<a name="transcript"></a></h3>
+
+<p>Here's a transcript from the Google Hangout:</p>
+
+<p>Nathen Harvey 3:05 PM<br/>
+<a href="http://www.youtube.com/watch?v=3Y-lpMyG3jA">http://www.youtube.com/watch?v=3Y-lpMyG3jA</a> is the streaming URL</p>
+
+<p>Eric Wolfe  3:13 PM<br/>
+Baseline role example: <a href="https://gist.github.com/1295668">https://gist.github.com/1295668</a></p>
+
+<p>Derek Schultz 3:14 PM<br/>
+Nice Gist there</p>
+
+<p>Julian Dunn 3:14 PM<br/>
+We used to use env_run_lists in roles but found they were exclusive of the run_list, sadly</p>
+
+<p>Michael Fiedler (Mike Fiedler)  3:20 PM<br/>
+<a href="https://github.com/opscode-cookbooks/postgresql/blob/master/attributes/default.rb#L75-78">https://github.com/opscode-cookbooks/postgresql/blob/master/attributes/default.rb#L75-78</a></p>
+
+<p>Nathen Harvey 3:21 PM<br/>
+from the YouTube comments - wrap the cookbook and override certain attributes</p>
+
+<p>Julian Dunn 3:25 PM<br/>
+Zac which PostgreSQL RPM  s are you using?</p>
+
+<p>Zac Hallett 3:25 PM<br/>
+specifically: <a href="http://yum.postgresql.org/9.2/redhat/rhel-6-x86_64/pgdg-redhat92-9.2-7.noarch.rpm">http://yum.postgresql.org/9.2/redhat/rhel-6-x86_64/pgdg-redhat92-9.2-7.noarch.rpm</a></p>
+
+<p>Julian Dunn 3:28 PM<br/>
+That's what I'm using too... is the problem that in recipes/server.rb, the service naNathen Harveyis hardcoded as "postgresql"?</p>
+
+<p>Zac Hallett 3:28 PM<br/>
+Yes, I have had to update all instances of "postgresql" to "postgresql-9.2" to make it work correctly</p>
+
+<p>Julian Dunn 3:29 PM<br/>
+I made it a configurable attribute within the cookbook... see <a href="https://github.com/secondmarket-cookbooks/postgresql/commit/862274f4912b346b86e87322247253abd5efec7c">https://github.com/secondmarket-cookbooks/postgresql/commit/862274f4912b346b86e87322247253abd5efec7c</a></p>
+
+<p>Zac Hallett 3:31 PM<br/>
+Julian, thank you for that. I'll update my cookbook with that</p>
+
+<p>Michael Fiedler (Mike Fiedler)  3:41 PM<br/>
+<a href="http://net-ssh.github.com/ssh/v2/api/classes/Net/SSH.html#M000003">http://net-ssh.github.com/ssh/v2/api/classes/Net/SSH.html#M000003</a></p>
+
+<p>Anthony Leto  3:41 PM<br/>
+<a href="http://wiki.opscode.com/display/chef/Knife">http://wiki.opscode.com/display/chef/Knife</a>
+-c should let you specify</p>
+
+<p>Michael Fiedler (Mike Fiedler)  3:44 PM<br/>
+<a href="https://github.com/opscode/chef/blob/10-stable/chef/lib/chef/knife/ssh.rb#L115">https://github.com/opscode/chef/blob/10-stable/chef/lib/chef/knife/ssh.rb#L115</a></p>
+
+<p>Nathen Harvey 3:47 PM<br/>
+Zac - do you have additional question(s)?</p>
+
+<p>Zac Hallett 3:48 PM<br/>
+my other question was mostly answered via my PG question. Its in regards to standing up a RHEL infrastructure while leaving up the Ubuntu one until we are ready to switch DNS to point to the new infrastructure and what the best way to do that is</p>
+
+<p>Derek Schultz 3:53 PM<br/>
+<a href="https://gist.github.com/3995987">https://gist.github.com/3995987</a><br/>
+<a href="https://gist.github.com/3996003">https://gist.github.com/3996003</a></p>
+
+<p>Julian Dunn 3:54 PM<br/>
+node.set works in Solo mode</p>
+
+<p>Jamie Winsor  3:55 PM<br/>
+<code>Chef::Config[:solo]</code>
+that will be true if it's solo</p>
+
+<p>This was an experiment and we hope to have similar hangouts in the future.</p>
+
+<p>Questions, ideas, or feedback should be sent to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

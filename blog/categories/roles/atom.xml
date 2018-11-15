@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: roles | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/roles/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Roles, Environments, Attributes, and Data Bags]]></title>
+    <link href="http://foodfightshow.org//2013/01/roles.html"/>
+    <updated>2013-01-10T12:56:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/roles</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, January 10, 2013</p>
+
+<p>This episode is a look at Roles, Environments, Attributes and Data Bags.<br/>
+The episode was recorded as a Google+ Hangout and streamed live on YouTube.</p>
+
+<p>You can now <a href="http://bit.ly/ffsmail">subscribe to the Food Fight Show email newsletter</a>.</p>
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Sean O'Meara  <a href="https://github.com/someara">github</a>, <a href="https://twitter.com/someara">twitter</a>, <a href="http://blog.afistfulofservers.net/">blog</a></li>
+<li>David Kleinschmidt <a href="https://github.com/zobar">github</a>, <a href="https://twitter.com/zobar2">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-36-Roles-Environs-Etc.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=Z2NssEeVHlI">Video Stream</a></li>
+</ul>
+
+
+<h2>Watch Now<a name="video"></a></h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Z2NssEeVHlI" frameborder="0" allowfullscreen></iframe>
+
+
+<h2>Music Notes</h2>
+
+<ul>
+<li>Eric Reeves - Food Fight Show Theme Song</li>
+<li><a href="http://www.youtube.com/watch?v=TxH9Dg1JLio">Youngblood Brass Band - Brooklyn</a></li>
+<li><a href="http://www.youtube.com/watch?v=XePd71I4ozk">Epic Violin Guy - Revenge of the Nerds</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

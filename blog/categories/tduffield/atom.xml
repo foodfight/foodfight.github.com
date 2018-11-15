@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tduffield | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/tduffield/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[OpsWorks]]></title>
+    <link href="http://foodfightshow.org//2013/12/opsworks.html"/>
+    <updated>2013-12-17T21:16:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/12/opsworks</id>
+    <content type="html"><![CDATA[<p>Watch and listen to our discussion of Amazon's <a href="http://aws.amazon.com/opsworks/">OpsWorks</a>.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cJjvLZXpOxg" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/12/opsworks.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3">Audio</a></li>
+<li><a href="http://youtu.be/cJjvLZXpOxg">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jonathan Weiss <a href="https://github.com/jweiss">github</a>, <a href="https://twitter.com/jweiss">twitter</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Tom Duffield <a href="http://github.com/tduffield">github</a>, <a href="http://twitter.com/tomduffield">twitter</a>, <a href="http://tomduffield.com">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<ul>
+<li><a href="http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/">Opscode is now Chef</a></li>
+<li><a href="http://chefconf.com">#ChefConf 2014</a> ultra-early-bird pricing ends on 31 December.  Get your tickets now!</li>
+<li>Upcoming Chef Training Events
+
+<ul>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-philadelphia-area/">Philadelphia</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-4/">San Francisco</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-chicago-2/">Chicago</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-boston-area/">Boston</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-amsterdam/">Amsterdam</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix/">Phoenix</a></li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-london/">London</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li><a href="http://aws.amazon.com/opsworks/">AWS OpsWorks</a></li>
+<li><a href="http://aws.amazon.com/">Amazon Web Services</a></li>
+<li><a href="http://aws.amazon.com/ec2/">Amazon EC2</a></li>
+<li><a href="https://github.com/scalarium">scalarium</a></li>
+<li><a href="http://aws.amazon.com/cloudformation/">AWS CloudFormation</a></li>
+<li>AWS OpsWorks Under the Hood - <a href="http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=913oT6xV-Qk">Video</a></li>
+<li>Wrapping Solutions Around Chef vs Inside Chef</li>
+<li><a href="https://github.com/opscode-cookbooks/chef-server">chef-server</a> and search</li>
+<li><a href="http://docs.opscode.com/essentials_data_bags.html">Databags</a></li>
+<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/workingstacks-json.html">Use Custom JSON to Modify the Stack Configuration JSON</a></li>
+<li>Attaching Opsworks stacks to an existing Chef server</li>
+<li>Lifecycle Stages</li>
+<li><a href="https://github.com/amazonwebservices">Amazon Web Services on Github</a></li>
+<li>Operating Systems</li>
+<li>Versioning Schemes</li>
+<li>Metric Monitoring</li>
+<li>The Configuration Drift</li>
+<li><a href="http://aws.amazon.com/cloudtrail/faqs/">AWS CloudTrail</a></li>
+<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/troubleshoot-debug-log.html">Chef Logs</a></li>
+<li><a href="http://docs.aws.amazon.com/opsworks/latest/userguide/cli-examples.html">Using the AWS OpsWorks CLI</a></li>
+<li><a href="https://twitter.com/jeffbarr/status/413398665219149824">OpsWorks in iOS and Android</a></li>
+<li>How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - <a href="http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013">Slides</a>, <a href="http://www.youtube.com/watch?v=fZ8HmekZabo">Video</a></li>
+<li>Why Choose OpsWorks?</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Jonathan</h4>
+
+<ul>
+<li><a href="http://nicolargo.github.io/glances/">Glances</a></li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying">The Log: What every software engineer should know about real-time data's unifying abstraction</a></li>
+<li><a href="http://sysadvent.blogspot.com/2013/12/day-16-omnibusing-your-way-to-happiness.html">Sys Advent:  omnibus'ing your way to happines</a></li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://myfridgefood.com/">my fridge food</a></li>
+<li><a href="https://github.com/bbatsov/rubocop">RuboCop</a></li>
+<li><a href="http://www.pylint.org/">Pylint</a></li>
+<li><a href="https://github.com/zaach/jsonlint">JSON Lint</a></li>
+<li><a href="https://twitter.com/wizonesolutions/status/413364827143540736">Best Pun Ever?!</a></li>
+</ul>
+
+
+<h4>Tom</h4>
+
+<ul>
+<li><a href="http://vim.spf13.com/">spf13-vim</a></li>
+<li><a href="http://www.projectforawesome.com/">Project For Awesome</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://fosdem.org/">FOSDEM</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">cfgmgmtcamp</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3">Audio</a></li>
+<li><a href="http://youtu.be/cJjvLZXpOxg">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

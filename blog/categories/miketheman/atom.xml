@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: miketheman | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/miketheman/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Complexity Theory and Cynefin]]></title>
+    <link href="http://foodfightshow.org//2015/01/complexity-theory-and-cynefin.html"/>
+    <updated>2015-01-29T10:21:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/01/complexity-theory-and-cynefin</id>
+    <content type="html"><![CDATA[<p>Join us as we discuss Complexity Theory and Cynefin.  This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/volOVffj-nE" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/volOVffj-nE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
+<li>Courtney Nash <a href="https://twitter.com/courtneynash">twitter</a>, <a href="https://github.com/courtneynash">github</a></li>
+<li>Ben Rockwood <a href="https://twitter.com/benr">twitter</a>, <a href="http://cuddletech.com/?page_id=834">blog</a>, <a href="https://github.com/benr">github</a></li>
+<li>Dave Snowden <a href="https://twitter.com/snowded">twitter</a>, <a href="http://cognitive-edge.com/blog/author/19/">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h4>Chef News</h4>
+
+<ul>
+<li>Upcoming Chef Training - Register with code FOODFIGHT to save 10%
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-bangalore-india-5/">Bangalore - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-san-francisco-15/">San Francisco - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-bangalore/">Bangalore - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-london/">London - Intermediate</a> with Nathen! - Feb 5-6</li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-nyc/">NYC - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-nyc-5/">NYC - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-windows-seattle/">Seattle / Windows</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-san-francisco-5/">San Francisco - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-london-4/">London - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-2/">Atlanta - Intermediate</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-atlanta-5/">Atlanta - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-minneapolis/">Minneapolis - Fundamentals</a></li>
+<li><a href="https://www.chef.io/blog/event/2-day-chef-fundamentals-minneapolis-2/">Minneapolis - Intermediate</a></li>
+<li>Online
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linux-online-5/">Feb 11-13</a></li>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linuxwindows-online-9/">Feb 18-20</a></li>
+<li><a href="https://www.chef.io/blog/event/3-day-chef-fundamentals-linuxwindows-online-10/">Feb 24-26</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Upcoming Conferences &amp; Events
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/fosdem-2/">FOSDEM</a></li>
+<li><a href="https://www.chef.io/blog/event/configmanagementcamp/">Configuration Management Camp</a></li>
+<li><a href="https://www.chef.io/blog/event/piedmont-triad-devops-inaugural-meetup/">Piedmont Triad DevOps Inaugural Meetup</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-users-london-meetup-3/">Chef Users London Meetup</a> with Nathen! - Feb 4</li>
+<li><a href="https://www.chef.io/blog/event/developerweek-san-francisco/">Developer Week San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/event/the-lean-enterprise-book-signing-and-qa-with-jez-humble/">The Lean Enterprise: Book Signing and Q&amp;A with Jez Humble</a> at the AWS Startup Loft in San Francisco</li>
+</ul>
+</li>
+<li><a href="http://chefconf.com">ChefConf</a>
+
+<ul>
+<li>March 31 - Community Summit &amp; Training Workshops</li>
+<li>April 1 &amp; 2 - Keynotes, session tracks, etc.</li>
+<li><a href="http://chefconf2015a.sched.org/">Schedule</a> - Still a bit of a work in progress</li>
+<li>Register with code FOODFIGHT to save 10%</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Show Notes</h4>
+
+<ul>
+<li>This <a href="https://twitter.com/benr/status/555825719750565888">twitter thread</a> is the inspiration for this show.</li>
+<li>The HBR Article: <a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making/">David J. Snowden and Mary E. Boone: A Leader’s Framework for Decision Making</a></li>
+<li><a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>[Ben Rockwood's Keynote at LISA: <a href="https://www.youtube.com/watch?v=3KpPBnEtRj4">The DevOps Transformation</a></li>
+<li><a href="https://www.youtube.com/watch?v=KX2sSb-EP80">Dave Snowden: Beyond Manufacturing Metaphors: Thinking Anew, Acting Anew</a></li>
+<li>Complexity Defined: <a href="http://en.wikipedia.org/wiki/Complexity_theory">The Complexity Theory</a>
+
+<ul>
+<li>Systems
+
+<ul>
+<li>Ordered</li>
+<li>Obvious</li>
+<li>Complicated</li>
+<li>Chaotic</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>How do we know which domain (obvious/complicated/complex/chaotic) we're in, and how does that impact how we might act?</li>
+<li>Disorder</li>
+<li>Emergent Coherence</li>
+<li>Constraints
+
+<ul>
+<li>Scientific Management of Systems</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Six_Sigma">Six Sigma</a></li>
+<li>Consensus and Ritual Decent</li>
+<li>Efficiency and Effectiveness</li>
+<li>Requisite Diversity</li>
+<li><a href="http://en.wikipedia.org/wiki/Conceptual_blending">Conceptual Blending</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cognitive_neuroscience">Cognitive Nueroscience</a></li>
+<li>Applying the theory to day to day activities and teams</li>
+<li>How do these ideas relate to DevOps, IT Operations, Agile, LEAN, ITIL, etc.?
+
+<ul>
+<li>Is the understanding of complex, adaptive systems one of the reasons for the emergence of DevOps?</li>
+<li>Is DevOps itself a complex, adaptive system (including its pratitioners)?</li>
+<li>Why manufacturing metaphors may not work in describing IT Operations?</li>
+</ul>
+</li>
+<li>Safety => Breaking the Rules, Compliance</li>
+<li>Testing, Anticipatory Awareness</li>
+<li>Training</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Mike</h4>
+
+<ul>
+<li>Snow and the weather</li>
+</ul>
+
+
+<h4>Dave Zwieback</h4>
+
+<ul>
+<li><a href="https://ti.to/mindweather/awesome-postmortems-nyc-2015">Awesome Postmortems Workshop</a> - February 12, 2015, NYC.</li>
+</ul>
+
+
+<h4>Courtney</h4>
+
+<ul>
+<li><a href="https://twitter.com/EskoKilpi">@EskoKilpi</a></li>
+</ul>
+
+
+<h4>Ben</h4>
+
+<ul>
+<li><a href="http://ancnoc.com/">anCnoc 12</a></li>
+<li>Go Beyond <a href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin</a></li>
+<li>Read Henry Ford's work and learn, learn, learn!</li>
+</ul>
+
+
+<h4>Dave Snowden</h4>
+
+<ul>
+<li><a href="http://cognitive-edge.com/library/methods/ritual-dissent-basic/">Ritual Dissent</a></li>
+<li><a href="http://www.welsh-whisky.co.uk/">Penderyn</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.stbaldricks.org/">St. Baldrick's Foundation</a> - <a href="https://www.stbaldricks.org/teams/mypage/97448/2015">My son's St. Baldrick's team</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/volOVffj-nE">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

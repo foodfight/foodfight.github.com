@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: culture | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/culture/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Changing Culture &amp; Being a Force for Awesome]]></title>
+    <link href="http://foodfightshow.org//2012/07/changing-culture-and-being-a-force-for-awesome.html"/>
+    <updated>2012-07-20T06:56:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/07/changing-culture-and-being-a-force-for-awesome</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, 19 July 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#offer">Special Offer</a></li>
+<li>What's Cookin'
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#news">In the News</a></li>
+<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#cookbooks">Cookbook News</a></li>
+</ul>
+</li>
+<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html#picks">Picks</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow22-BeingAForceForAwesome1.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jesse Robbins <a href="https://github.com/jesserobbins">github</a>, <a href="https://twitter.com/jesserobbins">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Special Offer<a name="offer"></a></h2>
+
+<p>Do you know someone who needs help getting started with Chef?  Opscode is offering the <a href="http://www.eventbrite.com/event/3727049706">Chef Introductory Workshop in Seattle on August 6th</a> and we've got a free pass for one lucky listener!  Leave a comment on this episode's page or send an email to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a> letting us know that you're interested in attending the class.  We'll randomly select and announce a "winner" on July 25th.  Also, be sure to use the promo code "<strong>FOODFIGHT</strong>" (in all caps) to save 10% on your registration for this and <a href="http://www.eventbrite.com/org/429733222?s=5384212">other Opscode Workshops</a>.</p>
+
+<h2>What's Cookin'</h2>
+
+<h3>In the News<a name="news"></a></h3>
+
+<hr />
+
+<ul>
+<li><p><a href="http://www.agileweboperations.com/what-devops-is-not">What DevOps Is Not</a> a great post by <a href="http://twitter.com/ripienaar">R.I. Pienaar</a></p></li>
+<li><p><a href="http://aws.typepad.com/aws/2012/07/new-high-io-ec2-instance-type-hi14xlarge.html">New High I/O EC2 Instance Type - hi1.4xlarge - 2 TB of SSD-Backed Storage</a></p></li>
+<li><p><a href="http://puppetlabs.com/blog/coming-soon-puppet-certification-program/">Puppet Labs' Certification Program</a> and <a href="http://puppetlabs.com/services/certification/faq/">FAQ</a></p></li>
+<li><p><a href="https://twitter.com/zacharyvoase">Zack Voase</a> presented at a recent Berlin DevOps meetup.  Check out his slides for <a href="https://speakerdeck.com/u/zacharyvoase/p/how-to-sell-devops">How to Sell DevOps</a>.</p></li>
+<li><p><a href="http://twitter.com/brianwbianco">Brian Bianco</a> presented on <a href="http://www.slideshare.net/geekbri/lwrp-presentation">LWRP Development</a> at this week's Chef-BOSTON meetup.  A great introduction to creating LWRPs.  Please check the show notes for a link.</p></li>
+<li><p><a href="http://twitter.com/lewg">Lew Goettner</a> presented on  <a href="https://speakerdeck.com/u/lewg/p/consistent-local-development-with-vagrant-and-chef">Consistent Local Development with Vagrant &amp; Chef</a> at this week's Philly DevOps Meetup.</p></li>
+<li><p>Local user groups and Meetups that discuss Chef</p>
+
+<ul>
+<li><a href="http://www.meetup.com/The-Bay-Area-Chef-User-Group/">The Bay Area Chef User Group</a> - Jesse Robbins will be at the meeting on Tuesday, July 24</li>
+<li><a href="http://www.meetup.com/Seattle-Opscode-Chef-Meetup-Group/">Seattle Opscode Chef Meetup Group</a> - Next Meeting is July 31</li>
+<li><a href="http://www.meetup.com/Chicago-Chef-User-Group/">Chicago Chef User Group</a> - Next meeting is August 1</li>
+<li><a href="http://www.meetup.com/Infrastructure-Coders/">Infrastructure Coders</a> in Melbourne, Australia - Next Meeting is August 14</li>
+<li><a href="http://www.meetup.com/DevOpsDC/">DevOpsDC</a> - Cooking with Chef, August 14</li>
+<li><a href="http://www.meetup.com/Chef-BOSTON/">Chef-BOSTON</a> - held their first meeting this week</li>
+<li><a href="http://phillydevops.org/">Philly DevOps</a> - held their first meeting this week</li>
+<li><a href="http://www.meetup.com/nycdevops/">nycdevops</a></li>
+<li><a href="http://www.meetup.com/San-Francisco-DevOps/">San Francisco DevOps</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Cookbook News<a name="cookbooks"></a></h3>
+
+<hr />
+
+<p>We just recorded <a href="http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html">episode 21</a> a couple of days ago so there aren't any new or updated cookbooks to cover today.  Since we don't have cookbook news, let's look at two knife plugins that help with your development workflow.</p>
+
+<ul>
+<li><p><a href="https://github.com/jkeiser/knife-essentials">knife-essentials</a> provides a number of useful knife commands that allow you to manipulate Chef using a common set of verbs that work on everything that is stored in the Chef server.</p>
+
+<ul>
+<li>knife diff - Diffs objects on the server against files in the local repository. Output is similar to git diff.</li>
+</ul>
+</li>
+<li><p><a href="https://github.com/jonlives/knife-spork">knife-spork</a> - is a workflow plugin for Chef::Knife which helps multiple devs work on the same chef server and repo without treading on eachothers toes. This plugin was designed around the workflow used at Etsy, where several people are working on the chef repo and chef server at the same time.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html">Episode 11: Etsy Examined - How the Best Do Their Business</a></li>
+<li>Jon Cowie's presentation at Velocity 2012, <a href="http://www.slideshare.net/jonlives/michelin-starred-cooking-with-chef">Michelin Starred Cooking with Chef</a></li>
+<li>Lessons from Etsy: Avoiding Kitchen Nightmares <a href="http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-nightmares-chefconf-2012">slides</a>, <a href="http://www.youtube.com/watch?v=nSnJCJiZDDU">video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>ChefConf</li>
+<li>Velocity</li>
+<li>Emergency Services</li>
+<li>Changing Culture &amp; Being a Force for Awesome</li>
+<li>Community</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://github.com/jkeiser/knife-essentials">knife-essentials</a></li>
+<li><a href="http://citizencope.com/">Citizen Cope</a></li>
+</ul>
+
+
+<h4>Jesse</h4>
+
+<ul>
+<li><a href="http://www.steelbattalion.org/controller.php">Steel Battalion Controller</a></li>
+<li><a href="http://eterna.cmu.edu/">EteRNA</a> - a game you play by designing RNAs, tiny molecules at the heart of every cell.</li>
+<li><a href="http://en.wikipedia.org/wiki/Orbital_%28band%29">Orbital</a> playing at <a href="http://dbfestival.com/">Decible Festival</a> in Seattle</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="https://github.com/technomancy/emacs-starter-kit/">emacs starter kit</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tranceport_%28album%29">Tranceport</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<p>Changing Culture &amp; Being a Force for Awesome with Jesse Robbins:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow22-BeingAForceForAwesome1.mp3">Download here</a></p>
+
+<p>Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+
+<p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
+]]></content>
+  </entry>
+  
+</feed>

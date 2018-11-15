@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cancer research | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/cancer-research/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Saving the World with DevOps - Big Data and HPC]]></title>
+    <link href="http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc.html"/>
+    <updated>2013-02-19T10:53:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/02/saving-the-world-with-devops-big-data-and-hpc</id>
+    <content type="html"><![CDATA[<p>Show Date:  Tuesday, February 19, 2013</p>
+
+<p>In this episode, we discuss the role DevOps can play in helping science overcome some of the most pressing research challenges such as climate change and canceer research.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=pJ4ahwABPRs">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/pJ4ahwABPRs" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li><a href="http://blog.jcuff.net/">Dr. James Cuff</a>, <a href="https://twitter.com/jamesdotcuff">twitter</a></li>
+<li><a href="http://anthonygoddard.com">Anthony Goddard</a>, <a href="https://twitter.com/anthonygoddard">twitter</a>, <a href="https://github.com/agoddard">github</a>, <a href="http://ops.anthonygoddard.com">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>James</h4>
+
+<ul>
+<li><a href="http://julialang.org/">julia</a> - high-level, high-performance dynamic programming language for technical computing.</li>
+</ul>
+
+
+<h4>Anthony</h4>
+
+<ul>
+<li><a href="http://www.alastairhumphreys.com/microadventures-2/">Microadventures</a></li>
+<li><a href="https://twitter.com/search?q=%23microadventures">#microadventures</a></li>
+<li><a href="http://cartodb.com/">CartoDB</a> - hosted PostGIS mapping tool</li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://www.socallinuxexpo.org/scale11x">SCaLE 11x</a></li>
+<li>Kyle Kingsbury - <a href="https://twitter.com/aphyr">@aphyr</a>, <a href="http://aphyr.com/">http://aphyr.com/</a>
+
+<ul>
+<li><a href="http://riemann.io/">Riemann</a></li>
+<li><a href="http://aphyr.com/posts/277-timelike-a-network-simulator">Timelike: a network simulator</a></li>
+<li><a href="http://aphyr.com/posts/278-timelike-2-everything-fails-all-the-time">Timelike 2: everything fails all the time</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://blog.geeksinaction.org/tag/systemd/">systemd for administrators</a></li>
+<li><a href="http://daemianmack.com/magit-cheatsheet.html">Magit cheat sheet</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Provide personal help to a cancer patient instead of merely writing a check to a foundation.</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=pJ4ahwABPRs">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cashion | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/cashion/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Amazon Web Services]]></title>
+    <link href="http://foodfightshow.org//2013/06/amazon-web-services.html"/>
+    <updated>2013-06-05T07:44:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/06/amazon-web-services</id>
+    <content type="html"><![CDATA[<p>Show Date:  June 5, 2013</p>
+
+<p>A round table discussion on using Chef with AWS and brief exploration of some of the many AWS services.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/b8LXZMjVi1A" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/06/amazon-web-services.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=b8LXZMjVi1A">Video stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Kevin Nuckolls <a href="https://github.com/knuckolls">github</a>, <a href="https://twitter.com/knuckolls">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Trotter Cashion <a href="http://github.com/trotter">github</a>, <a href="http://twitter.com/cashion">twitter</a>, <a href="http://trottercashion.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li><a href="https://www.bluebox.net/about/blog/2013/06/responsive-infrastructure-with-opscode-chef-an-introduction/">Responsive infrastructure with Opscode Chef–an introduction</a> an introduction to Chef from <a href="https://github.com/sandfish8">Sam Cooper</a> at <a href="https://www.bluebox.net/">bluebox</a>.</li>
+<li><a href="http://www.activestate.com/blog/2013/06/solomon-hykes-explains-docker">Solomon Hykes Explains Docker</a> a great article introducing Docker and a good companion for episode 49:  <a href="http://foodfightshow.org/2013/04/docker-the-linux-container-runtime.html">Docker: The Linux Container Runtime</a></li>
+<li><a href="https://coderanger.net/2013/06/arrays-and-chef/">Arrays and Chef Attributes</a> - an article from <a href="https://twitter.com/kantrn">Noah Kantrowitz</a> that's essential reading for anyone wondering about how arrays are merged in node attributes.</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Chef News</li>
+<li><a href="http://www.poodr.info/">Practical Object-Oriented Design in Ruby</a></li>
+<li>Introductions</li>
+<li><a href="http://aws.amazon.com/">Amazon AWS</a></li>
+<li>Getting started with Chef and AWS</li>
+<li><a href="http://docs.opscode.com/plugin_knife_ec2.html">knife ec2</a></li>
+<li>Storage</li>
+<li><a href="http://aws.amazon.com/ec2/">Amazon EC2</a>
+
+<ul>
+<li><a href="http://www.ec2instances.info/">Easy Amazon EC2 Instance Comparison</a></li>
+<li><a href="http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html">AWS EC2 Instance Properties</a></li>
+</ul>
+</li>
+<li>Stateless and stateful servers</li>
+<li>Logical Volume Management (LVM)</li>
+<li>User-data and auto-scaling
+
+<ul>
+<li>S3 can be used as a source of artifacts in <a href="http://ckbk.it/artifact">artifact-cookbook</a> now (includes support for IAM roles)</li>
+</ul>
+</li>
+<li>Running as a service</li>
+<li><a href="http://ckbk.it/aws">AWS Cookbook</a>
+
+<ul>
+<li><a href="http://rubygems.org/gems/right_aws">RightScale AWS gem</a></li>
+<li><a href="http://rubygems.org/gems/fog">fog gem</a></li>
+<li><a href="http://aws.amazon.com/sdkforruby/">AWS SDK for Ruby</a></li>
+</ul>
+</li>
+<li><a href="http://aws.typepad.com/aws/2012/06/iam-roles-for-ec2-instances-simplified-secure-access-to-aws-service-apis-from-ec2.html">IAM roles</a></li>
+<li><a href="https://gist.github.com/anthroprose/9a1b3b7dbf3218578bcb">snapshotting and drive consistency</a></li>
+<li>Servercreate
+
+<ul>
+<li>OHAI hint</li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/vpc/">Amazon VPC (Virtual Private Cloud)</a>
+
+<ul>
+<li><a href="http://aws.amazon.com/articles/2781451301784570">High Availability for Amazon VPC NAT Instances: An Example</a></li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/s3/">Amazon S3</a></li>
+<li><a href="http://guides.rubygems.org/run-your-own-gem-server/">Run your own gem server</a></li>
+<li><a href="https://github.com/opscode-cookbooks/varnish">varnish</a></li>
+<li>Application deployment to Amazon</li>
+<li>AMIs for Windows</li>
+<li>Reboots</li>
+<li><a href="http://aws.amazon.com/route53/">Amazon Route 53</a>
+
+<ul>
+<li><a href="http://blog.parse.com/2013/02/28/working-with-hostnames-in-a-dynamically-scaled-environment/">blog post from Parse using Chef + Route53 to auto-add nodes to Route53</a></li>
+</ul>
+</li>
+<li><a href="http://aws.amazon.com/rds/">Amazon RDS</a></li>
+<li><a href="http://aws.amazon.com/elasticmapreduce/">Elastic MapReduce (EMR)</a></li>
+<li><a href="http://aws.amazon.com/redshift/">Redshift</a></li>
+<li>Test Kitchen and AWS
+<a href="https://github.com/opscode/kitchen-ec2">kitchen-ec2</a></li>
+<li>EC2 and Multiple Data Centers</li>
+<li>Availability zones within a region</li>
+<li>Regions</li>
+<li>LWRP for pulling stuff from S3
+
+<ul>
+<li><a href="http://aws.amazon.com/sdkforruby/">AWS SDK for Ruby</a></li>
+<li><a href="http://aws.amazon.com/cloudformation/">AWS CloudFormation</a>
+
+<ul>
+<li><a href="https://gist.github.com/solarce/5716564">example of cloudformation and some user-data</a></li>
+<li><a href="https://s3.amazonaws.com/cloudformation-templates-us-east-1/multi-tier-web-app-in-vpc.template">AWS CloudFormation Sample Template</a></li>
+<li><a href="http://www.unixdaemon.net/stack-template.json">another cloud formation template</a></li>
+<li><a href="https://gist.github.com/anthroprose/b3c7f4e0771abcfefef5">sample of stack deploy using quite a bit of different AWS features within cloudformation</a></li>
+<li><a href="https://github.com/songkick/cloud_formatter">CloudFormatter</a> Generates JSON config for AWS CloudFormation using a Ruby DSL.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Other Resources</h2>
+
+<p>Here's a list of things that were mentioned in the show or the IRC backchannel during the episode.</p>
+
+<ul>
+<li><a href="http://www.awsnow.info/">Consolidated AWS prices and limits</a></li>
+<li><a href="http://ckbk.it/ebs">EBS Cookbook</a></li>
+<li><a href="http://www.nuvolecomputing.com/2012/07/02/chef-node-de-registration-for-autoscaling-groups/">Chef Node Deregistration For Autoscaling Groups</a></li>
+<li><a href="https://github.com/cwninja/geminabox">Gem in a Box</a> and the <a href="http://community.opscode.com/cookbooks/geminabox">geminabox cookbook</a>.</li>
+<li><a href="https://github.com/Netflix/denominator">cloud dns abstractor</a></li>
+<li><a href="https://help.ubuntu.com/community/AptProxy">AptProxy</a></li>
+<li><a href="http://awsadvent.tumblr.com/post/38685647817/strategies-reusable-cfn-templates">Strategies for re-usable CloudFormation Templates</a></li>
+<li><a href="http://awsadvent.tumblr.com/post/37773106407/bootstrap-cfg-mgmt-aws">Bootstrapping Config Management on AWS</a></li>
+<li><a href="https://github.com/ii-cookbooks/ii-usb">Cookbooks to create bootable USB sticks that contain OS vendor ISO</a></li>
+<li><a href="https://github.com/destructuring/vagrant-shell">Vagrant Shell Provider</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.opscode.com/blog/chefconf-talks/chef-and-the-cloud-trotter-cashion/">Chef and the Cloud</a> - Trotter's #ChefConf 2013 talk</li>
+<li><a href="http://velocityconf.com/">Velocity Conference</a> - See you there!</li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://books.google.com/books/about/Good_Omens.html?id=B7FL6zzN_FsC">Good Omens</a></li>
+<li>“the sparse usage of ternary operators” (<code>mikes_disposition = (used_sparingly?)? "happy" : "rage"</code>)</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.confreaks.com/videos/2467-railsconf2013-pry-the-good-parts">Pry, the good Parts</a>
+and Pry.rescue do #.... end</li>
+<li><a href="http://fog.io">fog</a></li>
+<li><a href="http://www.youtube.com/watch?v=L_z5oqPrDWY">Hurting Code</a></li>
+<li><a href="http://www.poodr.info/">Practical Object-Oriented Design in Ruby</a></li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/">imgur Technology Stack</a></li>
+<li><a href="https://github.com/dotcloud/docker/wiki/Docker-0.4.0-release-note,-June-3-2013">Docker 0.4.0</a></li>
+</ul>
+
+
+<h4>Trotter</h4>
+
+<ul>
+<li><a href="http://www.goodreads.com/book/show/6604209-mistborn-trilogy-boxed-set">Mistborn Trilogy</a></li>
+<li>The Atlantic Ocean</li>
+<li><a href="http://elaphilly.com/">Ela</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=b8LXZMjVi1A">Video stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Netflix OSS]]></title>
+    <link href="http://foodfightshow.org//2013/05/netflix-oss.html"/>
+    <updated>2013-05-09T09:48:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/05/netflix-oss</id>
+    <content type="html"><![CDATA[<p>Show Date:  Thursday, May 9, 2013</p>
+
+<p>Join us as we discuss the <a href="http://netflix.github.io/#repo">Netflix OSS</a> tools.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/05/netflix-oss.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-50-NetflixOSS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=A69uTnfQgB8">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/A69uTnfQgB8" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Adrian Cockcroft <a href="http://github.com/adrianco">github</a>, <a href="http://twitter.com/adrianco">twitter</a>, <a href="http://perfcap.blogspot.com">blog</a></li>
+<li>Jeremy Edberg <a href="https://github.com/jedberg">github</a>, <a href="https://twitter.com/jedberg">twitter</a></li>
+<li>Trotter Cashion <a href="https://github.com/trotter">github</a>, <a href="https://twitter.com/cashion">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="http://twitter.com/solarce">twitter</a>, irc: solarce</li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>In the News<a name="news"></a></h2>
+
+<ul>
+<li><a href="http://jtimberman.housepub.org/blog/2013/05/08/test-kitchen-and-jenkins/">Test Kitchen and Jenkins</a> - A blog post from Joshua Timberman about how he's set up a Jenkins build server to run test-kitchen on cookbooks.</li>
+<li><a href="https://github.com/scalp42/chefabulous">chefabulous</a> - Bootstrap a Chef server on Amazon's EC2 or using Vagrant with Fabric.</li>
+<li><a href="http://alluvium.com/blog/2013/05/03/the-application-cookbook-pattern-berkshelf-and-team-chef-workflow/">The Application Cookbook Pattern, Berkshelf, and Team Chef Workflow</a> - A blog post from Eric Reeves</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Introductions</li>
+<li>Chef News</li>
+<li><a href="http://www.businessweek.com/articles/2013-05-09/netflix-reed-hastings-survive-missteps-to-join-silicon-valleys-elite">Business Week article</a></li>
+<li>Why is Netflix doing OSS</li>
+<li>Cloud-native</li>
+<li>No traditional HA tools from linux.  Why not?</li>
+<li>S3 is shared filesystem for everything</li>
+<li>Have abstracted one layer above instances</li>
+<li>Oracle to SimpleDB transition</li>
+<li>Switching between NoSQL systems</li>
+<li>Configuration Management pushed up into the application itself
+
+<ul>
+<li><a href="https://github.com/Netflix/archaius">Archaius</a> - Archaius includes a set of configuration management APIs used by Netflix.</li>
+<li><a href="https://github.com/Netflix/eureka">Eureka</a> - Eureka is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.</li>
+</ul>
+</li>
+<li>Java as the language of choice
+
+<ul>
+<li>There is a Python interface for some of the tools</li>
+<li>Closure, Groovy, etc. are other areas that are being explored</li>
+</ul>
+</li>
+<li>AMI generation
+
+<ul>
+<li><a href="https://github.com/Netflix/aminator">Aminator</a> - Easily turn an app into an AMI
+
+<ul>
+<li>Take base image, add some packages, run some chef recipes</li>
+<li>Looking at including chef in the base image for use during build time</li>
+</ul>
+</li>
+<li>Code changes are always deployed as new AMIs</li>
+<li><code>knife ec2 server create --bake</code> - <a href="https://github.com/opscode/knife-ec2/pull/110">https://github.com/opscode/knife-ec2/pull/110</a></li>
+<li>Average lifetime of an instance is ~35 hours</li>
+</ul>
+</li>
+<li>Monitoring
+
+<ul>
+<li><a href="http://www.appdynamics.com/">AppDynamics</a> - Out-of-band monitoring</li>
+<li>Atlas</li>
+<li><a href="http://en.wikipedia.org/wiki/Exponential_smoothing">Double exponential smoothing</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a> - Fast Fourier transform - Look at traffic to be sure it's going in the expected direction.</li>
+<li>Real-time FFT written in R is used for alerting.  Other availability is determined after-the-fact.</li>
+</ul>
+</li>
+<li>Circuit breakers
+
+<ul>
+<li><a href="https://github.com/Netflix/Hystrix">Hystrix</a> - Latency and Fault Tolerance for Distributed Systems - turns off backend if the backend seems to be down or slow.  Adds test to see when it should be re-enabled.</li>
+<li><a href="https://github.com/Netflix/Turbine">Turbine</a> - Dashboard that shows the status of the circuit breakers</li>
+<li>These help with graceful degradation of features on Netflix</li>
+</ul>
+</li>
+<li>Application Stack:
+
+<ul>
+<li>Tomcat</li>
+<li>Cassandra</li>
+</ul>
+</li>
+<li><a href="https://github.com/Netflix/SimianArmy">Simian Army</a>
+
+<ul>
+<li>Chaos Monkey</li>
+<li>Chaos Gorilla - Will destroy an entire zone</li>
+<li>Latency Monkey - Reaches into <a href="https://github.com/Netflix/karyon">Karyon</a> and injects latency
+
+<ul>
+<li>Is much better at finding issues / bugs than Chaos Monkey is</li>
+<li>Latency Monkey introduces latency, Hystrix should trip circuits</li>
+</ul>
+</li>
+<li>Howler Monkey - Looks for overused resources and other auditing</li>
+<li>Security Monkey - Ensures certs are not expiring soon, etc.</li>
+<li>Janitor Monkey - Cleans-up unused resources</li>
+<li>Conformity Monkey</li>
+</ul>
+</li>
+<li>How Trotter is using the Netflix stack
+
+<ul>
+<li>archaius better than plan old properties files</li>
+<li>eureka, karyon, asgard</li>
+</ul>
+</li>
+<li><a href="https://github.com/Netflix/asgard">Asgard</a> - AWS console "on crack".  Built on Groovy.
+
+<ul>
+<li>Necessary when you start deploying auto-scaling groups instead of auto-scaling images</li>
+<li>When would you not use auto-scaling groups?
+
+<ul>
+<li>"Fork lift" operations - moving one app "to the cloud"</li>
+<li>Trotter recommends auto-scaling group even if the group size is one</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Time from deploy-ami to instance - about 3 minutes to start a fairly large instance (start 500 in about 8 minutes)</li>
+<li>How do I get started with the Netflix platform?
+
+<ul>
+<li><a href="https://github.com/cfregly/fluxcapacitor">Flux capicator</a> - Flux Capacitor is a Java-based distributed application demonstrating the following Netflix Open Source components.</li>
+<li><a href="https://github.com/Netflix/recipes-rss">Netflix Recipes RSS</a> - RSS is a Netflix Recipes application demonstrating how all of the following Netflix Open Source components can be tied together.</li>
+</ul>
+</li>
+<li><a href="https://github.com/Netflix/Cloud-Prize">Netflix OSS Prize</a> - A contest for Software Developers</li>
+<li>Visiting Netflix offices</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://realtalk.io/">Real Talk Podcast</a></li>
+<li><a href="http://www.amazon.com/Mistborn-Trilogy-Boxed-Hero-Ascension/dp/076536543X">Mistborn Trilogy</a></li>
+<li>+1 for Trotter's "Way of Kings" pick</li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=dekV3Oq7pH8">Adrian's talk on Highly Available Architectures</a></li>
+<li><a href="http://www.amazon.com/Wool-Hugh-Howey/dp/1476733953">Wool</a></li>
+</ul>
+
+
+<h4>Adrian</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=Wo-zkUH1R8A&amp;feature=youtu.be">Adrian's live demo benchmark on Cassandra on SSD</a></li>
+<li><a href="http://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216">Drift into Failure</a> Sydney Dekker</li>
+<li><a href="http://www.meetup.com/Netflix-Open-Source-Platform/">Netflix OSS Meetup</a></li>
+<li><a href="http://movies.netflix.com/WiMovie/Going_Postal/70258570">Going Postal</a></li>
+</ul>
+
+
+<h4>Jeremy</h4>
+
+<ul>
+<li><a href="http://techblog.netflix.com/2012/12/videos-of-netflix-talks-at-aws-reinvent.html">Netflix's re:invent presentations</a></li>
+</ul>
+
+
+<h4>Trotter</h4>
+
+<ul>
+<li><a href="http://pragprog.com/book/mnee/release-it">Release It</a></li>
+<li><a href="http://www.amazon.com/Way-Kings-Stormlight-Archive/dp/0765365278">Way of Kings</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-50-NetflixOSS.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=A69uTnfQgB8">Video Stream</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

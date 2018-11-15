@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: how to tie your shoes | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/how-to-tie-your-shoes/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Wrap-up Surge with Theo Schlossnagle]]></title>
+    <link href="http://foodfightshow.org//2012/09/wrap-up-surge-with-theo-schlossnagle.html"/>
+    <updated>2012-09-29T12:15:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/09/wrap-up-surge-with-theo-schlossnagle</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 28 September 2012</p>
+
+<p>In this DevOps Delicacy, Nathen sits down with <a href="http://twitter.com/postwait">Theo Schlossnagle</a>.  They discussed Theo's Surge presentations and wrapped-up the event.</p>
+
+<p><a href="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3">Download the episode</a></p>
+]]></content>
+  </entry>
+  
+</feed>

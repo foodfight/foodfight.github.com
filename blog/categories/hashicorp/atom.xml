@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hashicorp | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/hashicorp/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Managing Secrets - In the Vault]]></title>
+    <link href="http://foodfightshow.org//2015/06/managing-secrets-in-the-vault.html"/>
+    <updated>2015-06-16T07:16:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/06/managing-secrets-in-the-vault</id>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/mP53wWpqBNw" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/06/managing-secrets-in-the-vault.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/mP53wWpqBNw">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Seth Vargo <a href="http://github.com/sethvargo">github</a>, <a href="http://twitter.com/sethvargo">twitter</a></li>
+<li>Milos Gajdos <a href="https://github.com/milosgajdos83">github</a>, <a href="https://twitter.com/milosgajdos">twitter</a>, <a href="http://containerops.org/">blog</a></li>
+<li>Mike Fiedler <a href="https://github.com/miketheman">github</a>, <a href="https://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What is a "secret"?</li>
+<li>Protecting Secrets (Secret Management)
+
+<ul>
+<li><a href="https://github.com/Nordstrom/chef-vault">chef-vault</a></li>
+</ul>
+</li>
+<li>Decrypting Secrets
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Personally_identifiable_information">Personally Identifiable Information (PII)</a></li>
+</ul>
+</li>
+<li>Working with Vaults (Experience)
+
+<ul>
+<li><a href="https://github.com/square/keywhiz">keywhiz</a></li>
+<li><a href="http://aws.amazon.com/kms/">Amazon KMS (Key Management Service)</a></li>
+</ul>
+</li>
+<li><a href="https://www.vaultproject.io/">Vault</a>
+
+<ul>
+<li><a href="https://www.vaultproject.io/#/demo/0">Vault Interactive Tutorial</a></li>
+<li>Backends
+
+<ul>
+<li>Audit Backends</li>
+<li>Auth Backends</li>
+<li>Secret Backends</li>
+</ul>
+</li>
+<li>Postgres VALID UNTIL (Lease Expiration)</li>
+<li>Renewals</li>
+<li><a href="https://vaultproject.io/docs/secrets/transit/">Transit Secret Backend</a>
+
+<ul>
+<li>Use Case: Using for Vault developers to share secrets back and forth?</li>
+</ul>
+</li>
+<li>Policies</li>
+<li>Read Access</li>
+<li>Write</li>
+<li>Deny</li>
+<li>Pseudo</li>
+<li>User Authentication</li>
+<li>Token-based Auth</li>
+<li><a href="https://github.com">GitHub</a></li>
+<li>Username and Password</li>
+<li><a href="https://github.com/devster/uauth">uauth</a></li>
+<li>TLS Certificates</li>
+<li>LDAP</li>
+<li>AppID</li>
+<li><a href="https://github.com/hashicorp/vault">Vault as Open Source</a></li>
+<li>The "Break Glass Procedure": How do you know your secrets have been leaked?</li>
+<li>Where do services like Vault fit in with containers?</li>
+<li>Vault with Console</li>
+<li>Leader Election</li>
+<li><a href="https://github.com/AdRoll/hologram">hologram</a></li>
+<li>Security and Independent Security Audits</li>
+<li>Key Rotation</li>
+<li>Chef/Vault Integration
+
+<ul>
+<li><a href="https://github.com/opscode-cookbooks/chef-vault">chef-vault Cookbook</a></li>
+<li><a href="https://github.com/hashicorp/vault-ruby">vault-ruby</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="https://github.com/spf13/cobra">cobra</a></li>
+<li><a href="http://www.amazon.com/1493-Uncovering-World-Columbus-Created/dp/0307278247">1493 The World Columbus Made</a> by Charles C. Mann</li>
+<li><a href="https://www.youtube.com/watch?v=MV_3Dpw-BRY">Kavinsky</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://devopsdaysdc.org">DevOpsDays DC</a></li>
+<li><a href="http://summit.chef.io">Chef Community Summit</a></li>
+</ul>
+
+
+<h4>Milos</h4>
+
+<ul>
+<li><a href="http://www.amazon.co.uk/The-Dark-Net-Jamie-Bartlett/dp/0434023159">The Dark Net</a></li>
+<li><a href="http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en">Paradox of choice</a></li>
+<li><a href="http://polyconf.com/">Polyconf</a></li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<ul>
+<li><a href="http://www.devopsdays.org/events/2015-pittsburgh/">DevOpsDays Pittsburgh</a></li>
+<li><a href="https://hashicorp.com/blog/hashiconf.html">Hashiconf</a></li>
+<li>Bacon!</li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li>Railsconf talk by Sandi Metz - <a href="http://confreaks.tv/videos/railsconf2015-nothing-is-something">Nothing is Something</a></li>
+<li><a href="https://popapp.in/">POP - Prototyping on Paper</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/mP53wWpqBNw">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Consul Template]]></title>
+    <link href="http://foodfightshow.org//2014/11/consul-template.html"/>
+    <updated>2014-11-04T21:54:00-05:00</updated>
+    <id>http://foodfightshow.org//2014/11/consul-template</id>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
+
+<p><strong>Part 1</strong></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_0tULKMoiCA" frameborder="0" allowfullscreen></iframe>
+
+
+<p><strong>Part 2</strong></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/1NWzF4TTQnU" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/11/consul-template.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Video
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=_0tULKMoiCA">Part 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
+</ul>
+</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p></p>
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Dan Phrawzty <a href="https://github.com/phrawzty">github</a>, <a href="https://twitter.com/phrawzty">twitter</a>, irc: phrawzty, <a href="https://www.dark.ca/">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Seth Vargo <a href="https://github.com/sethvargo">github</a>, <a href="https:/twitter.com/sethvargo">twitter</a>, irc: sethvargo, <a href="https://sethvargo.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Seth Vargo Introduction</li>
+<li><a href="https://www.hashicorp.com/">consul-template</a> Introduction
+
+<ul>
+<li><a href="http://go.aopphp.com">Go!</a>
+
+<ul>
+<li><a href="https://github.com/blalor/go-template">go-template</a></li>
+<li>Consul - <a href="https://consul.io">consul.io</a></li>
+<li><a href="http://json.org">JSON</a></li>
+<li><a href="http://json.org">redis</a></li>
+<li><a href="http://www.ruby-lang.org">Ruby</a></li>
+<li><a href="http://us.webnode.com/">WebNode15</a></li>
+<li><a href="https://www.getchef.com/chef/">Chef</a></li>
+<li><a href="https://supermarket.getchef.com/cookbooks-directory">Chef Cookbook</a>
+
+<ul>
+<li><a href="https://supermarket.getchef.com/cookbooks-directory">chef-template</a></li>
+</ul>
+</li>
+<li><a href="http://puppetlabs.com/">Puppet</a></li>
+<li><a href="http://www.ansible.com/home">Ansible</a></li>
+<li><a href="http://www.irc.org/">IRC</a></li>
+<li><a href="http://www.gnu.org/software/bash/">Bash</a></li>
+<li><a href="https://github.com/thcipriani/bashtemplate">bash-template</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Quiesce">Quiescence</a>
+
+<ul>
+<li><a href="http://dictionary.reference.com/browse/quiescence?s=ts">Quiescence - Webster’s Dictionary</a></li>
+<li><a href="https://github.com/dessolator/DryRun">DryRun</a></li>
+<li><a href="https://github.com/tlevine/verbosity">Verbosity</a></li>
+</ul>
+</li>
+<li>Seth’s Background
+
+<ul>
+<li><a href="https://www.hashicorp.com/">HachiCorp</a></li>
+<li><a href="https://www.vagrantup.com/">Vagrant</a></li>
+<li><a href="http://rubyonrails.org/">Rails</a></li>
+<li><a href="http://www.sitepoint.com/go-rubyists/">Go! for Rubyists</a></li>
+<li><a href="http://en.wikipedia.org/wiki/C_(programming_language">C programming language</a>)</li>
+<li><a href="https://www.youtube.com/watch?v=LJvEIjRBSDA">“Write In Go!” - YouTube</a></li>
+</ul>
+</li>
+<li>HachiCorp Config Language <a href="https://github.com/hashicorp/hcl">(HCL)</a>
+
+<ul>
+<li><a href="https://www.terraform.io/">Terraform</a></li>
+<li><a href="http://atsiteinc.com/">AtSite</a></li>
+<li><a href="http://yaml.org/">Yaml</a></li>
+<li><a href="http://nginx.org/">nginx</a></li>
+<li><a href="https://github.com/toddself/jsondom">JSON.dom</a></li>
+<li><a href="https://github.com/toml-lang/toml">TOML</a></li>
+<li><a href="https://github.com/">GitHub</a></li>
+<li><a href="https://www.packer.io/">Packer</a></li>
+<li><a href="http://www.haproxy.org/">HAProxy</a></li>
+</ul>
+</li>
+<li>consul-template and Future of Tools
+
+<ul>
+<li><a href="https://twitter.com/MPHOENIXX">@MPHOENIXX</a></li>
+<li><a href="https://github.com/Atha/update-conf.d">conf.d</a></li>
+<li><a href="https://twitter.com/adamhjk">Adam Jacob</a></li>
+<li><a href="https://www.facebook.com/">Facebook</a></li>
+<li><a href="http://chefconf.opscode.com/chefconf/">ChefConf</a></li>
+<li><a href="https://twitter.com/mikefiedler">Mike Fiedler</a>
+
+<ul>
+<li> <a href="https://www.getchef.com/blog/chefconf-talks/treating-your-infrastructure-like-garbage-mike-fiedler/">Treating Your Infrastructure Like Garbage - Mike Fiedler at ChefConf</a></li>
+</ul>
+</li>
+<li><a href="http://www.fhmachinery.com/inspect/4469.htm">Retina Machine</a></li>
+<li>FS01</li>
+</ul>
+</li>
+<li>Future of HashiCorp and Projects
+
+<ul>
+<li><a href="https://vagrantcloud.com/">Vagrant Cloud</a>
+
+<ul>
+<li><a href="http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-share.html">Vagrant Share</a></li>
+<li><a href="http://railsapps.github.io/">Rails App</a></li>
+</ul>
+</li>
+<li><a href="https://serfdom.io/">Serf</a></li>
+<li><a href="http://saltsoftware.com/">SALT</a></li>
+<li><a href="https://github.com/kelseyhightower/confd">Kelsey Hightower’s confd</a>
+
+<ul>
+<li><a href="https://twitter.com/kelseyhightower">@kelseyhightower</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Future of consul-template
+
+<ul>
+<li><a href="http://www.lua.org/">Lua</a></li>
+<li>open REST C2</li>
+<li><a href="http://www.dartjs.com/">Dart</a></li>
+</ul>
+</li>
+<li>consul-template and Multiple Services
+
+<ul>
+<li><a href="https://github.com/Dash-Industry-Forum/dash.js/wiki">Dash</a>
+
+<ul>
+<li><a href="https://github.com/Dash-Industry-Forum/dash.js/search?utf8=%E2%9C%93&amp;q=dash.config&amp;type=Code">dash.config</a></li>
+</ul>
+</li>
+<li>Pine Forest App</li>
+<li><a href="http://www.elasticsearch.org/">Elasticsearch</a></li>
+<li>Glare Cluster</li>
+<li><a href="https://github.com/alanbsmith/big_t">Ticonderoga</a></li>
+</ul>
+</li>
+<li>Authorization
+
+<ul>
+<li><a href="https://twitter.com/">Twitter</a></li>
+<li><a href="http://www.apple.com/">Apple</a></li>
+<li><a href="https://www.hashicorp.com/blog/consul-0-4.html">consul 0.4</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>lusis</h4>
+
+<ul>
+<li><a href="https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community">Model View Culture: Q&amp;A: Making Tech Events Accessible to the Deaf Community</a></li>
+<li><a href="https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options">Model View Culture: Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options</a></li>
+<li><a href="https://www.youtube.com/watch?v=HtkGluLhnGU">Betraying The Martyrs - Let It Go (Official Music Video) \m/</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Not hotel wifi</li>
+</ul>
+
+
+<h4>Dan</h4>
+
+<ul>
+<li>A challenge to everyone involved in organising tech events: how can we leverage our many social gatherings for the greater social good?  For example, consider the <a href="http://www.salesforcefoundation.org/about-us/sharethemodel/">1:1:1 model</a> in the context of tech events, or even something as simple as donating some of the profits to charity (perhaps to <a href="http://mindweather.com/2014/09/18/how-devopsdays-nyc-built-a-well-for-a-village-in-cambodia-a-devopswater-update/">build a well</a>).</li>
+</ul>
+
+
+<h4>Seth</h4>
+
+<ul>
+<li>Consul Template, <a href="https://www.hashicorp.com/blog/introducing-consul-template.html">announcement</a>, <a href="https://github.com/hashicorp/consul-template">github</a></li>
+<li><a href="http://cposc.org">CPOSC</a>, especially <a href="https://twitter.com/charlie3">Charlie Reisinger</a>'s <a href="http://lanyrd.com/2014/cposc/sdfpwm/">DevOps is Cool for Schools</a></li>
+<li><a href="https://www.youtube.com/watch?v=LJvEIjRBSDA">Write in Go</a> (song/video)</li>
+</ul>
+
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="https://stripe.com/blog/game-day-exercises-at-stripe">Game Day Exercises at Stripe:
+Learning from <code>kill -9</code></a> by <a href="https://twitter.com/marcprecipice">Marc Hedlund</a></li>
+<li><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/">OS X 10.10 Yosemite: The Ars Technica Review</a> by <a href="https://twitter.com/Siracusa">John Siracusa </a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li>Video
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=_0tULKMoiCA">Part 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=1NWzF4TTQnU">Part 2</a></li>
+</ul>
+</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

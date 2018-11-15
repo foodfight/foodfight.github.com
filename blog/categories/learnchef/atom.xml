@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: learnchef | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/learnchef/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learn Chef Rally]]></title>
+    <link href="http://foodfightshow.org//2017/09/learn-chef-rally.html"/>
+    <updated>2017-09-28T10:37:00-04:00</updated>
+    <id>http://foodfightshow.org//2017/09/learn-chef-rally</id>
+    <content type="html"><![CDATA[<p>Learn Chef Rally is the best place to get started on your journey towards mastering Chef, Continuous Automation, and DevOps.  Tracks give you a guided curriculum, Modules allow you to complete lessons à la carte to create you own learning path.  Badges help you track your progress throughout the journey.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/0GqxQn8Sa1c" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2017/09/learn-chef-rally.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2017/09/learn-chef-rally.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2017/09/learn-chef-rally.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://youtu.be/0GqxQn8Sa1c">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS112.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Creighton Medley - <a href="https://github.com/cmedley">github</a>, <a href="https://twitter.com/cmed">twitter</a></li>
+<li>Thomas Petchel - <a href="https://github.com/tpetchel">github</a>, <a href="https://twitter.com/tpetchel">twitter</a></li>
+<li>Andrew Regan - <a href="https://github.com/andyregan">github</a>, <a href="https://twitter.com/andyregan">twitter</a></li>
+<li>Franklin Webber - <a href="https://github.com/burtlo">github</a>, <a href="https://twitter.com/franklinwebber">twitter</a></li>
+<li>Nathen Harvey - <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What is <a href="https://learn.chef.io/">Learn Chef Rally</a>?</li>
+<li>Approaching Learn Chef Rally: Tracks and Modules</li>
+<li>The Badges and Badge System; Gamification</li>
+<li>Is an account required?, Tracking Your Progess</li>
+<li>Popular and Favorite Tracks and Modules</li>
+<li>Is Learn Chef Rally sufficient preparation for the Chef Certification exams?</li>
+<li>What types of Chef Certifications are available?
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=-yTeXCY3iM0">Kelsey Hightower's ChefConf 2017 Keynote</a></li>
+</ul>
+</li>
+<li>Advice for How to Get Started with Chef
+
+<ul>
+<li><a href="mailto:training@chef.io">traning@chef.io</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Creignton:</h3>
+
+<ul>
+<li><a href="https://github.com/Miserlou/Zappa">Zappa</a></li>
+</ul>
+
+
+<h3>Thomas:</h3>
+
+<ul>
+<li>Sour Beer</li>
+<li><a href="https://en.wikipedia.org/wiki/Melvins">The Melvins</a></li>
+<li>WWE Steel Chair</li>
+</ul>
+
+
+<h3>Frank:</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GLOW_(TV_series">GLOW</a>)</li>
+</ul>
+
+
+<h3>Andrew:</h3>
+
+<ul>
+<li><a href="https://boardgamegeek.com/boardgame/218333/rhino-hero-super-battle">Rhino Hero: Super Battle</a></li>
+<li><a href="https://github.com/bloomberg/chef-umami">chef-umami</a></li>
+<li><a href="https://github.com/kennethreitz/pipenv">pipenv</a></li>
+</ul>
+
+
+<h3>Nathen:</h3>
+
+<ul>
+<li><a href="https://www.chef.io/summits/">Chef Community Summits</a></li>
+<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp EU</a></li>
+<li><a href="http://community-slack.chef.io/">The Chef Community Slack</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://youtu.be/0GqxQn8Sa1c">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS112.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chefconf 2013: Day 1 Wrap up]]></title>
+    <link href="http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up.html"/>
+    <updated>2013-04-26T17:12:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/04/chefconf-2013-day-1-wrap-up</id>
+    <content type="html"><![CDATA[<p>Show Date:  25 April 2013</p>
+
+<p>This is the inaugural FoodShipShow Joint Production!</p>
+
+<p>You can now <a href="http://bit.ly/ffsmail">subscribe to the Food Fight Show email newsletter</a>.</p>
+
+<ul>
+<li>Download <a href="http://traffic.libsyn.com/foodfight/ffs_chefconf_day1_2.mp3">Audio</a></li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Sascha Bates <a href="http://twitter.com/sascha_d">@sascha_d</a></li>
+<li>J. Paul Reed <a href="http://twitter.com/SoberBuildEng">@SoberBuildEng</a></li>
+<li>Youssuf El-Kalay
+<a href="http://twitter.com/buildscientist">@buildscientist</a></li>
+<li>Ranjib Dey <a href="http://twitter.com/RanjibDey">@RanjibDey</a></li>
+<li>Seth Thomas <a href="http://twitter.com/cheeseplus">@cheeseplus</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/ffs_chefconf_day1_2.mp3">Download the Audio file</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Food Fight Show - Year Two]]></title>
+    <link href="http://foodfightshow.org//2013/01/food-fight-show-year-two.html"/>
+    <updated>2013-01-02T11:09:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/01/food-fight-show-year-two</id>
+    <content type="html"><![CDATA[<p>Show Date:  2 January 2013</p>
+
+<p>This episode is a look back at the Food Fight Show in 2012 and a discussion
+of the changes planned for 2013.  The episode was recorded as a Google+
+Hangout and streamed live on YouTube.</p>
+
+<p>You can now <a href="http://bit.ly/ffsmail">subscribe to the Food Fight Show email newsletter</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/01/food-fight-show-year-two.html#video">Video</a></li>
+<li><a href="http://foodfightshow.org/2013/01/food-fight-show-year-two.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/01/food-fight-show-year-two.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-35-A-Year-in-Review.mp3">Audio</a></li>
+<li><a href="http://www.youtube.com/watch?v=g58tMXfE3CY">Video Stream</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Watch Now<a name="video"></a></h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/g58tMXfE3CY" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Learning Chef</h3>
+
+<p>Nathen has started a
+<a href="http://nathenharvey.com/blog/2012/12/06/learning-chef-part-1/">blog series</a>
+aimed at helping new people get up and running with Chef.  We discussed the
+series a bit in the episode.</p>
+
+<h3>Food Fight Show in 2012</h3>
+
+<p>Thank you for your support of the podcast this year!  We released 57
+episodes and have seen about 40,000 downloads.  That's about 700 downloads
+for each episode.  We hosted 4 Google+ Hangouts which have about 900
+views.  We've enjoyed the Hangouts so much that we decided to use a Google+
+Hangout, instead of Skype, to facilitate our <a href="http://foodfightshow.org/2012/12/ops-school-and-training-sysadmins.html">last episode of the year</a>.
+This episode was <a href="http://www.youtube.com/watch?v=zpbr8F2RGBs">streamed live to YouTube</a>
+and released as an audio podacast.</p>
+
+<h4>Top Episodes</h4>
+
+<p>Want to relive some of the best episodes from 2012?  Here's a list of our
+five favorite episodes in the order they were aired:</p>
+
+<ol>
+<li><a href="http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html">Episode 11: Etsy Examined, How the Best Do Their Business</a></li>
+<li><a href="http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html">Episode 14: Post-Mortems with David Zwieback, John Allspaw, and Mike Rembetsy</a></li>
+<li><a href="http://foodfightshow.org/2012/06/episode-18-monitoringsucks-with-lusis.html">Episode 18: Monitoringsucks</a></li>
+<li><a href="http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html">Episode 24: Jamie Winsor and Michael Ivey on Berkshelf</a></li>
+<li><a href="http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html">Episode 25: ChatOps at Github with Jesse Newland</a></li>
+</ol>
+
+
+<h3>Listener Survey</h3>
+
+<p>We recently opened up a <a href="http://bit.ly/ffssurvey">listener poll</a> to gather
+some feedback from you on how we can make the show even more awesome in
+2013.</p>
+
+<p>A quick summary of the <a href="https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf">survey results is now available</a>.
+Thanks to everyone who participated.</p>
+
+<h3>Hopes and dreams for 2013</h3>
+
+<ul>
+<li>Orchestration for deploys and better orchestration in general</li>
+<li>Opscode provides test-kitchen CI to cookbooks developed by the community - as a service, across at least debian + redhat, but bsd support would be awesome</li>
+<li>Some consensus on cookbook workflow(s)</li>
+<li>erChef is widely deployed, implemented, and battle-hardened</li>
+<li>Regional 1 day mini conferences and at least one in Europe!</li>
+<li>A quantum leap in the Chef training suite, docs.opscode.com is good but just a start</li>
+</ul>
+
+
+<h3>Changes for 2013</h3>
+
+<p>As we look forward to 2013, there are a couple of things that we're going
+to change:</p>
+
+<ol>
+<li>Whenever feasible, episodes will now be recorded via Google+ Hangout
+with a live stream posted to YouTube.</li>
+<li>We will try to keep length of the what's cookin' plus topic discussion
+to about one hour. The Picks section is our time to be self-indulgent and
+it may spill over one hour. You are welcome to hit the stop button at that
+point and switch to something more substantive.</li>
+<li>We will start a regular Food Fight Show newsletter which will include
+the content from the What's Cookin' section and any other noteworthy
+items.
+You can <a href="http://bit.ly/ffsmail">subscribe to the newsletter now</a>.</li>
+<li>Alternate episodes w/ interactive hangouts??</li>
+<li>Bryan will make a conscious effort to interrupt the guests less</li>
+<li>The Food Fight theme song is awesome but many of our hosts and
+panelists are music lovers.  We'll start using different music between
+What's Cookin' and the Interview and new music at the close of the
+show.
+We'll ask our guests for suggestions or pull a gem out of our hosts'
+playlists.</li>
+</ol>
+
+
+<p>The <a href="https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf">listener survey</a>
+gave us some ideas about what sort of topics you'd like to see covered on
+the show.  We'll work to line-up those topics and would really appreciate
+your help in doing so.  Is there someone you really want to hear from?  A
+topic you'd really like to see covered?  Please let us know!</p>
+
+<h2>Thank You!</h2>
+
+<p>We really appreciate all of the time you've put in listening to the show in
+2012.  We hope to see you at <a href="http://chefconf.opscode.com">#ChefConf 2013</a>
+and other conferences throughout the year.</p>
+
+<p>Thanks to all of our AWESOME guests through out the year!</p>
+
+<p>We'd also like to thank <a href="http://www.opscode.com">Opscode</a> for their
+continued support of the show.  They cover our hosting and bandwidth costs
+and allow their employees to participate on the show on a regular basis.</p>
+
+<p>Keep it hot!<br/>
+Bryan &amp; Nathen</p>
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=g58tMXfE3CY">Watch the YouTube video</a> of
+the episode.</li>
+<li><a href="http://traffic.libsyn.com/foodfight/Food-Fight-Show-35-A-Year-in-Review.mp3">Download the Audio file</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

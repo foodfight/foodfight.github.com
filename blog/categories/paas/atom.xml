@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: paas | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/paas/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ken Robertson on Go, Cloudfoundry, and Chef]]></title>
+    <link href="http://foodfightshow.org//2012/10/ken-robertson-on-go.html"/>
+    <updated>2012-10-01T18:26:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/10/ken-robertson-on-go</id>
+    <content type="html"><![CDATA[<ul>
+<li><p><a href="http://foodfightshow.org/2012/10/ken-robertson-on-go.html#panel">Panel</a></p></li>
+<li><p>Ken Robertson <a href="https://github.com/krobertson">github</a>,
+<a href="http://twitter.com/krobertson">twitter</a>,
+<a href="http://invalidlogic.com/">blog</a></p></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/devops-delicacy-03_2.mp3">Download</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Download</h2>
+
+<p>Ken Robertson on Go, Cloudfoundry, and Chef:  <a href="http://traffic.libsyn.com/foodfight/devops-delicacy-03_2.mp3">Download here</a></p>
+
+<p>Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a>.</p>
+
+<p>Be sure to follow <a href="http://twitter.com/foodfightshow">@foodfightshow on twitter</a> and to rate us on itunes!</p>
+]]></content>
+  </entry>
+  
+</feed>

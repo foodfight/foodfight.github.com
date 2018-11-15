@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: learning reviews | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/learning-reviews/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Reviews]]></title>
+    <link href="http://foodfightshow.org//2015/10/learning-reviews.html"/>
+    <updated>2015-10-23T08:42:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/10/learning-reviews</id>
+    <content type="html"><![CDATA[<p>Join us for a discussion of Learning Reviews.  What and how can we learn from failure?</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2z5zqY6398U" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/10/learning-reviews.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/10/learning-reviews.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/10/learning-reviews.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/2z5zqY6398U">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-95-learning-reviews.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Dave Zwieback <a href="https://twitter.com/mindweather">twitter</a>, <a href="http://mindweather.com/">blog</a>, <a href="https://github.com/mindweather">github</a></li>
+<li>Caitlin Milligan Sheaffer <a href="https://twitter.com/itscaitlin">twitter</a></li>
+<li>Lola Soto <a href="https://twitter.com/lolasoto">twitter</a></li>
+<li>Christopher Webber <a href="https://github.com/cwebberops">github</a>, <a href="https://twitter.com/cwebber">twitter</a></li>
+<li>Yulia Sheynkman <a href="https://about.me/yulias">about</a></li>
+<li>Robb Kidd <a href="https://github.com/robbkidd">github</a>, <a href="https://twitter.com/robbkidd">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li><a href="http://www.amazon.com/Beyond-Blame-Learning-Failure-Success/dp/1491906413/ref=sr_1_1?ie=UTF8&amp;qid=1446471230&amp;sr=8-1&amp;keywords=Dave+Zwieback">Beyond Blame: Learning From Failure and Success by Dave Zwieback</a></li>
+<li>Learning Reviews vs Performance Reviews and Postmortems</li>
+<li>Blameless Postmortems</li>
+<li>The History of the Book and The Postmortems Workshops</li>
+<li>Lola's Postmortem Workshop Experience</li>
+<li>Identifying and Preventing Blame</li>
+<li>Accountability</li>
+<li>Prioritization</li>
+<li>Tradeoffs</li>
+<li>Understanding Risk</li>
+<li>Discount Rank (Why is an executive in the room?)</li>
+<li>Where do you start?</li>
+<li>Closing Comments
+
+<ul>
+<li>Postmortems reveal a lot of opportunities for organizational change. There is ideally a channel for directing this to the right team. (And someone empowered/able to manage that process)</li>
+<li>Maybe you'd have an executives-only learning review about, say, a recent board meeting</li>
+<li>Assess the degree of organizational maturity when figuring out how to set up learning reviews for success.</li>
+</ul>
+</li>
+<li>Other Resources:
+
+<ul>
+<li><a href="http://www.symantec.com/connect/blogs/tough-day-leaders">A Tough Day as Leaders</a></li>
+<li><a href="http://www.mindweather.com/">MINDWEATHER</a> - Follow Dave and learn about upcoming workshops</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Dave</h3>
+
+<ul>
+<li><a href="http://bit.ly/beyondblame">Beyond Blame: Learning from Failure and Success</a></li>
+</ul>
+
+
+<h3>Nathen</h3>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html">Food Fight Show 14 - Live Post-Mortem With David Zwieback, John Allspaw, and Mike Rembetsy</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/community-pulse/id1045213365?mt=2">Community Pulse podcast</a></li>
+</ul>
+
+
+<h3>Mike</h3>
+
+<ul>
+<li><a href="https://www.blueapron.com/">Blue Apron</a></li>
+<li><a href="http://www.wusthof.com/usa/index.jsp">Wüsthof Knives</a></li>
+</ul>
+
+
+<h3>Robb</h3>
+
+<ul>
+<li>Dave's new book!</li>
+<li><a href="http://shop.oreilly.com/product/0636920036159.do">Incident Management for Operations</a> by Rob Schnepp, Ron Vidal, and Chris Hawley (in early release at O'Reilly)</li>
+<li><a href="http://smalltownbrewery.com/our-beers/">Not Your Father's Root Beer</a> by Small Town Brewery</li>
+</ul>
+
+
+<h3>Christopher</h3>
+
+<ul>
+<li><a href="http://www.amazon.com/Silos-Politics-Turf-Wars-Competitors/dp/0787976385/ref=sr_1_1?ie=UTF8&amp;qid=1446121927&amp;sr=8-1&amp;keywords=silos+politics+and+turf+wars">Silos, Politics, and Turf Wars</a></li>
+<li><a href="http://enjoyby.stonebrewing.com/stone-enjoy-103115-ipa">Enjoy By IPA by Stone Brewing</a></li>
+<li><a href="https://www.chef.io/delivery">Chef Delivery</a></li>
+</ul>
+
+
+<h3>Yulia</h3>
+
+<ul>
+<li>Bone broth</li>
+<li><a href="http://www.amazon.com/gp/product/B005EHQAHG/ref=dp-kindle-redirect?ie=UTF8&amp;btkr=1">Elephant in the Room: How Relationships Make or Break the Success of Leaders and Organizations, Diana MacLane Smith</a></li>
+<li><a href="http://www.amazon.com/gp/product/B00DMCV0XE/ref=dp-kindle-redirect?ie=UTF8&amp;btkr=1">Thanks for the Feedback, Douglas Stone</a></li>
+</ul>
+
+
+<h3>Caitlin</h3>
+
+<ul>
+<li><a href="http://bureauofdigital.com/summits/digital-pm/">Digital PM Summit from the Bureau of Digital</a></li>
+<li><a href="http://www.hamiltonbroadway.com/">Hamilton</a>, a musical, and <a href="https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc">the Broadway cast recording on Spotify</a></li>
+</ul>
+
+
+<h3>Lola</h3>
+
+<ul>
+<li><a href="http://www.amazon.com/gp/product/B002361MLA/ref=dp-kindle-redirect?ie=UTF8&amp;btkr=1">The Power of Now, Eckhart Tolle</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/2z5zqY6398U">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-95-learning-reviews.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

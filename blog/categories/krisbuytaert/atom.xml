@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: krisbuytaert | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/krisbuytaert/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Configuration Management Camp 2016]]></title>
+    <link href="http://foodfightshow.org//2016/02/configuration-management-camp-2016.html"/>
+    <updated>2016-02-08T12:19:00-05:00</updated>
+    <id>http://foodfightshow.org//2016/02/configuration-management-camp-2016</id>
+    <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2016</a> recorded live at the end of the conference.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShowCfgMgmtCamp2016.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>James Shubin - <a href="https://twitter.com/purpleidea">twitter</a></li>
+<li>Kris Buytaert - <a href="https://twitter.com/krisbuytaert">twitter</a></li>
+<li>Seth Thomas <a href="https://github.com/cheeseplus">github</a>, <a href="https://twitter.com/cheeseplus">twitter</a></li>
+<li>Donnie Berkholz <a href="https://twitter.com/dberkholz">twitter</a></li>
+<li>Ian Penney <a href="https://twitter.com/cr03">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>The History of Configuration Management Camp</li>
+<li>Configuration Management Camp Experiences
+
+<ul>
+<li><a href="https://fosdem.org/2016/">FOSDEM</a></li>
+</ul>
+</li>
+<li>Tracks &amp; Ignite Talks</li>
+<li><a href="https://github.com/purpleidea/mgmt">MGMT Project</a></li>
+<li>Config Management Camp '15 vs Config Management Camp '16</li>
+<li><a href="https://en.wikipedia.org/wiki/IBM_AIX">AIX</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShowCfgMgmtCamp2016.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Configuration Management Camp]]></title>
+    <link href="http://foodfightshow.org//2015/02/configuration-management-camp.html"/>
+    <updated>2015-02-11T10:34:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/02/configuration-management-camp</id>
+    <content type="html"><![CDATA[<p>A wrap-up of <a href="http://cfgmgmtcamp.eu">Configuration Management Camp 2015</a> recorded live at the end of the conference.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/02/configuration-management-camp.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Kara Sowles - <a href="https://twitter.com/feynudibranch">twitter</a></li>
+<li>Gareth Rushgrove - <a href="https://twitter.com/garethr">twitter</a></li>
+<li>James Shubin - <a href="https://twitter.com/purpleidea">twitter</a></li>
+<li>Andrew Clay Shafer - <a href="https://twitter.com/littleidea">twitter</a></li>
+<li>Kris Buytaert - <a href="https://twitter.com/krisbuytaert">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Panel Intros</li>
+<li><a href="https://itunes.apple.com/us/podcast/puppet-labs-podcast/id546792095">The Puppet Podcast</a></li>
+<li>The Genesis of ConfigManagementCamp</li>
+<li>8 Track Conference in <a href="http://www.visitgent.be/en/home">Gent, Belgium</a> from February 2-3 2015</li>
+<li><a href="https://fosdem.org/">FOSDEM Conference</a></li>
+<li>Differences between this year's conference and last year's</li>
+<li>Life of a Community Manager</li>
+<li>FOSDEM vs ConfigManagementCamp</li>
+<li><a href="http://monitorama.com/">Monitorama</a></li>
+<li>Containerization</li>
+<li>Virtualization</li>
+<li>Widespread Maturity</li>
+<li>Building Images in <a href="https://www.docker.com/">Docker</a></li>
+<li>Tools and Solving Higher Level Problems</li>
+<li>Controversial Topics:
+
+<ul>
+<li>Config management is a solved problem.</li>
+<li>Talks responding to talks.</li>
+<li>The future of configuration management.</li>
+<li>Distributed systems and ways to kill central orchestration.</li>
+<li>Orchestration is a smell.</li>
+<li>Dev and Ops hate each other.</li>
+</ul>
+</li>
+<li>Chef in Europe</li>
+<li>Getting good as being a distributed community => Should we do a North American ConfigManagementCamp??</li>
+<li>Does geography and culture impact adoption?</li>
+<li>Honesty, sharing, and vulnerability</li>
+<li>Keep it niche; keep pushing forward
+W* here does ZooKeeper fit in?</li>
+<li>Technology Transition</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Best Practices with Chef]]></title>
+    <link href="http://foodfightshow.org//2013/12/best-practices-with-chef.html"/>
+    <updated>2013-12-03T11:22:00-05:00</updated>
+    <id>http://foodfightshow.org//2013/12/best-practices-with-chef</id>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/6mpZLEIzx-c" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/12/best-practices-with-chef.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/12/best-practices-with-chef.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/12/best-practices-with-chef.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow69-Chef-Best-Practices.mp3">Audio</a></li>
+<li><a href="http://youtu.be/6mpZLEIzx-c">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Dylan Northrup <a href="https://twitter.com/dylannorthrup">twitter</a>, <a href="https://github.com/dylannorthrup">github</a>, <a href="http://doc-x.net/blog/node/48">blog</a></li>
+<li>Kris Buytaert <a href="https://twitter.com/KrisBuytaert">twitter</a>, <a href="https://github.com/KrisBuytaert">github</a>, <a href="http://www.krisbuytaert.be/blog/">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a></li>
+<li>Tom Robison <a href="https://twitter.com/thomasrobison">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h4>FOSDEM &amp; Configuration Management Camp EU</h4>
+
+<p>Kris joins us to discuss FOSDEM and the Configuration Management Camp conferences.  CFP for the FOSDEM <a href="https://penta.fosdem.org/submission/FOSDEM14">Configuration Management Dev Room closes on 8 Dec</a> and the <a href="http://cfgmgmtcamp.eu/">CFP for Configuration Management Camp</a> closes on 15 December.  Submit your talks today!</p>
+
+<p>Fletcher Nichol and <a href="http://www.opscode.com/blog/2013/12/03/announcing-the-release-of-test-kitchen-1-0-0/">Test Kitchen 1.0</a>! Check out the <a href="http://kitchen.ci/docs/getting-started/">Getting Started Guide</a>!</p>
+
+<ul>
+<li>Introductions</li>
+<li>Best Practices
+
+<ul>
+<li>Whipuptitude! i.e. the aptitude for whipping things up</li>
+<li>Reasonability</li>
+<li>Sane Defaults</li>
+<li>Flexibility</li>
+<li>Manipulexity - Manipulation of Complex Things</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Shuhari">Shuhari</a>
+
+<ul>
+<li>shu - "obey" - traditional wisdom</li>
+<li>ha - "detach" - break with tradition</li>
+<li>ri - "separate" - transcend</li>
+<li>first learn, then detach, and finally transcend</li>
+</ul>
+</li>
+<li>Ruby DSL or JSON DSL?
+
+<ul>
+<li>Roles</li>
+<li>Environments</li>
+<li>Metadata</li>
+</ul>
+</li>
+<li>Use Roles or not?
+
+<ul>
+<li><a href="http://www.opscode.com/blog/2013/11/19/chef-roles-arent-evil/">Julian Dunn: Chef Roles Aren’t Evil</a></li>
+</ul>
+</li>
+<li>Should an individual node have more than one item in its run-list?</li>
+<li>Nesting Roles</li>
+<li>Environment Specific Run-lists</li>
+<li>Getting Help</li>
+<li>Source Code Management
+
+<ul>
+<li>is git THE answer?</li>
+</ul>
+</li>
+<li>Attirbute precedence levels - there are 15. Which should be used / avoided?
+
+<ul>
+<li>Scalar Values, Arrays &amp; Hashes</li>
+</ul>
+</li>
+<li>Databags &amp; Sensitive Data
+
+<ul>
+<li>Use or not?</li>
+<li>Encrypted Data Bags - when, where, and how is it appropriate to use them?</li>
+<li>Encrypted Data Bags, <a href="https://github.com/Nordstrom/chef-vault">Chef Vault</a> - how to decide best solution?</li>
+<li><a href="http://foodfightshow.org/2013/07/secret-chef.html">Food Fight Show on Chef Vault</a></li>
+</ul>
+</li>
+<li>Community / Reusable Cookbooks
+
+<ul>
+<li>Are reusable cookbooks a myth?</li>
+<li>Cross-platform cookbooks?</li>
+<li>Cookbooks without recipes</li>
+<li><a href="http://www.opscode.com/blog/2013/11/26/community-cookbooks/">Community Cookbooks blog post</a></li>
+</ul>
+</li>
+<li>Ruby!
+
+<ul>
+<li><a href="https://github.com/sstephenson/rbenv">rbenv</a>, <a href="https://github.com/postmodern/chruby">chruby</a>, <a href="https://rvm.io/">rvm</a> or <a href="https://github.com/opscode/omnibus-ruby">omnibus ruby</a>?</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://i.imgur.com/41mGmuu.gif">this gif</a></li>
+<li><a href="http://blog.gopheracademy.com/index">GoAdvent 2013</a></li>
+<li><a href="http://sysadvent.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&amp;updated-max=2014-01-01T00:00:00-05:00&amp;max-results=5">SysAdvent 2013</a></li>
+</ul>
+
+
+<h4>Dylan</h4>
+
+<ul>
+<li><a href="http://hextcg.com/">Hex TCG</a> - Digital Trading Card Game. Currently in Alpha, but available to folks who backed their Kickstarter and folks who donate.</li>
+<li><a href="http://www.tested.com/">Tested.com</a> - Geeky maker focused site done in conjunction with Adam Savage and Jamie Hyneman from the Mythbusters.</li>
+</ul>
+
+
+<h4>Kris</h4>
+
+<ul>
+<li><a href="http://www.duvel.com/">Duvel</a></li>
+<li><a href="http://www.amazon.com/In-Search-Certainty-Information-Infrastructure-ebook/dp/B00ENEEWYO">In Search of Certainty - The Science of Our Information Infrastructure by Mark Burgess</a></li>
+<li><a href="http://www.degekroondehoofden.be/">De Gekroonde Hoofden</a></li>
+</ul>
+
+
+<h4>Julian</h4>
+
+<ul>
+<li><a href="http://opscode.github.io/bento/">Bento</a></li>
+<li><a href="http://www.freebsd.org/">FreeBSD</a></li>
+<li><a href="http://itp.nyu.edu/shows/winter2013/category/projects">NYU ITP Winter Show</a></li>
+</ul>
+
+
+<h4>Tom</h4>
+
+<ul>
+<li><a href="https://github.com/poise/poise">The poise Cookbook</a></li>
+<li><a href="http://www.ratebeer.com/beer/boulevard-unfiltered-wheat-beer/114/">Boulevard Wheat Beer</a></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html">Foodfight Future of DevOps</a></li>
+<li>Bob Lee's presentation <a href="http://www.infoq.com/presentations/Square">Engineering Excellence</a> on Square's technology stack</li>
+<li><a href="https://github.com/guari/eclipse-ui-theme">Eclipse Moonrise</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://www.socallinuxexpo.org/scale12x/">SCaLE 12x</a> - CFP is closing on 15 December.</li>
+<li><a href="http://chefconf.com">#ChefConf 2014</a> - CFP closes in mid-January.  Ticket prices go up at the end of the calendar year so lock-in the best rate now.</li>
+<li><a href="http://www.opscode.com/blog/2013/11/26/community-cookbooks/">Community Cookbooks blog post</a></li>
+</ul>
+
+
+<h4>Fletcher</h4>
+
+<ul>
+<li><a href="http://kitchen.ci/docs/getting-started/">The Test Kitchen Getting Started Guide</a></li>
+<li><a href="http://serverspec.org">serverspec</a></li>
+<li><a href="http://itrevolution.com/books/phoenix-project-devops-book/">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business</a> also <a href="http://foodfightshow.org/2013/03/the-phoenix-project.html">Food Fight Show: The Phoenix Project</a>! =D</li>
+</ul>
+
+
+<h3>Lusis</h3>
+
+<ul>
+<li><a href="https://github.com/opscode/omnibus-ruby/blob/master/README.md">Omnibus</a></li>
+<li><a href="http://www.lua.org/">Lua</a></li>
+</ul>
+
+
+<h3>John</h3>
+
+<ul>
+<li><a href="https://github.com/sethvargo/chef-sugar">chef-sugar</a></li>
+<li><a href="https://github.com/fnichol/chef-rbenv">chef-rbenv</a></li>
+<li>Customizing Chef!</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow69-Chef-Best-Practices.mp3">Audio</a></li>
+<li><a href="http://youtu.be/6mpZLEIzx-c">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

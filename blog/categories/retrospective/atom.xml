@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: retrospective | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/retrospective/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Three Year Retrospective]]></title>
+    <link href="http://foodfightshow.org//2015/01/three-year-retrospective.html"/>
+    <updated>2015-01-20T10:59:00-05:00</updated>
+    <id>http://foodfightshow.org//2015/01/three-year-retrospective</id>
+    <content type="html"><![CDATA[<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/o4Qz1mHTpE4" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2015/01/three-year-retropective.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2015/01/three-year-retropective.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2015/01/three-year-retropective.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/o4Qz1mHTpE4">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow86-ThreeYearRetrospective.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Matt Ray <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>John Vincent, aka Lusis <a href="https://twitter.com/#!/lusis">twitter</a>, <a href="https://github.com/lusis">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>How The Food Fight Show got started</li>
+<li>Favorite Episodes:
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/05/testing-in-practice.html">Testing in Practice</a></li>
+<li><a href="http://foodfightshow.org/2012/04/episode-8-back-to-kernel-with-greg.html">Back to the Kernel With Greg Kroah-Hartman</a></li>
+<li><a href="http://foodfightshow.org/2012/04/episode-10-testallthethings-testing.html">TESTALLTHETHINGS: Testing Infrastructure with Jim Hopp, Stephen Nelson-Smith, and Andrew Crump</a></li>
+<li><a href="http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html">Live Post-Mortem With David Zwieback, John Allspaw, and Mike Rembetsy</a></li>
+<li>Adrian Cockcroft Episode => <a href="http://foodfightshow.org/2013/05/netflix-oss.html">Netflix OSS</a></li>
+<li>Steven Murawski Episode => <a href="http://foodfightshow.org/2014/10/windows-automation-for-angry-neckbeards.html">Windows Automation for Frustrated Sysadmins</a></li>
+<li>Nordstrom Episode => <a href="http://foodfightshow.org/2013/01/windows-roundtable.html">Windows Roundtable</a></li>
+<li>Live Episodes</li>
+<li><a href="http://foodfightshow.org/2013/03/lwrps.html">LWRPs</a></li>
+<li><a href="http://foodfightshow.org/2013/01/application-deployment.html">Application Deployment</a></li>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html">Continuous Delivery</a></li>
+</ul>
+</li>
+<li>What has gotten better in the DevOps community since the show started?
+
+<ul>
+<li>Diversity</li>
+<li>The rise of "Small Town" <a href="http://www.devopsdays.org/">DevOps Days</a></li>
+</ul>
+</li>
+<li>The DevOps Debate
+
+<ul>
+<li>"DevOps" across the industry</li>
+<li>WHAT DOES "DEVOPS" MEAN?!?!?!</li>
+<li>Improving knowledge</li>
+<li>Continuous improvement: The new "CI"</li>
+<li><a href="https://twitter.com/RealGeneKim">Gene Kim (Twitter)</a></li>
+</ul>
+</li>
+<li>Grievances
+
+<ul>
+<li>Priveledge, Flexibility, &amp; Time</li>
+<li>The passing of <a href="http://en.wikipedia.org/wiki/James_Golick">James Golick</a>, <a href="https://twitter.com/ezmobius">Ezra Zygmuntowicz</a>, and <a href="http://en.wikipedia.org/wiki/Jim_Weirich">Jim Weirich</a></li>
+<li>Linux is becoming dominant</li>
+<li><a href="http://www.openstack.org/">OpenStack</a></li>
+<li>"Working Code Builds Consensus" -- Jesse Robins</li>
+<li>Neglecting the humanity: We are PEOPLE too!</li>
+<li>No managers?</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Brandon</h4>
+
+<ul>
+<li><a href="http://blog.jonliv.es/remote-working-3-year-retrospective/">Jon Cowie: Remote Working: 3 Year Retrospective</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Start
+
+<ul>
+<li>scheduling more regular Food Fight Show episodes</li>
+<li>Have a Book Club series: <a href="http://www.poodr.com/">POODR: Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz</a>.</li>
+</ul>
+</li>
+<li>Stop
+
+<ul>
+<li>having panels that are all white men.</li>
+</ul>
+</li>
+<li>Continue
+
+<ul>
+<li>Having discussions about technology.</li>
+<li>doing Chef-specific episodes.</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Matt</h4>
+
+<ul>
+<li><a href="http://softwaredefinedtalk.com/">SoftwareDefinedTalk</a></li>
+<li><a href="http://www.amazon.com/The-Everything-Store-Bezos-Amazon/dp/0316219266">The Everything Store: Jeff Bezos and the Age of Amazon</a></li>
+<li>Your Local Library</li>
+</ul>
+
+
+<h4>John</h4>
+
+<ul>
+<li><a href="http://www.logitech.com/en-us/product/k750-keyboard">Logitech Wireless Solar Keyboard K750</a></li>
+</ul>
+
+
+<h4>Mike</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/gp/product/B004J4WKUQ?btkr=1">Ready Player One by Ernest Cline</a></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://click.pocoo.org/3/">The Click Library from Python</a></li>
+<li><a href="https://github.com/airlift/airline">airline</a></li>
+<li><a href="http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html">Java 8</a></li>
+<li><a href="http://twitter.com/nathenharvey">Nathen Harvey</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/o4Qz1mHTpE4">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow86-ThreeYearRetrospective.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

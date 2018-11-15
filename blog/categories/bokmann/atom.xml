@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: bokmann | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/bokmann/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps Delicacy - Chef Introductory Workshop with David Bock]]></title>
+    <link href="http://foodfightshow.org//2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html"/>
+    <updated>2012-07-14T09:11:00-04:00</updated>
+    <id>http://foodfightshow.org//2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock</id>
+    <content type="html"><![CDATA[<p>Show Date:  Friday, 13 Jul 2012</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html#outline">Outline</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-Delicacy-IntroToChefCourse.mp3">Download</a></li>
+</ul>
+
+
+<p><strong>Show note</strong> Apologies for the background noise in the second and third interview sessions.</p>
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>David Bock <a href="https://github.com/bokmann">github</a>, <a href="https://twitter.com/bokmann">twitter</a>, <a href="http://blogs.codesherpas.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<p>For this DevOps Delicacy, Nathen met with <a href="https://github.com/bokmann">David Bock</a> to talk about the Chef Introductory Workshop.  We met before, during, and after the course and discussed David's expectations of the class, prior experience with Chef, thoughts on the class and more.</p>
+
+<h2>Download</h2>
+
+<p>DevOps Delicacy - Chef Introductory Workshop with David Bock:  <a href="http://traffic.libsyn.com/foodfight/FoodFightShow-Delicacy-IntroToChefCourse.mp3">Download here</a></p>
+]]></content>
+  </entry>
+  
+</feed>

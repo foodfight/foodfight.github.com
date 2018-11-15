@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: arlimus | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/arlimus/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[InSpec]]></title>
+    <link href="http://foodfightshow.org//2016/02/inspec.html"/>
+    <updated>2016-02-21T21:51:00-05:00</updated>
+    <id>http://foodfightshow.org//2016/02/inspec</id>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/RraZsq6C42s" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Join us for a discussion about <a href="http://github.com/chef/inspec">InSpec</a>, the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/02/inspec.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/02/inspec.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2016/02/inspec.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://www.youtube.com/embed/RraZsq6C42s">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-99-inspec.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Christoph Hartmann <a href="https://github.com/chris-rock">github</a>, <a href="https://twitter.com/chri_hartmann">twitter</a></li>
+<li>Dominik Richter <a href="https://github.com/arlimus">github</a>, <a href="https://twitter.com/arlimus">twitter</a></li>
+<li>Gary Bright <a href="https://github.com/username-is-already-taken2">github</a> <a href="https://twitter.com/digitalgaz">twitter</a></li>
+<li>Paul Welch <a href="https://github.com/pwelch">github</a>, <a href="https://twitter.com/pwelch">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>What's Cooking? - Chef News &amp; Events</h3>
+
+<ul>
+<li>Webinars:
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/webinar-test-driven-cookbook-development/">Test Driven Cookbook Development</a> - February 24</li>
+<li><a href="https://www.chef.io/blog/event/webinar-chef-workflow">Chef Workflow</a> - March 9</li>
+</ul>
+</li>
+<li>Upcoming Chef Training
+
+<ul>
+<li>Chef Essentials
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-san-francisco-5">San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-atlanta-2">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-seattle-6/">Seattle</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-boston-2/">Boston</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-hyderabad-2/">Hyderabad</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-essentials-san-francisco-6/">San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-61/">Online</a></li>
+</ul>
+</li>
+<li>Chef Intermediate Topics
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-atlanta-6">Atlanta</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-boston-4/">Boston</a></li>
+<li><a href="https://www.chef.io/blog/event/chef-intermediate-topics-san-francisco-17/">San Francisco</a></li>
+<li><a href="https://www.chef.io/blog/venue/online-64/">Online</a></li>
+</ul>
+</li>
+<li>Test-driven Cookbook Development - New offering
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/test-driven-cookbook-development-online-europe/">Online</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>From the Chef Blog
+
+<ul>
+<li><a href="https://www.chef.io/blog/2016/02/19/chefdk-0-11-release-announcement/">Chef Development Kit 0.11</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/18/chef-analytics-1-3-0-release/">Chef Analytics 1.3.0 Release</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/18/server-admins-grant-more-flexible-permissions-around-user-management/">Server Admins Grant More Flexible Permissions Around User Management</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/12/chef-client-12-7-released/">Chef Client 12.7 Released</a></li>
+<li><a href="https://www.chef.io/blog/2016/02/09/chef-compliance-0-11-1-release/">Chef Compliance 0.11.1 release</a>
+
+<ul>
+<li><a href="https://downloads.chef.io/compliance/">Chef Compliance 0.14.5</a> is now available!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>From the <a href="https://discourse.chef.io/">mailing list</a> - <a href="https://discourse.chef.io/">https://discourse.chef.io/</a>
+
+<ul>
+<li><a href="https://discourse.chef.io/t/new-releases-of-delivery-truck-and-delivery-sugar/7846">New releases of delivery-truck and delivery-sugar</a></li>
+</ul>
+</li>
+<li>New on the supermarket
+
+<ul>
+<li>Recent Cookbooks
+
+<ul>
+<li><a href="https://supermarket.chef.io/cookbooks/sssd_ad">sssd_ad v0.6.0</a> -  installs SSSD on a Ubuntu system and configures it for Active Directory authentication</li>
+<li><a href="https://supermarket.chef.io/cookbooks/flywaydb">flywaydb v3.0.0</a> - Installs flywaydb and allows for execution of flyway commands via resource actions.</li>
+<li><a href="https://supermarket.chef.io/cookbooks/chef_install_configure_collectd">chef_install_configure_collectd v0.1.3</a> - a set of recipes to install and configure collectd</li>
+<li><a href="https://supermarket.chef.io/cookbooks/gimp">gimp v1.0.1</a> - installs GIMP</li>
+<li><a href="https://supermarket.chef.io/cookbooks/netapp_e">netapp_e v1.1.0</a> - Manages NetApp E-Series storage systems</li>
+<li><a href="https://supermarket.chef.io/cookbooks/divvy">divvy v0.2.1</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/ceph-chef">ceph-chef v0.9.8</a> - Installs/Configures Ceph (Hammer and above)</li>
+<li><a href="https://supermarket.chef.io/cookbooks/seven_zip">seven_zip v2.0.0</a> - Installs/Configures the 7-zip file archiver and provides the <code>seven_zip_archive</code> resource</li>
+<li><a href="https://supermarket.chef.io/cookbooks/sumologic-collector">sumologic-collector v1.2.4</a></li>
+<li><a href="https://supermarket.chef.io/cookbooks/dynatrace">dynatrace v0.1.13</a> - Installs the Dynatrace Application Monitoring solution.</li>
+<li>Follow <a href="https://twitter.com/getgetchef">@getgetchef</a> on twitter for more cookbook updates.</li>
+</ul>
+</li>
+<li>Recent Tools and Plugins
+
+<ul>
+<li><a href="https://supermarket.chef.io/tools/knife-acropolis">knife-acropolis</a></li>
+<li><a href="https://supermarket.chef.io/tools/os-hardening">os-hardening</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Upcoming Events
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> 2016 - July 11-13 in Austin, Texas.  CFP and ticket sales are now open.</li>
+<li><a href="https://www.chef.io/blog/event/bucks-county-tech-meetup/">Bucks County Tech Meetup</a></li>
+<li><a href="https://www.chef.io/blog/event/successful-practices-for-continuous-delivery-devopsdc-meetup/">Successful Practices for Continuous Delivery – DevOpsDC Meetup</a></li>
+<li>DevOpsDays
+
+<ul>
+<li><a href="http://www.devopsdays.org/events/2016-vancouver/">Vancouver</a> - April 15-16</li>
+<li><a href="http://www.devopsdays.org/events/2016-london/">London</a> - April 19-20</li>
+<li><a href="http://www.devopsdays.org/events/2016-denver/">Rockies/Denver</a> - April 21-22</li>
+<li><a href="http://www.devopsdays.org/events/2016-atlanta/">Atlanta</a> - April 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-austin/">Austin</a> - May 2-3</li>
+<li><a href="http://www.devopsdays.org/events/2016-kiel/">Kiel</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-seattle/">Seattle</a> - May 12-13</li>
+<li><a href="http://www.devopsdays.org/events/2016-toronto/">Toronto</a> - May 26-27</li>
+<li><a href="http://www.devopsdays.org/events/2016-istanbul/">Istanbul</a> - June 3</li>
+<li><a href="http://www.devopsdays.org/events/2016-washington-dc/">Washington, DC</a> - June 8-9</li>
+<li><a href="http://www.devopsdays.org/events/2016-saltlakecity/">Salt Lake City</a> - June 14-15</li>
+<li><a href="http://www.devopsdays.org/events/2016-amsterdam/">Amsterdam</a> - June 29 - July 1</li>
+<li><a href="http://www.devopsdays.org/events/2016-minneapolis/">Minneapolis</a> - July 20-21</li>
+<li><a href="http://www.devopsdays.org/events/2016-portland/">Portland</a> - August 9-10</li>
+<li><a href="http://www.devopsdays.org/events/2016-chicago/">Chicago</a> - August 30-31</li>
+<li><a href="http://www.devopsdays.org/events/2016-dallas/">Dallas</a> - September 15-16</li>
+<li><a href="http://www.devopsdays.org/events/2016-newyork/">New York</a> - September 23-24</li>
+<li><a href="http://www.devopsdays.org/events/2016-detroit/">Detroit</a> - October 11-12</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li><a href="https://github.com/chef/inspec">InSpec</a> - open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.</li>
+<li>Inspec vs <a href="http://serverspec.org/">Serverspec</a></li>
+<li>Why another test framework?</li>
+<li>Testing</li>
+<li>Who are the target users of inspec?</li>
+<li>Security
+
+<ul>
+<li><a href="https://github.com/chef/inspec/blob/master/docs/resources.rst">List of InSpec resources</a></li>
+<li>When do I use inspec in my infrastructure's lifecycle?
+
+<ul>
+<li><a href="https://github.com/test-kitchen/test-kitchen">Testkitchen</a></li>
+</ul>
+</li>
+<li>Out of compliance</li>
+</ul>
+</li>
+<li><a href="https://www.chef.io/compliance/">Chef Compliance</a></li>
+<li>The <code>inspec</code> command line interface</li>
+<li><a href="https://github.com/chef/train">Train</a> - Transport Interface to unify communication over SSH, WinRM, and friends.</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h3>Christoph</h3>
+
+<ul>
+<li><a href="http://hardening.io/">hardening.io</a></li>
+</ul>
+
+
+<h3>Dominik</h3>
+
+<ul>
+<li>InSpec 1.0 - watch for it soon!</li>
+</ul>
+
+
+<h3>Gary</h3>
+
+<ul>
+<li><a href="https://www.chef.io/blog/event/webinar-test-driven-cookbook-development/">Test Driven Cookbook Development</a> - February 24</li>
+<li><a href="http://kitchen.ci/docs/getting-started/">Test Kitchen tutorial</a></li>
+</ul>
+
+
+<h3>Paul</h3>
+
+<ul>
+<li><a href="https://maebert.github.io/jrnl/">Jrnl</a></li>
+<li><a href="http://happenapps.com/">Quiver Programmers Notebook</a></li>
+<li><a href="http://gauntlt.org/">Gauntlt Cucumber framework for security</a></li>
+</ul>
+
+
+<h3>Mike</h3>
+
+<ul>
+<li>gnu libc vulnerability - <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7547">CVE-2015-7547</a>
+
+<ul>
+<li><a href="https://googleonlinesecurity.blogspot.com/2016/02/cve-2015-7547-glibc-getaddrinfo-stack.html">CVE-2015-7547: glibc getaddrinfo stack-based buffer overflow</a></li>
+<li>Dan Kaminsky's post, <a href="http://dankaminsky.com/2016/02/20/skeleton/">A Skeleton Key of Unknown Strength</a></li>
+</ul>
+</li>
+<li><a href="http://crystal-lang.org/">Crystal programing language</a></li>
+</ul>
+
+
+<h3>Nathen</h3>
+
+<ul>
+<li>Take a vacation!</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/embed/RraZsq6C42s">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-99-inspec.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: adamhjk | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/adamhjk/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Habitat]]></title>
+    <link href="http://foodfightshow.org//2016/06/habitat.html"/>
+    <updated>2016-06-20T13:36:00-04:00</updated>
+    <id>http://foodfightshow.org//2016/06/habitat</id>
+    <content type="html"><![CDATA[<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/gDlpXijLH2Y" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Join us for a discussion about <a href="https://www.habitat.sh">Habitat</a> a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org/2016/06/habitat.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2016/06/habitat.html#outline">Outline</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=gDlpXijLH2Y">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-100-habitat.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a>, <a href="https://github.com/adamhjk">github</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Jamie Winsor <a href="https://github.com/reset">github</a>, <a href="https://twitter.com/resetexistence">twitter</a>, <a href="http://vialstudios.com/">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
+
+<h3>Show Notes</h3>
+
+<ul>
+<li>Happy 100th Episode!</li>
+<li>What is <a href="https://www.habitat.sh">Habitat</a>?</li>
+<li>Does Habitat do too much?</li>
+<li>The Build System
+
+<ul>
+<li>Why build a packaging system?</li>
+<li>Supervisors ans Artifacts</li>
+</ul>
+</li>
+<li><a href="https://www.docker.com/">Docker</a></li>
+<li>How all-or-nothing is Habitat?
+
+<ul>
+<li>Progressive Reveal</li>
+</ul>
+</li>
+<li><a href="https://www.chef.io/">Chef</a>
+
+<ul>
+<li><a href="https://www.chef.io/delivery/">Chef Delivery</a></li>
+</ul>
+</li>
+<li><a href="https://www.terraform.io/">Terraform</a></li>
+<li>What's the plan with <a href="https://www.microsoft.com/en-us/windows">Windows</a>?</li>
+<li>Habitat Feedback</li>
+<li><a href="https://www.habitat.sh/community/">Getting Started</a>
+
+<ul>
+<li><a href="http://slack.habitat.sh/">HabiChat</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=gDlpXijLH2Y">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/foodfight-100-habitat.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Continuous Delivery]]></title>
+    <link href="http://foodfightshow.org//2013/06/continuous-delivery.html"/>
+    <updated>2013-06-17T12:48:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/06/continuous-delivery</id>
+    <content type="html"><![CDATA[<p>Show Date:   June 17, 2013</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/h78cMy63XF8" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#news">Chef News</a></li>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/06/continuous-delivery.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3">Audio</a></li>
+<li><a href="http://youtu.be/h78cMy63XF8">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Jez Humble <a href="https://twitter.com/jezhumble">twitter</a>, <a href="https://github.com/Jezhumble">github</a>, <a href="http://continuousdelivery.com/">blog</a></li>
+<li>Adam Jacob <a href="https://twitter.com/adamhjk">twitter</a>, <a href="https://github.com/adamhjk">github</a></li>
+<li>Mike McGarr <a href="https://twitter.com/jmichaelmcgarr">twitter</a>, <a href="http://earlyandoften.wordpress.com/">blog</a></li>
+<li>Mike Fiedler <a href="http://github.com/miketheman">github</a>, <a href="http://twitter.com/mikefiedler">twitter</a>, <a href="http://www.miketheman.net">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Chef News<a name="news"></a></h2>
+
+<ul>
+<li><a href="https://www.dropbox.com/s/ps4icmboani9wpn/SAP%20Continuous%20Delivery%20-%20JFokus%202013.pdf">Continuous Delivery at SAP</a></li>
+<li><a href="http://www.kickflop.net/blog/2013/06/11/jenkins-running-test-kitchen-via-vagrant-on-windows/">Jenkins running Test-Kitchen via Vagrant. On Windows.</a></li>
+<li><a href="https://www.bluebox.net/about/blog/2013/06/using-opscode-chef-on-blue-box-with-knife-bluebox/">Using Opscode Chef on Blue Box with Knife Bluebox</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>Chef News</li>
+<li>Introductions</li>
+<li>Continuous Delivery definition</li>
+<li>Evolution</li>
+<li>Getting started with Continuous Delivery</li>
+<li>Continuous Integration</li>
+<li>Version Control</li>
+<li>Continuous Delivery vs Continuous Deployment vs Continuous Integration</li>
+<li>Continuous Integration vs Continuous Delivery</li>
+<li>Shipment Automation</li>
+<li>Never introducing regressions</li>
+<li>The Deployment Pipeline</li>
+<li>Changing the state of a system</li>
+<li>Gates and Phases</li>
+<li>Expand</li>
+<li>Releasing changes</li>
+<li>Frequency</li>
+<li>User Confusion</li>
+<li>Value</li>
+<li>Sales &amp; Marketing</li>
+<li>Feedback</li>
+<li>Business Value</li>
+<li>Technology Decisions</li>
+<li>Tooling</li>
+<li>Growing people within an organization</li>
+<li>Competency</li>
+<li>Continuous Delivery for infrastructure</li>
+<li>DNS</li>
+<li>What is right for the business?</li>
+<li>Customer Service</li>
+<li>AB Testing and Continuous Delivery</li>
+<li>Continuous Delivery in DevOps</li>
+<li><a href="http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/">DevOps - The Title Match: John Vincent</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=bmGQVo7UHbU&amp;feature=share&amp;list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ">Mike Fiedler's "What's in this Cookbook" talk</a> from a recent meetup group.</li>
+<li><a href="https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf">The Magic Tricks of Testing</a> - A talk from Sandi Metz given at <a href="http://rubynation.org">RubyNation</a></li>
+<li><a href="http://www.opscode.com/blog/chefconf-talks/chefconf-2013-keynote-session-opscode-adam-jacob/">Adam's #ChefConf Keynote</a></li>
+</ul>
+
+
+<h4>Mike McGarr</h4>
+
+<ul>
+<li><a href="http://beeradvocate.com/beer/profile/1416/67046/?ba=russj117">Dubhe Imperial Black IPA</a></li>
+<li><a href="https://github.com/jenkinsci/job-dsl-plugin">jenkinsci/job-dsl-plugin</a></li>
+<li><a href="http://www.amazon.com/Pandoras-Star-Peter-F-Hamilton/dp/0345479211/ref=sr_1_1?ie=UTF8&amp;qid=1371581952&amp;sr=8-1&amp;keywords=pandora+star">Pandora's Star by Peter F. Hamilton</a></li>
+<li><a href="http://www.amazon.com/Putting-Out-Your-Mind-Rotella/dp/0743212134/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1371582033&amp;sr=1-1&amp;keywords=putting+out+of+your+mind">Putting Out of Your Mind by Bob Rotella</a></li>
+<li><a href="http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1371582084&amp;sr=1-1&amp;keywords=growing+object-oriented+software+guided+by+tests">Growing Object-Oriented Software, Guided by Tests by Steve Freeman and Nat Pryce</a></li>
+</ul>
+
+
+<h4>Mike Fiedler</h4>
+
+<ul>
+<li><a href="http://corner.squareup.com/2012/02/cane.html">cane</a></li>
+<li>Skydiving</li>
+</ul>
+
+
+<h4>Jez</h4>
+
+<ul>
+<li><a href="http://www.fjords.com/">The Fjords</a></li>
+<li><a href="http://www.amazon.com/Implementing-Beyond-Budgeting-Unlocking-Performance/dp/0470405163">Implementing Beyond Budgeting: Unlocking the Performance Potential by Bjarte Bogsnes</a></li>
+</ul>
+
+
+<h4>Adam</h4>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/album/the-devil-put-dinosaurs-here/id622941441">The Devil Put Dinosaurs Here by Alice in Chains</a></li>
+<li><a href="https://itunes.apple.com/us/album/...like-clockwork/id630719740?ign-mpt=uo%3D4">...Like Clockwork by Queens of the Stone Age</a></li>
+<li><a href="https://github.com/opscode/test-kitchen">test-kitchen</a></li>
+<li><a href="http://www.norcalpiratefestival.com/">piratefest</a></li>
+</ul>
+
+
+<h4>Bryan</h4>
+
+<ul>
+<li><a href="http://elixir-lang.org/getting_started/1.html">The Getting Started Guide for Elixir</a></li>
+<li><a href="https://github.com/basho/riak_core">riak-core</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3">Audio</a></li>
+<li><a href="http://youtu.be/h78cMy63XF8">Video</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

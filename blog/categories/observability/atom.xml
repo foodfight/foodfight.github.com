@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: observability | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/observability/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[sensu]]></title>
+    <link href="http://foodfightshow.org//2018/07/sensu.html"/>
+    <updated>2018-07-23T10:44:00-04:00</updated>
+    <id>http://foodfightshow.org//2018/07/sensu</id>
+    <content type="html"><![CDATA[<p>Sensu’s platform is the solution to the monitoring problems you’re facing today, and the right foundation for your organization tomorrow. From bare metal to Kubernetes—get complete visibility across every system, every protocol, every time.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2vNz8WzdSg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="/2018/07/sensu.html#panel">Panel</a></li>
+<li><a href="/2018/07/sensu.html#outline">Outline</a></li>
+<li><a href="/2018/07/sensu.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/o2vNz8WzdSg">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS122.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Sean Porter <a href="https://twitter.com/portertech">twitter</a>, <a href="https://github.com/portertech">github</a></li>
+<li>John Kerry <a href="https://twitter.com/jkerrydev">twitter</a>, <a href="https://github.com/jkerry">github</a></li>
+<li>Matt Broberg <a href="https://github.com/mbbroberg">github</a>, <a href="https://twitter.com/mbbroberg">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<h2>Show Notes<a name="outline"></a></h2>
+
+<ul>
+<li>Join us at <a href="https://aws.amazon.com/summits/chicago/">The AWS Summit in Chicago</a> on August 2nd!</li>
+<li>We'll also be at <a href="https://aws.amazon.com/summits/chicago/">VMworld</a> in late August.</li>
+<li>and the <a href="https://sensu.io/summit">Sensu Summit</a> in Portland.</li>
+<li><a href="https://www.devopsdays.org/events/2018-chicago/welcome/">DevOpsDays Chicago</a></li>
+<li><a href="https://events.chef.io/events/seattle-chef-community-summit/">Chef Community Summit: Seattle (Oct 2nd - 3rd)</a></li>
+<li><p><a href="https://events.chef.io/events/chef-community-summit-europe-2018/">Chef Community Summit: London (Oct 16th - 17th)</a></p></li>
+<li><p>Join us in the <a href="http://community-slack.chef.io/">Chef Community Slack!</a></p></li>
+<li><p><a href="https://sensu.io/">Sensu</a></p>
+
+<ul>
+<li>What is Sensu?</li>
+<li>Why was it created?</li>
+<li>Where is Sensu today?</li>
+<li>History
+
+<ul>
+<li>Pre-listen - Food Fight Show episode 33 - <a href="http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html">#monitoringlove With Sensu</a></li>
+</ul>
+</li>
+<li>The Community
+
+<ul>
+<li>Finding high-quality plugins</li>
+<li>What makes a good plugin?</li>
+<li>Keeping plugins up-to-date</li>
+</ul>
+</li>
+<li>Sensu 2.0</li>
+</ul>
+</li>
+<li><a href="https://www.habitat.sh/">Habitat</a>
+
+<ul>
+<li>What is Habitat?</li>
+<li>Habitat + Sensu = &lt;3</li>
+<li>Working with Habitat</li>
+</ul>
+</li>
+<li>Monitoring and Observability and Sensu</li>
+<li><a href="https://sensu.io/summit">Sensu Summit</a></li>
+<li>Learn More About Sensu
+
+<ul>
+<li><a href="https://chefconf.chef.io/conf-resources/chefconf-2018-session-chef-sensu-delightful-monitoring/">ChefConf 2018 Session: Chef &amp; Sensu – Delightful Monitoring</a></li>
+<li><a href="https://docs.sensu.io/">Sensu Docs</a></li>
+<li><a href="https://sensu.io/summit">Sensu Summit</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>John</h4>
+
+<ul>
+<li><a href="https://bethematch.org/">Be The Match</a> - The National Marrow Donor Registry</li>
+<li><a href="http://thedeadsouth.com/">The Dead South</a></li>
+</ul>
+
+
+<h4>Matt</h4>
+
+<ul>
+<li><a href="https://www.beeradvocate.com/beer/profile/31407/225312/">Saint Archer Hoppy Pilsner</a></li>
+<li><a href="https://www.alfredapp.com/">Alfred</a></li>
+</ul>
+
+
+<h4>Sean</h4>
+
+<ul>
+<li><a href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897">The Manager's Path</a></li>
+<li><a href="https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1532714105&amp;sr=1-1&amp;keywords=the+lean+product+playbook">The Lean Product Playbook</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Take a break!</li>
+<li><a href="http://www.orbooks.com/catalog/lean-out/">Lean Out:  The Struggle for Gender Equality in Tech and Start-up Culture</a></li>
+<li><a href="https://www.indellient.com/">Indellient</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/o2vNz8WzdSg">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS122.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[observability]]></title>
+    <link href="http://foodfightshow.org//2018/03/observability.html"/>
+    <updated>2018-03-16T08:34:00-04:00</updated>
+    <id>http://foodfightshow.org//2018/03/observability</id>
+    <content type="html"><![CDATA[<p>Join Charity Majors on the Food Fight Show as we define, discuss, and digest
+Observability.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9qPJ5Kuz_R8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="/2018/03/observability.html#panel">Panel</a></li>
+<li><a href="/2018/03/observability.html#outline">Outline</a></li>
+<li><a href="/2018/03/observability.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9qPJ5Kuz_R8">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS115.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+<li>Charity Majors <a href="https://github.com/charity">github</a>, <a href="https://twitter.com/mipsytipsy">twitter</a></li>
+<li>Jamie Osler <a href="https://github.com/josler">github</a>, <a href="https://twitter.com/jjosler">twitter</a></li>
+</ul>
+
+
+<hr />
+
+<h2>Upcoming Chef Events</h2>
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> - May 22-25, Chicago, IL</li>
+<li><a href="https://events.chef.io/">View all upcoming events</a></li>
+</ul>
+
+
+<h2>Show Notes</h2>
+
+<ul>
+<li><a href="https://honeycomb.io/observability/">What is Observability?</a>
+
+<ul>
+<li>Monitoring, Metrics, Log Aggregation</li>
+<li>Focus your energy on instrumentation, resilience to failure, and making it fast and safe to deploy and roll back.</li>
+<li>Gather absolutely as much context as possible.</li>
+<li>Instrumentation is just as important as unit tests.
+
+<ul>
+<li>Does this mean we need to reconsider the way applications are built?  Do we need to start constructing observable applications? How?</li>
+</ul>
+</li>
+<li>The Business Side</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/copyconstruct/status/908493669518290944?lang=en"><code>o11y</code>?</a>
+
+<ul>
+<li><a href="http://o11ycon.com/">o11ycon</a></li>
+</ul>
+</li>
+<li>What products, or sorts of products, are gaining traction in observability?
+
+<ul>
+<li><a href="https://honeycomb.io/">Honeycomb</a></li>
+<li><a href="https://www.dynatrace.com/">Dynatrace</a></li>
+</ul>
+</li>
+<li>Who are the influencers in this space?</li>
+<li>What blogs, papers, books should be on my Observability reading list?
+
+<ul>
+<li><a href="https://medium.com/@adron/reading-up-on-observability-and-monitoring-efee79bd291d">Reading Up on Observability and Monitoring</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Nell</h4>
+
+<ul>
+<li><a href="https://helloeko.com/wargames/">#Wargames</a></li>
+<li><a href="https://www.netflix.com/title/80097140">Altered Carbon</a></li>
+</ul>
+
+
+<h4>Jamie</h4>
+
+<ul>
+<li><a href="https://buildkite.com/">Buildkite</a></li>
+</ul>
+
+
+<h4>Charity</h4>
+
+<ul>
+<li><a href="https://charity.wtf/2018/03/02/money-power-and-credibility/">Money, Power and Credibility Blog Post</a></li>
+<li><a href="http://o11ycon.com/">o11ycon</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li><a href="https://www.devopsdays.org/events/2018-baltimore/welcome/">DevOpsDays: Baltimore</a></li>
+<li>Sleep!</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9qPJ5Kuz_R8">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS115.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

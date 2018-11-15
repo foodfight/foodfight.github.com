@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: devopsdaysbmore | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/devopsdaysbmore/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Conference, Interrupted]]></title>
+    <link href="http://foodfightshow.org//2018/04/conference-interrupted.html"/>
+    <updated>2018-04-02T11:55:00-04:00</updated>
+    <id>http://foodfightshow.org//2018/04/conference-interrupted</id>
+    <content type="html"><![CDATA[<p>Winter storm Toby hit the Northeast US, including Baltimore, on Wednesday, March 21, 2018.  DevOpsDays Baltimore was originally scheduled for Wednesday, March 21 and Thursday, March 22.  The conference was moved to Thursday, March 22 and Friday, March 23.  This move impacted everyone associated with the conference:  attendees, sponsors, speakers, organizers, and vendors.</p>
+
+<p>Join some of the organizers of <a href="https://www.devopsdays.org/events/2018-baltimore/welcome/">DevOpsDays Baltimore 2018</a> as they host a learning review and share their experience about the impact Winter Storm Toby had on the conference.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HKeGAJfrQmU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="/2018/04/conference-interrupted.html#panel">Panel</a></li>
+<li><a href="/2018/04/conference-interrupted.html#outline">Outline</a></li>
+<li><a href="/2018/04/conference-interrupted.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HKeGAJfrQmU">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS118.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Delali Dzirasa <a href="https://github.com/deld">github</a>, <a href="https://twitter.com/delalidzirasa">twitter</a></li>
+<li>Meghan Butler <a href="https://github.com/megbutler">github</a>, <a href="https://twitter.com/_mcbee13">twitter</a></li>
+<li>Kevin Chung <a href="https://github.com/KRS-One">github</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<hr />
+
+<h2>Upcoming Chef Events</h2>
+
+<ul>
+<li><a href="https://chefconf.chef.io/">ChefConf</a> - May 22-25, Chicago, IL</li>
+<li><a href="https://events.chef.io/">View all upcoming events</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+
+<h2>Winter Storm Toby Impact on DevOpsDays Baltimore 2018</h2>
+
+<p>Winter storm Toby hit the Northeast US, including Baltimore, on Wednesday, March 21, 2018.  DevOpsDays Baltimore was originally scheduled for Wednesday, March 21 and Thursday, March 22.  The conference was moved to Thursday, March 22 and Friday, March 23.  This move impacted everyone associated with the conference:  attendees, sponsors, speakers, organizers, and vendors.</p>
+
+<h3>Constituents</h3>
+
+<p>There are four main constituents for the conference:</p>
+
+<ol>
+<li>Attendees</li>
+<li>Speakers</li>
+<li>Sponsors</li>
+<li>Vendors</li>
+</ol>
+
+
+<h3>Timeline</h3>
+
+<p>All dates and times listed below are during March, 2018 and listed in Easter Daylight Time.  Sub-bullets provide some additional commentary made possible with the benefit of hindsight bias.</p>
+
+<ul>
+<li>16 - 11:00 - <em>Baltimore Slack</em> - Did anyone happen to look at the weather next week for tuesday going in to wednesday?  It’s not supposed to be pretty
+
+<ul>
+<li>This is the first time we detected the possible situation.</li>
+</ul>
+</li>
+<li>16 - 11:07 - <em>Baltimore Slack</em> - yeah, it’s still too early to know and we’ll have to monitor for how it really turns out (4th Nor’easter)- enough with the cold weather
+
+<ul>
+<li>Alert fatigue.  The previous 3 nor'easters did not really have much of an impact on Baltimore, outside of wind.</li>
+</ul>
+</li>
+<li>16 - 11:08 - <em>Baltimore Slack</em> - Do we have access to coat racks at IMET?
+
+<ul>
+<li>Coat racks ;)</li>
+</ul>
+</li>
+<li>16 - 11:08 - <em>Baltimore Slack</em> - that will be a good question for our contact at the IMET - I don’t think we had anticipated that considering the date</li>
+<li>16 - 11:29 - <em>Baltimore Slack</em> - this may be a crazy hail mary....but lets say the area gets slammed and roads aren't drivable, do we have the option to move from the 21-22, to 22-23rd? lets hope the storm passes by with no issues though :pray:</li>
+<li>16 - 12:10 - <em>Baltimore Slack</em> - Nothing is technically scheduled on the 23rd… that’s really a worst case scenario I would think if we have to shift the conference 22-23rd.  the one thing to note for the 21st is that IMET follows UMBC policy so if the university is delayed opening that would affect IMET as well
+
+<ul>
+<li>Turns out, the facility follows the University of Baltimore, not UMBC</li>
+</ul>
+</li>
+<li>16 - 13:34 - <em>Baltimore Slack</em> - ah - good point...hopefully it's a non issues, but we should plan for it.  If delayed X hours, do we just push everything back on the schedule X hours?</li>
+<li>16 - 13:43 - <em>Baltimore Slack</em> - probably can monitor <a href="https://my.umbc.edu/groups/transit/posts">https://my.umbc.edu/groups/transit/posts</a> for any delayed opening announcement (looks like the last delayed opening was back in February)</li>
+<li>17 - 10:36 - <em>Baltimore Slack</em> - conversation switches to planning for supplies required for running open spaces.</li>
+<li>19 - 9:36 - <em>Baltimore Slack</em> - @channel help? - a sponsor reached out to the sponsor liaison to inquire about what the plans were for inclement weather.  Is there a make-up date?  Are partial refunds an option?
+
+<ul>
+<li>a customer raised the priority of an ongoing incident</li>
+</ul>
+</li>
+<li>19 - 9:37 - <em>Baltimore Slack</em> - Ugh I want to keep ignoring that, esp while it's in the 50s today :sob::sob:  I don't think we're going to have to cancel, it's not supposed to get below freezing or start til Weds morning from what I'm seeing. Just may be a mess for people coming in Weds morning. But I guess we have to be prepared...</li>
+<li>19 - 9:53 - <em>Baltimore Slack</em> - remind me. was Friday 3/23 available at IMET?</li>
+<li>19 - 9:53 - <em>Baltimore Slack</em> - might be a good idea to get some sort of communication out that we’re monitoring the weather situation and to mirror that IMET follows UMBC’s policy.  We’d need to nail that down with our contact there. There’s nothing scheduled for 3/23 but when we originally scheduled he said we have flexibility as far as moving things out that day as it’s open for load-out</li>
+<li>19 - 9:56 - <em>Baltimore Slack</em> - Let's get some comms out; Put out a simple poll from folk to see if pushing to Thurs/Friday is preferred to a total reschedule; <em>we need to work a few things in parallel</em>
+
+<ul>
+<li>Managing this incident begins in earnest.</li>
+</ul>
+</li>
+<li>19 - 9:57 - <em>Baltimore Slack</em> - we can gather all of the data points and make a more informed decision....if all of the vendors say we're out of luck, that will help drive our decision</li>
+<li>19 - 10:02 - <em>Baltimore Slack</em> - Fwiw we should consider that folks have made travel arrangements and hotel bookings in our decision</li>
+<li>19 - 10:03 - <em>Baltimore Slack</em> - how many folks are in that boat?</li>
+<li>19 - 10:03 - <em>Baltimore Slack</em> - I know there's a handful of speakers, I can pull that number later. We should also ask Hotel RL if they tell us how many have used the discount code</li>
+<li>19 - 10:04 - <em>Baltimore Slack</em> - not sure we have time for <code>later</code>...can you pull now please.  We'll need to make a call ASAP lots of moving parts</li>
+<li>19 - 10:04 - <em>Baltimore Slack</em> - I'm otr
+
+<ul>
+<li>Not all responders have full availability and capability to respond throughout the entire incident.</li>
+</ul>
+</li>
+<li>19 - 10:06 - <em>Baltimore Slack</em> - Let's check with the facility:  1) Is it possible to move to Thurs/Friday (if needed) at no additional costs  2) Can you see if they have 2 days the last week of April as alternate dates?</li>
+<li>19 - 10:28 - <em>Email</em> - To sponsors, prefer one day or one month delay?</li>
+<li>19 - 10:28 - <em>Baltimore Slack</em> - just sent an email out to sponsors and cc'd the organizers list so we'll all see the responses
+
+<ul>
+<li>lots of conversation around gathering additional data, not captured here to keep the timeline concise.</li>
+</ul>
+</li>
+<li>19 - 10:46 - <em>Email</em> - To speakers, prefer one day or one month delay?  Ask for response by 11:45am, we are looking to make a decision by 12 noon</li>
+<li>19 - 11:09 - <em>Baltimore Slack</em> - there are a total of 8 speakers for 7 talks that we consider "Out of Radius"</li>
+<li>19 - 11:11 - <em>Baltimore Slack</em> - IF we push by 1 day.....its best to keep the Thurs schedule a planned but please reach out to those on the Wed schedule and see if they could do Friday</li>
+<li>19 - 11:13 - <em>Baltimore Slack</em> - catering is willing to work with us on whatever we end up doing. they’ve ordered all the product but they’d see what they could return if we wait til april or they could make thurs/fri work. have to make a decision if we’re going to push by tuesday evening since they’d start baking that night for day 1 breakfast
+
+<ul>
+<li>One vendor covered.  New deadline for a decision.</li>
+</ul>
+</li>
+<li>19 - 11:13 - <em>Baltimore Slack</em> - its almost unanimous that <code>speakers</code> want a 1 day push vs 1 month
+
+<ul>
+<li>Another constituent covered.</li>
+</ul>
+</li>
+<li>19 - 11:14 - <em>Baltimore Slack</em> - Are the parking vouchers tied to our dates?</li>
+<li>19 - 11:21 - <em>Baltimore Slack</em> - Poll organizers.  Should we push one day or one month?  9 votes for one day, 0 votes for one month
+
+<ul>
+<li>Project fatigue?  We're this close, let's ship this thing as soon as we can.</li>
+</ul>
+</li>
+<li>19 - 11:21 - <em>Baltimore Slack</em> - Alright here's the plan for speakers. I'm holding off until an official decision by this group - by Noon per emails - to reach out with next steps. If we decide to keep it this week and offset by a day my plan is to check all speakers' availability and come up with a new schedule for thursday/friday to maximize speakers' availability. It will be essentially a case by case basis.</li>
+<li>19 - 11:28 - <em>Baltimore Slack</em> - Speakers - want a 1 day push; Organizers - want a 1 day push; Sponsors - want a 1 month push; Vendors - TBD (waiting on venue, food, AV, etc)
+
+<ul>
+<li>Status update.  Still have conflicting desires and incomplete picture.</li>
+</ul>
+</li>
+<li>19 - 11:28 - <em>DevOpsDays Organizer Slack</em> - Have any of you had to deal with the possibility of inclement weather impacting your conference?  We find ourselves in that state in Baltimore this morning and I would appreciate hearing a bit more about your experience and how you handled it.</li>
+<li>19 - 11:31 - <em>Baltimore Slack</em> - should we send out an email to general attendees on if they can make a one day shift?
+maybe sending out a quick poll. I think if the people are there, sponsors will stay</li>
+<li>19 - 11:32 - <em>Baltimore Slack</em> - I’d be opposed to asking every attendee.  The more people we ask, the more likely we are to disappoint people that we didn’t go with their selection
+
+<ul>
+<li>Unclear the best actions to take, maybe even disagreement</li>
+</ul>
+</li>
+<li>19 - 11:32 - <em>DevOpsDays Organizer Slack</em> - NYC had to move once because of a hurricane</li>
+<li>19 - 11:33 - <em>Baltimore Slack</em> - $25,000 worth of sponsors want the conference to be pushed to April. $15,000 worth of sponsors want to push it by a day. Have heard from 12 out of 28 sponsors so far</li>
+<li>19 - 11:41 - <em>Baltimore Slack</em> - Trying to organize our info so people don't have to read through all the back chat to catch up - Google Doc created
+
+<ul>
+<li>Slack is no longer working for the team, new communication channel brought into the mix.</li>
+</ul>
+</li>
+<li>19 - 11:49 - <em>Baltimore Slack</em> - Party Plus is ok if we have to push to Thursday/Friday (need to get confirmation with our AV vendor if that’s possible)
+
+<ul>
+<li>Another vendor covered.</li>
+</ul>
+</li>
+<li>19 - 11:51 - <em>Baltimore Slack</em> - 88% of registrants have a zip code in this area…not surprisingly:  this is a “local” conference.
+
+<ul>
+<li>More data gathered</li>
+</ul>
+</li>
+<li>19 - 11:53 - <em>Baltimore Slack</em> - from my perspective... the weather doesn't look <em>that</em> bad right now.  if my experience at UMBC is of any value, they literally never close for anything; so it's incredibly unlikely the venue will be straight closed</li>
+<li>19 - 11:54 - <em>Baltimore Slack</em> - right- that’s my thought as well… possibility of a delayed start at worst; it could be an issue for attendees coming in, especially if they’re north/west of the city</li>
+<li>19 - 11:57 - <em>Baltimore Slack</em> - erring on the side of safety and making a call well in advance I’m still in favor of delaying one day vs. waiting to see if the university delays or closes.</li>
+<li>19 - 11:59 - <em>Baltimore Slack</em> - sounds like the only thing we still need is the AV and Venue confirmation @kchung?  assuming those are good....looks like the call is to push 1 day</li>
+<li>19 - 12:00 - <em>DevOpsDays Organizer Slack</em> - if attendees' kids are home from school on a snow day, they aren't gonna attend</li>
+<li>19 - 12:01 - <em>Baltimore Slack</em> - we should also consider the impact on parents.  if school gets canceled for their kids, they’re more likely to skip the conference and stay home with the kids….probably more likely than skipping work</li>
+<li>19 - 12:02 - <em>Baltimore Slack</em> - our contact might still be out dealing with a family emergency- seeing if there’s an alternate contact for IMET as I haven’t been able to get a hold of him
+
+<ul>
+<li>Still not clear on the venue.  Contributing factor: our main point of contact was out of the office</li>
+</ul>
+</li>
+<li>19 - 12:07 - <em>Baltimore Slack</em> - On another but related note, our speaker dinner is currently set for tomorrow night - we should consider shifting that or potentially canceling it. Any thoughts from the group?</li>
+<li>19 - 12:09 - <em>Baltimore Slack</em> - a few more sponsor votes have come in: $29,000 worth of them vote for April, $24,000 vote for a 1-day push. So, the gap is closing</li>
+<li>19 - 12:47 - <em>Baltimore Slack</em> - AV is likely out for Friday (equipment they have for us is in use on Friday); they’re looking into the options they have to have alternate equipment available for us</li>
+<li>19 - 12:58 - <em>Baltimore Slack</em> - AV would need to rent additional equipment (so there would be additional charges for us to do Friday) but they can make it happen
+
+<ul>
+<li>Another vendor covered.</li>
+</ul>
+</li>
+<li>19 - 13:04 - <em>Baltimore Slack</em> - sounds like we <code>can</code> make this happen this week.  Venue can support, and AV can support (at a higher cost - TBD).</li>
+<li>19 - 13:18 - <em>Baltimore Slack</em> - Did I miss the venue saying they were good?; I'm literally outside imet right now, I can go in and ask.</li>
+<li>19 - 13:26 - <em>Baltimore Slack</em> - Okay, the guard took down my info. She's going to call our contact plus his backups. She can't give me contact info for his backups for privacy reasons. She understands it's urgent and is going to keep trying to reach them</li>
+<li>19 - 13:30 - <em>Baltimore Slack</em> - they're all out of office for spring break
+
+<ul>
+<li>most of the people we need to reach at the venue our out on spring break</li>
+</ul>
+</li>
+<li>19 - 13:42 - <em>DevOpsDays Organizer Slack</em> - If you need a lifeline on a speaker, happy to help if my schedule allows</li>
+<li>19 - 13:53 - <em>Baltimore Slack</em> - Just FYI we officially have more sponsors voting for just pushing it by a day rather than moving it to April. $34,000 worth of sponsors want to move it a day, $30,000 want to move to April.  18 out of 28 sponsors have replied
+
+<ul>
+<li>Another vendor "covered" - Majority of sponsors agree to one day push</li>
+</ul>
+</li>
+<li>19 - 14:11 - <em>Baltimore Slack</em> - national weather service has lowered their snowfall totals</li>
+<li>19 - 14:15 - <em>Baltimore Slack</em> - VP at umbc said he'll try to get an answer within an he for us or let us know if he can't track down the right people</li>
+<li>19 - 14:22 -  <em>Baltimore Slack</em> - Let's official push the conf 1 day - @channel....that was the last piece of info we needed.  Is anything else outstanding that is preventing us from doing this?</li>
+<li>19 - 14:42 - <em>Baltimore Slack</em> - OK - the change to 1 day is happening ....lets pull the trigger on all fronts and get the word out!</li>
+<li>19 - 14:42 - <em>Baltimore Slack</em> - 100% official pushing it back 1 day</li>
+<li>19 - 14:57 - <em>Email to all Attendees</em> - DevOpsDays Baltimore is Being Delayed!</li>
+<li>19 - 15:56 - <em>Website</em> - Updated to include new logo and announcement of new dates</li>
+<li>19 - 16:26 - <em>DevOpsDays Organizer Slack</em> - For those of you following along, we’ve decide to push the conference back by one day</li>
+<li>19 - 16:31 - <em>Twitter</em> - @devopsdaysbmore tweets the delay - https://twitter.com/DevOpsDaysBmore/status/975832179254099969</li>
+<li>19 - 16:44 - <em>DevOpsDays Organizer Slack</em> - rt from the global @devopsdays ..</li>
+<li>20 - 18:00 - University of Baltimore closes for 21-March</li>
+<li>22 - 9:00 - DevOpsDays Baltimore Begins</li>
+<li>23 - 9:15 - <em>DevOpsDays Organizer Slack</em> - DevOpsDays Baltimore live stream is on now - http://confreaks.tv/live_events/devopsdaysbaltimore2018; at 11:30 EDT we will be hosting (and streaming) a panel of organizers doing a learning review of how we handled the winter storm and having to move our conference back a day with very short notice.</li>
+<li>23 - 11:32 - <em>DevOpsDays Organizer Slack</em> - Great learning review live streaming now</li>
+<li>23 - 16:30 - DevOpsDays Baltimore Ends</li>
+</ul>
+
+
+<h3>Timings</h3>
+
+<p>Time to detect and time to resolve are typical timings when conducting a learning review.  In this case, they were both predictive of the actual incident so the values would be negative.</p>
+
+<p>Other timings that are interesting are based on the Observe, Orient, Decide, Act (OODA) loop.</p>
+
+<ul>
+<li>Observe - March 16, 11:00</li>
+<li>Orient - March 19, 9:57 - starting gathering data 2 days, 22 hours, 57 minutes after first observing the event.</li>
+<li>Decide - March 19, 14:22 - 4 hours, 25 minutes after starting to orient, 3 days, 3 hours, 19 minutes after observing the event.</li>
+<li>Act - March 19, 14:57 - 35 minutes after deciding, 5 hours after orienting, 3 days, 3 hours, 54 minutes after observing.</li>
+</ul>
+
+
+<h3>Contributing Factors</h3>
+
+<p>Things that contributed to our response.</p>
+
+<ul>
+<li>University on Spring break
+
+<ul>
+<li>UMBC v. U of Baltimore</li>
+</ul>
+</li>
+<li>Facility coordinator had a family emergency</li>
+<li>Alert Fatigue</li>
+<li>Micro-climates</li>
+<li>We did not plan for failure</li>
+</ul>
+
+
+<h3>Success Factors</h3>
+
+<p>Things that made our response more successful.</p>
+
+<ul>
+<li>Locally optimized conference</li>
+<li>Teamwork</li>
+</ul>
+
+
+<h3>Initial email to sponsors</h3>
+
+<p>```
+<em>Subject</em>  Response Needed: DevOpsDays Baltimore Inclement Weather Possibility</p>
+
+<p>Hi everyone!</p>
+
+<p>If you've been keeping an eye on this week's weather, you've likely noticed that the Baltimore area is expecting a cold front and some wet weather on Wednesday.</p>
+
+<p>Our venue is run by UMBC and follows the University's delay and closure policies, so we are closely monitoring the weather system and how it may impact DevOpsDays Baltimore. If the Columbus Center is closed on Wednesday, we have two possible options:</p>
+
+<ol>
+<li><p>Pending venue approval, we could push the conference back one day and hold it on Thursday, March 22nd and Friday, March 23rd instead of Wednesday and Thursday.</p></li>
+<li><p>We could push the conference out to April to give attendees and sponsors the chance to make new travel arrangements, etc.</p></li>
+</ol>
+
+
+<p>Our organizer team is all hands on deck to find a solution, should the venue close on Wednesday. We are still in the information-gathering stage at the moment, and because our sponsors are the driving force of this conference, we wanted to loop you all in as soon as possible to solicit your opinions.</p>
+
+<p>So, please respond with your preference: if the Columbus Center closes on Wednesday, do prefer that we move the conference back by one day, or that we push it to April?</p>
+
+<p>We sincerely appreciate your commitment to supporting Baltimore's tech community, and we're doing everything we can to ensure that the conference is a success. We will keep you all in the loop as we receive more information.</p>
+
+<p>Thank you!
+```</p>
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Nell</h4>
+
+<ul>
+<li><a href="http://sakuracon.org/">Sakura Con</a></li>
+<li><a href="https://www.history.com/shows/forged-in-fire">Forged in Fire</a></li>
+</ul>
+
+
+<h4>Delali</h4>
+
+<ul>
+<li><a href="https://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/014101640X/">The Purple Cow</a></li>
+<li><a href="https://www.baltimorecity.gov/">Baltimore</a></li>
+</ul>
+
+
+<h4>Meghan</h4>
+
+<ul>
+<li><a href="https://www.mlb.com/orioles/ballpark">Camden Yards</a></li>
+</ul>
+
+
+<h4>Kevin</h4>
+
+<ul>
+<li><a href="http://www.shure.com/americas/products/earphones/se-earphones/se846-sound-isolating-earphones">Shure SE846 Sound Isolating Earphones</a></li>
+<li><a href="https://www.sbnation.com/college-basketball/2018/4/2/17188504/villanova-michigan-preview-national-championship-game-march-madness-ncaa-tournament">Michigan FTW in the NCAA tournament tonight</a>!</li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Happy Birthday, Jason Dixon (<a href="https://twitter.com/obfuscurity">@obfuscurity</a>)</li>
+<li>Happy Birthday, John Willis (<a href="https://twitter.com/botchagalupe">@botchagalupe</a>)</li>
+<li>Happy Birthday, Mark Cornick (<a href="https://twitter.com/markcornick">@markcornick</a>)</li>
+</ul>
+
+
+<p>Recent video birthdays:</p>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=iYLxw6OsZug">Imagine DevOps</a> from David Lutz (<a href="https://twitter.com/dlutzy">@dlutzy</a>)</li>
+<li><a href="https://www.youtube.com/watch?v=XD0vRW4G82U">Eggs 365</a> my adventures learning about Continuous Delivery with Adam Jacob (<a href="https://twitter.com/adamhjk">@adamhjk</a>) and Jez Humble (<a href="https://twitter.com/jezhumble">@jezhumble</a>)</li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HKeGAJfrQmU">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS118.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

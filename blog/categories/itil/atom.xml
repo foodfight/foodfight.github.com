@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: itil | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/itil/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DevOpsDays DC]]></title>
+    <link href="http://foodfightshow.org//2015/06/devopsdays-dc.html"/>
+    <updated>2015-06-12T17:14:00-04:00</updated>
+    <id>http://foodfightshow.org//2015/06/devopsdays-dc</id>
+    <content type="html"><![CDATA[<p>A wrap-up of <a href="http://devopsdaysdc.org">DevOpsDays DC</a> recorded live at the end of the conference.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/3eyDoBkSy4w" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li>Download
+
+<ul>
+<li><a href="http://youtu.be/3eyDoBkSy4w">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow92-DevOpsDaysDC.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li><a href="http://www.devopsdays.org/events/2015-washington-dc/">DevOpsDays DC 2015</a></li>
+<li><a href="http://www.uspto.gov/">United States Pattern and Trademark Office</a> (USPTO)</li>
+<li><a href="http://devopsdaysdc2015.busyconf.com/schedule/full">The Program</a></li>
+<li><a href="http://livestream.com/uspto/DevOpsDay2015">Videos of the Keynotes and Ignite Talks</a></li>
+<li>Some of what happened in <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">Open Spaces</a>: <a href="http://www.devopsdays.org/events/2015-washington-dc/openspaces-1234.jpg">Areas 1-4</a> and <a href="http://www.devopsdays.org/events/2015-washington-dc/openspaces-5678.jpg">Areas 5-8</a></li>
+<li>Some Twitter searches: <a href="https://twitter.com/hashtag/devopsdays?src=hash">#devopsdays</a>, <a href="https://twitter.com/hashtag/doddc?src=hash">#doddc</a>, <a href="https://twitter.com/search?q=%40devopsdaysdc&amp;src=savs&amp;vertical=default&amp;f=tweets">@devopsdaysdc mentions</a>, <a href="https://twitter.com/devopsdaysdc">the main @devopsdaysdc feed</a></li>
+<li><a href="http://e.devopsdaysdc.org/">Etherpad</a> for session notes, job postings, and banter</li>
+<li><a href="https://www.axelos.com/best-practice-solutions/itil/what-is-itil">ITIL</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://youtu.be/3eyDoBkSy4w">Video</a></li>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow92-DevOpsDaysDC.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Future of DevOps]]></title>
+    <link href="http://foodfightshow.org//2013/10/the-future-of-devops.html"/>
+    <updated>2013-10-01T08:07:00-04:00</updated>
+    <id>http://foodfightshow.org//2013/10/the-future-of-devops</id>
+    <content type="html"><![CDATA[<p>Andrew Clay Shafer (<a href="http://twitter.com/littleidea">@littleidea</a>) joins us to discuss the future of DevOps.</p>
+
+<h1>Watch Now</h1>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/jT6JdGHVbj0" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2013/10/the-future-of-devops.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3">Audio</a></li>
+<li><a href="http://youtu.be/jT6JdGHVbj0">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Andrew Clay Shafer <a href="http:twitter.com/littleidea">twitter</a>,</li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Bryan Berry <a href="http://github.com/bryanwb">github</a>, <a href="http://twitter.com/bryanwb">twitter</a>, irc: bryanwb, blog: <a href="http://devopsanywhere.blogspot.com">devopsanywhere</a></li>
+<li>Julian Dunn <a href="https://twitter.com/julian_dunn">twitter</a>, <a href="https://github.com/juliandunn">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Upcoming DevOps Days</h2>
+
+<ul>
+<li><a href="http://devopsdays.org/events/2013-atlanta/">Atlanta</a> - October 3-4</li>
+<li><a href="http://devopsdays.org/events/2013-barcelona/">Barcelona</a> - October 10-11</li>
+<li><a href="http://devopsdays.org/events/2013-newyork/">New York</a> - October 17-18</li>
+<li><a href="http://devopsdays.org/events/2013-vancouver/">Vancouver</a> - October 25-26</li>
+<li><a href="http://devopsdays.org/events/2013-portland/">Portland</a> - November 4-5</li>
+<li><a href="http://devopsdays.org/events/2013-london/">London</a> - November 11-12</li>
+<li><a href="http://devopsdays.org/events/2013-india/">India</a> - November 16-17</li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What is DevOps?</li>
+<li><a href="http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library">ITIL</a></li>
+<li>Learning Organizations</li>
+<li><a href="http://conservancy.umn.edu/bitstream/53624/1/Hsu_umn_0130E_10474.pdf">Organizational Learning Culture's Influence on Job Satisfaction, Organizational Commitment, and Turnover Intention among R&amp;D Professionals in Taiwan during an Economic Downturn</a></li>
+<li>Dimensions of Organizational Learning
+
+<ul>
+<li>Continuous Learning</li>
+<li>Inquiry and Dialogue</li>
+<li>Team Learning</li>
+<li>Empowerment</li>
+<li>Embedded System</li>
+<li>System Connection</li>
+<li>Strategic Leadership</li>
+</ul>
+</li>
+<li><a href="http://www.partnersforlearning.com/instructions.html">Questionnaire</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Conway%27s_law">Conway's Law</a></li>
+<li>Transforming Organizations into a Learning Organizations</li>
+<li>Culture</li>
+<li>Continuous Learning</li>
+<li>Understanding Political Processes</li>
+<li>Money</li>
+<li>Enterprise Transformation</li>
+<li><a href="http://en.wikipedia.org/wiki/Inattentional_blindness">Situational Blindness</a></li>
+<li>The Future of these Organizations</li>
+<li><a href="http://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553">Maverick</a></li>
+<li>Local Rationality</li>
+<li>Modern Management</li>
+<li>Leadership</li>
+<li><a href="http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342">The Fifth Discipline</a></li>
+<li>Make more awesome!</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Andrew</h4>
+
+<ul>
+<li>Volunteer Work</li>
+<li>Don't take things for granted</li>
+</ul>
+
+
+<h4>Julian</h4>
+
+<ul>
+<li><a href="http://www.amazon.com/Leading-Change-Preface-Author-ebook/dp/B00A07FPEO/ref=sr_1_1?ie=UTF8&amp;qid=1380676867&amp;sr=8-1&amp;keywords=john+kotter">Leading Change by John P. Kotter</a></li>
+<li><a href="http://www.amazon.com/Winning-Ultimate-Business-How--ebook/dp/B000FCK3GO/ref=sr_1_1?ie=UTF8&amp;qid=1380676945&amp;sr=8-1&amp;keywords=winning+jack+welch">Winning by Jack Welsh</a></li>
+</ul>
+
+
+<h4>Nathen</h4>
+
+<ul>
+<li>Rocky Mountain Ruby Conference &amp; the <a href="https://speakerdeck.com/nathenharvey/intro-to-chef-rocky-mountain-ruby">Introduction to Chef</a> workshop.</li>
+<li><a href="https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013">Opscode Community Summit</a></li>
+<li><a href="http://www.opscode.com/blog/2013/09/24/awesome-community-chefs-miah-johnson-game-for-cookbooking-awesome/">Miah Johnson</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3">Audio</a></li>
+<li><a href="http://youtu.be/jT6JdGHVbj0">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show and the <a href="http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&amp;id=ad8186466d">newsletter</a> are sponsored, in part, by <a href="http://www.opscode.com">Opscode</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

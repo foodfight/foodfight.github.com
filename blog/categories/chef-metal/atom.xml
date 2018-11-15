@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: chef-metal | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/chef-metal/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2018-11-15T09:22:10-05:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Chef Metal]]></title>
+    <link href="http://foodfightshow.org//2014/06/chef-metal.html"/>
+    <updated>2014-06-04T14:07:00-04:00</updated>
+    <id>http://foodfightshow.org//2014/06/chef-metal</id>
+    <content type="html"><![CDATA[<p>Join us as we discuss <a href="https://github.com/opscode/chef-metal">chef-metal</a> with it's creator, <a href="https://twitter.com/jkeiser2">John Keiser</a></p>
+
+<h2>Watch Now</h2>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/oiMh0RNtR08" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org/2014/06/chef-metal.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow75-Chef-Metal.mp3">Audio</a></li>
+<li><a href="https://www.youtube.com/watch?v=oiMh0RNtR08">Video</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>John Keiser <a href="https://github.com/jkeiser">github</a>, <a href="https://twitter.com/jkeiser2">twitter</a></li>
+<li>Dafydd Crosby <a href="https://github.com/dafyddcrosby">github</a>, <a href="https://twitter.com/dafyddcrosby">twitter</a>, <a href="http://dafyddcrosby.com">blog</a></li>
+<li>Matt Wrock <a href="https://github.com/mwrock">github</a>, <a href="https://twitter.com/mwrockx">twitter</a>, <a href="http://www.mattwrock.com/">blog</a></li>
+<li>Ranjib Dey <a href="https://github.com/ranjib">github</a>, <a href="https://twitter.com/ranjibdey">twitter</a>, <a href="http://ranjib.posterous.com/">blog</a></li>
+<li>Matt Ray <a href="http://github.com/mattray">github</a>, <a href="http://twitter.com/mattray">twitter</a>, irc: mattray, <a href="http://www.leastresistance.net/">blog</a></li>
+<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<p></p>
+
+<h2>Outline<a name="outline"></a></h2>
+
+<h3>Chef News</h3>
+
+<ul>
+<li><a href="https://www.packtpub.com/managing-windows-servers-with-chef/book">Managing Windows Servers with Chef</a> - A new book by John Ewart</li>
+<li><a href="http://www.getchef.com/blog/event/dockercon-san-francisco/">DockerCon</a> - June 9-10</li>
+<li><a href="https://learnchef.opscode.com/additional-resources/">Chef Fundamentals Webinar Series</a></li>
+<li><a href="http://texaslinuxfest.org/">Texas Linux Fest</a> - June 13-14
+
+<ul>
+<li><a href="http://texaslinuxfest.org/content/chef-workshop">Chef Workshop</a> - June 13</li>
+</ul>
+</li>
+<li><a href="http://www.meetup.com/austin-devops/events/184388262/?a=ea1_grp&amp;rv=ea1&amp;_af_eid=184388262&amp;_af=event">Austin Chef Meetup</a> - June 18</li>
+<li><a href="http://velocityconf.com/velocity2014">Velocity</a> - June 24-26
+
+<ul>
+<li><a href="http://velocityconf.com/velocity2014/public/schedule/detail/36962">Chef hack day at Velocity</a></li>
+</ul>
+</li>
+<li><a href="http://devopsdays.org/events/2014-siliconvalley/">DevOpsDays Silicon Valley</a> - June 27-28</li>
+<li>Upcoming Training
+
+<ul>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-boston-4/">Boston</a> - June 16-17</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-washington-dc-2/">DC</a> - June 18-19</li>
+<li><a href="http://www.getchef.com/blog/event/3-day-chef-fundamentals-windows-online/">Online - Windows class</a> - June 23-25</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-8/">San Francicso</a> - June 25-26</li>
+<li><a href="http://www.getchef.com/blog/event/2-day-chef-fundamentals-london-uk-2/">London</a> - June 26-27</li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Show Notes</h3>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-metal">chef-metal</a> - A library for creating machines and infrastructures idempotently in Chef.
+
+<ul>
+<li>Drivers</li>
+<li><ul>
+<li><a href="https://www.youtube.com/watch?v=Yb8QdL30WgM">Chef Metal: Automate Your Whole Cluster In Chef</a> - #ChefConf 2014 Presentation on Chef Metal</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://github.com/mattray/spiceweasel">spiceweasel</a> - Generates Chef knife commands from a simple JSON or YAML file.
+
+<ul>
+<li>Clusters</li>
+<li>Code Smell</li>
+</ul>
+</li>
+<li>Running Recipes (Provisioning)</li>
+<li>Using chef-metal in action (Use cases)
+
+<ul>
+<li>chef-mental and <a href="https://github.com/test-kitchen/test-kitchen">test-kitchen</a></li>
+<li>Orchestration</li>
+</ul>
+</li>
+<li>Getting Started with chef-metal</li>
+<li>Autoscaling</li>
+<li><a href="https://github.com/opscode/chef-metal-fog">chef-metal-fog</a> - a Fog provisioner for chef-metal</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>John Keiser</h4>
+
+<ul>
+<li>The <a href="http://berkshelf.com/">Berkshelf</a> Internal API</li>
+<li><a href="http://hpmor.com/">Harry Potter and the Methods of Rationality by Less Wrong</a></li>
+</ul>
+
+
+<h4>Dafydd Crosby</h4>
+
+<ul>
+<li><a href="https://github.com/opscode/chef-metal">chef-metal</a></li>
+<li><a href="http://www.openbsd.org/">OpenBSD</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920020042.do">Test-Driven Infrastructure with Chef: Bring behaviour-driven development to infrastructure as code by Stephen Nelson-Smith</a></li>
+</ul>
+
+
+<h4>Matt Wrock</h4>
+
+<ul>
+<li><a href="http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/">ThinkPad X1 Carbon Ultrabook</a></li>
+<li><a href="http://www.ubuntu.com/certification/hardware/201403-14827/">Ubuntu on Lenovo ThinkPad X1 Carbon 2nd</a></li>
+</ul>
+
+
+<h4>Matt Ray</h4>
+
+<ul>
+<li><a href="http://vimeo.com/95284690">Pete Cheslock: 17th Century Shipbuilding and Your Failed Software Project</a></li>
+<li><a href="http://vimeo.com/95066828">James Mickens: Say "Word Count" One More Time</a></li>
+<li><a href="http://softwaredefinedtalk.com/">SoftwareDefinedTalk Podcast</a>, <a href="https://twitter.com/SoftwareDefTalk">@SoftwareDefTalk</a></li>
+<li><a href="http://www.meetup.com/EmacsATX/">EmacsATX</a></li>
+</ul>
+
+
+<h4>Brandon Burton</h4>
+
+<ul>
+<li><a href="https://vimeo.com/55503728">Rebuilding a Bird in Flight</a></li>
+<li><a href="http://en.wikipedia.org/wiki/The_Riftwar_Cycle">The Riftwar Cycle</a></li>
+</ul>
+
+
+<h4>Nathen Harvey</h4>
+
+<ul>
+<li><a href="http://pittsburghpa.gov/">Pittsburgh!</a></li>
+<li><a href="http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934">From Hero to Zero</a></li>
+<li><a href="https://github.com/opscode/chef-metal">chef-metal</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FoodFightShow75-Chef-Metal.mp3">Audio</a></li>
+<li><a href="https://www.youtube.com/watch?v=oiMh0RNtR08">Video</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/bryanwb">Bryan Berry</a> and <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.getchef.com">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
