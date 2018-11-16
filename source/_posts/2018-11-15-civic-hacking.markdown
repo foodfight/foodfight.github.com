@@ -14,7 +14,8 @@ categories:
 
 Join us for a conversation about Civic Hacking.
 
-This episode will air on [Friday, November 16, 2018 - 18:00 UTC](https://everytimezone.com/#2018-11-16,360,b8jj).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFRCeVDgGpI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 
 * [Panel](/2018/11/civic-hacking.html#panel)
 * [Outline](/2018/11/civic-hacking.html#outline)
