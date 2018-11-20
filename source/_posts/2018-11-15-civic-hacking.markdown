@@ -26,36 +26,72 @@ Watch our conversation about Civic Hacking.
   
 Panel<a name="panel"></a>
 -----
-* Chris Alfano [github](https://github.com/themightychris), [twitter](https://twitter.com/themightychris)
-* Jill Huchital [github](https://github.com/jillh510), [twitter](https://twitter.com/JillHuchital)
-* Kirsten Lambertsen [github](https://github.com/MsPseudolus), [twitter](https://twitter.com/MsPseudolus)
-* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
-## Upcoming Events<a name="upcoming"></a>
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Jill Huchital [github](https://github.com/jillh510), [twitter](https://twitter.com/JillHuchital), [Ragtag](https://ragtag.org/)
+* Kirsten Lambertsen [github](https://github.com/MsPseudolus), [twitter](https://twitter.com/MsPseudolus), [Founder, Xapnik](http://xapnik.com), [Gigster](https://gigster.com/), [Automattic](https://automattic.com/)
+* Chris Alfano [github](https://github.com/themightychris), [twitter](https://twitter.com/themightychris), [CTO, Jarvus Innovations](https://jarv.us/), [Code For America](https://www.codeforamerica.org/), [Code For Philly](https://codeforphilly.org/)
 
 ## Outline<a name="outline"></a>
 
 Have some questions for our panelists?  Submit them via pull request (PR) to [the show outline](https://github.com/foodfight/showz/blob/master/scripts/episode-xx-civic-hacking.md).
 
-* What are some organizations you have been involved with for civic hacking?
-* Why did you get involved with civic hacking?
-* What sort of projects have you worked on?
-* How do I get started doing this?
+* What is Civic Tech/Hacking?
+  * [DevProgress](https://devprogress.us/)
+  * [DevOps in Politics - Nell Shamrell-Harrington](https://www.youtube.com/watch?v=VEqWwuLGmYs)
+  * [18F](https://18f.gsa.gov/)
+  * [United States Digital Service](https://www.usds.gov/)
+* More organizations for civic hacking (That have not been mentioned yet!)
+  * [Code For All](https://codeforall.org/)
+  * [Operation Code](https://operationcode.org/)
+* "Build With Not For" / Driving Technology Choices
+  * [Habitat](https://www.habitat.sh/)
+  * [Tableau Services]https://www.axxio.io/tableau-services/)
+* Stakeholder and Developer Collaboration / Crises of Tools and Are there limitations?
+  * Google Docs
+  * [Discourse](https://www.discourse.org/) 
+* Surprises When Participating in this Space
+  * People *want* to help!
+  * Putting skills where values are
+  * How hard people can take it when they don't win
+* Setting Expectations
+* Getting Started with Civic Hacking 
+  * [ragtag.org/join](https://ragtag.org/join)
+  * [Join a local brigade](http://brigade.codeforamerica.org)
+  * [City Scrapers](https://cityscrapers.org/)
+  * [The National Discussion](http://discourse.codeforamerica.org)
+    * [The National Watercooler](http://slack.codeforamerica.org)
+  * [operationcode.org/join](https://operationcode.org/join)
+  * [Resistance School](https://www.resistanceschool.com/) 
+* You don't have to be a coder to get involved!
+* Interacting with Data
+* Favorite Stories
+  * [HillaryBNB](https://github.com/DevProgress/HillaryBNB)
+  * [MarchBNB](https://github.com/samuelcole/MarchBNB)
 
 Picks<a name="picks"></a>
 -----
 
-#### Chris
+#### Nell
 
-#### Jill
+* [The Nintendo Switch](https://www.nintendo.com/switch/)
 
 #### Kirsten
 
-#### Nell
+* [The Year Without Pants](http://scottberkun.com/yearwithoutpants/)
+
+#### Jill
+
+* Book clubs!
+
+#### Chris
+
+* [Habitat](https://www.habitat.sh/)
 
 #### Nathen
 
+* [The Business Value of Developer Relations](https://www.apress.com/us/book/9781484237472)
 
 Download
 --------
