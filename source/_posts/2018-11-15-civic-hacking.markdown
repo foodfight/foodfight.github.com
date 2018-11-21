@@ -22,7 +22,7 @@ Watch our conversation about Civic Hacking.
 * [Picks](/2018/11/civic-hacking.html#picks)
 * Download
   * [Video](http://youtu.be/tFRCeVDgGpI)
-  * Audio is coming soon!
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS124.mp3)
   
 Panel<a name="panel"></a>
 -----
@@ -47,7 +47,7 @@ Have some questions for our panelists?  Submit them via pull request (PR) to [th
   * [Operation Code](https://operationcode.org/)
 * "Build With Not For" / Driving Technology Choices
   * [Habitat](https://www.habitat.sh/)
-  * [Tableau Services]https://www.axxio.io/tableau-services/)
+  * [Tableau](https://www.tableau.com/)
 * Stakeholder and Developer Collaboration / Crises of Tools and Are there limitations?
   * Google Docs
   * [Discourse](https://www.discourse.org/) 
@@ -96,7 +96,7 @@ Picks<a name="picks"></a>
 Download
 --------
 * [Video](http://youtu.be/tFRCeVDgGpI)
-* Audio is coming soon!
+* [Audio](http://traffic.libsyn.com/foodfight/FFS124.mp3)
 
 <hr />
 
