@@ -4,7 +4,7 @@
   <title><![CDATA[Category: themightychris | Food Fight]]></title>
   <link href="http://foodfightshow.org//blog/categories/themightychris/atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2018-11-20T10:23:27-05:00</updated>
+  <updated>2018-11-21T10:14:31-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -31,7 +31,7 @@
 
 <ul>
 <li><a href="http://youtu.be/tFRCeVDgGpI">Video</a></li>
-<li>Audio is coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS124.mp3">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -40,45 +40,128 @@
 <h2>Panel<a name="panel"></a></h2>
 
 <ul>
-<li>Chris Alfano <a href="https://github.com/themightychris">github</a>, <a href="https://twitter.com/themightychris">twitter</a></li>
-<li>Jill Huchital <a href="https://github.com/jillh510">github</a>, <a href="https://twitter.com/JillHuchital">twitter</a></li>
-<li>Kirsten Lambertsen <a href="https://github.com/MsPseudolus">github</a>, <a href="https://twitter.com/MsPseudolus">twitter</a></li>
-<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+<li>Jill Huchital <a href="https://github.com/jillh510">github</a>, <a href="https://twitter.com/JillHuchital">twitter</a>, <a href="https://ragtag.org/">Ragtag</a></li>
+<li>Kirsten Lambertsen <a href="https://github.com/MsPseudolus">github</a>, <a href="https://twitter.com/MsPseudolus">twitter</a>, <a href="http://xapnik.com">Founder, Xapnik</a>, <a href="https://gigster.com/">Gigster</a>, <a href="https://automattic.com/">Automattic</a></li>
+<li>Chris Alfano <a href="https://github.com/themightychris">github</a>, <a href="https://twitter.com/themightychris">twitter</a>, <a href="https://jarv.us/">CTO, Jarvus Innovations</a>, <a href="https://www.codeforamerica.org/">Code For America</a>, <a href="https://codeforphilly.org/">Code For Philly</a></li>
 </ul>
 
-
-<h2>Upcoming Events<a name="upcoming"></a></h2>
 
 <h2>Outline<a name="outline"></a></h2>
 
 <p>Have some questions for our panelists?  Submit them via pull request (PR) to <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-xx-civic-hacking.md">the show outline</a>.</p>
 
 <ul>
-<li>What are some organizations you have been involved with for civic hacking?</li>
-<li>Why did you get involved with civic hacking?</li>
-<li>What sort of projects have you worked on?</li>
-<li>How do I get started doing this?</li>
+<li>What is Civic Tech/Hacking?
+
+<ul>
+<li><a href="https://devprogress.us/">DevProgress</a></li>
+<li><a href="https://www.youtube.com/watch?v=VEqWwuLGmYs">DevOps in Politics - Nell Shamrell-Harrington</a></li>
+<li><a href="https://18f.gsa.gov/">18F</a></li>
+<li><a href="https://www.usds.gov/">United States Digital Service</a></li>
+</ul>
+</li>
+<li>More organizations for civic hacking (That have not been mentioned yet!)
+
+<ul>
+<li><a href="https://codeforall.org/">Code For All</a></li>
+<li><a href="https://operationcode.org/">Operation Code</a></li>
+</ul>
+</li>
+<li>"Build With Not For" / Driving Technology Choices
+
+<ul>
+<li><a href="https://www.habitat.sh/">Habitat</a></li>
+<li><a href="https://www.tableau.com/">Tableau</a></li>
+</ul>
+</li>
+<li>Stakeholder and Developer Collaboration / Crises of Tools and Are there limitations?
+
+<ul>
+<li>Google Docs</li>
+<li><a href="https://www.discourse.org/">Discourse</a></li>
+</ul>
+</li>
+<li>Surprises When Participating in this Space
+
+<ul>
+<li>People <em>want</em> to help!</li>
+<li>Putting skills where values are</li>
+<li>How hard people can take it when they don't win</li>
+</ul>
+</li>
+<li>Setting Expectations</li>
+<li>Getting Started with Civic Hacking
+
+<ul>
+<li><a href="https://ragtag.org/join">ragtag.org/join</a></li>
+<li><a href="http://brigade.codeforamerica.org">Join a local brigade</a></li>
+<li><a href="https://cityscrapers.org/">City Scrapers</a></li>
+<li><a href="http://discourse.codeforamerica.org">The National Discussion</a>
+
+<ul>
+<li><a href="http://slack.codeforamerica.org">The National Watercooler</a></li>
+</ul>
+</li>
+<li><a href="https://operationcode.org/join">operationcode.org/join</a></li>
+<li><a href="https://www.resistanceschool.com/">Resistance School</a></li>
+</ul>
+</li>
+<li>You don't have to be a coder to get involved!</li>
+<li>Interacting with Data</li>
+<li>Favorite Stories
+
+<ul>
+<li><a href="https://github.com/DevProgress/HillaryBNB">HillaryBNB</a></li>
+<li><a href="https://github.com/samuelcole/MarchBNB">MarchBNB</a></li>
+</ul>
+</li>
 </ul>
 
 
 <h2>Picks<a name="picks"></a></h2>
 
-<h4>Chris</h4>
+<h4>Nell</h4>
 
-<h4>Jill</h4>
+<ul>
+<li><a href="https://www.nintendo.com/switch/">The Nintendo Switch</a></li>
+</ul>
+
 
 <h4>Kirsten</h4>
 
-<h4>Nell</h4>
+<ul>
+<li><a href="http://scottberkun.com/yearwithoutpants/">The Year Without Pants</a></li>
+</ul>
+
+
+<h4>Jill</h4>
+
+<ul>
+<li>Book clubs!</li>
+</ul>
+
+
+<h4>Chris</h4>
+
+<ul>
+<li><a href="https://www.habitat.sh/">Habitat</a></li>
+</ul>
+
 
 <h4>Nathen</h4>
+
+<ul>
+<li><a href="https://www.apress.com/us/book/9781484237472">The Business Value of Developer Relations</a></li>
+</ul>
+
 
 <h2>Download</h2>
 
 <ul>
 <li><a href="http://youtu.be/tFRCeVDgGpI">Video</a></li>
-<li>Audio is coming soon!</li>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS124.mp3">Audio</a></li>
 </ul>
 
 
