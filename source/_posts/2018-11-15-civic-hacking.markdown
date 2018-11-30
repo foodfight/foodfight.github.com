@@ -27,11 +27,11 @@ Watch our conversation about Civic Hacking.
 Panel<a name="panel"></a>
 -----
 
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
-* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
-* Jill Huchital [github](https://github.com/jillh510), [twitter](https://twitter.com/JillHuchital), [Ragtag](https://ragtag.org/)
-* Kirsten Lambertsen [github](https://github.com/MsPseudolus), [twitter](https://twitter.com/MsPseudolus), [Founder, Xapnik](http://xapnik.com), [Gigster](https://gigster.com/), [Automattic](https://automattic.com/)
 * Chris Alfano [github](https://github.com/themightychris), [twitter](https://twitter.com/themightychris), [CTO, Jarvus Innovations](https://jarv.us/), [Code For America](https://www.codeforamerica.org/), [Code For Philly](https://codeforphilly.org/)
+* Kirsten Lambertsen [github](https://github.com/MsPseudolus), [twitter](https://twitter.com/MsPseudolus), [Founder, Xapnik](http://xapnik.com), [Gigster](https://gigster.com/), [Automattic](https://automattic.com/)
+* Jill Huchital [github](https://github.com/jillh510), [twitter](https://twitter.com/JillHuchital), [Ragtag](https://ragtag.org/)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 ## Outline<a name="outline"></a>
 
