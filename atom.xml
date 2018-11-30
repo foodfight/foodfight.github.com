@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2018-11-30T13:38:41-05:00</updated>
+  <updated>2018-11-30T13:53:12-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[business-value-of-dev-rel]]></title>
+    <link href="http://foodfightshow.org//2018/11/business-value-of-dev-rel.html"/>
+    <updated>2018-11-30T13:42:00-05:00</updated>
+    <id>http://foodfightshow.org//2018/11/business-value-of-dev-rel</id>
+    <content type="html"><![CDATA[<p>Join our conversation with Mary Thengvall (<a href="https://twitter.com/mary_grace">@mary_grace</a>) for a discussion on her book:  <a href="https://www.apress.com/us/book/9781484237472">The Business Value of Developer Relations</a>.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFRCeVDgGpI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://foodfightshow.org//2018/11/business-value-of-dev-rel.html#panel">Panel</a></li>
+<li><a href="http://foodfightshow.org//2018/11/business-value-of-dev-rel.html#outline">Outline</a></li>
+<li><a href="http://foodfightshow.org//2018/11/business-value-of-dev-rel.html#picks">Picks</a></li>
+<li>Download
+
+<ul>
+<li>Coming Soon.  This episode will air <a href="https://everytimezone.com/#2018-11-30,360,b8jj">Friday, November 30, 2018 - 18:00 UTC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Mary Thengvall <a href="https://twitter.com/mary_grace">twitter</a> <a href="https://www.marythengvall.com/">blog</a> <a href="https://github.com/mary-grace">github</a></li>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+</ul>
+
+
+<h2>Outline<a name="outline"></a></h2>
+
+<ul>
+<li>What is Developer Relations?</li>
+<li>Developer Relations, Developer Advocacy, Developer Evangelism, what
+&#8216;s in a name?</li>
+<li>How is it different than sales and marketing?</li>
+<li>How is it different from a traditional developer?</li>
+<li>How do you convince your boss?</li>
+<li>How does one get started in Devloper Relations?</li>
+</ul>
+
+
+<h2>Picks<a name="picks"></a></h2>
+
+<h4>Nell</h4>
+
+<h4>Mary</h4>
+
+<h4>Nathen</h4>
+
+<h2>Download</h2>
+
+<ul>
+<li>Coming Soon.  This episode will air <a href="https://everytimezone.com/#2018-11-30,360,b8jj">Friday, November 30, 2018 - 18:00 UTC</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Civic Hacking]]></title>
@@ -49,8 +120,6 @@
 
 
 <h2>Outline<a name="outline"></a></h2>
-
-<p>Have some questions for our panelists?  Submit them via pull request (PR) to <a href="https://github.com/foodfight/showz/blob/master/scripts/episode-xx-civic-hacking.md">the show outline</a>.</p>
 
 <ul>
 <li>What is Civic Tech/Hacking?
@@ -2562,160 +2631,6 @@ Observability.</p>
 <ul>
 <li><a href="http://youtu.be/DYrCP_7_tCo">Video</a></li>
 <li><a href="http://traffic.libsyn.com/foodfight/FFS105.mp3">Audio</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Year in Chef]]></title>
-    <link href="http://foodfightshow.org//2017/01/new-year.html"/>
-    <updated>2017-01-04T21:54:00-05:00</updated>
-    <id>http://foodfightshow.org//2017/01/new-year</id>
-    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://www.youtube.com/embed/Llo-DKBRAs4" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2017/01/new-year.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2017/01/new-year.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2017/01/new-year.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://youtu.be/Llo-DKBRAs4">Video</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FFS104.mp3">Audio</a></li>
-</ul>
-</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
-<li>Brandon Burton <a href="http://github.com/solarce">github</a>, <a href="https://twitter.com/solarce">twitter</a></li>
-</ul>
-
-
-<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
-
-<ul>
-<li>Personal Updates</li>
-<li>Food Fight Show Reflections
-
-<ul>
-<li><a href="http://foodfightshow.org/2016/02/configuration-management-camp-2016.html">Configuration Management Camp 2016</a></li>
-<li><a href="http://foodfightshow.org/2016/09/devopsdays-dfw.html">DevOpsDays DFW</a></li>
-<li><a href="http://foodfightshow.org/2016/06/habitat.html">Habitat</a></li>
-<li><a href="http://foodfightshow.org/2016/02/design-thinking.html">Design Thinking</a></li>
-<li><a href="http://foodfightshow.org/2016/02/inspec.html">InSpec</a>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=OH6iDKaXpZs">Nell Shamrell: Untangling Terraform Through Refactoring</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="https://github.com/chef/chef-rfc/blob/master/rfc029-governance-policy.md">Chef Board of Governance (CBGB)</a></li>
-<li><a href="https://docs.chef.io/community_guidelines.html">Chef Community Guidelines</a></li>
-<li><a href="https://www.chef.io/partners/cookbooks/">Chef Partner Cookbook Program</a>
-
-<ul>
-<li><a href="https://supermarket.chef.io/cookbooks/datadog#quality">An example of the quality measures of a cookbook</a></li>
-<li><a href="https://github.com/chef-cookbooks/cookbook-quality-metrics">Other metrics we&#8217;re looking to implement</a></li>
-</ul>
-</li>
-<li><a href="https://www.habitat.sh/">Habitat</a></li>
-<li>Chef Community Members and Contributors
-
-<ul>
-<li><a href="http://community-slack.chef.io/">Chef Community Slack</a>
-
-<ul>
-<li><a href="https://github.com/chef/chef-rfc/blob/master/rfc074-community-slack.md">rfc074-community-slack.md</a></li>
-</ul>
-</li>
-<li><a href="https://signup.hangops.com/">hangops.slack.com</a></li>
-</ul>
-</li>
-<li>Getting Rid of the Contributor License Agreement (CLA) and <a href="https://blog.chef.io/2016/09/19/introducing-developer-certificate-of-origin/">Introducing Developer Certificate of Origin (DCO)</a></li>
-<li>Conferences
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=FUla4UHlZEM">Rachel Trombetta, GE Digital - ChefConf 2016 Keynote</a></li>
-<li><a href="https://github.com/chef/chef-rfc/blob/master/rfc061-hugs.md">Hugging in the Chef Community</a></li>
-</ul>
-</li>
-<li>Upcoming Food Fight Show Episodes
-
-<ul>
-<li><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-105-sous-chefs.md">Sous Chefs</a> - <a href="http://everytimezone.com/#2017-01-24,540,cn3">Tuesday, January 24, 2017, 21:00 UTC</a></li>
-<li><a href="https://github.com/foodfight/showz/blob/master/scripts/episode-xx-a3-thinking.md">A3 Thinking</a> - <a href="http://everytimezone.com/#2017-2-28,480,cn3">Tuesday, February 28, 2017 20:00 UTC</a></li>
-<li>Live Show from <a href="https://msftignite.com.au/">Microsoft Ignite</a></li>
-<li><a href="http://cfgmgmtcamp.eu/">Config Management Camp</a> Wrapup</li>
-<li><a href="https://www.terraform.io/">Terraform</a></li>
-<li><a href="https://aws.amazon.com/opsworks/">AWS OpsWorks</a></li>
-</ul>
-</li>
-<li>2017 Predictions</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Nell</h4>
-
-<ul>
-<li><a href="http://www.bravotv.com/top-chef">Top Chef</a> Season 13 (10 years of Top Chef!)</li>
-<li><a href="https://itunes.apple.com/us/app/star-wars-commander/id847985808?mt=8">Star Wars Commander iOS Game</a></li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="https://www.devopsdays.org/events/2017-baltimore/welcome/">DevOpsDays Baltimore</a></li>
-<li><a href="https://chefconf.chef.io/2017/">ChefConf CFP</a></li>
-<li><a href="http://cfgmgmtcamp.eu/">Configuration Management Camp 2017</a> &amp; the <a href="http://cfgmgmtcamp.eu/fringe.html#habitat">Habitat Workshop following</a></li>
-</ul>
-
-
-<h4>Brandon</h4>
-
-<ul>
-<li><a href="https://www.awsadvent.com/">AWS Advent</a>
-
-<ul>
-<li>Thank you to <a href="https://twitter.com/sigje">Jennifer Davis</a>, <a href="https://twitter.com/cheeseplus">Seth Thomas</a>, <a href="https://twitter.com/s0enke">Soenke Ruempler</a>, and all the editor and author contributors!</li>
-</ul>
-</li>
-<li><a href="https://sysadvent.blogspot.com">SysAdvent</a>
-
-<ul>
-<li><a href="https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html">Day 6 - No More On-Call Martyrs</a> by <a href="https://twitter.com/alicegoldfuss">Alice Goldfuss</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://youtu.be/Llo-DKBRAs4">Video</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FFS104.mp3">Audio</a></li>
 </ul>
 
 
