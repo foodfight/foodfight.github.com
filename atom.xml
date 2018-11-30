@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2018-11-30T13:53:12-05:00</updated>
+  <updated>2018-11-30T13:56:00-05:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -20,7 +20,7 @@
     <id>http://foodfightshow.org//2018/11/business-value-of-dev-rel</id>
     <content type="html"><![CDATA[<p>Join our conversation with Mary Thengvall (<a href="https://twitter.com/mary_grace">@mary_grace</a>) for a discussion on her book:  <a href="https://www.apress.com/us/book/9781484237472">The Business Value of Developer Relations</a>.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tFRCeVDgGpI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8TpQGZMheSc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 <ul>
@@ -30,7 +30,8 @@
 <li>Download
 
 <ul>
-<li>Coming Soon.  This episode will air <a href="https://everytimezone.com/#2018-11-30,360,b8jj">Friday, November 30, 2018 - 18:00 UTC</a></li>
+<li><a href="http://youtu.be/8TpQGZMheSc">Video</a></li>
+<li>[Audio] Coming Soon.</li>
 </ul>
 </li>
 </ul>
@@ -49,8 +50,7 @@
 
 <ul>
 <li>What is Developer Relations?</li>
-<li>Developer Relations, Developer Advocacy, Developer Evangelism, what
-&#8216;s in a name?</li>
+<li>Developer Relations, Developer Advocacy, Developer Evangelism, what&#8217;s in a name?</li>
 <li>How is it different than sales and marketing?</li>
 <li>How is it different from a traditional developer?</li>
 <li>How do you convince your boss?</li>
