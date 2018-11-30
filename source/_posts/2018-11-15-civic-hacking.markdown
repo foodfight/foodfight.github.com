@@ -23,6 +23,8 @@ Watch our conversation about Civic Hacking.
 * Download
   * [Video](http://youtu.be/tFRCeVDgGpI)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS124.mp3)
+
+<!-- more -->
   
 Panel<a name="panel"></a>
 -----

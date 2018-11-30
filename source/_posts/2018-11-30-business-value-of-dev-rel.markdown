@@ -17,7 +17,7 @@ Listen in on our conversation with Mary Thengvall ([@mary_grace](https://twitter
 * [Picks](/2018/11/business-value-of-dev-rel.html#picks)
 * Download
   * [Video](http://youtu.be/8TpQGZMheSc)
-  * [Audio] Coming Soon.
+  * Audio -  Coming Soon.
   
 Panel<a name="panel"></a>
 -----
@@ -42,7 +42,7 @@ Panel<a name="panel"></a>
 Download
 --------
 * [Video](http://youtu.be/8TpQGZMheSc)
-* [Audio] Coming Soon.
+* Audio -  Coming Soon.
 
 <hr />
 
