@@ -9,14 +9,15 @@ categories:
 
 Join our conversation with Mary Thengvall ([@mary_grace](https://twitter.com/mary_grace)) for a discussion on her book:  [The Business Value of Developer Relations](https://www.apress.com/us/book/9781484237472).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tFRCeVDgGpI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8TpQGZMheSc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 * [Panel](/2018/11/business-value-of-dev-rel.html#panel)
 * [Outline](/2018/11/business-value-of-dev-rel.html#outline)
 * [Picks](/2018/11/business-value-of-dev-rel.html#picks)
 * Download
-  * Coming Soon.  This episode will air [Friday, November 30, 2018 - 18:00 UTC](https://everytimezone.com/#2018-11-30,360,b8jj)
+  * [Video](http://youtu.be/8TpQGZMheSc)
+  * [Audio] Coming Soon.
   
 Panel<a name="panel"></a>
 -----
@@ -28,8 +29,7 @@ Panel<a name="panel"></a>
 ## Outline<a name="outline"></a>
 
 * What is Developer Relations?
-* Developer Relations, Developer Advocacy, Developer Evangelism, what
-'s in a name?
+* Developer Relations, Developer Advocacy, Developer Evangelism, what's in a name?
 * How is it different than sales and marketing?
 * How is it different from a traditional developer?
 * How do you convince your boss?
