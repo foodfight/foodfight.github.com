@@ -35,8 +35,6 @@ Panel<a name="panel"></a>
 
 ## Outline<a name="outline"></a>
 
-Have some questions for our panelists?  Submit them via pull request (PR) to [the show outline](https://github.com/foodfight/showz/blob/master/scripts/episode-xx-civic-hacking.md).
-
 * What is Civic Tech/Hacking?
   * [DevProgress](https://devprogress.us/)
   * [DevOps in Politics - Nell Shamrell-Harrington](https://www.youtube.com/watch?v=VEqWwuLGmYs)
