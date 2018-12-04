@@ -4,20 +4,23 @@ title: "The Business Value of Developer Relations"
 date: 2018-11-30 13:42
 comments: true
 categories: 
+  - mary_grace
+  - devrel
+  - developer relations
+  - community
 ---
 
 
-Listen in on our conversation with Mary Thengvall ([@mary_grace](https://twitter.com/mary_grace)) for a discussion on her book:  [The Business Value of Developer Relations](https://www.apress.com/us/book/9781484237472).
+Listen to our conversation with Mary Thengvall ([@mary_grace](https://twitter.com/mary_grace)) about her book: [The Business Value of Developer Relations](https://amzn.to/2Qc30vs).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TpQGZMheSc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
 
 * [Panel](/2018/11/business-value-of-dev-rel.html#panel)
 * [Outline](/2018/11/business-value-of-dev-rel.html#outline)
 * [Picks](/2018/11/business-value-of-dev-rel.html#picks)
 * Download
   * [Video](http://youtu.be/8TpQGZMheSc)
-  * Audio -  Coming Soon.
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS125.mp3)
   
 Panel<a name="panel"></a>
 -----
@@ -30,23 +33,23 @@ Panel<a name="panel"></a>
 
 * Mary's book: [The Business Value of Developer Relations](https://amzn.to/2Qc30vs)
 * What is developer relations? (i.e.: DevRel)
- * Building relations with the developer community
- * Using the term "developer" as a generic term
+  * Building relations with the developer community
+  * Using the term "developer" as a generic term
 * How does this defer from "community development" as we know it?
- * Developer Evangelism
- * Community Management/Building
- * Project Manager
- * Events Coordinator
+  * Developer Evangelism
+  * Community Management/Building
+  * Project Manager
+  * Events Coordinator
 * Is DevRel the new DevOps?
- * [Bridging vs. Bonding](https://www.feverbee.com/bridging-bonding/)
+  * [Bridging vs. Bonding](https://www.feverbee.com/bridging-bonding/)
 * How is DevRel a bridge to sales and marketing?
 * How the book came about
 * Why the avocados?!
 * Developer advocacy vs being a traditional developer
 * Why technical communities are the keys to success
 * Getting started in DevRel
- * [DevRel Weekly Newsletter](http://devrelweekly.com/)
- * [DevRel Collective](https://devrelcollective.fun) -- for folks who are actively doing DevRel in their professional work; also contains resources for the DevRel-curious.
+  * [DevRel Weekly Newsletter](http://devrelweekly.com/)
+  * [DevRel Collective](https://devrelcollective.fun) -- for folks who are actively doing DevRel in their professional work; also contains resources for the DevRel-curious.
 
 ## Picks<a name="picks"></a>
 -----
@@ -70,7 +73,7 @@ Panel<a name="panel"></a>
 Download
 --------
 * [Video](http://youtu.be/8TpQGZMheSc)
-* Audio -  Coming Soon.
+* [Audio](http://traffic.libsyn.com/foodfight/FFS125.mp3)
 
 <hr />
 
