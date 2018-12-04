@@ -20,7 +20,9 @@ A conversation with Chris Short ([@chrisshort](https://twitter.com/chrisshort)) 
 * Download
   * [Video](http://youtu.be/iCRE6xFp6_Uk)
   * [Audio](http://traffic.libsyn.com/foodfight/FFS123.mp3)
-  
+
+<!-- more -->
+
 Panel<a name="panel"></a>
 -----
 * Chris Short [twitter](https://twitter.com/chrisshort), [github](https://github.com/chris-short), [blog](https://devopsish.com/)
