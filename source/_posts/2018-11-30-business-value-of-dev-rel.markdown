@@ -29,6 +29,8 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 
+<!-- more -->
+
 ## Outline<a name="outline"></a>
 
 * Mary's book: [The Business Value of Developer Relations](https://amzn.to/2Qc30vs)
