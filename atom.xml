@@ -4,7 +4,7 @@
   <title><![CDATA[Food Fight]]></title>
   <link href="http://foodfightshow.org//atom.xml" rel="self"/>
   <link href="http://foodfightshow.org//"/>
-  <updated>2018-12-04T07:28:39-05:00</updated>
+  <updated>2019-06-12T08:23:27-04:00</updated>
   <id>http://foodfightshow.org//</id>
   <author>
     <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Farewell Episode]]></title>
+    <link href="http://foodfightshow.org//2019/06/farewell-episode.html"/>
+    <updated>2019-06-12T07:49:00-04:00</updated>
+    <id>http://foodfightshow.org//2019/06/farewell-episode</id>
+    <content type="html"><![CDATA[<p>After seven years, it is time to bid farewell to the Food Fight Show.  Thank you for listening and supporting the show over the years.</p>
+
+<p>Please share your fondest memories and favorite episodes with us on Twitter - <a href="https://twitter.com/foodfightshow">@foodfightshow</a>.</p>
+
+<ul>
+<li><a href="http://foodfightshow.org//2019/06/farewell-episode.html#panel">Panel</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS126.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS126.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Business Value of Developer Relations]]></title>
@@ -44,6 +90,9 @@
 <li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
 <li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
 </ul>
+
+
+<!-- more -->
 
 
 <h2>Outline<a name="outline"></a></h2>
@@ -2568,128 +2617,6 @@ Observability.</p>
 
 <ul>
 <li><a href="http://traffic.libsyn.com/foodfight/FFS106.mp3">Audio</a></li>
-</ul>
-
-
-<hr />
-
-
-<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> with help from other hosts and the awesome community of Chefs.</p>
-
-<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
-
-<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a> or  <a href="http://github.com/foodfight/showz">http://github.com/foodfight/showz</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sous Chefs]]></title>
-    <link href="http://foodfightshow.org//2017/01/sous-chefs.html"/>
-    <updated>2017-01-06T13:47:00-05:00</updated>
-    <id>http://foodfightshow.org//2017/01/sous-chefs</id>
-    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://www.youtube.com/embed/DYrCP_7_tCo" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://foodfightshow.org/2017/01/sous-chefs.html#panel">Panel</a></li>
-<li><a href="http://foodfightshow.org/2017/01/sous-chefs.html#outline">Outline</a></li>
-<li><a href="http://foodfightshow.org/2017/01/sous-chefs.html#picks">Picks</a></li>
-<li>Download
-
-<ul>
-<li><a href="http://youtu.be/DYrCP_7_tCo">Video</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FFS105.mp3">Audio</a></li>
-</ul>
-</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Panel<a name="panel"></a></h2>
-
-<ul>
-<li>Grant Ridder <a href="https://github.com/shortdudey123">github</a>, <a href="https://twitter.com/shortdudey123">twitter</a></li>
-<li>Joseph Holsten <a href="https://twitter.com/josephholsten">twitter</a>, <a href="https://github.com/josephholsten">github</a>, irc: josephholsten, <a href="http://blog.josephholsten.com/">blog</a></li>
-<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, irc: nathenharvey, <a href="http://nathenharvey.com">blog</a></li>
-</ul>
-
-
-<h2>Outline &amp; Show Notes<a name="outline"></a></h2>
-
-<h3>Chef &amp; Food Fight Updates</h3>
-
-<ul>
-<li>Join us in the <a href="http://community-slack.chef.io/">Chef Community Slack</a></li>
-<li><a href="http://inspec.io/">New InSpec website</a></li>
-<li><a href="https://chefconf.chef.io/2017/">ChefConf</a></li>
-<li><a href="https://events.chef.io/">Upcoming Chef Events</a></li>
-<li>Have topic or guest ideas?  Who do you want to hear from?  What do you want to hear about?
-
-<ul>
-<li>Tweet us - <a href="https://twitter.com/foodfightshow">@foodfighshow</a></li>
-<li>Email us - <a href="mailto:info@foodfightshow.org">info@foodfightshow.org</a></li>
-<li>Tell us in the <a href="https://chefcommunity.slack.com/archives/foodfight">#foodfight channel in the Chef Community Slack</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h3>Sous Chefs</h3>
-
-<ul>
-<li>What are the Sous Chefs?
-
-<ul>
-<li><a href="http://sous-chefs.org/">Learn more about the Sous Chefs</a></li>
-</ul>
-</li>
-<li>Why was the group formed?</li>
-<li>How do the Sous Chefs decide which cookbooks to manage?</li>
-<li>How does one move a cookbook to the Sous Chefs?
-
-<ul>
-<li><a href="https://github.com/sous-chefs/meta/blob/master/transfering-a-cookbook.md">Transferring a Cookbook</a></li>
-<li><a href="https://github.com/sous-chefs/meta/blob/master/membership.md">Membership</a></li>
-</ul>
-</li>
-<li>Chef Software Inc. and the Sous Chefs</li>
-<li>What are the best practices for building community cookbooks?</li>
-<li>Cookbook design patterns</li>
-</ul>
-
-
-<h2>Picks<a name="picks"></a></h2>
-
-<h4>Grant</h4>
-
-<ul>
-<li>Chef Community Summit</li>
-<li>ChefDK in a CI environment</li>
-</ul>
-
-
-<h4>Joseph</h4>
-
-<ul>
-<li>Advanced Directive, Durable Power of Attorney, End-of-life planning</li>
-</ul>
-
-
-<h4>Nathen</h4>
-
-<ul>
-<li><a href="http://inspec.io/">InSpec</a></li>
-<li>watch out for each other!</li>
-</ul>
-
-
-<h2>Download</h2>
-
-<ul>
-<li><a href="http://youtu.be/DYrCP_7_tCo">Video</a></li>
-<li><a href="http://traffic.libsyn.com/foodfight/FFS105.mp3">Audio</a></li>
 </ul>
 
 

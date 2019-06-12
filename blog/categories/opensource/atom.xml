@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: opensource | Food Fight]]></title>
+  <link href="http://foodfightshow.org//blog/categories/opensource/atom.xml" rel="self"/>
+  <link href="http://foodfightshow.org//"/>
+  <updated>2019-06-12T08:23:27-04:00</updated>
+  <id>http://foodfightshow.org//</id>
+  <author>
+    <name><![CDATA[Bryan Berry - Nathen Harvey - Matt Ray]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Farewell Episode]]></title>
+    <link href="http://foodfightshow.org//2019/06/farewell-episode.html"/>
+    <updated>2019-06-12T07:49:00-04:00</updated>
+    <id>http://foodfightshow.org//2019/06/farewell-episode</id>
+    <content type="html"><![CDATA[<p>After seven years, it is time to bid farewell to the Food Fight Show.  Thank you for listening and supporting the show over the years.</p>
+
+<p>Please share your fondest memories and favorite episodes with us on Twitter - <a href="https://twitter.com/foodfightshow">@foodfightshow</a>.</p>
+
+<ul>
+<li><a href="/2019/06/farewell-episode.html#panel">Panel</a></li>
+<li>Download
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS126.mp3">Audio</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Panel<a name="panel"></a></h2>
+
+<ul>
+<li>Nathen Harvey <a href="http://github.com/nathenharvey">github</a>, <a href="http://twitter.com/nathenharvey">twitter</a>, <a href="http://nathenharvey.com">blog</a></li>
+<li>Nell Shamrell-Harrington <a href="https://github.com/nellshamrell">github</a>, <a href="https://twitter.com/nellshamrell">twitter</a>, <a href="http://nellshamrell.com/">blog</a></li>
+</ul>
+
+
+<h2>Download</h2>
+
+<ul>
+<li><a href="http://traffic.libsyn.com/foodfight/FFS126.mp3">Audio</a></li>
+</ul>
+
+
+<hr />
+
+
+<p>The Food Fight Show is brought to you by <a href="https://twitter.com/nathenharvey">Nathen Harvey</a> and <a href="https://twitter.com/nellshamrell">Nell Shamrell</a> with help from other hosts and the awesome community of Chefs.</p>
+
+<p>The show is sponsored, in part, by <a href="http://www.chef.io">Chef</a>.</p>
+
+<p>Feedback, suggestions, and questions:  <a href="mailto:info@foodfightshow.com">info@foodfightshow.com</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
